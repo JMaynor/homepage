@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/ben-hur/"}
+{"dg-publish":true,"permalink":"/movies/ben-hur/","tags":["review"]}
 ---
 
 
