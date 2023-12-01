@@ -104,6 +104,6 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show\|The Last Picture Show]] |
 | 96 | 1989 | Do the Right Thing |  |
 | 97 | 1982 | Blade Runner |  |
-| 98 | 1942 | Yankee Doodle Dandy |  |
+| 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy\|Yankee Doodle Dandy]] |
 | 99 | 1995 | Toy Story |  |
 | 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur\|Ben-Hur]] |
