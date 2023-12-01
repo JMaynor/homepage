@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28T10:06:57.822-06:00","updated":"2023-12-01T15:30:07.365-06:00"}
 ---
 
 
@@ -8,6 +8,7 @@ Hello, and welcome to my homepage! I'm still thinking of how I wanna organize ev
 # Reviews
 
 [[Movies/AFI Top 100 List\|AFI Top 100 List]]
+[[Movies/AvP Retrospective\|AvP Retrospective]]
 
 > 🕴 About
 >
