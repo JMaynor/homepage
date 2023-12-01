@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/yankee-doodle-dandy-1942/"}
+{"dg-publish":true,"permalink":"/movies/yankee-doodle-dandy-1942/","created":"2023-12-01T14:43:23.658-06:00","updated":"2023-12-01T14:48:24.093-06:00"}
 ---
 
 
