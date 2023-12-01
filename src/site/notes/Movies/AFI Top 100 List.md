@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30T13:30:37.402-06:00","updated":"2023-12-01T15:09:32.717-06:00"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30T13:30:37.402-06:00","updated":"2023-12-01T15:44:20.647-06:00"}
 ---
 
 
@@ -103,7 +103,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 94 | 1994 | Pulp Fiction |  |
 | 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show (1971)#Review\|The Last Picture Show (1971)#Review]] |
 | 96 | 1989 | Do the Right Thing |  |
-| 97 | 1982 | Blade Runner |  |
+| 97 | 1982 | Blade Runner | [[Movies/Blade Runner (1982)#Review\|Blade Runner (1982)#Review]] |
 | 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)#Review\|Yankee Doodle Dandy (1942)#Review]] |
 | 99 | 1995 | Toy Story |  |
 | 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)#Review\|Ben-Hur (1959)#Review]] |
