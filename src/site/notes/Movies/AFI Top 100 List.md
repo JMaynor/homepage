@@ -5,7 +5,7 @@
 
 https://trakt.tv/lists/6294646
 
-| Number | Year | Movie | Review |
+| Number | Year | Movie | Link |
 | ---- | ---- | ---- | ---- |
 | 1 | 1941 | Citizen Kane |  |
 | 2 | 1942 | Casablanca |  |
