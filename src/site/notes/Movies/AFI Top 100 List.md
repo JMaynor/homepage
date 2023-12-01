@@ -94,16 +94,16 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 85 | 1935 | A Night at the Opera |  |
 | 86 | 1986 | Platoon |  |
 | 87 | 1957 | 12 Angry Men |  |
-| 88 | 1938 | Bringing Up Baby | [[Movies/Bringing Up Baby\|Bringing Up Baby]] |
-| 89 | 1999 | The Sixth Sense | [[Movies/The Sixth Sense\|The Sixth Sense]] |
-| 90 | 1936 | Swing Time | [[Movies/Swing Time\|Swing Time]] |
+| 88 | 1938 | Bringing Up Baby | [[Movies/Bringing Up Baby (1938)\|Bringing Up Baby (1938)]] |
+| 89 | 1999 | The Sixth Sense | [[Movies/The Sixth Sense (1999)\|The Sixth Sense (1999)]] |
+| 90 | 1936 | Swing Time | [[Movies/Swing Time (1936)\|Swing Time (1936)]] |
 | 91 | 1982 | Sophie’s Choice |  |
 | 92 | 1990 | Goodfellas |  |
 | 93 | 1971 | The French Connection |  |
 | 94 | 1994 | Pulp Fiction |  |
-| 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show\|The Last Picture Show]] |
+| 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show (1971)\|The Last Picture Show (1971)]] |
 | 96 | 1989 | Do the Right Thing |  |
 | 97 | 1982 | Blade Runner |  |
-| 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy\|Yankee Doodle Dandy]] |
+| 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)\|Yankee Doodle Dandy (1942)]] |
 | 99 | 1995 | Toy Story |  |
-| 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur\|Ben-Hur]] |
+| 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)\|Ben-Hur (1959)]] |
