@@ -94,16 +94,16 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 85 | 1935 | A Night at the Opera |  |
 | 86 | 1986 | Platoon |  |
 | 87 | 1957 | 12 Angry Men |  |
-| 88 | 1938 | Bringing Up Baby | [[Movies/Bringing Up Baby (1938)\|Bringing Up Baby (1938)]] |
-| 89 | 1999 | The Sixth Sense | [[Movies/The Sixth Sense (1999)\|The Sixth Sense (1999)]] |
-| 90 | 1936 | Swing Time | [[Movies/Swing Time (1936)\|Swing Time (1936)]] |
+| 88 | 1938 | Bringing Up Baby | [[Movies/Bringing Up Baby (1938)#Review\|Bringing Up Baby (1938)#Review]] |
+| 89 | 1999 | The Sixth Sense | [[Movies/The Sixth Sense (1999)#Review\|The Sixth Sense (1999)#Review]] |
+| 90 | 1936 | Swing Time | [[Movies/Swing Time (1936)#Review\|Swing Time (1936)#Review]] |
 | 91 | 1982 | Sophie’s Choice |  |
 | 92 | 1990 | Goodfellas |  |
 | 93 | 1971 | The French Connection |  |
 | 94 | 1994 | Pulp Fiction |  |
-| 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show (1971)\|The Last Picture Show (1971)]] |
+| 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show (1971)#Review\|The Last Picture Show (1971)#Review]] |
 | 96 | 1989 | Do the Right Thing |  |
 | 97 | 1982 | Blade Runner |  |
-| 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)\|Yankee Doodle Dandy (1942)]] |
+| 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)#Review\|Yankee Doodle Dandy (1942)#Review]] |
 | 99 | 1995 | Toy Story |  |
-| 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)\|Ben-Hur (1959)]] |
+| 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)#Review\|Ben-Hur (1959)#Review]] |
