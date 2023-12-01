@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30T13:30:37.402-06:00","updated":"2023-12-01T15:09:32.717-06:00"}
 ---
 
 
