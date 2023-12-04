@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30T13:30:37.402-06:00","updated":"2023-12-01T15:44:20.647-06:00"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30T13:30:37.402-06:00","updated":"2023-12-04T11:10:41.984-06:00"}
 ---
 
 
@@ -91,18 +91,18 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 82 | 1927 | Sunrise |  |
 | 83 | 1997 | Titanic |  |
 | 84 | 1969 | Easy Rider |  |
-| 85 | 1935 | A Night at the Opera |  |
-| 86 | 1986 | Platoon |  |
-| 87 | 1957 | 12 Angry Men |  |
+| 85 | 1935 | A Night at the Opera | [[Movies/A Night at the Opera (1935)#Review\|A Night at the Opera (1935)#Review]] |
+| 86 | 1986 | Platoon | [[Movies/Platoon (1986)#Review\|Platoon (1986)#Review]] |
+| 87 | 1957 | 12 Angry Men | [[Movies/12 Angry Men (1957)#Review\|12 Angry Men (1957)#Review]] |
 | 88 | 1938 | Bringing Up Baby | [[Movies/Bringing Up Baby (1938)#Review\|Bringing Up Baby (1938)#Review]] |
 | 89 | 1999 | The Sixth Sense | [[Movies/The Sixth Sense (1999)#Review\|The Sixth Sense (1999)#Review]] |
 | 90 | 1936 | Swing Time | [[Movies/Swing Time (1936)#Review\|Swing Time (1936)#Review]] |
-| 91 | 1982 | Sophie’s Choice |  |
-| 92 | 1990 | Goodfellas |  |
-| 93 | 1971 | The French Connection |  |
-| 94 | 1994 | Pulp Fiction |  |
+| 91 | 1982 | Sophie’s Choice | [[Movies/Sophie's Choice (1982)#Review\|Sophie's Choice (1982)#Review]] |
+| 92 | 1990 | Goodfellas | [[Movies/Goodfellas (1990)#Review\|Goodfellas (1990)#Review]] |
+| 93 | 1971 | The French Connection | [[Movies/The French Connection (1971)#Review\|The French Connection (1971)#Review]] |
+| 94 | 1994 | Pulp Fiction | [[Movies/Pulp Fiction (1994)#Review\|Pulp Fiction (1994)#Review]] |
 | 95 | 1971 | The Last Picture Show | [[Movies/The Last Picture Show (1971)#Review\|The Last Picture Show (1971)#Review]] |
-| 96 | 1989 | Do the Right Thing |  |
+| 96 | 1989 | Do the Right Thing | [[Movies/Do the Right Thing (1989)#Review\|Do the Right Thing (1989)#Review]] |
 | 97 | 1982 | Blade Runner | [[Movies/Blade Runner (1982)#Review\|Blade Runner (1982)#Review]] |
 | 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)#Review\|Yankee Doodle Dandy (1942)#Review]] |
 | 99 | 1995 | Toy Story |  |
