@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","created":"2023-12-04T17:18:23.000-06:00","updated":"2023-12-04T19:47:31.147-06:00"}
+{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","created":"2023-12-04","updated":"2023-12-06"}
 ---
 
 
