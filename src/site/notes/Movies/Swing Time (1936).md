@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/swing-time-1936/","created":"2023-12-01T15:23:47.412-06:00","updated":"2023-12-04T19:56:26.738-06:00"}
+{"dg-publish":true,"permalink":"/movies/swing-time-1936/","created":"2023-11-30","updated":"2023-12-06"}
 ---
 
 
