@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/av-p-retrospective/","created":"2023-12-01T16:10:57.755-06:00","updated":"2023-12-01T15:32:21.916-06:00"}
+{"dg-publish":true,"permalink":"/movies/av-p-retrospective/","created":"2023-08-14","updated":"2023-12-06"}
 ---
 
 
