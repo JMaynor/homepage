@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["review"],"created":"2023-12-01T08:51:53.842-06:00","updated":"2023-12-01T11:05:58.687-06:00"}
+{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["review"],"created":"2023-12-01","updated":"2023-12-06"}
 ---
 
 
