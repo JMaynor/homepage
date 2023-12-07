@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04T17:18:22.736-06:00","updated":"2023-12-04T19:50:27.257-06:00"}
+{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2023-12-06"}
 ---
 
 
