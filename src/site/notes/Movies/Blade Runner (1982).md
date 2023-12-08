@@ -5,4 +5,4 @@
 
 # Review
 
-I like [[People/Ridley Scott\|Ridley Scott]] as a director. The Alien movies, the first in a particular, are [[Movies/AvP Retrospective\|a favorite]] of mine.
+I like [[People/Ridley Scott\|Ridley Scott]] as a director. The Alien movies, the first in particular, are [[Movies/AvP Retrospective\|a favorite]] of mine. Despite that, I hadn't seen Blade Runner until
