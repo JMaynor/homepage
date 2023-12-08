@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-06"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-07"}
 ---
 
 
 Hello, and welcome to my homepage! I'm still thinking of how I wanna organize everything, so expect things to move around radically.
+
+# Blog Posts
+
+[[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]
 
 # Reviews
 
