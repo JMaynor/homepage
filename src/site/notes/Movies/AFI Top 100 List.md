@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-06"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-08"}
 ---
 
 
-The American Film Institute has a list, **AFI's 100 Years... 100 American Movies**, of the 100 greatest American movies of all time. The list was most recently updated in 2007. I've been going through the whole list and watching each, skipping just a couple due to having seen them plenty of times before and not needing to watch them again. Linking my thoughts on each.
+The American Film Institute has a list, **AFI's 100 Years... 100 American Movies**, of the 100 greatest American movies of all time. The list was most recently updated in 2007. Alex and I been going through the whole list and watching each, skipping just a couple due to having seen them plenty of times before and not needing to watch them again. Linking my thoughts on each.
 
 | Number | Year | Movie | Link |
 | ---- | ---- | ---- | ---- |
@@ -88,9 +88,9 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 79 | 1969 | The Wild Bunch |  |
 | 80 | 1960 | The Apartment |  |
 | 81 | 1960 | Spartacus |  |
-| 82 | 1927 | Sunrise |  |
+| 82 | 1927 | Sunrise | [[Movies/Sunrise (1927)#Review\|Sunrise (1927)#Review]] |
 | 83 | 1997 | Titanic |  |
-| 84 | 1969 | Easy Rider |  |
+| 84 | 1969 | Easy Rider | [[Movies/Easy Rider (1969)#Review\|Easy Rider (1969)#Review]] |
 | 85 | 1935 | A Night at the Opera | [[Movies/A Night at the Opera (1935)#Review\|A Night at the Opera (1935)#Review]] |
 | 86 | 1986 | Platoon | [[Movies/Platoon (1986)#Review\|Platoon (1986)#Review]] |
 | 87 | 1957 | 12 Angry Men | [[Movies/12 Angry Men (1957)#Review\|12 Angry Men (1957)#Review]] |
