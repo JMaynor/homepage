@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-08"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-11"}
 ---
 
 
@@ -16,10 +16,10 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 7 | 1962 | Lawrence of Arabia |  |
 | 8 | 1993 | Schindler’s List |  |
 | 9 | 1958 | Vertigo |  |
-| 10 | 1939 | The Wizard of Oz |  |
+| 10 | 1939 | The Wizard of Oz | Skipped |
 | 11 | 1931 | City Lights |  |
 | 12 | 1956 | The Searchers |  |
-| 13 | 1977 | Star Wars: A New Hope |  |
+| 13 | 1977 | Star Wars: A New Hope | Skipped |
 | 14 | 1960 | Psycho |  |
 | 15 | 1968 | 2001: A Space Odyssey |  |
 | 16 | 1950 | Sunset Boulevard |  |
@@ -56,7 +56,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 47 | 1951 | A Streetcar Named Desire |  |
 | 48 | 1954 | Rear Window |  |
 | 49 | 1916 | Intolerance |  |
-| 50 | 2001 | Lord of the Rings: Fellowship of the Rings |  |
+| 50 | 2001 | Lord of the Rings: Fellowship of the Rings | Skipped |
 | 51 | 1961 | West Side Story |  |
 | 52 | 1976 | Taxi Driver |  |
 | 53 | 1978 | The Deer Hunter |  |
@@ -80,7 +80,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 71 | 1998 | Saving Private Ryan |  |
 | 72 | 1994 | The Shawshank Redemption |  |
 | 73 | 1969 | Butch Cassidy and the Sundance Kid |  |
-| 74 | 1991 | The Silence of the Lambs |  |
+| 74 | 1991 | The Silence of the Lambs | Skipped |
 | 75 | 1967 | In the Heat of the Night |  |
 | 76 | 1994 | Forrest Gump |  |
 | 77 | 1976 | All the President's Men |  |
@@ -89,7 +89,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 80 | 1960 | The Apartment |  |
 | 81 | 1960 | Spartacus |  |
 | 82 | 1927 | Sunrise | [[Movies/Sunrise (1927)#Review\|Sunrise (1927)#Review]] |
-| 83 | 1997 | Titanic |  |
+| 83 | 1997 | Titanic | Skipped |
 | 84 | 1969 | Easy Rider | [[Movies/Easy Rider (1969)#Review\|Easy Rider (1969)#Review]] |
 | 85 | 1935 | A Night at the Opera | [[Movies/A Night at the Opera (1935)#Review\|A Night at the Opera (1935)#Review]] |
 | 86 | 1986 | Platoon | [[Movies/Platoon (1986)#Review\|Platoon (1986)#Review]] |
@@ -105,5 +105,5 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 96 | 1989 | Do the Right Thing | [[Movies/Do the Right Thing (1989)#Review\|Do the Right Thing (1989)#Review]] |
 | 97 | 1982 | Blade Runner | [[Movies/Blade Runner (1982)#Review\|Blade Runner (1982)#Review]] |
 | 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)#Review\|Yankee Doodle Dandy (1942)#Review]] |
-| 99 | 1995 | Toy Story |  |
+| 99 | 1995 | Toy Story | Skipped |
 | 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)#Review\|Ben-Hur (1959)#Review]] |
