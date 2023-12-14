@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-07"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-14"}
 ---
 
 
@@ -7,7 +7,9 @@ Hello, and welcome to my homepage! I'm still thinking of how I wanna organize ev
 
 # Blog Posts
 
-[[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]
+- [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]
+
+{ .block-language-dataview}
 
 # Reviews
 
