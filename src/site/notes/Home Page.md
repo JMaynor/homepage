@@ -13,9 +13,8 @@ Hello, and welcome to my homepage! I'm still thinking of how I wanna organize ev
 
 # Reviews
 
-[[Movies/AFI Top 100 List\|AFI Top 100 List]]
-
-[[Movies/AvP Retrospective\|AvP Retrospective]]
+- [[Movies/AFI Top 100 List\|AFI Top 100 List]]
+- [[Movies/AvP Retrospective\|AvP Retrospective]]
 
 > 🕴 About
 >
