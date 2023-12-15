@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-11"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-15"}
 ---
 
 
@@ -86,8 +86,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 77 | 1976 | All the President's Men |  |
 | 78 | 1936 | Modern Times |  |
 | 79 | 1969 | The Wild Bunch |  |
-| 80 | 1960 | The Apartment |  |
-| 81 | 1960 | Spartacus |  |
+| 80 | 1960 | The Apartment | [[Movies/The Apartment (1960)#Review\|The Apartment (1960)#Review]] |
+| 81 | 1960 | Spartacus | [[Movies/Spartacus (1960)#Review\|Spartacus (1960)#Review]] |
 | 82 | 1927 | Sunrise | [[Movies/Sunrise (1927)#Review\|Sunrise (1927)#Review]] |
 | 83 | 1997 | Titanic | Skipped |
 | 84 | 1969 | Easy Rider | [[Movies/Easy Rider (1969)#Review\|Easy Rider (1969)#Review]] |
