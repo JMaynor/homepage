@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-11"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-18"}
 ---
 
 
-The American Film Institute has a list, **AFI's 100 Years... 100 American Movies**, of the 100 greatest American movies of all time. The list was most recently updated in 2007. Alex and I been going through the whole list and watching each, skipping just a couple due to having seen them plenty of times before and not needing to watch them again. Linking my thoughts on each.
+The American Film Institute has a list, **AFI's 100 Years... 100 American Movies**, of the 100 greatest American movies of all time. The list was most recently updated in 2007. Alex and I been going through the whole list and watching each, skipping just a couple due to having seen them plenty of times before and not needing to watch them again. Linking my thoughts on each. We're going from 100 to 1.
 
 | Number | Year | Movie | Link |
 | ---- | ---- | ---- | ---- |
@@ -84,8 +84,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 75 | 1967 | In the Heat of the Night |  |
 | 76 | 1994 | Forrest Gump |  |
 | 77 | 1976 | All the President's Men |  |
-| 78 | 1936 | Modern Times |  |
-| 79 | 1969 | The Wild Bunch |  |
+| 78 | 1936 | Modern Times | [[Movies/Modern Times (1936)#Review\|Modern Times (1936)#Review]] |
+| 79 | 1969 | The Wild Bunch | [[Movies/The Wild Bunch (1969)#Review\|The Wild Bunch (1969)#Review]] |
 | 80 | 1960 | The Apartment | [[Movies/The Apartment (1960)#Review\|The Apartment (1960)#Review]] |
 | 81 | 1960 | Spartacus | [[Movies/Spartacus (1960)#Summary\|Spartacus (1960)#Summary]] |
 | 82 | 1927 | Sunrise | [[Movies/Sunrise (1927)#Review\|Sunrise (1927)#Review]] |
