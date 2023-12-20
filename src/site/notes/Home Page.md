@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-14"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2023-12-20"}
 ---
 
 
@@ -20,3 +20,4 @@ Hello, and welcome to my homepage! I'm still thinking of how I wanna organize ev
 >
 > My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do YouTube and stream on Twitch with the Alderoth Circle. More recently, I've been trying to write more. Blogging, writing creatively, etc. Thus, the website.
 > [📺YouTube Channel](https://youtube.com/@jordan_maynor)
+> [🎮Alderoth Circle](https://www.twitch.tv/TheAlderothCircle)
