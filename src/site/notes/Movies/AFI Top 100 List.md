@@ -87,7 +87,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 78 | 1936 | Modern Times | [[Movies/Modern Times (1936)#Review\|Modern Times (1936)#Review]] |
 | 79 | 1969 | The Wild Bunch | [[Movies/The Wild Bunch (1969)#Review\|The Wild Bunch (1969)#Review]] |
 | 80 | 1960 | The Apartment | [[Movies/The Apartment (1960)#Review\|The Apartment (1960)#Review]] |
-| 81 | 1960 | Spartacus | [[Movies/Spartacus (1960)#Summary\|Spartacus (1960)#Summary]] |
+| 81 | 1960 | Spartacus | [[Movies/Spartacus (1960)#Review\|Spartacus (1960)#Review]] |
 | 82 | 1927 | Sunrise | [[Movies/Sunrise (1927)#Review\|Sunrise (1927)#Review]] |
 | 83 | 1997 | Titanic | Skipped |
 | 84 | 1969 | Easy Rider | [[Movies/Easy Rider (1969)#Review\|Easy Rider (1969)#Review]] |
