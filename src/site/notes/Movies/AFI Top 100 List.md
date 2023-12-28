@@ -82,8 +82,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 73 | 1969 | Butch Cassidy and the Sundance Kid |  |
 | 74 | 1991 | The Silence of the Lambs | Skipped |
 | 75 | 1967 | In the Heat of the Night |  |
-| 76 | 1994 | Forrest Gump |  |
-| 77 | 1976 | All the President's Men |  |
+| 76 | 1994 | Forrest Gump | [[Movies/Forrest Gump (1994)#Review\|Forrest Gump (1994)#Review]] |
+| 77 | 1976 | All the President's Men | [[Movies/All the President's Men (1976)#Review\|All the President's Men (1976)#Review]] |
 | 78 | 1936 | Modern Times | [[Movies/Modern Times (1936)#Review\|Modern Times (1936)#Review]] |
 | 79 | 1969 | The Wild Bunch | [[Movies/The Wild Bunch (1969)#Review\|The Wild Bunch (1969)#Review]] |
 | 80 | 1960 | The Apartment | [[Movies/The Apartment (1960)#Review\|The Apartment (1960)#Review]] |
