@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","created":"2023-12-04","updated":"2023-12-11"}
+{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","created":"2023-12-04","updated":"2023-12-28"}
 ---
 
 
@@ -9,4 +9,4 @@ I feel like the people that say that [[People/Martin Scorsese\|Martin Scorsese]]
 
 Lots of Sopranos in this one. I've only seen a few things [[People/Lorraine Bracco\|Lorraine Bracco]] has been in (Goodfellas and Sopranos are the only that come to mind), but I like her in particular. She's a great actress. Loved the scene where she's shouting at [[People/Ray Liotta\|Ray Liotta]] outside the store in front of all his crime friends. Liotta was great as well of course, the narration in particular. But just saying I quite enjoyed Bracco's performance.
 
-I will say, I've seen Goodfellas twice. The first was years ago, well before I had seen Sopranos. And I will say, I got a lot more from the movie after being more aware of the whole *thing*. The crime family dynamics, the slang, etc.
+I've seen Goodfellas twice. The first was years ago, well before I had seen Sopranos. And I will say, I got a lot more from the movie after being more aware of the whole *thing*. The crime family dynamics, the slang, etc.
