@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-18"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-28"}
 ---
 
 
+# Intro
+
 The American Film Institute has a list, **AFI's 100 Years... 100 American Movies**, of the 100 greatest American movies of all time. The list was most recently updated in 2007. Alex and I been going through the whole list and watching each, skipping just a couple due to having seen them plenty of times before and not needing to watch them again. Linking my thoughts on each. We're going from 100 to 1.
+
+# The List
 
 | Number | Year | Movie | Link |
 | ---- | ---- | ---- | ---- |
@@ -107,3 +111,14 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 98 | 1942 | Yankee Doodle Dandy | [[Movies/Yankee Doodle Dandy (1942)#Review\|Yankee Doodle Dandy (1942)#Review]] |
 | 99 | 1995 | Toy Story | Skipped |
 | 100 | 1959 | Ben-Hur | [[Movies/Ben-Hur (1959)#Review\|Ben-Hur (1959)#Review]] |
+
+# Additions
+
+Making note of any movies I feel are missing, either because they came after the list was first written or I just feel they should've made the cut on the list. Might make my own edition of the list at some point. Will expand each movie and provide more reasoning.
+
+- Mulholland Drive
+- There Will Be Blood
+- No Country For Old Men
+- The Shining (but does it overcome 2001? 2001 is more technically impressive certainly but Shining is a personal favorite)
+- The Dark Knight (a maybe for me. Considered one of the best films of the period, but is it showing its age?)
+- Avatar (I don't personally care about it, but it's clearly notable)
