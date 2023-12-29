@@ -3,8 +3,6 @@
 ---
 
 
-# Summary
-
 # Review
 
 Sudden ending, jesus...
