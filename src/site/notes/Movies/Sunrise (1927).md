@@ -3,8 +3,6 @@
 ---
 
 
-# Summary
-
 # Review
 
 The first silent film of the list, from nearly 100 years ago. We're not even at the talkies. But it was way better than I was expecting. Again, much like Yankee Doodle Dandy, I was bracing for impact. It was actually quite good, though. There was cinematography going on that movies 20 years in the future couldn't handle. The scene where the Man meets with the Woman from the City at the lake spring to mind.
