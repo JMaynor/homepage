@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-29"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-01-04"}
 ---
 
 
@@ -82,8 +82,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 69 | 1982 | Tootsie |  |
 | 70 | 1971 | A Clockwork Orange |  |
 | 71 | 1998 | Saving Private Ryan |  |
-| 72 | 1994 | The Shawshank Redemption |  |
-| 73 | 1969 | Butch Cassidy and the Sundance Kid |  |
+| 72 | 1994 | The Shawshank Redemption | [[Movies/The Shawshank Redemption (1994)#Review\|The Shawshank Redemption (1994)#Review]] |
+| 73 | 1969 | Butch Cassidy and the Sundance Kid | [[Movies/Butch Cassidy and the Sundance Kid (1969)#Review\|Butch Cassidy and the Sundance Kid (1969)#Review]] |
 | 74 | 1991 | The Silence of the Lambs | Skipped |
 | 75 | 1967 | In the Heat of the Night | [[Movies/In the Heat of the Night (1967)\|In the Heat of the Night (1967)]] |
 | 76 | 1994 | Forrest Gump | Skipped |
@@ -124,6 +124,6 @@ Making note of any movies I feel are missing, either because they came after the
 - Avatar (I don't personally care about it, but it's clearly notable)
 - The Thing (noticeable lack of horror on the list and it's considered one of the best of all time. Also great practical effects that have held up extremely well)
 - The Royal Tenenbaums/Grand Budapest (Love Wes Anderson and I feel like something of his style needs to be represented. Grand Budapest is my personal fave, but Royal Tenenbaums is probably more widely known. moonrise Kingdom as well. )
-- Stop motion something. Noticed there was no stop motion stuff. Not sure what specifically would be a good representative.
+- Stop motion something. Noticed there was no stop motion stuff. Not sure what specifically would be a good representative. Coraline, perhaps? Not sure how well-awarded it was. Or the Wallace and Gromit movie.
 - Mad Max: Fury Road (not even like a personal favorite of mine, but the effects were wild for this movie, it seems like it really needs to be noted. One of those "how the hell did they make this" ones.)
 - Harry Potter 1 (I know, I know. It is notable, though. HP and LOTR were the ones that started franchises. To not acknowledge them is turning a real blind eye to entire eras of film. Another negative would be the britishness, but I believe it was an American production. And there are a couple examples of that on the list already)
