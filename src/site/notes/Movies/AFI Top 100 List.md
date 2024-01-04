@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-28"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2023-12-29"}
 ---
 
 
@@ -85,8 +85,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 72 | 1994 | The Shawshank Redemption |  |
 | 73 | 1969 | Butch Cassidy and the Sundance Kid |  |
 | 74 | 1991 | The Silence of the Lambs | Skipped |
-| 75 | 1967 | In the Heat of the Night |  |
-| 76 | 1994 | Forrest Gump | [[Movies/Forrest Gump (1994)#Review\|Forrest Gump (1994)#Review]] |
+| 75 | 1967 | In the Heat of the Night | [[Movies/In the Heat of the Night (1967)\|In the Heat of the Night (1967)]] |
+| 76 | 1994 | Forrest Gump | Skipped |
 | 77 | 1976 | All the President's Men | [[Movies/All the President's Men (1976)#Review\|All the President's Men (1976)#Review]] |
 | 78 | 1936 | Modern Times | [[Movies/Modern Times (1936)#Review\|Modern Times (1936)#Review]] |
 | 79 | 1969 | The Wild Bunch | [[Movies/The Wild Bunch (1969)#Review\|The Wild Bunch (1969)#Review]] |
@@ -122,8 +122,8 @@ Making note of any movies I feel are missing, either because they came after the
 - The Shining (but does it overcome 2001? 2001 is more technically impressive certainly but Shining is a personal favorite)
 - The Dark Knight (a maybe for me. Considered one of the best films of the period, but is it showing its age?)
 - Avatar (I don't personally care about it, but it's clearly notable)
-- The Thing (noticeable lack of horror on the list and it's considered one of the best of all time. Also great practical effects)
-- The Royal Tenenbaums/Grand Budapest (Love Wes Anderson and I feel like something of his style needs to be represented. Grand Budapest is my personal fave, but Royal Tenenbaums is probably more widely known.)
+- The Thing (noticeable lack of horror on the list and it's considered one of the best of all time. Also great practical effects that have held up extremely well)
+- The Royal Tenenbaums/Grand Budapest (Love Wes Anderson and I feel like something of his style needs to be represented. Grand Budapest is my personal fave, but Royal Tenenbaums is probably more widely known. moonrise Kingdom as well. )
 - Stop motion something. Noticed there was no stop motion stuff. Not sure what specifically would be a good representative.
 - Mad Max: Fury Road (not even like a personal favorite of mine, but the effects were wild for this movie, it seems like it really needs to be noted. One of those "how the hell did they make this" ones.)
 - Harry Potter 1 (I know, I know. It is notable, though. HP and LOTR were the ones that started franchises. To not acknowledge them is turning a real blind eye to entire eras of film. Another negative would be the britishness, but I believe it was an American production. And there are a couple examples of that on the list already)
