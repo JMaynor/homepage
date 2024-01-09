@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-01-04"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-01-08"}
 ---
 
 
@@ -77,11 +77,11 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 64 | 1976 | Network |  |
 | 65 | 1952 | The African Queen |  |
 | 66 | 1981 | Raiders of the Lost Ark |  |
-| 67 | 1966 | Who's Afraid of Virginia Wolf? |  |
+| 67 | 1966 | Who's Afraid of Virginia Woolf? |  |
 | 68 | 1992 | Unforgiven |  |
 | 69 | 1982 | Tootsie |  |
-| 70 | 1971 | A Clockwork Orange |  |
-| 71 | 1998 | Saving Private Ryan |  |
+| 70 | 1971 | A Clockwork Orange | [[Movies/A Clockwork Orange (1971)#Review\|A Clockwork Orange (1971)#Review]] |
+| 71 | 1998 | Saving Private Ryan | [[Movies/Saving Private Ryan (1998)#Review\|Saving Private Ryan (1998)#Review]] |
 | 72 | 1994 | The Shawshank Redemption | [[Movies/The Shawshank Redemption (1994)#Review\|The Shawshank Redemption (1994)#Review]] |
 | 73 | 1969 | Butch Cassidy and the Sundance Kid | [[Movies/Butch Cassidy and the Sundance Kid (1969)#Review\|Butch Cassidy and the Sundance Kid (1969)#Review]] |
 | 74 | 1991 | The Silence of the Lambs | Skipped |
