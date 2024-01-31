@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-01-25"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-01-30"}
 ---
 
 
@@ -116,14 +116,38 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 
 Making note of any movies I feel are missing, either because they came after the list was first written or I just feel they should've made the cut on the list. Might make my own edition of the list at some point. Will expand each movie and provide more reasoning.
 
-- Mulholland Drive
-- There Will Be Blood
-- No Country For Old Men
-- The Shining (but does it overcome 2001? 2001 is more technically impressive certainly but Shining is a personal favorite)
-- The Dark Knight (a maybe for me. Considered one of the best films of the period, but is it showing its age?)
-- Avatar (I don't personally care about it, but it's clearly notable)
-- The Thing (noticeable lack of horror on the list and it's considered one of the best of all time. Also great practical effects that have held up extremely well)
-- The Royal Tenenbaums/Grand Budapest (Love Wes Anderson and I feel like something of his style needs to be represented. Grand Budapest is my personal fave, but Royal Tenenbaums is probably more widely known. moonrise Kingdom as well. )
-- Stop motion something. Noticed there was no stop motion stuff. Not sure what specifically would be a good representative. Coraline, perhaps? Not sure how well-awarded it was. Or the Wallace and Gromit movie. I guess the concept comes up in things like Star Wars, but may be worth there being a movie representative of the whole craft.
-- Mad Max: Fury Road (not even like a personal favorite of mine, but the effects were wild for this movie, it seems like it really needs to be noted. One of those "how the hell did they make this" ones.)
-- Harry Potter 1 (I know, I know. It is notable, though. HP and LOTR were the ones that started franchises. To not acknowledge them is turning a real blind eye to entire eras of film. Another negative would be the britishness, but I believe it was an American production. And there are a couple examples of that on the list already)
+- The Shining (1980)
+Of Kubrick's two other pictures on the list, 2001 and Clockwork Orange, I would say Shining is the best of the bunch. It is one of my personal all-time faves. 2001 is far more technically impressive if that's what we're going by but purely from a film quality perspective, I would rank Shining higher. If I couldn't get another Kubrick added, I'd probably give Clockwork Orange the boot.
+
+- The Thing (1982)
+I know Hollywood cant's stand horror and that's reflected by the near complete lack of horror on the list. So if we're going to be sane and put some on the list like they fucking goddamn deserve, the Thing seems like one of the most obvious inclusions. The great practical effects that have held up extremely well and have been the model by which all others are judged by. Alien would be another good choice if I only got one. But I would consider the Thing a more pure standalone example. Alien is good but I feel it functions best when paired as a double feature with Aliens.
+
+- The Matrix (1999)
+Maybe I'm crazy holding it up so highly, but when thinking to this general era of films and which stand out of the crowd, Matrix seems like a clear one to point to. It's influence seems obvious
+
+- Mulholland Drive (2001)
+I don't think I'm just being biased here. Mulholland repeatedly shows up on best films of all time lists and, of Lynch's filmography, I would definitely say that it is the most approachable and digestible. And I think it would be good to look at some of the wackier things film can do.
+
+- The Royal Tenenbaums (2001)/Grand Budapest (2014)
+I really love Wes Anderson and I feel like something of his style needs to be represented. Grand Budapest is my personal fave of his, but Royal Tenenbaums is probably the more widely known/accoladed one. That or perhaps Moonrise Kingdom. I'd be fine with any of them, though I'd push for Grand Budapest.
+
+- Harry Potter 1 (2001)
+I know, I know. It is notable, though. For the same reasons Lord of the Rings is notable. LOTR and HP were the ones that started the modern concept of franchises. They're the clear and obvious successors to Lucas' Star Wars. To not acknowledge them is turning a real blind eye to entire eras of film. Even if nowadays I would consider most of the offshoots of HP/LOTR mediocre at best. The Marvels, the Hunger Games, the DCs, etc. etc. HP may be based off British books, but it was an American production. And there are a couple examples of that on the list already. So seems fine to put on list.
+
+- There Will Be Blood (2007)
+Don't think this one needs much justification. I have to assume if the most recent revision of the list came out just slightly later, There Will Be Blood would've been on it.
+
+- No Country For Old Men (2007)
+Same as for There Will Be Blood. Had the film came out slightly before list was made, I think would've been an obvious contender.
+
+- The Dark Knight (2008)
+This is more a maybe for me. I know it's considered one of the best films of the 2000s time period, but I haven't actually seen it in a long time. Wonder if it holds up.
+
+- Avatar (2009)
+I don't personally care about it, but it's clearly notable.
+
+- Stop motion something
+I noticed there was no stop motion stuff. Not sure what specifically would be a good representative. Three come to mind. Nightmare Before Christmas seems the clear one. Also Coraline (2009), perhaps? Not sure how well-awarded it was. Or the Wallace and Gromit movie (2005). I guess the technique/concept comes up in other things like Star Wars, but seems like might be worth there being a movie representative of the whole craft. I think part of it is Hollywood routinely not taking animated films seriously. So you have to be Snow White/Toy Story level to stand out.
+
+- Mad Max: Fury Road (2015)
+Not even like a personal favorite of mine, I've only seen it the once. But the effects were wild for this movie, it seems like it really needs to be noted. One of those "how the hell did they make this" ones.
