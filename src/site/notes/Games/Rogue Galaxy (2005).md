@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/rogue-galaxy-2005/","created":"2023-12-08","updated":"2024-01-09"}
+{"dg-publish":true,"permalink":"/games/rogue-galaxy-2005/","tags":["LP"],"created":"2023-12-08","updated":"2024-02-14"}
 ---
 
 
