@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/visage-2020/","created":"2023-12-08","updated":"2024-01-10"}
+{"dg-publish":true,"permalink":"/games/visage-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-02-14"}
 ---
 
 
