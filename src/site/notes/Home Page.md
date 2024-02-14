@@ -22,7 +22,7 @@
 
 # Let's Plays
 
-A list of games I've LP'd on my channel, in generally reverse chronological order.
+A list of games I've LP'd on my channel, in generally chronological order.
 
 - [[Games/Call of the Sea (2020)\|Call of the Sea (2020)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
