@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-02-16"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-02-20"}
 ---
 
 
@@ -73,8 +73,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 60     | 1933 | Duck Soup                                  |                                                      |
 | 61     | 1941 | Sullivan's Travels                         |                                                      |
 | 62     | 1973 | American Graffiti                          |                                                      |
-| 63     | 1972 | Cabaret                                    |                                                      |
-| 64     | 1976 | Network                                    |                                                      |
+| 63     | 1972 | Cabaret                                    | [[Movies/Cabaret (1972)#Review\|Cabaret (1972)#Review]]                            |
+| 64     | 1976 | Network                                    | [[Movies/Network (1976)#Review\|Network (1976)#Review]]                            |
 | 65     | 1952 | The African Queen                          | [[Movies/The African Queen (1952)#Review\|The African Queen (1952)#Review]]                  |
 | 66     | 1981 | Raiders of the Lost Ark                    | [[Movies/Raiders of the Lost Ark (1981)#Review\|Raiders of the Lost Ark (1981)#Review]]            |
 | 67     | 1966 | Who's Afraid of Virginia Woolf?            | [[Movies/Who's Afraid of Virginia Woolf (1966)#Review\|Who's Afraid of Virginia Woolf (1966)#Review]]     |
