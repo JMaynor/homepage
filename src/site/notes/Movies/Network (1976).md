@@ -1,10 +1,6 @@
 ---
-aliases: 
-date created: 2024-02-20
-date modified: 2024-02-20
-date started: 
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/network-1976/","created":"2024-02-20","updated":"2024-02-20"}
 ---
+
 
 # Review
