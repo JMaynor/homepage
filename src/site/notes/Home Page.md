@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-02-19"}
+date created: 2023-11-28
+date modified: 2024-02-19
+dg-home: true
+dg-publish: true
 ---
-
 
 > 🕴 About
 >
