@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","created":"2023-12-04","updated":"2023-12-11"}
+aliases: 
+date created: 2023-12-04
+date modified: 2023-12-11
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
