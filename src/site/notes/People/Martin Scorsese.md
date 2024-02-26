@@ -1,4 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/people/martin-scorsese/","created":"2023-12-11","updated":"2023-12-11"}
+aliases: 
+date created: 2023-12-11
+date modified: 2023-12-11
+dg-publish: true
+tags: 
 ---
-
