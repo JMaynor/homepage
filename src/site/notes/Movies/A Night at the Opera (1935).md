@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-04
-date modified: 2023-12-28
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/a-night-at-the-opera-1935/","created":"2023-12-04","updated":"2023-12-28"}
 ---
+
 
 # Review
 
