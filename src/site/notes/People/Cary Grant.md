@@ -1,5 +1,4 @@
 ---
-dg-publish: true
-date created: 2023-12-01
-date modified: 2023-12-06
+{"dg-publish":true,"permalink":"/people/cary-grant/","created":"2023-12-01","updated":"2023-12-06"}
 ---
+
