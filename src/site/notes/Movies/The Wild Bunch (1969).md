@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","created":"2023-12-18","updated":"2023-12-28"}
+aliases: 
+date created: 2023-12-18
+date modified: 2023-12-28
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
