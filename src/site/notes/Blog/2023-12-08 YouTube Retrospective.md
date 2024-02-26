@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2023-12-08-you-tube-retrospective/","created":"2023-12-07","updated":"2023-12-08"}
+aliases: 
+date created: 2023-12-07
+date modified: 2023-12-08
+dg-publish: true
+tags: 
 ---
-
 
 What better way to start a new blog than to immediately look backwards?! I've been wanting to write more recently and one of the things on my mind is my YouTube channel. Specifically, I've been thinking about the many many games I've played, some of the things that have worked well, other things that haven't, and generally where I wanna go moving forward.
 
