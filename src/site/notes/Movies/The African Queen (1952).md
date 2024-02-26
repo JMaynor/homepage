@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-african-queen-1952/","created":"2024-02-16","updated":"2024-02-19"}
+aliases: 
+date created: 2024-02-16
+date modified: 2024-02-19
+date started: 
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
