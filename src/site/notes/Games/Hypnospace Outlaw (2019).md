@@ -1,11 +1,7 @@
 ---
-aliases: 
-date created: 2024-02-10
-date modified: 2024-02-14
-date started: 2024-02-19
-dg-publish: true
-tags: LP
+{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["LP"],"created":"2024-02-10","updated":"2024-02-14"}
 ---
+
 
 # Summary
 
