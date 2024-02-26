@@ -1,5 +1,4 @@
 ---
-date created: 2023-12-01
-date modified: 2023-12-28
-dg-publish: true
+{"dg-publish":true,"permalink":"/people/george-m-cohan/","created":"2023-12-01","updated":"2023-12-28"}
 ---
+
