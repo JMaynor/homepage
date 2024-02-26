@@ -1,7 +1,4 @@
 ---
-aliases: 
-date created: 2024-01-29
-date modified: 2024-01-29
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/people/stanley-kubrick/","created":"2024-01-29","updated":"2024-01-29"}
 ---
+
