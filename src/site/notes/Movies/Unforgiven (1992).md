@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/unforgiven-1992/","created":"2024-01-25","updated":"2024-01-29"}
+aliases: 
+date created: 2024-01-25
+date modified: 2024-01-29
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
