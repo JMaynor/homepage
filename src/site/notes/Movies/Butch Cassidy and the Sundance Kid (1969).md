@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2024-01-04
-date modified: 2024-01-05
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/butch-cassidy-and-the-sundance-kid-1969/","created":"2024-01-04","updated":"2024-01-05"}
 ---
+
 
 # Review
 
