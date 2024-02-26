@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-18
-date modified: 2023-12-28
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/modern-times-1936/","created":"2023-12-18","updated":"2023-12-28"}
 ---
+
 
 # Summary
 
