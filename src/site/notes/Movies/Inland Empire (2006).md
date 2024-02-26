@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/inland-empire-2006/","created":"2024-01-11","updated":"2024-01-31"}
+aliases: 
+date created: 2024-01-11
+date modified: 2024-01-31
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
