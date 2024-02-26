@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/george-lucas/","tags":["character"],"created":"2023-03-27","updated":"2024-02-05"}
+{"dg-publish":true,"permalink":"/people/george-lucas/","tags":["character"],"created":"2023-03-27","updated":"2024-02-26"}
 ---
 
 
