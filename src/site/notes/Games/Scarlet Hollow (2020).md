@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/games/scarlet-hollow-2020/","tags":["LP"],"created":"2024-02-13","updated":"2024-02-14"}
+aliases: 
+date created: 2024-02-13
+date modified: 2024-02-14
+date started: 2024-02-21
+dg-publish: true
+tags: LP
 ---
-
 
 # Summary
 
