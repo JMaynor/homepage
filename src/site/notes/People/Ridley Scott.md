@@ -1,7 +1,4 @@
 ---
-aliases: 
-date created: 2023-12-01
-date modified: 2023-12-28
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/people/ridley-scott/","created":"2023-12-01","updated":"2023-12-28"}
 ---
+
