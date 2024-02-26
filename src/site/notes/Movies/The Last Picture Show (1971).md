@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["review"],"created":"2023-12-01","updated":"2023-12-28"}
+date created: 2023-12-01
+date modified: 2023-12-28
+dg-publish: true
+tags: review 
 ---
-
 
 https://assets.scriptslug.com/live/pdf/scripts/the-last-picture-show-1971.pdf
 
