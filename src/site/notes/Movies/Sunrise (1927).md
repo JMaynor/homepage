@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-08
-date modified: 2023-12-28
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/sunrise-1927/","created":"2023-12-08","updated":"2023-12-28"}
 ---
+
 
 # Review
 
