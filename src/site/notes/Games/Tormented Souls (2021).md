@@ -1,11 +1,7 @@
 ---
-aliases: 
-date created: 2024-01-08
-date modified: 2024-02-14
-date started: 2024-01-08
-dg-publish: true
-tags: LP
+{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["LP"],"created":"2024-01-08","updated":"2024-02-14"}
 ---
+
 
 # Summary
 
