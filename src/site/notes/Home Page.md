@@ -22,7 +22,7 @@
 
 # Let's Plays
 
-A list of games I've LP'd on my channel in alphabetical order.
+A list of games I've let's played on my channel in alphabetical order.
 
 - [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]
 - [[Games/American Arcadia (2023)\|American Arcadia (2023)]]
