@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","created":"2023-12-04","updated":"2023-12-28"}
+aliases: 
+date created: 2023-12-04
+date modified: 2023-12-28
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
