@@ -1,9 +1,7 @@
 ---
-date created: 2023-12-01
-date modified: 2023-12-12
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/blade-runner-1982/","created":"2023-12-01","updated":"2023-12-12"}
 ---
+
 
 # Review
 
