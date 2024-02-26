@@ -1,7 +1,4 @@
 ---
-aliases: 
-date created: 2024-01-25
-date modified: 2024-01-25
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/people/dustin-hoffman/","created":"2024-01-25","updated":"2024-01-25"}
 ---
+
