@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-04
-date modified: 2023-12-12
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2023-12-12"}
 ---
+
 
 # Review
 
