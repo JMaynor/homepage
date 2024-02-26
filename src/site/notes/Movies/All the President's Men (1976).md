@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-28
-date modified: 2024-01-03
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/all-the-president-s-men-1976/","created":"2023-12-28","updated":"2024-01-03"}
 ---
+
 
 # Review
 
