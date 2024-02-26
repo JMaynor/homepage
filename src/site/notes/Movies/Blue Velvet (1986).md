@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-11
-date modified: 2023-12-11
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/blue-velvet-1986/","created":"2023-12-11","updated":"2023-12-11"}
 ---
+
 
 # Summary
 
