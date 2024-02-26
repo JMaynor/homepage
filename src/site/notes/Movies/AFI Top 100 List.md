@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-02-20"}
+date created: 2023-11-30
+date modified: 2024-02-20
+dg-publish: true
 ---
-
 
 # Intro
 
