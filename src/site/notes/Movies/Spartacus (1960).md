@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/spartacus-1960/","created":"2023-12-16","updated":"2023-12-28"}
+aliases: 
+date created: 2023-12-16
+date modified: 2023-12-28
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
