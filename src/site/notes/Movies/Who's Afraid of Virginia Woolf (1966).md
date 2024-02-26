@@ -1,10 +1,7 @@
 ---
-aliases: 
-date created: 2024-01-25
-date modified: 2024-01-26
-dg-publish: true
-tags: 
+{"dg-publish":true,"permalink":"/movies/who-s-afraid-of-virginia-woolf-1966/","created":"2024-01-25","updated":"2024-01-26"}
 ---
+
 
 # Review
 
