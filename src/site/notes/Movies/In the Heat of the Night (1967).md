@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","created":"2023-12-29","updated":"2024-01-04"}
+aliases: 
+date created: 2023-12-29
+date modified: 2024-01-04
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
