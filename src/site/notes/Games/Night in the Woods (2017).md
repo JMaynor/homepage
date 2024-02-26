@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/games/night-in-the-woods-2017/","tags":["LP"],"created":"2023-12-29","updated":"2024-02-14"}
+aliases: 
+date created: 2023-12-29
+date modified: 2024-02-14
+date started: 2024-01-02
+dg-publish: true
+tags: LP
 ---
-
 
 # Summary
 
