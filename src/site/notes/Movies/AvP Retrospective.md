@@ -3,9 +3,7 @@
 ---
 
 
-When I did my Let's Play of [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]], it got me really in the mood to rewatch the Alien movies. I decided to just go through and watch all of them, including the AVP and Predator movies, just for funsies.
-
-My thoughts below.
+When I did my Let's Play of [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]], it got me really in the mood to rewatch the Alien movies. I decided to just go through and watch all of them, including the AVP and Predator movies, just for funsies. My thoughts below.
 
 # Alien (1979)
 
