@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","created":"2024-01-08","updated":"2024-01-29"}
+aliases: 
+date created: 2024-01-08
+date modified: 2024-01-29
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
