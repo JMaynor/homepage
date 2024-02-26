@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/movies/tootsie-1982/","created":"2024-01-19","updated":"2024-01-25"}
+aliases: 
+date created: 2024-01-19
+date modified: 2024-01-25
+dg-publish: true
+tags: 
 ---
-
 
 # Review
 
