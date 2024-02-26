@@ -1,4 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/games/alien-isolation-2014/","tags":["LP"],"created":"2023-12-01","updated":"2024-02-14"}
+date created: 2023-12-01
+date modified: 2024-02-14
+date started: 2022-06-12
+dg-publish: true
+tags: LP
 ---
-
