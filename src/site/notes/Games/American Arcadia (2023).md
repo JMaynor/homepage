@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/games/american-arcadia-2023/","tags":["LP"],"created":"2024-02-14","updated":"2024-02-14"}
+aliases: 
+date created: 2024-02-14
+date modified: 2024-02-14
+date started: 2024-03-26
+dg-publish: true
+tags: LP
 ---
-
 
 # Summary
 
