@@ -1,11 +1,7 @@
 ---
-aliases: 
-date created: 2023-12-08
-date modified: 2024-02-14
-date started: 2023-01-27
-dg-publish: true
-tags: LP
+{"dg-publish":true,"permalink":"/games/call-of-duty-2003/","tags":["LP"],"created":"2023-12-08","updated":"2024-02-14"}
 ---
+
 
 # Summary
 
