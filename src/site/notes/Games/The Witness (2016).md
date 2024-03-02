@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-witness-2016/","tags":["LP"],"created":"2023-12-08","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/games/the-witness-2016/","tags":["LP"],"created":"2023-12-08","updated":"2024-03-01"}
 ---
 
 
 # Summary
+
+Puzzle game made primarily by [[People/Jonathan Blow\|Jonathan Blow]].
 
 # Review
 
