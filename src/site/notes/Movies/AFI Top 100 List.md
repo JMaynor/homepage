@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-03-04"}
 ---
 
 
@@ -147,7 +147,7 @@ This is more a maybe for me. I know it's considered one of the best films of the
 I don't personally care about it, but it's clearly notable.
 
 - Stop motion something
-I noticed there was no stop motion stuff. Not sure what specifically would be a good representative. Three come to mind. Nightmare Before Christmas seems the clear one. Also Coraline (2009), perhaps? Not sure how well-awarded it was. Or the Wallace and Gromit movie (2005). I guess the technique/concept comes up in other things like Star Wars, but seems like might be worth there being a movie representative of the whole craft. I think part of it is Hollywood routinely not taking animated films seriously. So you have to be Snow White/Toy Story level to stand out.
+I noticed there was no stop motion stuff. Not sure what specifically would be a good representative. Three come to mind. Nightmare Before Christmas seems the clear one. Also Coraline (2009), perhaps? Not sure how well-awarded it was. Or the Wallace and Gromit movie (2005). I guess the technique/concept comes up in other things like Star Wars, but seems like might be worth there being a movie representative of the whole craft. I think part of it is Hollywood routinely not taking animated films seriously. So you have to be Snow White/Toy Story-level to stand out.
 
 - Mad Max: Fury Road (2015)
 Not even like a personal favorite of mine, I've only seen it the once. But the effects were wild for this movie, it seems like it really needs to be noted. One of those "how the hell did they make this" ones.
