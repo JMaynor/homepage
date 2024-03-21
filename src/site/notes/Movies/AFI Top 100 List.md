@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-03-14"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-03-21"}
 ---
 
 
@@ -65,10 +65,10 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 52     | 1976 | Taxi Driver                                |                                                      |
 | 53     | 1978 | The Deer Hunter                            |                                                      |
 | 54     | 1970 | M\*A\*S\*H                                 |                                                      |
-| 55     | 1959 | North By Northwest                         |                                                      |
-| 56     | 1975 | Jaws                                       |                                                      |
-| 57     | 1976 | Rocky                                      |                                                      |
-| 58     | 1925 | The Gold Rush                              |                                                      |
+| 55     | 1959 | North By Northwest                         | [[Movies/North By Northwest (1959)#Review\|North By Northwest (1959)#Review]]                 |
+| 56     | 1975 | Jaws                                       | [[Movies/Jaws (1975)#Review\|Jaws (1975)#Review]]                               |
+| 57     | 1976 | Rocky                                      | [[Movies/Rocky (1976)#Review\|Rocky (1976)#Review]]                              |
+| 58     | 1925 | The Gold Rush                              | [[Movies/The Gold Rush (1925)#Review\|The Gold Rush (1925)#Review]]                      |
 | 59     | 1975 | Nashville                                  | [[Movies/Nashville (1975)#Review\|Nashville (1975)#Review]]                          |
 | 60     | 1933 | Duck Soup                                  | [[Movies/Duck Soup (1933)#Review\|Duck Soup (1933)#Review]]                          |
 | 61     | 1941 | Sullivan's Travels                         | [[Movies/Sullivan's Travels (1941)#Review\|Sullivan's Travels (1941)#Review]]                 |
