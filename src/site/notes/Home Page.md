@@ -51,6 +51,7 @@ A list of games I've let's played on my channel in alphabetical order.
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
+- [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]
 - [[Games/The Final Station (2016)\|The Final Station (2016)]]
 - [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]
 - [[Games/The Witness (2016)\|The Witness (2016)]]
