@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-04-10"}
 ---
 
 
@@ -36,6 +36,7 @@ A list of games I've let's played on my channel in alphabetical order.
 - [[Games/Call of the Sea (2020)\|Call of the Sea (2020)]]
 - [[Games/Control (2019)\|Control (2019)]]
 - [[Games/Disco Elysium (2019)\|Disco Elysium (2019)]]
+- [[Games/Fallout 4 (2015)\|Fallout 4 (2015)]]
 - [[Games/Hypnospace Outlaw (2019)\|Hypnospace Outlaw (2019)]]
 - [[Games/Kentucky Route Zero (2020)\|Kentucky Route Zero (2020)]]
 - [[Games/Mass Effect 1 (2007)\|Mass Effect 1 (2007)]]
@@ -59,3 +60,5 @@ A list of games I've let's played on my channel in alphabetical order.
 - [[Games/Visage (2020)\|Visage (2020)]]
 
 { .block-language-dataview}
+
+Subscribe via [RSS Feed](https://www.jtm.li/feed.xml)
