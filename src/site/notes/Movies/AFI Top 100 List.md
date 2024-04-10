@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-04-05"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-04-09"}
 ---
 
 
@@ -62,7 +62,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 49     | 1916 | Intolerance                                |                                                      |
 | 50     | 2001 | Lord of the Rings: Fellowship of the Rings |                                                      |
 | 51     | 1961 | West Side Story                            |                                                      |
-| 52     | 1976 | Taxi Driver                                | [[Movies/Taxi Driver (1976)\|Taxi Driver (1976)]]                               |
+| 52     | 1976 | Taxi Driver                                | [[Movies/Taxi Driver (1976)#Review\|Taxi Driver (1976)#Review]]                        |
 | 53     | 1978 | The Deer Hunter                            | [[Movies/The Deer Hunter (1978)#Review\|The Deer Hunter (1978)#Review]]                    |
 | 54     | 1970 | M\*A\*S\*H                                 | [[Movies/MASH (1970)#Review\|MASH (1970)#Review]]                               |
 | 55     | 1959 | North By Northwest                         | [[Movies/North By Northwest (1959)#Review\|North By Northwest (1959)#Review]]                 |
