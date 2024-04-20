@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/movies/hocus-pocus-1993/","created":"2024-04-19","updated":"2024-04-19"}
+---
+
+
+# Review
+
+It's that time of year, folks. The time for ghosts, ghouls, and witches to do their evil upon the world when the nights become ever longer and All Hallow's Eve nears. There is of course no more wicked and powerful a group of witches than...the Sanderson Sisters. It's just a bunch of hocus pocus! One of my favorite movies of all time, a movie that is a cult classic for a reason. It is so much more than the sum of its parts. It transcends movies and becomes an experience. Every year in October I watch Hocus Pocus. I probably saw it the first time at 3 or 4 years of age so I've seen it a minimum of 24 or so times. Though in all likelihood I've seen it even more. It's one of those special movies in my heart that I could watch 100 times, quoting half of it, and still never tire of it. It's camp, it's iconic, it's funny, it's heartfelt. It is a perfect movie. Bette Midler, Kathy Najimy, and Sarah Jessica Parker are the real soul of this movie, not to disparage any of the other actors, every part of the movie is important. But the sisters' bickering and charisma really carries the whole enterprise. They're the ones on the cover for a reason. I was listening to the soundtrack to the movie earlier and immediately gave me the good chemicals. I just love it so much. And October is my favorite time of the year, Halloween in particular. Watching the movie now and it really makes me wanna have an evil book of spells made from human skin and light a black flame candle. Just need a virgin...😢
