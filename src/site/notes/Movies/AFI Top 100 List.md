@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-07"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-20"}
 ---
 
 
@@ -57,7 +57,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 44     | 1940 | The Philadelphia Story                     |                                                      |
 | 45     | 1953 | Shane                                      |                                                      |
 | 46     | 1934 | It Happened One Night                      |                                                      |
-| 47     | 1951 | A Streetcar Named Desire                   |                                                      |
+| 47     | 1951 | A Streetcar Named Desire                   | [[Movies/A Streetcar Named Desire (1951)#Review\|A Streetcar Named Desire (1951)#Review]]           |
 | 48     | 1954 | Rear Window                                | [[Movies/Rear Window (1954)#Review\|Rear Window (1954)#Review]]                        |
 | 49     | 1916 | Intolerance                                | [[Movies/Intolerance (1916)#Review\|Intolerance (1916)#Review]]                        |
 | 50     | 2001 | Lord of the Rings: Fellowship of the Rings | [[Movies/Lord of the Rings (2001-2003)#Review\|Lord of the Rings (2001-2003)#Review]]             |
