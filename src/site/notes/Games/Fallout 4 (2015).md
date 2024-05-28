@@ -59,6 +59,7 @@ Below is a list of all mods used throughout playthrough and links to each.
 | NCR Trooper Armor By Dr. Mobius                                           | https://www.nexusmods.com/fallout4/mods/31236 | Armor                           |
 | Place Everywhere                                                          | https://www.nexusmods.com/fallout4/mods/9424  | Player Settlement               |
 | Post-Quest Kingsport Lighthouse Settlement Light Revive                   | https://www.nexusmods.com/fallout4/mods/36193 | Visuals and Graphics            |
+| Remote Hacking                                                            | https://www.nexusmods.com/fallout4/mods/18358 | Gameplay                        |
 | Scrap Everything                                                          | https://www.nexusmods.com/fallout4/mods/5320  | Player Settlement               |
 | Service Rifle                                                             | https://www.nexusmods.com/fallout4/mods/32361 | Weapons                         |
 | SVT-40                                                                    | https://www.nexusmods.com/fallout4/mods/22017 | Weapons                         |
