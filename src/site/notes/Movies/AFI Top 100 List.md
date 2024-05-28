@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-24"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-28"}
 ---
 
 
@@ -44,7 +44,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 31     | 1941 | The Maltese Falcon                         |                                                      |
 | 32     | 1974 | The Godfather Part II                      |                                                      |
 | 33     | 1975 | One Flew Over the Cuckoo’s Nest            |                                                      |
-| 34     | 1937 | Snow White and the Seven Dwarfs            |                                                      |
+| 34     | 1937 | Snow White and the Seven Dwarfs            | [[Movies/Snow White and the Seven Dwarfs (1937)#Review\|Snow White and the Seven Dwarfs (1937)#Review]]    |
 | 35     | 1977 | Annie Hall                                 |                                                      |
 | 36     | 1957 | The Bridge on the River Kwai               |                                                      |
 | 37     | 1946 | The Best Years of Our Lives                |                                                      |
