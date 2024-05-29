@@ -25,6 +25,7 @@ Below is a list of all mods used throughout playthrough and links to each.
 | Armor and Weapon Keywords Community Resource                              | https://www.nexusmods.com/fallout4/mods/6091  | Modders Resources and Tutorials |
 | Bullet Counted Reload System                                              | https://www.nexusmods.com/fallout4/mods/41178 | Gameplay                        |
 | Capital Wasteland .32 Caliber Pistol                                      | https://www.nexusmods.com/fallout4/mods/50396 | Weapons                         |
+| Capital Wasteland Centuars                                                | https://www.nexusmods.com/fallout4/mods/59379 | Creatures                       |
 | Capital Wasteland Outfit Pack                                             | https://www.nexusmods.com/fallout4/mods/41380 | Armor                           |
 | Capital Wasteland Outfit Pack Part 2                                      | https://www.nexusmods.com/fallout4/mods/59105 | Armor                           |
 | Colt-Mothman 6520 and N-80 Pistols Pack                                   | https://www.nexusmods.com/fallout4/mods/57194 | Weapons                         |
