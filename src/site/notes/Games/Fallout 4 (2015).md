@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-05-07"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-05-29"}
 ---
 
 
@@ -67,3 +67,4 @@ Below is a list of all mods used throughout playthrough and links to each.
 | UCO                                                                       | https://www.nexusmods.com/fallout4/mods/18489 | Clothing                        |
 | Wattz Laser Gun                                                           | https://www.nexusmods.com/fallout4/mods/26386 | Weapons                         |
 | Wireless Power                                                            | https://www.nexusmods.com/fallout4/mods/57146 | Crafting - Home/Settlement      |
+| We Have Names                                                             | https://www.nexusmods.com/fallout4/mods/74287 | NPC                             |
