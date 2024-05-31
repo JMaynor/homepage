@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-28"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-31"}
 ---
 
 
@@ -43,7 +43,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 30     | 1979 | Apocalypse Now                             |                                                      |
 | 31     | 1941 | The Maltese Falcon                         |                                                      |
 | 32     | 1974 | The Godfather Part II                      |                                                      |
-| 33     | 1975 | One Flew Over the Cuckoo’s Nest            |                                                      |
+| 33     | 1975 | One Flew Over the Cuckoo’s Nest            | Skipped                                              |
 | 34     | 1937 | Snow White and the Seven Dwarfs            | [[Movies/Snow White and the Seven Dwarfs (1937)#Review\|Snow White and the Seven Dwarfs (1937)#Review]]    |
 | 35     | 1977 | Annie Hall                                 |                                                      |
 | 36     | 1957 | The Bridge on the River Kwai               |                                                      |
@@ -53,8 +53,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 40     | 1965 | The Sound of Music                         |                                                      |
 | 41     | 1933 | King Kong                                  |                                                      |
 | 42     | 1967 | Bonnie and Clyde                           |                                                      |
-| 43     | 1969 | Midnight Cowboy                            |                                                      |
-| 44     | 1940 | The Philadelphia Story                     |                                                      |
+| 43     | 1969 | Midnight Cowboy                            | [[Movies/Midnight Cowboy (1969)#Review\|Midnight Cowboy (1969)#Review]]                    |
+| 44     | 1940 | The Philadelphia Story                     | [[Movies/The Philadelphia Story (1940)#Review\|The Philadelphia Story (1940)#Review]]             |
 | 45     | 1953 | Shane                                      | [[Movies/Shane (1953)#Review\|Shane (1953)#Review]]                              |
 | 46     | 1934 | It Happened One Night                      | [[Movies/It Happened One Night (1934)#Review\|It Happened One Night (1934)#Review]]              |
 | 47     | 1951 | A Streetcar Named Desire                   | [[Movies/A Streetcar Named Desire (1951)#Review\|A Streetcar Named Desire (1951)#Review]]           |
