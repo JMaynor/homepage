@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/disney-retrospective/","created":"2024-05-28","updated":"2024-05-30"}
+{"dg-publish":true,"permalink":"/movies/disney-retrospective/","created":"2024-05-28","updated":"2024-06-04"}
 ---
 
 
@@ -9,7 +9,7 @@ Inspired by streaming the Kingdom Hearts series and the knowledge that (as of th
 | ---- | -------------------------------------- | ------------------------------------------------- |
 | 1937 | Snow White and the Seven Dwarfs        | [[Movies/Snow White and the Seven Dwarfs (1937)#Review\|Snow White and the Seven Dwarfs (1937)#Review]] |
 | 1940 | Pinocchio                              | [[Movies/Pinocchio (1940)#Review\|Pinocchio (1940)#Review]]                       |
-| 1940 | Fantasia                               |                                                   |
+| 1940 | Fantasia                               | [[Movies/Fantasia (1940)#Review\|Fantasia (1940)#Review]]                        |
 | 1941 | Dumbo                                  | [[Movies/Dumbo (1941)#Review\|Dumbo (1941)#Review]]                           |
 | 1942 | Bambi                                  | [[Movies/Bambi (1942)#Review\|Bambi (1942)#Review]]                           |
 | 1943 | Saludos Amigos                         |                                                   |
