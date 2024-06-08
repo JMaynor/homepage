@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/joseph-delaney-the-wardstone-chronicles/","created":"2024-04-19","updated":"2024-04-19"}
+{"dg-publish":true,"permalink":"/books/joseph-delaney-the-wardstone-chronicles/","created":"2024-04-19","updated":"2024-06-05"}
 ---
 
 
