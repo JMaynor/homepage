@@ -6,3 +6,11 @@
 # Quotes
 
 "Every time a friend succeeds, I die a little."
+
+# Bibliography
+
+| File | series | index | file.aliases | read |
+| ---- | ------ | ----- | ------------ | ---- |
+
+{ .block-language-dataview}
+

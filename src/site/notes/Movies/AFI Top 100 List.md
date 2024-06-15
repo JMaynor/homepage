@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-05-31"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-06-14"}
 ---
 
 
@@ -51,8 +51,8 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 | 38     | 1948 | The Treasure of the Sierra Madre           |                                                      |
 | 39     | 1964 | Dr. Strangelove                            |                                                      |
 | 40     | 1965 | The Sound of Music                         |                                                      |
-| 41     | 1933 | King Kong                                  |                                                      |
-| 42     | 1967 | Bonnie and Clyde                           |                                                      |
+| 41     | 1933 | King Kong                                  | [[Movies/King Kong (1933)#Review\|King Kong (1933)#Review]]                          |
+| 42     | 1967 | Bonnie and Clyde                           | [[Movies/Bonnie and Clyde (1967)#Review\|Bonnie and Clyde (1967)#Review]]                   |
 | 43     | 1969 | Midnight Cowboy                            | [[Movies/Midnight Cowboy (1969)#Review\|Midnight Cowboy (1969)#Review]]                    |
 | 44     | 1940 | The Philadelphia Story                     | [[Movies/The Philadelphia Story (1940)#Review\|The Philadelphia Story (1940)#Review]]             |
 | 45     | 1953 | Shane                                      | [[Movies/Shane (1953)#Review\|Shane (1953)#Review]]                              |
