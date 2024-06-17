@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2024-06-17"}
 ---
 
 

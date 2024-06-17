@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","created":"2023-12-08","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","created":"2023-12-08","updated":"2024-06-17"}
 ---
 
 

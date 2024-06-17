@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","tags":["review"],"created":"2023-11-30","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","created":"2023-11-30","updated":"2024-06-17"}
 ---
 
 
@@ -9,7 +9,7 @@ I liked Sixth Sense in general. I dunno about best of all time, but it was good.
 
 I do have a problem with the ending. It's just so sudden. I strongly believe it was Shyamalan getting bored after doing his reveal so he decided he was done with the movie. Because it's all about the twist.
 
-First change I would make is get rid of that bad line where Cole tells you everything. The "they're walking around living their life and they don't even know that they're dead" line. Where he is staring *directly* at Bruce Willis. The twist of the movie is clever, so let it be clever. The line is too obvious and reveals the whole thing way too early. So just get rid of it. Change it to where Cole reveals to Bruce Willis that he sees dead people and we move on.
+First change I would make is get rid of that bad line where Cole tells you everything. The "they're walking around living their life and they don't even know that they're dead" line. Where he is staring *directly* at [[People/Bruce Willis\|Bruce Willis]]. The twist of the movie is clever, so let it be clever. The line is too obvious and reveals the whole thing way too early. So just get rid of it. Change it to where Cole reveals to Bruce Willis that he sees dead people and we move on.
 
 Second, let's get to the ending. Bruce Willis realizes he is dead, then there's a bright light, and credits. It's way too quick and we're not properly resolving the relationship between Cole and Willis. I think a more appropriate end is Cole convinces his mom that he does see dead people after their scene together talking about her mother. Coles starts to worry that he hasn't seen Willis in a bit so he has his mom take him to Willis' house. There he discovers that Willis' realization that he is dead has made him mentally unstable. Similar to Willis' patient in the beginning. But Cole helps talk him through it and tells Willis that he helped Cole deal with the ghosts. This makes Willis realize he has done well despite being dead and he feels better. With that, you have a nice parallel to the beginning of the movie. Willis couldn't help his former patient in life. But he helped Cole after death, who in turn helps him.
 

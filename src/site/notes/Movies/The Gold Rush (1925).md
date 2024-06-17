@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","created":"2024-03-21","updated":"2024-04-09"}
+{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","created":"2024-03-21","updated":"2024-06-17"}
 ---
 
 

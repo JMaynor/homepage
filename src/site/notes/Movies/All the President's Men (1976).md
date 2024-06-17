@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/all-the-president-s-men-1976/","created":"2023-12-28","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/all-the-president-s-men-1976/","created":"2023-12-28","updated":"2024-06-17"}
 ---
 
 

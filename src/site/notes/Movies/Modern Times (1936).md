@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/modern-times-1936/","created":"2023-12-18","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/modern-times-1936/","created":"2023-12-18","updated":"2024-06-17"}
 ---
 
 

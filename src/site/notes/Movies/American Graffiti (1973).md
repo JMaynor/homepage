@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","created":"2024-03-05","updated":"2024-03-11"}
+{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","created":"2024-03-05","updated":"2024-06-17"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["review"],"created":"2023-11-30","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["review"],"created":"2023-11-30","updated":"2024-06-17"}
 ---
 
 

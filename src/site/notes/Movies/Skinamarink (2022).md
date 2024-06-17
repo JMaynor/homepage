@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/skinamarink-2022/","created":"2024-04-19","updated":"2024-04-19"}
+{"dg-publish":true,"permalink":"/movies/skinamarink-2022/","created":"2024-04-19","updated":"2024-06-17"}
 ---
 
 

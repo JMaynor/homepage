@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","created":"2024-03-21","updated":"2024-04-08"}
+{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","created":"2024-03-21","updated":"2024-06-17"}
 ---
 
 
