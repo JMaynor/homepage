@@ -5,8 +5,9 @@
 
 # Filmography
 
-| File                                         | file.aliases              |
-| -------------------------------------------- | ------------------------- |
-| [[Movies/Ben-Hur (1959)\|Ben-Hur (1959)]] | <ul><li>Ben-Hur</li></ul> |
+| File                                                                                 | file.aliases                                   |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| [[Movies/Ben-Hur (1959)\|Ben-Hur (1959)]]                                         | <ul><li>Ben-Hur</li></ul>                      |
+| [[Movies/The Best Years of Our Lives (1946)\|The Best Years of Our Lives (1946)]] | <ul><li>The Best Years of Ourt Lives</li></ul> |
 
 { .block-language-dataview}

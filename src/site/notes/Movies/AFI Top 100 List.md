@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-06-18"}
 ---
 
 
@@ -11,44 +11,44 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 
 | Number | Year | Movie                                      | Link                                                 |
 | ------ | ---- | ------------------------------------------ | ---------------------------------------------------- |
-| 1      | 1941 | Citizen Kane                               |                                                      |
-| 2      | 1942 | Casablanca                                 |                                                      |
-| 3      | 1972 | The Godfather                              |                                                      |
-| 4      | 1980 | Raging Bull                                |                                                      |
-| 5      | 1952 | Singin In the Rain                         |                                                      |
-| 6      | 1939 | Gone With the Wind                         |                                                      |
-| 7      | 1962 | Lawrence of Arabia                         |                                                      |
-| 8      | 1993 | Schindler’s List                           |                                                      |
-| 9      | 1958 | Vertigo                                    |                                                      |
+| 1      | 1941 | Citizen Kane                               | [[Movies/Citizen Kane (1941)#Review\|Citizen Kane (1941)#Review]]                       |
+| 2      | 1942 | Casablanca                                 | [[Movies/Casablanca (1942)#Review\|Casablanca (1942)#Review]]                         |
+| 3      | 1972 | The Godfather                              | [[Movies/The Godfather (1972)#Review\|The Godfather (1972)#Review]]                      |
+| 4      | 1980 | Raging Bull                                | [[Movies/Raging Bull (1980)#Review\|Raging Bull (1980)#Review]]                        |
+| 5      | 1952 | Singin In the Rain                         | [[Movies/Singin In the Rain (1952)#Review\|Singin In the Rain (1952)#Review]]                 |
+| 6      | 1939 | Gone With the Wind                         | [[Movies/Gone With the Wind (1939)#Review\|Gone With the Wind (1939)#Review]]                 |
+| 7      | 1962 | Lawrence of Arabia                         | [[Movies/Lawrence of Arabia (1962)#Review\|Lawrence of Arabia (1962)#Review]]                 |
+| 8      | 1993 | Schindler’s List                           | [[Movies/Schindler’s List (1993)#Review\|Schindler’s List (1993)#Review]]                   |
+| 9      | 1958 | Vertigo                                    | [[Movies/Vertigo (1958)#Review\|Vertigo (1958)#Review]]                            |
 | 10     | 1939 | The Wizard of Oz                           | Skipped                                              |
-| 11     | 1931 | City Lights                                |                                                      |
-| 12     | 1956 | The Searchers                              |                                                      |
+| 11     | 1931 | City Lights                                | [[Movies/City Lights (1931)#Review\|City Lights (1931)#Review]]                        |
+| 12     | 1956 | The Searchers                              | [[Movies/The Searchers (1956)#Review\|The Searchers (1956)#Review]]                      |
 | 13     | 1977 | Star Wars: A New Hope                      | Skipped                                              |
-| 14     | 1960 | Psycho                                     |                                                      |
-| 15     | 1968 | 2001: A Space Odyssey                      |                                                      |
-| 16     | 1950 | Sunset Boulevard                           |                                                      |
-| 17     | 1967 | The Graduate                               |                                                      |
-| 18     | 1926 | The General                                |                                                      |
-| 19     | 1954 | On the Waterfront                          |                                                      |
-| 20     | 1946 | It’s a Wonderful Life                      |                                                      |
-| 21     | 1974 | Chinatown                                  |                                                      |
-| 22     | 1959 | Some Like It Hot                           |                                                      |
-| 23     | 1940 | The Grapes of Wrath                        |                                                      |
-| 24     | 1982 | E.T. the Extra-Terrestrial                 |                                                      |
-| 25     | 1962 | To Kill a Mockingbird                      |                                                      |
-| 26     | 1939 | Mr Smith Goes to Washington                |                                                      |
-| 27     | 1952 | High Noon                                  |                                                      |
-| 28     | 1950 | All About Eve                              |                                                      |
-| 29     | 1944 | Double Indemnity                           |                                                      |
-| 30     | 1979 | Apocalypse Now                             |                                                      |
-| 31     | 1941 | The Maltese Falcon                         |                                                      |
-| 32     | 1974 | The Godfather Part II                      |                                                      |
+| 14     | 1960 | Psycho                                     | [[Movies/Psycho (1960)#Review\|Psycho (1960)#Review]]                             |
+| 15     | 1968 | 2001: A Space Odyssey                      | [[Movies/2001 A Space Odyssey (1968)#Review\|2001 A Space Odyssey (1968)#Review]]               |
+| 16     | 1950 | Sunset Boulevard                           | [[Movies/Sunset Boulevard (1950)#Review\|Sunset Boulevard (1950)#Review]]                   |
+| 17     | 1967 | The Graduate                               | [[Movies/The Graduate (1967)#Review\|The Graduate (1967)#Review]]                       |
+| 18     | 1926 | The General                                | [[Movies/The General (1926)#Review\|The General (1926)#Review]]                        |
+| 19     | 1954 | On the Waterfront                          | [[Movies/On the Waterfront (1954)#Review\|On the Waterfront (1954)#Review]]                  |
+| 20     | 1946 | It’s a Wonderful Life                      | [[Movies/It’s a Wonderful Life (1946)#Review\|It’s a Wonderful Life (1946)#Review]]              |
+| 21     | 1974 | Chinatown                                  | [[Movies/Chinatown (1974)#Review\|Chinatown (1974)#Review]]                          |
+| 22     | 1959 | Some Like It Hot                           | [[Movies/Some Like It Hot (1959)#Review\|Some Like It Hot (1959)#Review]]                   |
+| 23     | 1940 | The Grapes of Wrath                        | [[Movies/The Grapes of Wrath (1940)#Review\|The Grapes of Wrath (1940)#Review]]                |
+| 24     | 1982 | E.T. the Extra-Terrestrial                 | [[Movies/E.T. the Extra-Terrestrial (1982)#Review\|E.T. the Extra-Terrestrial (1982)#Review]]         |
+| 25     | 1962 | To Kill a Mockingbird                      | [[Movies/To Kill a Mockingbird (1962)#Review\|To Kill a Mockingbird (1962)#Review]]              |
+| 26     | 1939 | Mr. Smith Goes to Washington               | [[Movies/Mr. Smith Goes to Washington (1939)#Review\|Mr. Smith Goes to Washington (1939)#Review]]       |
+| 27     | 1952 | High Noon                                  | [[Movies/High Noon (1952)#Review\|High Noon (1952)#Review]]                          |
+| 28     | 1950 | All About Eve                              | [[Movies/All About Eve (1950)#Review\|All About Eve (1950)#Review]]                      |
+| 29     | 1944 | Double Indemnity                           | [[Movies/Double Indemnity (1944)#Review\|Double Indemnity (1944)#Review]]                   |
+| 30     | 1979 | Apocalypse Now                             | [[Movies/Apocalypse Now (1979)#Review\|Apocalypse Now (1979)#Review]]                     |
+| 31     | 1941 | The Maltese Falcon                         | [[Movies/The Maltese Falcon (1941)#Review\|The Maltese Falcon (1941)#Review]]                 |
+| 32     | 1974 | The Godfather Part II                      | [[Movies/The Godfather Part II (1974)#Review\|The Godfather Part II (1974)#Review]]              |
 | 33     | 1975 | One Flew Over the Cuckoo’s Nest            | Skipped                                              |
 | 34     | 1937 | Snow White and the Seven Dwarfs            | [[Movies/Snow White and the Seven Dwarfs (1937)#Review\|Snow White and the Seven Dwarfs (1937)#Review]]    |
-| 35     | 1977 | Annie Hall                                 |                                                      |
-| 36     | 1957 | The Bridge on the River Kwai               |                                                      |
-| 37     | 1946 | The Best Years of Our Lives                |                                                      |
-| 38     | 1948 | The Treasure of the Sierra Madre           |                                                      |
+| 35     | 1977 | Annie Hall                                 | [[Movies/Annie Hall (1977)#Review\|Annie Hall (1977)#Review]]                         |
+| 36     | 1957 | The Bridge on the River Kwai               | [[Movies/The Bridge on the River Kwai (1957)#Review\|The Bridge on the River Kwai (1957)#Review]]       |
+| 37     | 1946 | The Best Years of Our Lives                | [[Movies/The Best Years of Our Lives (1946)#Review\|The Best Years of Our Lives (1946)#Review]]        |
+| 38     | 1948 | The Treasure of the Sierra Madre           | [[Movies/The Treasure of the Sierra Madre (1948)#Review\|The Treasure of the Sierra Madre (1948)#Review]]   |
 | 39     | 1964 | Dr. Strangelove                            | [[Movies/Dr. Strangelove (1964)#Review\|Dr. Strangelove (1964)#Review]]                    |
 | 40     | 1965 | The Sound of Music                         | [[Movies/The Sound of Music (1965)#Review\|The Sound of Music (1965)#Review]]                 |
 | 41     | 1933 | King Kong                                  | [[Movies/King Kong (1933)#Review\|King Kong (1933)#Review]]                          |

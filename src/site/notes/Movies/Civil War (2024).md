@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/movies/civil-war-2024/","created":"2024-04-21","updated":"2024-06-18"}
+---
+
+
+# Review
+
+Good movie, I have not done a complete deep dive on all A24's stuff, but they bankroll my fave modern director, [[People/Robert Eggers\|Eggers]], so for that I am eternally grateful. And everything of theirs that I *have* seen, I've really enjoyed. (Midsommar, Eggers' stuff, and X are what come to mind.) Because of that, I did go in expecting to enjoy it. But I also felt somewhat wary. The subject matter, a Civil War happening in the US. Feels like could be a bit of a cash grab. But I still went in with an open mind.
+
+At first I felt a bit confused while watching. What on Earth would have caused California and Texas to join arms and secede as one? But once I understood what the movie is about, that it's really not *about* the Civil War, but rather is about journalism -- everything slotted into place. It does make sense, we talk around the why of everything, leaving small hints as to the greater picture, but never really getting into it. After having read some of others' thoughts on the film, I can see how that would feel frustrating. I felt a little frustrated by it, at first. But I think at the end of the day for me, the little hints intrigue more than they frustrate. Again, the titular Civil War is not really the focus of the movie. An odd decision. But given the end result, one that I'm fine with.
+
+So let's talk about the characters. Our main character was such a standout. [[People/Kirsten Dunst\|Kirsten Dunst]]! I have not kept up with her at all. My general understanding of her filmography consists of [[Movies/Interview with the Vampire (1994)\|Interview with the Vampire (1994)]] and the Sam Raimi Spider-Mans. Not to pay her short shrift, I think her performance in Interview is to this day one of the best examples of child-acting. And she will always be *the* Mary Jane to me. I just haven't seen her in much else. So seeing her years and years after the spider-man movies felt like seeing an old friend I haven't spoken with in a long time. And holy cow, the casting for this role was absolutely perfect. The emotion she conveys in small looks. You can feel how tired she is from the work she's been doing as a war journalist. But seeing the small bits of emotion creep through is delightful. Excellent acting. The dress scene, when she's just looking at the flowers as the group is being pinned by a sniper.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/gene-kelly/","created":"2024-03-13","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/people/victor-fleming/","created":"2024-06-18","updated":"2024-06-18"}
 ---
 
 
@@ -7,6 +7,6 @@
 
 | File                                                               | file.aliases                         |
 | ------------------------------------------------------------------ | ------------------------------------ |
-| [[Movies/Singin In the Rain (1952)\|Singin In the Rain (1952)]] | <ul><li>Singin In the Rain</li></ul> |
+| [[Movies/Gone With the Wind (1939)\|Gone With the Wind (1939)]] | <ul><li>Gone With the Wind</li></ul> |
 
 { .block-language-dataview}

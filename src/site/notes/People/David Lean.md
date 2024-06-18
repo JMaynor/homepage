@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/people/david-lean/","created":"2024-06-18","updated":"2024-06-18"}
+---
+
+
+# Filmography
+
+| File                                                                                   | file.aliases                                   |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Movies/The Bridge on the River Kwai (1957)\|The Bridge on the River Kwai (1957)]] | <ul><li>The Bridge on the River Kwai</li></ul> |
+| [[Movies/Lawrence of Arabia (1962)\|Lawrence of Arabia (1962)]]                     | <ul><li>Lawrence of Arabia</li></ul>           |
+
+{ .block-language-dataview}

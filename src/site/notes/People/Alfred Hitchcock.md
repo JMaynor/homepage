@@ -9,6 +9,8 @@
 | ------------------------------------------------------------------ | ------------------------------------ |
 | [[Movies/North By Northwest (1959)\|North By Northwest (1959)]] | <ul><li>North By Northwest</li></ul> |
 | [[Movies/Rear Window (1954)\|Rear Window (1954)]]               | <ul><li>Rear Window</li></ul>        |
+| [[Movies/Psycho (1960)\|Psycho (1960)]]                         | <ul><li>Psycho</li></ul>             |
+| [[Movies/Vertigo (1958)\|Vertigo (1958)]]                       | <ul><li>Vertigo</li></ul>            |
 
 { .block-language-dataview}
 

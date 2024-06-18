@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/gene-kelly/","created":"2024-03-13","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/people/stanley-donen/","created":"2024-06-18","updated":"2024-06-18"}
 ---
 
 
