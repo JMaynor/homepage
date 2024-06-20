@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pinocchio-1940/","created":"2024-05-30","updated":"2024-05-31"}
+{"dg-publish":true,"permalink":"/movies/pinocchio-1940/","created":"2024-05-30","updated":"2024-06-20"}
 ---
 
 

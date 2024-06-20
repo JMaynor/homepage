@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bambi-1942/","created":"2024-05-30","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/bambi-1942/","created":"2024-05-30","updated":"2024-06-20"}
 ---
 
 

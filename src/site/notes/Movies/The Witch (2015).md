@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-witch-2015/","created":"2023-12-26","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-witch-2015/","created":"2023-12-26","updated":"2024-06-20"}
 ---
 
 
@@ -17,4 +17,4 @@ But let's talk about the Witch specifically. I rewatched it recently on a whim, 
 
 One of the primary themes the movie expresses is isolation. The family is unsafe, they are isolated from society. We're given a number of quiet wide shots of the dark dark forest to reinforce this. We know danger lies within, but it's hidden from view. You never know when it will strike or quite what form it will take. And the knowledge that no help will be coming given the family's review location only increases the danger. But we're also dealing with social isolation. Nearly every single member of the family quarrels, keeps secrets, or actively harms the others. At nearly every opportunity, their beliefs are what separate them from each other. More than the actual influence of the witch/devil.
 
-Thomasin is obviously the center of the movie's attention.
+Thomasin is obviously the center of the movie's attention. ()
