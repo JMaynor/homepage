@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/movies/afi-top-100-list/","created":"2023-11-30","updated":"2024-06-21"}
 ---
 
 
@@ -117,7 +117,7 @@ The American Film Institute has a list, **AFI's 100 Years... 100 American Movies
 Making note of any movies I feel are missing. I would say generally the two areas I'm thinking of are either films that came after the cutoff date of the previous list that I thing could have easily ended up on the list if it was done later. Or films that work as representatives of some genre or style that I don't think the list gives enough love to.
 
 - The Shining (1980)
-Of Kubrick's two other pictures on the list, 2001 and Clockwork Orange, I would say Shining is the best of the bunch. It is one of my personal all-time faves. 2001 is far more technically impressive if that's what we're going by but purely from a film quality perspective, I would rank Shining higher. If I couldn't get another Kubrick added, I'd probably give Clockwork Orange the boot. Of the three, I would say Shining > 2001 > Clockwork Orange.
+Of Kubrick's many other pictures on the list, I would say Shining is the best of the bunch. It is one of my personal all-time faves. 2001 is far more technically impressive if that's what we're going by but purely from a film quality perspective, I would rank Shining higher. Kubrick is very well-featured on this list. But after thinking about it more, I'm not 100% sure what I would give the boot. Probably A Clockwork Orange. Maybe Spartacus. Only because I can't think of much it did that Ben-Hur didn't also do.
 
 - The Thing (1982)
 I know Hollywood cant's stand horror and that's reflected by the near complete lack of horror on the list. So if we're going to be sane and put some on the list like they fucking goddamn deserve, the Thing seems like one of the most obvious inclusions. The great practical effects that have held up extremely well and have been the model by which all others are judged by. Alien would be another good choice if I only got one. But I would consider the Thing a more pure standalone example. Alien is good but I feel it functions best when paired as a double feature with Aliens. Also it's just this whole big franchise whereas the Thing is this nice succinct experience.

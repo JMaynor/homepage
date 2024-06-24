@@ -7,7 +7,7 @@
 
 | File                                               | file.aliases                 |
 | -------------------------------------------------- | ---------------------------- |
-| [[Movies/Shane (1953)\|Shane (1953)]]           | <ul><li>Shane</li></ul>      |
 | [[Movies/Swing Time (1936)\|Swing Time (1936)]] | <ul><li>Swing Time</li></ul> |
+| [[Movies/Shane (1953)\|Shane (1953)]]           | <ul><li>Shane</li></ul>      |
 
 { .block-language-dataview}
