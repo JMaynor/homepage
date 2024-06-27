@@ -7,7 +7,7 @@
 
 | File                                                               | file.aliases                         |
 | ------------------------------------------------------------------ | ------------------------------------ |
-| [[Movies/West Side Story (1961)\|West Side Story (1961)]]       | <ul><li>West Side Story</li></ul>    |
 | [[Movies/The Sound of Music (1965)\|The Sound of Music (1965)]] | <ul><li>The Sound of Music</li></ul> |
+| [[Movies/West Side Story (1961)\|West Side Story (1961)]]       | <ul><li>West Side Story</li></ul>    |
 
 { .block-language-dataview}

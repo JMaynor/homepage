@@ -7,7 +7,7 @@
 
 | File                                                                         | file.aliases                              |
 | ---------------------------------------------------------------------------- | ----------------------------------------- |
-| [[Movies/Sophie's Choice (1982)\|Sophie's Choice (1982)]]                 | <ul><li>Sophie's Choice</li></ul>         |
 | [[Movies/All the President's Men (1976)\|All the President's Men (1976)]] | <ul><li>All the President's Men</li></ul> |
+| [[Movies/Sophie's Choice (1982)\|Sophie's Choice (1982)]]                 | <ul><li>Sophie's Choice</li></ul>         |
 
 { .block-language-dataview}

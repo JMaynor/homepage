@@ -7,7 +7,7 @@
 
 | File                                             | file.aliases                           |
 | ------------------------------------------------ | -------------------------------------- |
-| [[Movies/Nashville (1975)\|Nashville (1975)]] | <ul><li>Nashville</li></ul>            |
 | [[Movies/MASH (1970)\|MASH (1970)]]           | <ul><li>MASH</li><li>M*A*S*H</li></ul> |
+| [[Movies/Nashville (1975)\|Nashville (1975)]] | <ul><li>Nashville</li></ul>            |
 
 { .block-language-dataview}
