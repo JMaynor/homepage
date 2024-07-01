@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/people/john-huston/","created":"2024-06-17","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/john-huston/","created":"2024-06-17","updated":"2024-06-28"}
 ---
 
+
+Father of [[People/Anjelica Huston\|Anjelica Huston]]
 
 # Filmography
 
