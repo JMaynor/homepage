@@ -51,6 +51,7 @@ A list of games I've let's played on my channel in alphabetical order.
 - [[Games/Pentiment (2022)\|Pentiment (2022)]]
 - [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
 - [[Games/Scarlet Hollow (2020)\|Scarlet Hollow (2020)]]
+- [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]

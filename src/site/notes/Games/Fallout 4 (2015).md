@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-05-31"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-06-24"}
 ---
 
 
@@ -22,6 +22,7 @@ Below is a list of all mods used throughout playthrough and links to each.
 | 5.56mm Pistol Fix                                                         | https://www.nexusmods.com/fallout4/mods/60916 | Patches                         |
 | 9mm Pistol (Browning Hi-Power) Redux                                      | https://www.nexusmods.com/fallout4/mods/20143 | Weapons                         |
 | 12.7mm Pistol (Sig Sauer P127)                                            | https://www.nexusmods.com/fallout4/mods/23434 | Weapons                         |
+| All Settlements Extended - Player's Choice                                | https://www.nexusmods.com/fallout4/mods/29095 | Player Settlement               |
 | Armor and Weapon Keywords Community Resource                              | https://www.nexusmods.com/fallout4/mods/6091  | Modders Resources and Tutorials |
 | Bullet Counted Reload System                                              | https://www.nexusmods.com/fallout4/mods/41178 | Gameplay                        |
 | Capital Wasteland .32 Caliber Pistol                                      | https://www.nexusmods.com/fallout4/mods/50396 | Weapons                         |
@@ -42,6 +43,7 @@ Below is a list of all mods used throughout playthrough and links to each.
 | Force Evolution - Super Mutant Addons                                     | https://www.nexusmods.com/fallout4/mods/79308 | Creatures                       |
 | Full Dialogue Interface                                                   | https://www.nexusmods.com/fallout4/mods/1235  | User Interface                  |
 | Hairy Men for EVB-SHB-BodyTalk (the clothed version, I ain't that bad...) | https://www.nexusmods.com/fallout4/mods/24540 | Models and Textures             |
+| HUDFramework                                                              | https://www.nexusmods.com/fallout4/mods/20309 | User Interface                  |
 | Immersive Animation Framework                                             | https://www.nexusmods.com/fallout4/mods/50555 | Animation                       |
 | JRavens Extra Tracks                                                      | https://www.nexusmods.com/fallout4/mods/2741  | Audio - Music                   |
 | Lee Enfield No. 4 Mk. 1 - Britain's Finest                                | https://www.nexusmods.com/fallout4/mods/32128 | Weapons                         |
@@ -64,8 +66,10 @@ Below is a list of all mods used throughout playthrough and links to each.
 | Remote Hacking                                                            | https://www.nexusmods.com/fallout4/mods/18358 | Gameplay                        |
 | Scrap Everything                                                          | https://www.nexusmods.com/fallout4/mods/5320  | Player Settlement               |
 | Service Rifle                                                             | https://www.nexusmods.com/fallout4/mods/32361 | Weapons                         |
+| Sim Settlements 2                                                         | https://www.nexusmods.com/fallout4/mods/47976 | Player Settlement               |
 | SVT-40                                                                    | https://www.nexusmods.com/fallout4/mods/22017 | Weapons                         |
 | UCO                                                                       | https://www.nexusmods.com/fallout4/mods/18489 | Clothing                        |
 | Wattz Laser Gun                                                           | https://www.nexusmods.com/fallout4/mods/26386 | Weapons                         |
-| Wireless Power                                                            | https://www.nexusmods.com/fallout4/mods/57146 | Crafting - Home/Settlement      |
 | We Have Names                                                             | https://www.nexusmods.com/fallout4/mods/74287 | NPC                             |
+| Wireless Power                                                            | https://www.nexusmods.com/fallout4/mods/57146 | Crafting - Home/Settlement      |
+| Workshop Framework                                                        | https://www.nexusmods.com/fallout4/mods/35004 | Player Settlement               |
