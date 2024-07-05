@@ -7,7 +7,7 @@
 
 | File                                             | file.aliases                |
 | ------------------------------------------------ | --------------------------- |
-| [[Movies/Pinocchio (1940)\|Pinocchio (1940)]] | <ul><li>Pinocchio</li></ul> |
 | [[Movies/Dumbo (1941)\|Dumbo (1941)]]         | <ul><li>Dumbo</li></ul>     |
+| [[Movies/Pinocchio (1940)\|Pinocchio (1940)]] | <ul><li>Pinocchio</li></ul> |
 
 { .block-language-dataview}
