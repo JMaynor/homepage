@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/people/stanley-kubrick/","created":"2024-01-29","updated":"2024-06-21"}
+{"dg-publish":true,"permalink":"/people/stanley-kubrick/","created":"2024-01-29","updated":"2024-07-08"}
 ---
 
 
+# Filmography
+
 | File                                                                   | file.aliases                                         |
 | ---------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[Movies/A Clockwork Orange (1971)\|A Clockwork Orange (1971)]]     | <ul><li>A Clockwork Orange</li></ul>                 |
 | [[Movies/2001 A Space Odyssey (1968)\|2001 A Space Odyssey (1968)]] | <ul><li>2001: A Space Odyssey</li><li>2001</li></ul> |
+| [[Movies/A Clockwork Orange (1971)\|A Clockwork Orange (1971)]]     | <ul><li>A Clockwork Orange</li></ul>                 |
 | [[Movies/Barry Lyndon (1975)\|Barry Lyndon (1975)]]                 | <ul><li>Barry Lyndon</li></ul>                       |
 | [[Movies/Dr. Strangelove (1964)\|Dr. Strangelove (1964)]]           | <ul><li>Dr. Strangelove</li></ul>                    |
 | [[Movies/Eyes Wide Shut (1999)\|Eyes Wide Shut (1999)]]             | <ul><li>Eyes Wide Shut</li></ul>                     |
