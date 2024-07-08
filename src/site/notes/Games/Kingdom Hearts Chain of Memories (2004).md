@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","created":"2024-03-05","updated":"2024-03-14"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","created":"2024-03-05","updated":"2024-07-08"}
 ---
 
 
