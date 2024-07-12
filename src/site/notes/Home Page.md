@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-05-28"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-07-12"}
 ---
 
 
@@ -8,6 +8,7 @@
 > Hello and welcome to my homepage! My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do let's plays on YouTube and I stream on Twitch with a group of friends on the Alderoth Circle. More recently, I've been trying to write more. Blogging, writing creatively, etc. Thus, the website.
 > [📺YouTube Channel](https://youtube.com/@jordan_maynor)
 > [🎮Alderoth Circle](https://www.twitch.tv/TheAlderothCircle)
+> ⌨[Github](https://github.com/JMaynor)
 
 # Blog Posts
 
@@ -23,7 +24,7 @@
 
 # Let's Plays
 
-A list of games I've let's played on my channel in alphabetical order.
+A list of games I've let's played or are in the process of playing on my channel.
 
 - [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]
 - [[Games/American Arcadia (2023)\|American Arcadia (2023)]]
