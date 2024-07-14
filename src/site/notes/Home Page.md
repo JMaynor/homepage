@@ -47,6 +47,7 @@ A list of games I've let's played or are in the process of playing on my channel
 - [[Games/Mundaun (2021)\|Mundaun (2021)]]
 - [[Games/Night in the Woods (2017)\|Night in the Woods (2017)]]
 - [[Games/No one lives under the lighthouse (2020)\|No one lives under the lighthouse (2020)]]
+- [[Games/Norco (2022)\|Norco (2022)]]
 - [[Games/Omen Exitio Plague (2018)\|Omen Exitio Plague (2018)]]
 - [[Games/Outer Wilds (2019)\|Outer Wilds (2019)]]
 - [[Games/Pentiment (2022)\|Pentiment (2022)]]
