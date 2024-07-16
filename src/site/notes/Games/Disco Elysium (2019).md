@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-01"}
+{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-16"}
 ---
 
-
-# Summary
 
 # Review
 
@@ -22,3 +20,7 @@ The other part of the equation is realness. *Not*, to be clear, realistic. Silly
 One example of realness that comes to mind is the scene in Disco where you discover the body on the pier. It has no connection to your assigned case (despite what nonsense your Inland Empire might cook up), it's just a sad happenstance. After a little detective work, you can learn that the man that died is from the area and has a family. It's your duty to deliver that news. Your duty to start one of the worst days of this woman's life. You do your best, being as empathetic as possible, because it's the right thing to do. And when she asks how long he has been dead (seemingly several days) you lie to her and say that it couldn't have been long. Because you have to, it's the human thing to do to spare her that unnecessary pain. That's realness.
 
 # Links
+
+# Quotes
+
+> You are 44 years old. The bloating might never leave your face, but beneath it -- you still have some years. You still have some hope.
