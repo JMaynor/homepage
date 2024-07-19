@@ -1,0 +1,69 @@
+---
+{"dg-publish":true,"permalink":"/games/elden-ring-2022/","created":"2024-06-08","updated":"2024-07-19"}
+---
+
+
+# Summary
+
+# Review
+
+I don't think I ever properly reviewed the game. With Elden Ring once again darkening our doorsteps, let's get into it. First off I would say that in general it is an enjoyable experience to play. It is, however, one of my least favorite From Software games. But let's talk about why.
+
+If I were capable of waving a magic wand and making the world as it ought to be, then one thing I would do is completely insulate FromSoft from the fans. I think the fans' influence is nothing but malign. The try-hard knobheads who scream that every game must be more difficult than the previous, otherwise what's the point. Please ma'am just step on my balls I'm a lowly worm that deserves it. I wish these people would get lost and go play call of duty. Unfortunately Elden Ring was a smash success so there's more of them about than at any other time in the company's history.
+
+I would argue that the run of Demon's Souls to Dark Souls to Dark Souls 2 to Bloodborne was the peak. We reached the apex with Bloodborne in particular. And it's been downhill from there. I would argue a significant bit of that because of the difficulty. If you go back and play one of the previous games after having played one of the newer ones, one of the standout things that is often noted by people is how easy some of the bosses are. I feel we've crossed some difficulty event horizon. Expectations are too high of the player. In particular the string of bosses in the latter third of Elden Ring have stupidly inflated health pools and expect near perfect reflexes for too long a period of time. Let's go back to some of the most difficult bosses in what I'm considering the overall best FromSoft games. Artorias, Fume Knight, Orphan of Kos to name a few. You can get hit by each of these bosses multiple times without dying. And each has significantly more openings that the player can take advantage of. I strongly believe that if you were to graph the average amount of time a boss is vulnerable to taking damage, that has gone down and down and down over time as each new game has released. And worse I also feel that the bosses do more and more damage and have higher health. So you need to be perfect over longer periods of time.
+
+As a note, my favorite boss fight in Elden Ring, unequivocally, is the Ancestor Spirit. The big ghostly deer you get to after doing the silly Zelda light the torch puzzle in the underground area. He's not difficult at all, but the fight is brimming with style and atmosphere. The music in particular creating a hauntingly beautiful backdrop to the fight. My second favorite would be Astel, the big space bug. Similarly, not a hard fight but one that is rather beautiful in its spectacle. Elden Ring, of course, chooses to copy and paste both of these boss fights for no fucking reason. So you fight slightly more difficult versions of each those two further in the game. Because nothing can just be special and the magic has to be as diffused as possible.
+
+Another problem that I have with the game is I really did not find the story enticing at all. I think this is partially a George R.R. Martin problem. Now having seen a good deal of Game of Thrones, I can feel his influence. There's too many goddamn people. People joked about the thousand of G names, R names, and M names in Elden Ring, but that's a genuine issue. Why are there a thousand different people that all largely overlap in terms of what narrative purpose they seem to serve? As a general rule, I'm on the side of minimalism. Art being finished when nothing more can be taken away as opposed to when nothing more can be added. Not an absolute rule but a guideline I am considering most of the time. So I don't like that you can take 3-4 characters at times and mash them together and nothing is really being lost.
+
+What's worse, I don't really understand what Elden Ring is *about*. What is the thesis statement? And how does it differentiate itself from its predecessors? I'm a strong believer in thesis statements. Most any creative work be it movie, game, or show should be able to be boiled down into a 1 or 2 sentence thesis statement. If you can't do that, then you nearly always have a structural problem. Or a lack of focus. A thesis statement doesn't have to be the end-all-be-all. You can absolutely have other things in a work that don't necessarily directly relate to the thesis statement. But on the other hand, it is something that you should keep in the back of your mind and if you notice that there is some notable part of your work that does not support your thesis statement when other parts do, that's a potential area for improvement. *Could* it support the thesis? If it cannot, does it *need* to be there?
+
+Let's look at previous entries and what could potentially be said to be their thesis statements.
+
+- Demon's Souls
+On the brink of ruin, one person can undo catastrophe. Or leave the world to its doom.
+
+- Dark Souls 1
+Experiencing a lonely and dying world characterized by small moments of humanity and connection with others.
+
+- Dark Souls 2
+The system has failed. Learn to accept what can and cannot be changed or reject the binary and find a third way.
+
+- Bloodborne
+The struggle of attempting to understand one's place in the world when there are higher powers pulling the strings. The presence and absence of a mother's influence.
+
+- Dark Souls 3
+The system has failed and the powers that be have abdicated their responsibility. But what's worse is the fix that would normally have worked no longer will. That sucks.  (we're getting a bit wordy here)
+
+- Sekiro
+I dunno what Sekiro's about because it was too hard for me.
+
+- Elden Ring
+As before, the system has failed. The powers that be have not abdicated responsibility but instead vie for control. Choose between various different philosophies on how the world ought to be.
+
+That's about as general as I can get Elden Ring's thesis. But when you think about it, that thesis also doesn't really *say* anything. We haven't really revealed anything or explored a clear theme. Rather, what's happening is "status quo is shit, what other options do we have?" And then there are a series of different options. That's all well and good, but I think the problem with that is that 1) of the endings that we have, 3 or 4 are near carbon copies of each other. So why are they there? And 2) vast swathes of the game don't really support the endings that *do* demonstrably differ from each other. When I say the game isn't supporting the endings, what I mean is that there is a lot of text being read and experiences being had (in terms of gameplay) that don't directly do work on the endings. In my opinion one of the most interesting areas in the game and the most concise is the Volcano Manor. But it has seemingly zero bearing on any of the endings you might get. So why do we go there?
+
+Let's look at Dark Souls 1 for comparison. Keeping in mind that the thesis statement I'm going with is "A lonely and dying world characterized by small moments of humanity and connection." And for the sake of being more than fair, let's look at one of the *worst* areas in the game and use it as a benchmark. Lost Izalith is frequently cited as the worst, but it does do direct work on the thesis. Throughout the game we've seen a couple examples of demons, the twisted result of the Witches of Lost Izalith attempting to subvert the natural order by creating a new First Flame. When we get to its source we see life run amok, lava overflowing the city and the Witch herself reduced to a wretched little bug beneath a tree. She serves as a parallel to Gwyn's original sin. A different attempt to accomplish the same thing. Preserve the past. But for the Witch's hubris she gets a worse end than the other lords.
+
+Here also we see the potential end to Siegmeyer's questline. Siegmeyer has struggled with finding purpose. At every juncture you the player have made him unnecessary. You've cleared all obstacles for him and so he has no real purpose anymore as the traveling warrior archetype. In Lost Izalith he goes ahead of you to attempt to clear out a dangerous area, the clear expectation that he will die in doing so. The world is a sad place and it has no real use for Siegmeyer. But for a moment he can try and clear the way for a friend. Setting aside the suicide parallels and taking this on its face. This is some great stuff. It's a moment of human connection. You, the character, understand that what Siegmeyer wants is to be useful and to prove himself as some great warrior. So you let him go to his death, dying with dignity fighting for you. You could instead once again clear the way for him, but after this he goes hollow and at the end his own daughter has to do him in. It's a demonstrably worse end for him then where he goes to his death of his own volition. Dark Souls characters aren't the deepest of wells. We're not looking at literary masterpieces here. But we've got enough depth that we can fill in some blanks and enjoy the short conversations we have with them and see a human being behind the carboard vignette of a person.
+
+## DLC Review
+
+This fixed none of the issues that I had with the game and frequently just doubled down on them. Also did not like the constant fan-service/boss redos. Whatever you wanna call it. Same exact problem I had with majority of Dark Souls 3. Where we spend more time treading old ground than exploring new ideas. Overall, didn't enjoy it. Which is sad, because DLC was a frequent highpoint in previous games of the series. Artorias of the Abyss. The Lost Crowns. Old Hunters. Frequently had some of the best content in the game.
+
+First, I'm gonna say again, these games have become unfun from how they insist on upping the ante. A guy with a sword used to just be a guy with a sword. Now they fly around the arena shooting lasers out of their eyes, doing delayed hits, and having extended combos that end with AOEs. It's just stupid. The people that argue making the games easier would be "going backward" have heads filled with sand. Difficulty was never the best part of this series and the people that think it was are stupendously blind. How can you so easily trade away every good thing in the series in service of more difficulty? Please for the love of God just go play Call of Duty. I know it's a pointless argument. I'm of the old days and they are the new ones in this land. They're bound to capture the land and push out the dissenters. But allow me the small mercy of being able to look back on the land I once cultivated and shed a tear for what was lost.
+
+Anyway, I will admit that I came into the DLC with trepidation. I wasn't fully opening my heart to it and so a lot of what I may have found enjoyable or good in other circumstances instead bounced off. However, I only had my heart closed because of how far from what I wanted the main game was. Just something to keep in mind before we go ahead and get into it.
+
+Let's talk about the lore. Miquella. I was surprised the DLC ended up being exactly what people expected. I was almost starting to appreciate the "answers to questions you weren't even asking" approach they seemed to be using in the past. I remember everyone was *certain* we'd be getting a Londor DLC. Nope, here's this other random city you've never heard of. I guess that that's nice. It's a little weird.
+
+I get that some people's souls are lit ablaze from being put in the big sandbox. For me, it's a temporary interest that quickly wears out its welcome. In the main game, every single time we got into one of the legacy dungeons I felt life coming back to me. It's a sad thing. The problem with this big open world is you can't put anything that's really important anywhere, because your player is significantly more likely to miss it than if it were in a dungeon. So the whole open world is filled to the brim with stupid crafting items I don't give a shit about and don't want. I feel very little desire to peak around every corner because 99% of the time there is nothing of interest there. By the time we got to the DLC, there was whole areas where I'm just like "Eh, screw it, move on." I guess it was better here in that everything was smaller. So it did feel more manageable. Whereas in the main game, by the 2/3rd point, I was actively thinking "Jesus Christ, this is a lotta shit to get through."
+
+There's definitely some pretty areas. From remains at the top of their game in terms of vistas. But again, sad when those vistas contain so little. I really don't like that so much of my time spent navigating these interesting vistas is taken up hoovering in these hundreds and hundreds of crafting materials that I don't want. It spoils the good bits of the game when you have this constant malaise of whatever you have to wade through. I much prefer when you have the striking vistas and then can go over and explore it and find good and interesting things. Dark Souls 3 is a game I'm very mild on, but the Irithyll reveal after leaving the Catacombs is top tier. Whereas in Elden Ring, there's definitely some beautiful vistas but they don't really fell like they have as much as staying power to me. I would say the best one is the first time you see Liurnia.
+
+Overall, wasn't terrible but could have been better. I really don't like the direction From has been heading in and I sincerely hope we get some slower games in the future.
+
+# Links
+
+Seamless Co-Op https://www.nexusmods.com/eldenring/mods/510
