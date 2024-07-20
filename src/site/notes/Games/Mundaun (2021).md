@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/mundaun-2021/","tags":["LP"],"created":"2024-04-29","updated":"2024-05-28"}
+{"dg-publish":true,"permalink":"/games/mundaun-2021/","tags":["LP"],"created":"2024-04-29","updated":"2024-07-20"}
 ---
 
 
@@ -18,3 +18,5 @@ Or another comparison would be to psychological horror. Mundaun, obviously, is n
 I do feel a bit mixed on the ending. I think that I wish fewer games would do the multiple endings thing. I'm sure people would bitch because "muh playa choice!" but I really don't think it's necessary in like a good third or half of cases where it's present. Necessary in a narrative sense. When done well it can add a lot of weight to what you've done throughout a game. But I feel it's well overdone. I enjoyed the little story of Mundaun and I don't think the presence of multiple endings really added anything. I would've preferred a clear canonical series of events. As it was, I felt unsure at the end whether I got a "bad" ending or not. To be clear, I'm not at all against delving into endings that are more mixed or even outright bad (in the sense of having no good options). But when there are alternatives, I can't help but wonder if perhaps I should have done something differently. But when a bad or mixed ending is the only ending a game has, I'm much more likely to let it sit with me and accept it.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvH8UfSm0WUm1hyy3jUS88g

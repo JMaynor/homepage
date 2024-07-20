@@ -52,7 +52,7 @@ A list of games I've let's played or are in the process of playing on my channel
 - [[Games/Outer Wilds (2019)\|Outer Wilds (2019)]]
 - [[Games/Pentiment (2022)\|Pentiment (2022)]]
 - [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
-- [[Games/Scarlet Hollow (2020)\|Scarlet Hollow (2020)]]
+- [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]
 - [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]

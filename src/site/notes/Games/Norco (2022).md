@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP"],"created":"2024-07-11","updated":"2024-07-14"}
+{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP"],"created":"2024-07-11","updated":"2024-07-20"}
 ---
 
 
@@ -12,3 +12,5 @@ The second in the batch of indie games I recently bought cuz of how interesting 
 # Review
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQsRcQ7Ur1OnTkwf1BIyAznJ

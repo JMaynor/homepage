@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["LP"],"created":"2024-05-21","updated":"2024-07-11"}
+{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["LP"],"created":"2024-05-21","updated":"2024-07-20"}
 ---
 
 
@@ -26,3 +26,5 @@ It seems clear to me with the ending screen that sums up what you did and the le
 I did very much enjoy the Twin Peaks of everything. The insane way everyone acts and the small town energy. Hoping that continues in the future.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvvu8nnkCwUkx5FiCCrz7oC

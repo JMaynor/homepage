@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/games/mass-effect-1-2007/","tags":["LP"],"created":"2023-12-08","updated":"2024-05-07"}
+{"dg-publish":true,"permalink":"/games/mass-effect-1-2007/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
 ---
 
 
 # Summary
+
+The Mass Effect trilogy is a series of action RPG games developed by Bioware and published by EA from 2007-2012. They were originally released for consoles, but have been re-released in 2021 as Mass Effect Legendary Edition. The series follows Commander Shepard and their crew's fight against the Reapers, the Collectors, and much more.
+
+In Legendary Edition, we've gotten a number of graphical improvements, some gameplay changes, as well as the inclusion of all the DLC that was released over the original games' lives. I'm a big fan of the series and am excited to dive back into it. I've made the decision to play it all on Insanity difficulty (Why did you allow me to do that, viewer?). So expect death and lots of it!
 
 # Review
 
@@ -16,3 +20,5 @@ I think, in general, the shape of the characters does a lot of heavy lifting for
 And so a lot of the things that would normally get criticized, are instead swept aside. Mass Effect is a game that is more than the sum of its parts. Its some of the best of Bioware, though I can't help but feel a little disappointed in that. Again, I can critically point out many things I don't like even though I like the final product. What could we have had then if the writing had proper depth and nuance. Imagine injecting some Disco Elysium into the Mass Effect universe. My gawd.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQsrknDNY9tM3YHRDrVsETma

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-pale-beyond-2023/","tags":["LP"],"created":"2024-02-14","updated":"2024-05-01"}
+{"dg-publish":true,"permalink":"/games/the-pale-beyond-2023/","tags":["LP"],"created":"2024-02-14","updated":"2024-07-20"}
 ---
 
 
@@ -30,3 +30,5 @@ I wonder if perhaps Minerva is a four dimensional woman as well? There is the en
 I'm left wondering if there will ever be any followup on this plot thread. A sequel or spinoff or something. Some novelization would be nice. It's really intriguing, but I'm not even sure how you broach it without going into the Zero Escape time travel insanity land^[Should probably talk about that sometime. I played the series and have very conflicting feelings so could probably go off for a while]. If my reading here is even correct. If it is though, I have to say, this is easily one of the biggest examples of burying the lede I've seen. I had no idea of any of this was in the game at all. Great stuff. Really enjoyed the game and the thoughts it left me with afterward.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQtVW36Z49mUofP3cKQQv9xO

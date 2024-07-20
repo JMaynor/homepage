@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-07-02"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-07-20"}
 ---
 
 
@@ -12,6 +12,8 @@ I've played Fallout 4 before soon after it first released, but I didn't gel with
 # Review
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvJrxX84xzLCamHCIR9vw4u
 
 Below is a list of all mods used throughout playthrough and links to each.
 

@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["LP"],"created":"2024-01-08","updated":"2024-04-08"}
+{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["LP"],"created":"2024-01-08","updated":"2024-07-20"}
 ---
 
 
 # Summary
+
+Tormented Souls is a survival horror game released in 2021. It was developed by Dual Effect & Abstract Digital and was published by PQube Ltd. It is a retro-styled game, clearly hearkening back to Resident Evil. In it you play as Caroline Walker, who is investigating the disappearance of two young girls in a mansion that is simultaneously also a hospital. Had to get all the classic horror inspirations in there, I see.
+
+This game was recommended by Kole of Watch Out for Fireballs! on their episode of Signalis when they were talking about the recent resurgence of retro survival horror stuff. As a long-time listener of Kole and Gary, I've come to trust their opinions on games very much, so I wanted to see what this was all about. That and I also had a hankering for some classic horror games. Had been considering doing a Silent Hill or a Resident Evil (probably will still do a Silent Hill at some point in the relatively near future btw).
 
 # Review
 
@@ -12,3 +16,5 @@ Tormented Souls was interesting. I wanted to play it largely because I was in th
 I also don't know how I feel about the time travel elements. I thought the bit with the eye was clever and enjoyed that, but it did get me thinking about what sort of rules we're working by. I'm not that nit-picky of a person. My rule with time travel is it just needs to feel right. Rather than needing to be totally consistent with some arbitrarily decided on rules the author has constructed. Because this is a fictional thing we're talking about after all. But it did come to mind. How are we taking Anna out of the past but also my eye is already gone by the beginning of the game? Can time be changed or no? Because I woulda just woke myself up instead of taking the eye. Again, I normally would've wallpapered past this, but I think it comes down to what you're actually needing to do. It's quite a lot, so it makes my mind look for alternatives. Just my two cents.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQtVAuSG_SsGA5bZK5d7Ycrf

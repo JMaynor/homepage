@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/games/visage-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/games/visage-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
 ---
 
 
 # Summary
+
+Visage is a psychological horror indie game by SadSquare Studio. It was originally released as a demo in 2018 following a Kickstarter and Steam Greenlight campaign, and later fully released for PC, XBox One, and PS4 in late 2020.
+
+I'm excited to start playing a bit of horror on my channel. I've always loved the genre, in particular the slower-burn psychological stuff. Hope you enjoy!
 
 # Review
 
@@ -12,3 +16,5 @@ Visage was great, one of my fave horrors. I think Rakan chapter was the clear we
 Game had really memorable visuals overall. The infinite stairs sequence in the Dolores chapter. The hell sequences in the mirror mask bits. The "friend" enemy in Lucy's chapter. Just some parts of it that stood out in my memory. The game does make me wish I could have played PT, or *could* play it in the future...
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvwtkq_dRy5_JKltcuiUNQD

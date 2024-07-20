@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-16"}
+{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
 ---
 
+
+# Summary
+
+Disco Elysium is an RPG released in 2019 for all the platforms. It was developed and published by ZA/UM. You play as a detective who, with his partner, attempts to solve a murder case. If he can manage to get his ramshackle life together that is. We're also playing the Final Cut, a version of the game that was later released in 2021 with voice-acting and some extra bits and bobs.
+
+I've heard nothing but amazing things about this game since it released. One of them there "best game I've ever played" sorta games, so I'm very much looking forward to playing it.
 
 # Review
 
@@ -20,6 +26,8 @@ The other part of the equation is realness. *Not*, to be clear, realistic. Silly
 One example of realness that comes to mind is the scene in Disco where you discover the body on the pier. It has no connection to your assigned case (despite what nonsense your Inland Empire might cook up), it's just a sad happenstance. After a little detective work, you can learn that the man that died is from the area and has a family. It's your duty to deliver that news. Your duty to start one of the worst days of this woman's life. You do your best, being as empathetic as possible, because it's the right thing to do. And when she asks how long he has been dead (seemingly several days) you lie to her and say that it couldn't have been long. Because you have to, it's the human thing to do to spare her that unnecessary pain. That's realness.
 
 # Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvvFQAgf0WsQcLSwK8hwK5R
 
 # Quotes
 
