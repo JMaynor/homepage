@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/disney-retrospective/","created":"2024-05-28","updated":"2024-06-04"}
+{"dg-publish":true,"permalink":"/movies/disney-retrospective/","created":"2024-05-28","updated":"2024-07-20"}
 ---
 
 
@@ -22,7 +22,7 @@ Inspired by streaming the Kingdom Hearts series and the knowledge that (as of th
 | 1951 | Alice in Wonderland                    |                                                   |
 | 1953 | Peter Pan                              |                                                   |
 | 1955 | Lady and the Tramp                     |                                                   |
-| 1959 | Sleeping Beauty                        |                                                   |
+| 1959 | Sleeping Beauty                        | [[Movies/Sleeping Beauty (1959)#Review\|Sleeping Beauty (1959)#Review]]                 |
 | 1961 | One Hundred and One Dalmatians         |                                                   |
 | 1963 | The Sword in the Stone                 |                                                   |
 | 1967 | The Jungle Book                        |                                                   |
@@ -41,7 +41,7 @@ Inspired by streaming the Kingdom Hearts series and the knowledge that (as of th
 | 1994 | The Lion King                          |                                                   |
 | 1995 | Pocahontas                             |                                                   |
 | 1996 | The Hunchback of Notre Dame            |                                                   |
-| 1997 | Hercules                               |                                                   |
+| 1997 | Hercules                               | [[Movies/Hercules (1997)#Review\|Hercules (1997)#Review]]                        |
 | 1998 | Mulan                                  |                                                   |
 | 1999 | Tarzan                                 |                                                   |
 | 2000 | Dinosaur                               |                                                   |
