@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-07-12"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-07-23"}
 ---
 
 
@@ -22,9 +22,9 @@
 - [[Movies/AvP Retrospective\|AvP Retrospective]]
 - [[Movies/Disney Retrospective\|Disney Retrospective]]
 
-# Let's Plays
+# Let's Plays and Streams
 
-A list of games I've let's played or are in the process of playing on my channel.
+A list of games I've let's played or are in the process of playing on my YT channel.
 
 - [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]
 - [[Games/American Arcadia (2023)\|American Arcadia (2023)]]
@@ -63,6 +63,33 @@ A list of games I've let's played or are in the process of playing on my channel
 - [[Games/The Witness (2016)\|The Witness (2016)]]
 - [[Games/Tormented Souls (2021)\|Tormented Souls (2021)]]
 - [[Games/Visage (2020)\|Visage (2020)]]
+
+{ .block-language-dataview}
+
+A list of games that I've streamed at one point or another on TAC. There's other games I've been involved with, but these are the ones that I myself streamed or ones that I at least strongly involved with.
+
+- [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]
+- [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]
+- [[Games/Cuphead (2017)\|Cuphead (2017)]]
+- [[Games/Diner Bros\|Diner Bros]]
+- [[Games/Elden Ring (2022)\|Elden Ring (2022)]]
+- [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]
+- [[Games/Helldivers (2015)\|Helldivers (2015)]]
+- [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]
+- [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]
+- [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
+- [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]
+- [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]
+- [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]
+- [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]
+- [[Games/Paradox Games\|Paradox Games]]
+- [[Games/Signalis (2022)\|Signalis (2022)]]
+- [[Games/Sims 4 (2014)\|Sims 4 (2014)]]
+- [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
+- [[Games/We Were Here (2017)\|We Were Here (2017)]]
+- [[Games/We Were Here Forever (2022)\|We Were Here Forever (2022)]]
+- [[Games/We Were Here Together (2019)\|We Were Here Together (2019)]]
+- [[Games/We Were Here Too (2018)\|We Were Here Too (2018)]]
 
 { .block-language-dataview}
 
