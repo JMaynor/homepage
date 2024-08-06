@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["LP"],"created":"2024-05-21","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["LP"],"created":"2024-05-21","updated":"2024-08-05"}
 ---
 
+
+![779efbd24d5a7e37ce8dc93e7c04d572.jpg](/img/user/Attachments/779efbd24d5a7e37ce8dc93e7c04d572.jpg)
 
 # Summary
 

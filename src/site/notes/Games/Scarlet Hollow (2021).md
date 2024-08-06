@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/scarlet-hollow-2021/","tags":["LP"],"created":"2024-02-13","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/scarlet-hollow-2021/","tags":["LP"],"created":"2024-02-13","updated":"2024-08-05"}
 ---
 
+
+![library_hero(29).jpg](/img/user/Attachments/library_hero(29).jpg)
 
 # Summary
 

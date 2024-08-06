@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["LP"],"created":"2024-02-10","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["LP"],"created":"2024-02-10","updated":"2024-08-05"}
 ---
 
+
+![library_hero(27).jpg](/img/user/Attachments/library_hero(27).jpg)
 
 # Summary
 

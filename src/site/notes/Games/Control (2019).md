@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/control-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/control-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-08-05"}
 ---
 
+
+![35b50410da00df8ef6c41f0cb537a9a3.png](/img/user/Attachments/35b50410da00df8ef6c41f0cb537a9a3.png)
 
 # Summary
 

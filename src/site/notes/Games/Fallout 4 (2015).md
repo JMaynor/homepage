@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP"],"created":"2024-03-17","updated":"2024-08-05"}
 ---
 
+
+![library_hero(33).jpg](/img/user/Attachments/library_hero(33).jpg)
 
 # Summary
 

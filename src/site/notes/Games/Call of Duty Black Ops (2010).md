@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/call-of-duty-black-ops-2010/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/call-of-duty-black-ops-2010/","tags":["LP"],"created":"2023-12-08","updated":"2024-08-05"}
 ---
 
+
+![library_hero(24).jpg](/img/user/Attachments/library_hero(24).jpg)
 
 # Summary
 

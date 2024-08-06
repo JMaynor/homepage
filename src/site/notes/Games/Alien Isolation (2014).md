@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/alien-isolation-2014/","tags":["LP"],"created":"2023-12-01","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/alien-isolation-2014/","tags":["LP"],"created":"2023-12-01","updated":"2024-08-05"}
 ---
 
+
+![library_hero(10).jpg](/img/user/Attachments/library_hero(10).jpg)
 
 # Summary
 

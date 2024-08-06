@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/smile-for-me-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/smile-for-me-2019/","tags":["LP"],"created":"2023-12-08","updated":"2024-08-05"}
 ---
 
+
+![library_hero(20).jpg](/img/user/Attachments/library_hero(20).jpg)
 
 # Summary
 

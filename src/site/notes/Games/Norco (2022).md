@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP"],"created":"2024-07-11","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP"],"created":"2024-07-11","updated":"2024-08-05"}
 ---
 
+
+![library_hero(34).jpg](/img/user/Attachments/library_hero(34).jpg)
 
 # Summary
 
