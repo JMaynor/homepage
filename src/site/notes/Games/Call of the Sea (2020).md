@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/call-of-the-sea-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/games/call-of-the-sea-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-08-05"}
 ---
 
+
+![library_hero.jpg](/img/user/Attachments/library_hero.jpg)
 
 # Summary
 
