@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(29).jpg](/img/user/Attachments/library_hero(29).jpg)
+![Hero Scarlet Hollow.jpg](/img/user/Attachments/Hero%20Scarlet%20Hollow.jpg)
 
 # Summary
 

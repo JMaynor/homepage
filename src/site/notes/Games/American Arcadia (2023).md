@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(28).jpg](/img/user/Attachments/library_hero(28).jpg)
+![Hero American Arcadia.jpg](/img/user/Attachments/Hero%20American%20Arcadia.jpg)
 
 # Summary
 

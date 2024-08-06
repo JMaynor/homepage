@@ -3,7 +3,7 @@
 ---
 
 
-![35b50410da00df8ef6c41f0cb537a9a3.png](/img/user/Attachments/35b50410da00df8ef6c41f0cb537a9a3.png)
+![Hero Control.png](/img/user/Attachments/Hero%20Control.png)
 
 # Summary
 

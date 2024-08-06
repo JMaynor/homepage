@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(26).jpg](/img/user/Attachments/library_hero(26).jpg)
+![Hero Tormented Souls.jpg](/img/user/Attachments/Hero%20Tormented%20Souls.jpg)
 
 # Summary
 

@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(23).jpg](/img/user/Attachments/library_hero(23).jpg)
+![Hero Pentiment.jpg](/img/user/Attachments/Hero%20Pentiment.jpg)
 
 # Summary
 

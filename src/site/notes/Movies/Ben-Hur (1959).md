@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["review"],"created":"2023-11-30","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["review"],"created":"2023-11-30","updated":"2024-08-06"}
 ---
 
+
+![[Poster Ben-Hur (1959).jpg \| 200]]
 
 # Review
 

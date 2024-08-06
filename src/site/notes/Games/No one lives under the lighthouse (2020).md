@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(21).jpg](/img/user/Attachments/library_hero(21).jpg)
+![Hero No one lives under the lighthouse.jpg](/img/user/Attachments/Hero%20No%20one%20lives%20under%20the%20lighthouse.jpg)
 
 # Summary
 

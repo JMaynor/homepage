@@ -3,7 +3,7 @@
 ---
 
 
-![library_hero(8).jpg](/img/user/Attachments/library_hero(8).jpg)
+![Hero Amnesia Rebirth.jpg](/img/user/Attachments/Hero%20Amnesia%20Rebirth.jpg)
 
 # Summary
 
