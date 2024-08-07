@@ -12,4 +12,8 @@ updates:
     ignore:
       - dependency-name: "@sindresorhus/slugify"
         # For slugify, ignore all updates.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
         
