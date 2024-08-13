@@ -23,15 +23,23 @@ jobs:
   build_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          args: --output _dist
-          install_dependencies: true
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+          node-version: '21'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          publish_dir: _site
+          publish_dir: ./dist
           publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
