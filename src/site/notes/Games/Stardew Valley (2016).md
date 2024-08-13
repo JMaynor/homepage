@@ -16,3 +16,11 @@ I called the player character a sociopath earlier. A strong condemnation, but no
 Why is there a system to erase your spouse's memories of your relationship? Or delete your children and turn them into doves? I know why. It's for all the insane people that say "I gotta get all the good boy points with everyone and see everything." These people are not reasonable, they are insane. And they don't need to be catered to. It's so sociopathic and dark. I just think of the humanity of a Disco Elysium and how far from that this is sometimes. It's very frustrating because the whole game *feel*s like it should be some lovely Studio Ghibli fun times. Where we learn about nature and each other and it's bright and nice. To some degree it is, but there's these systemic problems with it that I have real trouble reconciling with the overt themes the game presents.
 
 # Links
+
+# To Do List
+- ~~Shad~~ - river in forest or town, raining
+- ~~catfish~~ - secret woods, raining
+- ~~pufferfish~~ - summer beach 12-4
+- ~~tuna~~ - summer winter beach 6am-7pm
+- ~~sturgeon~~ - summer winter mountain lake
+- walleye - fall rain everywhere

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-23"}
+{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-12"}
 ---
 
+
+![Hero Cuphead.jpg](/img/user/Attachments/Hero%20Cuphead.jpg)
 
 # Summary
 
