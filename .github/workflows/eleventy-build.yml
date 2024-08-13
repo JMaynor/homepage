@@ -31,6 +31,10 @@ jobs:
           node-version: 21
       - name: Install dependencies
         run: npm install
+      - name: Install Sass
+        run: npm install sass
+      - name: Compile SCSS to CSS
+        run: npx sass src/site/styles:dist/styles
       - name: Build site
         run: npx @11ty/eleventy
       - uses: actions/upload-pages-artifact@v3
