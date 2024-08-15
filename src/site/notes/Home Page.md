@@ -12,10 +12,12 @@
 
 # Blog Posts
 
-- [[Blog/2024-05-28 Disney Magic Retrospective\|2024-05-28 Disney Magic Retrospective]]
-- [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]
-- [[Blog/2023-11-30 AFI Top 100 List\|2023-11-30 AFI Top 100 List]]
-- [[Blog/2023-08-14 AvP Retrospective\|2023-08-14 AvP Retrospective]]
+| Post                                                                                     | Summary                                                                                                                    |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2024-05-28 Disney Magic Retrospective\|2024-05-28 Disney Magic Retrospective]] | Review of all the Disney animated films and whether I feel each is magical or not.                                         |
+| [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]           | Thoughts on games I've played on my youTube channel and how I think things have gone up till now with it.                  |
+| [[Blog/2023-11-30 AFI Top 100 List\|2023-11-30 AFI Top 100 List]]                     | Short review of each of the films in the 2007 version of the American Film Institute's top 100 American films of all time. |
+| [[Blog/2023-08-14 AvP Retrospective\|2023-08-14 AvP Retrospective]]                   | Short review of each of the Alien, Predator, and AvP films inspired by my enjoyment of playing Alien Isolation.            |
 
 { .block-language-dataview}
 
