@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/if-on-a-winter-s-night-four-travelers-2021/","tags":["streamed"],"created":"2023-12-15","updated":"2024-06-04"}
+{"dg-publish":true,"permalink":"/games/if-on-a-winter-s-night-four-travelers-2021/","tags":["streamed"],"created":"2023-12-15","updated":"2024-08-14"}
 ---
 
+
+![Hero If On a Winter's Night.jpg](/img/user/Attachments/Hero%20If%20On%20a%20Winter's%20Night.jpg)
 
 # Summary
 

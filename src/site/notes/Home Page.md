@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-08-13"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-08-14"}
 ---
 
 
@@ -12,15 +12,12 @@
 
 # Blog Posts
 
+- [[Blog/2024-05-28 Disney Magic Retrospective\|2024-05-28 Disney Magic Retrospective]]
 - [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]
+- [[Blog/2023-11-30 AFI Top 100 List\|2023-11-30 AFI Top 100 List]]
+- [[Blog/2023-08-14 AvP Retrospective\|2023-08-14 AvP Retrospective]]
 
 { .block-language-dataview}
-
-# Reviews
-
-- [[Movies/AFI Top 100 List\|AFI Top 100 List]]
-- [[Movies/AvP Retrospective\|AvP Retrospective]]
-- [[Movies/Disney Retrospective\|Disney Retrospective]]
 
 # Let's Plays and Streams
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["streamed"],"created":"2024-03-12","updated":"2024-07-08"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["streamed"],"created":"2024-03-12","updated":"2024-08-14"}
 ---
 
+
+![Hero Kingdom Hearts 2.jpg](/img/user/Attachments/Hero%20Kingdom%20Hearts%202.jpg)
 
 # Summary
 

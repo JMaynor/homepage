@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["streamed"],"created":"2024-06-08","updated":"2024-07-19"}
+{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["streamed"],"created":"2024-06-08","updated":"2024-08-14"}
 ---
 
+
+![Hero Elden Ring.jpg](/img/user/Attachments/Hero%20Elden%20Ring.jpg)
 
 # Summary
 

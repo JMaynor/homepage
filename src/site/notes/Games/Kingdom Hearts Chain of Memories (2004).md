@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["streamed"],"created":"2024-03-05","updated":"2024-07-08"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["streamed"],"created":"2024-03-05","updated":"2024-08-14"}
 ---
 
+
+![Hero Kingdom Hearts COM.jpg](/img/user/Attachments/Hero%20Kingdom%20Hearts%20COM.jpg)
 
 # Review
 

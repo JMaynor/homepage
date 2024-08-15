@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-forever-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-25"}
+{"dg-publish":true,"permalink":"/games/we-were-here-forever-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
+
+![Hero We Were Here Forever.jpg](/img/user/Attachments/Hero%20We%20Were%20Here%20Forever.jpg)
 
 # Summary
 

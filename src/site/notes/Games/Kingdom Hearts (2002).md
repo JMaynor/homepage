@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed"],"created":"2024-03-05","updated":"2024-03-14"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed"],"created":"2024-03-05","updated":"2024-08-14"}
 ---
 
+
+![Hero Kingdom Hearts 1.jpg](/img/user/Attachments/Hero%20Kingdom%20Hearts%201.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/signalis-2022/","tags":["streamed"],"created":"2024-07-01","updated":"2024-07-02"}
+{"dg-publish":true,"permalink":"/games/signalis-2022/","tags":["streamed"],"created":"2024-07-01","updated":"2024-08-14"}
 ---
 
+
+![Hero Signalis.jpg](/img/user/Attachments/Hero%20Signalis.jpg)
 
 # Summary
 

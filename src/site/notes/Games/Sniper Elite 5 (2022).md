@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/sniper-elite-5-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-25"}
+{"dg-publish":true,"permalink":"/games/sniper-elite-5-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
+
+![Hero Sniper Elite 5.jpg](/img/user/Attachments/Hero%20Sniper%20Elite%205.jpg)
 
 # Summary
 

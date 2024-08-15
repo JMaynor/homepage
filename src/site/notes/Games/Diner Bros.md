@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/diner-bros/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-25"}
+{"dg-publish":true,"permalink":"/games/diner-bros/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
+
+![Hero Diner Bros.jpg](/img/user/Attachments/Hero%20Diner%20Bros.jpg)
 
 # Summary
 

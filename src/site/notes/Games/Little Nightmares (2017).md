@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/little-nightmares-2017/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-24"}
+{"dg-publish":true,"permalink":"/games/little-nightmares-2017/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
+
+![Hero Little Nightmares.jpg](/img/user/Attachments/Hero%20Little%20Nightmares.jpg)
 
 # Summary
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/escape-the-backrooms-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-07-25"}
+{"dg-publish":true,"permalink":"/games/escape-the-backrooms-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
+
+![Hero Escape the Backrooms.jpg](/img/user/Attachments/Hero%20Escape%20the%20Backrooms.jpg)
 
 # Summary
 

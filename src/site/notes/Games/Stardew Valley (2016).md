@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","created":"2024-07-05","updated":"2024-07-11"}
+{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","created":"2024-07-05","updated":"2024-08-14"}
 ---
 
 
@@ -18,9 +18,7 @@ Why is there a system to erase your spouse's memories of your relationship? Or d
 # Links
 
 # To Do List
-- ~~Shad~~ - river in forest or town, raining
-- ~~catfish~~ - secret woods, raining
-- ~~pufferfish~~ - summer beach 12-4
-- ~~tuna~~ - summer winter beach 6am-7pm
-- ~~sturgeon~~ - summer winter mountain lake
+
+Stuff for the forest spirits
+
 - walleye - fall rain everywhere
