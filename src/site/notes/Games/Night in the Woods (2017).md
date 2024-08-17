@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Night in the Woods.jpg](/img/user/Attachments/Hero%20Night%20in%20the%20Woods.jpg)
+![Hero Night in Woods.jpg](/img/user/Attachments/Hero%20Night%20in%20Woods.jpg)
 
 # Summary
 
