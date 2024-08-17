@@ -53,6 +53,7 @@ A list of games I've let's played or are in the process of playing on my YT chan
 - [[Games/Omen Exitio Plague (2018)\|Omen Exitio Plague (2018)]]
 - [[Games/Outer Wilds (2019)\|Outer Wilds (2019)]]
 - [[Games/Pentiment (2022)\|Pentiment (2022)]]
+- [[Games/Road 96 (2021)\|Road 96 (2021)]]
 - [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
 - [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]
 - [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
