@@ -14,13 +14,14 @@
 
 # Blog Posts
 
-| Post                                                                                                                             | Summary                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [[Blog/2024-08-16 Music Make You Lose Control (Of Your Emotions)\|2024-08-16 Music Make You Lose Control (Of Your Emotions)]] | Couple examples of some particularly emotionally-heightened songs I thought of from some games I've played.                |
-| [[Blog/2024-05-28 Disney Magic Retrospective\|2024-05-28 Disney Magic Retrospective]]                                         | Review of all the Disney animated films and whether I feel each is magical or not.                                         |
-| [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]                                                   | Thoughts on games I've played on my youTube channel and how I think things have gone up till now with it.                  |
-| [[Blog/2023-11-30 AFI Top 100 List\|2023-11-30 AFI Top 100 List]]                                                             | Short review of each of the films in the 2007 version of the American Film Institute's top 100 American films of all time. |
-| [[Blog/2023-08-14 AvP Retrospective\|2023-08-14 AvP Retrospective]]                                                           | Short review of each of the Alien, Predator, and AvP films inspired by my enjoyment of playing Alien Isolation.            |
+| Post                                                                                                                                 | Summary                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2024-08-20 I'm Tired of Being Asked to Care About the Robot\|2024-08-20 I'm Tired of Being Asked to Care About the Robot]] | Rant about a frequent plot point/theme in recent media that I think has overstayed its welcome.                            |
+| [[Blog/2024-08-16 Music Make You Lose Control (Of Your Emotions)\|2024-08-16 Music Make You Lose Control (Of Your Emotions)]]     | Couple examples of some particularly emotionally-heightened songs I thought of from some games I've played.                |
+| [[Blog/2024-05-28 Disney Magic Retrospective\|2024-05-28 Disney Magic Retrospective]]                                             | Review of all the Disney animated films and whether I feel each is magical or not.                                         |
+| [[Blog/2023-12-08 YouTube Retrospective\|2023-12-08 YouTube Retrospective]]                                                       | Thoughts on games I've played on my youTube channel and how I think things have gone up till now with it.                  |
+| [[Blog/2023-11-30 AFI Top 100 List\|2023-11-30 AFI Top 100 List]]                                                                 | Short review of each of the films in the 2007 version of the American Film Institute's top 100 American films of all time. |
+| [[Blog/2023-08-14 AvP Retrospective\|2023-08-14 AvP Retrospective]]                                                               | Short review of each of the Alien, Predator, and AvP films inspired by my enjoyment of playing Alien Isolation.            |
 
 { .block-language-dataview}
 
