@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-08-16-music-make-you-lose-control-of-your-emotions/","created":"2024-08-12","updated":"2024-08-16"}
+{"dg-publish":true,"permalink":"/blog/2024-08-16-music-make-you-lose-control-of-your-emotions/","tags":["music","games"],"created":"2024-08-12","updated":"2024-08-16"}
 ---
 
 
