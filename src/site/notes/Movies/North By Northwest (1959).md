@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","created":"2024-03-21","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","created":"2024-03-21","updated":"2024-08-19"}
 ---
 
+
+![North by northwest 1959.jpg|200](/img/user/Attachments/North%20by%20northwest%201959.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-deer-hunter-1978/","created":"2024-04-05","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-deer-hunter-1978/","created":"2024-04-05","updated":"2024-08-19"}
 ---
 
+
+![The Deer Hunter 1978.jpg|200](/img/user/Attachments/The%20Deer%20Hunter%201978.jpg)
 
 # Review
 

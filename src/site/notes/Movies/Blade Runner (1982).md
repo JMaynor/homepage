@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/blade-runner-1982/","created":"2023-12-01","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/blade-runner-1982/","created":"2023-12-01","updated":"2024-08-19"}
 ---
 
+
+![Poster Blade Runner 1982.jpeg|200](/img/user/Attachments/Poster%20Blade%20Runner%201982.jpeg)
 
 # Review
 

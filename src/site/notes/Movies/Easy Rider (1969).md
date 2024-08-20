@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","created":"2023-12-08","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","created":"2023-12-08","updated":"2024-08-19"}
 ---
 
+
+![Easy Rider 1969.jpg|200](/img/user/Attachments/Easy%20Rider%201969.jpg)
 
 # Review
 

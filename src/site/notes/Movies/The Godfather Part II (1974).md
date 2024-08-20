@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-godfather-part-ii-1974/","created":"2024-06-18","updated":"2024-08-09"}
+{"dg-publish":true,"permalink":"/movies/the-godfather-part-ii-1974/","created":"2024-06-18","updated":"2024-08-19"}
 ---
 
+
+![Godfather_part_ii 1974.jpg|200](/img/user/Attachments/Godfather_part_ii%201974.jpg)
 
 # Review
 

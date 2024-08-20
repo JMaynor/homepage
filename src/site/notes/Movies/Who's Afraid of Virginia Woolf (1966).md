@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/who-s-afraid-of-virginia-woolf-1966/","created":"2024-01-25","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/who-s-afraid-of-virginia-woolf-1966/","created":"2024-01-25","updated":"2024-08-19"}
 ---
 
+
+![Who's Afraid of Virginia Woolf 1966.jpg|200](/img/user/Attachments/Who's%20Afraid%20of%20Virginia%20Woolf%201966.jpg)
 
 # Review
 

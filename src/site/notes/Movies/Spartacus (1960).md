@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/spartacus-1960/","created":"2023-12-16","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/spartacus-1960/","created":"2023-12-16","updated":"2024-08-19"}
 ---
 
+
+![Spartacus 1960.png|200](/img/user/Attachments/Spartacus%201960.png)
 
 # Review
 

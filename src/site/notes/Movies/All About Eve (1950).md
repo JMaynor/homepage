@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","created":"2024-06-18","updated":"2024-08-17"}
+{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","created":"2024-06-18","updated":"2024-08-19"}
 ---
 
+
+![All About Eve 1950.jpg|200](/img/user/Attachments/All%20About%20Eve%201950.jpg)
 
 # Review
 

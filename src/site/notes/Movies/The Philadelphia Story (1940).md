@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","created":"2024-05-31","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","created":"2024-05-31","updated":"2024-08-19"}
 ---
 
+
+![The Philadelphia Story 1940.jpg|200](/img/user/Attachments/The%20Philadelphia%20Story%201940.jpg)
 
 # Review
 

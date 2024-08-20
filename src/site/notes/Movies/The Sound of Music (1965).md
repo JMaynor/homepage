@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","created":"2024-05-07","updated":"2024-06-23"}
+{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","created":"2024-05-07","updated":"2024-08-19"}
 ---
 
+
+![Sound of music 1965.jpg|200](/img/user/Attachments/Sound%20of%20music%201965.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/west-side-story-1961/","created":"2024-05-01","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/west-side-story-1961/","created":"2024-05-01","updated":"2024-08-19"}
 ---
 
+
+![West Side Story 1961.jpg|200](/img/user/Attachments/West%20Side%20Story%201961.jpg)
 
 # Review
 

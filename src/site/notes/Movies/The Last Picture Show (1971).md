@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["review"],"created":"2023-12-01","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["review"],"created":"2023-12-01","updated":"2024-08-19"}
 ---
 
+
+![The Last Picture Show 1971.jpeg|200](/img/user/Attachments/The%20Last%20Picture%20Show%201971.jpeg)
 
 https://assets.scriptslug.com/live/pdf/scripts/the-last-picture-show-1971.pdf
 

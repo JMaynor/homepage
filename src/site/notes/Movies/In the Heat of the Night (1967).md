@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","created":"2023-12-29","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","created":"2023-12-29","updated":"2024-08-19"}
 ---
 
+
+![In the Heat of the Night 1967.jpg|200](/img/user/Attachments/In%20the%20Heat%20of%20the%20Night%201967.jpg)
 
 # Review
 

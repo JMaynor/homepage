@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/taxi-driver-1976/","created":"2024-04-05","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/taxi-driver-1976/","created":"2024-04-05","updated":"2024-08-19"}
 ---
 
+
+![Taxi Driver 1976.jpg|200](/img/user/Attachments/Taxi%20Driver%201976.jpg)
 
 # Review
 

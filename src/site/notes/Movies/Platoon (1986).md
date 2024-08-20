@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/platoon-1986/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/platoon-1986/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![Platoon 1986.jpg|200](/img/user/Attachments/Platoon%201986.jpg)
 
 # Review
 

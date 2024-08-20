@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/rear-window-1954/","created":"2024-05-07","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/rear-window-1954/","created":"2024-05-07","updated":"2024-08-19"}
 ---
 
+
+![Rear Window 1954.jpg|200](/img/user/Attachments/Rear%20Window%201954.jpg)
 
 # Review
 

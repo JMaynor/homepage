@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-french-connection-1971/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![The French Connection 1971.png|200](/img/user/Attachments/The%20French%20Connection%201971.png)
 
 # Review
 

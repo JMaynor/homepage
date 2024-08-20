@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/shane-1953/","created":"2024-05-24","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/shane-1953/","created":"2024-05-24","updated":"2024-08-19"}
 ---
 
+
+![Shane 1953.jpg|200](/img/user/Attachments/Shane%201953.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![Pulp Fiction 1994.jpeg|200](/img/user/Attachments/Pulp%20Fiction%201994.jpeg)
 
 # Review
 

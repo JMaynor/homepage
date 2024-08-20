@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/network-1976/","created":"2024-02-20","updated":"2024-07-17"}
+{"dg-publish":true,"permalink":"/movies/network-1976/","created":"2024-02-20","updated":"2024-08-19"}
 ---
 
+
+![Network 1976.png|200](/img/user/Attachments/Network%201976.png)
 
 # Review
 

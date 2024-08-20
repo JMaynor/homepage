@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/cabaret-1972/","created":"2024-02-20","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/cabaret-1972/","created":"2024-02-20","updated":"2024-08-19"}
 ---
 
+
+![Cabaret 1972.jpg|200](/img/user/Attachments/Cabaret%201972.jpg)
 
 # Review
 

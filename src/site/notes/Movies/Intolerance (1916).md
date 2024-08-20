@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/intolerance-1916/","created":"2024-01-25","updated":"2024-05-10"}
+{"dg-publish":true,"permalink":"/movies/intolerance-1916/","created":"2024-01-25","updated":"2024-08-19"}
 ---
 
+
+![Intolerance 1916.jpg|200](/img/user/Attachments/Intolerance%201916.jpg)
 
 # Review
 

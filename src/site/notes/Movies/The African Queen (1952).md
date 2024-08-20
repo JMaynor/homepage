@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-african-queen-1952/","created":"2024-02-16","updated":"2024-02-26"}
+{"dg-publish":true,"permalink":"/movies/the-african-queen-1952/","created":"2024-02-16","updated":"2024-08-19"}
 ---
 
+
+![The African Queen 1952.jpg|200](/img/user/Attachments/The%20African%20Queen%201952.jpg)
 
 # Review
 

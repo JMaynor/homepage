@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","created":"2023-12-18","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","created":"2023-12-18","updated":"2024-08-19"}
 ---
 
+
+![The Wild Bunch 1969.jpg|200](/img/user/Attachments/The%20Wild%20Bunch%201969.jpg)
 
 # Review
 

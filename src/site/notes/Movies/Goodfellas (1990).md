@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","created":"2023-12-04","updated":"2024-07-02"}
+{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![GoodFellas 1990.jpeg|200](/img/user/Attachments/GoodFellas%201990.jpeg)
 
 # Review
 

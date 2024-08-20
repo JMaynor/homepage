@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","created":"2023-11-30","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","created":"2023-11-30","updated":"2024-08-19"}
 ---
 
+
+![The Sixth Sense 1999.png|200](/img/user/Attachments/The%20Sixth%20Sense%201999.png)
 
 # Review
 

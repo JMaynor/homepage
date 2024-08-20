@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sullivan-s-travels-1941/","created":"2024-03-05","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/sullivan-s-travels-1941/","created":"2024-03-05","updated":"2024-08-19"}
 ---
 
+
+![Sullivan's Travels 1941.jpg|200](/img/user/Attachments/Sullivan's%20Travels%201941.jpg)
 
 # Review
 

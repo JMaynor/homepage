@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","created":"2024-06-14","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","created":"2024-06-14","updated":"2024-08-19"}
 ---
 
+
+![Bonnie and Clyde 1967.jpg|200](/img/user/Attachments/Bonnie%20and%20Clyde%201967.jpg)
 
 # Review
 

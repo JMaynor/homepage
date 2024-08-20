@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sunrise-1927/","created":"2023-12-08","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/sunrise-1927/","created":"2023-12-08","updated":"2024-08-19"}
 ---
 
+
+![Sunrise 1927.jpg|200](/img/user/Attachments/Sunrise%201927.jpg)
 
 # Review
 

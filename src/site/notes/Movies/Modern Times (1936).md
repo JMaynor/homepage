@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/modern-times-1936/","created":"2023-12-18","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/modern-times-1936/","created":"2023-12-18","updated":"2024-08-19"}
 ---
 
+
+![Modern Times 1936.jpg|200](/img/user/Attachments/Modern%20Times%201936.jpg)
 
 # Summary
 

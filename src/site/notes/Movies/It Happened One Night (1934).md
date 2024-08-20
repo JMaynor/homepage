@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/it-happened-one-night-1934/","created":"2024-05-24","updated":"2024-06-01"}
+{"dg-publish":true,"permalink":"/movies/it-happened-one-night-1934/","created":"2024-05-24","updated":"2024-08-19"}
 ---
 
+
+![It happened one night 1934.jpg|200](/img/user/Attachments/It%20happened%20one%20night%201934.jpg)
 
 # Review
 

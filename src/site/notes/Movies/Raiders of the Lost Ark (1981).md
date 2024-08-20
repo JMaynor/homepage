@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/raiders-of-the-lost-ark-1981/","created":"2024-01-25","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/raiders-of-the-lost-ark-1981/","created":"2024-01-25","updated":"2024-08-19"}
 ---
 
+
+![Raiders of the Lost Ark 1981.jpg|200](/img/user/Attachments/Raiders%20of%20the%20Lost%20Ark%201981.jpg)
 
 # Review
 

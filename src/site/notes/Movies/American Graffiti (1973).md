@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","created":"2024-03-05","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","created":"2024-03-05","updated":"2024-08-19"}
 ---
 
+
+![American Graffiti 1973.jpg|200](/img/user/Attachments/American%20Graffiti%201973.jpg)
 
 # Review
 

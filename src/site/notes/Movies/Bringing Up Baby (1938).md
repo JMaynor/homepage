@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["review"],"created":"2023-12-01","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["review"],"created":"2023-12-01","updated":"2024-08-19"}
 ---
 
+
+![Bringing Up Baby 1938.jpg|200](/img/user/Attachments/Bringing%20Up%20Baby%201938.jpg)
 
 # Review
 

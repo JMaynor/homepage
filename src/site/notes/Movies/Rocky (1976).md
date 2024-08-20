@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/rocky-1976/","created":"2024-03-21","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/rocky-1976/","created":"2024-03-21","updated":"2024-08-19"}
 ---
 
+
+![Rocky 1976.jpg|200](/img/user/Attachments/Rocky%201976.jpg)
 
 # Review
 

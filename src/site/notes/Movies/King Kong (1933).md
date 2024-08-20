@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/king-kong-1933/","created":"2024-06-14","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/king-kong-1933/","created":"2024-06-14","updated":"2024-08-19"}
 ---
 
+
+![King Kong 1933.jpg|200](/img/user/Attachments/King%20Kong%201933.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","created":"2024-06-18","updated":"2024-08-17"}
+{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","created":"2024-06-18","updated":"2024-08-19"}
 ---
 
+
+![Double Indemnity 1944.jpg|200](/img/user/Attachments/Double%20Indemnity%201944.jpg)
 
 # Review
 

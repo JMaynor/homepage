@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-best-years-of-our-lives-1946/","created":"2024-06-18","updated":"2024-07-06"}
+{"dg-publish":true,"permalink":"/movies/the-best-years-of-our-lives-1946/","created":"2024-06-18","updated":"2024-08-19"}
 ---
 
+
+![The Best Years of Our Lives 1946.jpg|200](/img/user/Attachments/The%20Best%20Years%20of%20Our%20Lives%201946.jpg)
 
 # Review
 

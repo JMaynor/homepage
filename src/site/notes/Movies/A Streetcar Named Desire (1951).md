@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-streetcar-named-desire-1951/","created":"2024-05-20","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/a-streetcar-named-desire-1951/","created":"2024-05-20","updated":"2024-08-19"}
 ---
 
+
+![A Streetcar Named Desire 1951.jpg|200](/img/user/Attachments/A%20Streetcar%20Named%20Desire%201951.jpg)
 
 # Review
 

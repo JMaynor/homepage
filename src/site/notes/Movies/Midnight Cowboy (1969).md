@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","created":"2024-05-31","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","created":"2024-05-31","updated":"2024-08-19"}
 ---
 
+
+![Midnight Cowboy 1969.jpg|200](/img/user/Attachments/Midnight%20Cowboy%201969.jpg)
 
 # Review
 

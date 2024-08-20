@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-godfather-1972/","created":"2024-06-18","updated":"2024-08-03"}
+{"dg-publish":true,"permalink":"/movies/the-godfather-1972/","created":"2024-06-18","updated":"2024-08-19"}
 ---
 
+
+![Godfather 1972.jpg|200](/img/user/Attachments/Godfather%201972.jpg)
 
 # Review
 

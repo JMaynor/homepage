@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","created":"2023-12-16","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","created":"2023-12-16","updated":"2024-08-19"}
 ---
 
+
+![The Apartment 1960.jpg|200](/img/user/Attachments/The%20Apartment%201960.jpg)
 
 # Review
 

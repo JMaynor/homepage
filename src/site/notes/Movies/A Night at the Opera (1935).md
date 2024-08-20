@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-night-at-the-opera-1935/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/a-night-at-the-opera-1935/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![A Night at the Opera 1935.jpg|200](/img/user/Attachments/A%20Night%20at%20the%20Opera%201935.jpg)
 
 # Review
 

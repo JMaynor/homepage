@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","created":"2024-01-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","created":"2024-01-04","updated":"2024-08-19"}
 ---
 
+
+![Shawshank Redemption 1994.jpg|200](/img/user/Attachments/Shawshank%20Redemption%201994.jpg)
 
 # Review
 

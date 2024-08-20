@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![12 Angry Men 1957.jpg|200](/img/user/Attachments/12%20Angry%20Men%201957.jpg)
 
 # Review
 

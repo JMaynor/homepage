@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","created":"2024-03-21","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","created":"2024-03-21","updated":"2024-08-19"}
 ---
 
+
+![Gold Rush 1925.jpg|200](/img/user/Attachments/Gold%20Rush%201925.jpg)
 
 # Review
 

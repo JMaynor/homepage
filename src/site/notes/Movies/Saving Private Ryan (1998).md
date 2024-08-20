@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","created":"2024-01-08","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","created":"2024-01-08","updated":"2024-08-19"}
 ---
 
+
+![Saving Private Ryan 1998.jpg|200](/img/user/Attachments/Saving%20Private%20Ryan%201998.jpg)
 
 # Review
 

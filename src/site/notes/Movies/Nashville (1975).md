@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/nashville-1975/","created":"2024-03-14","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/nashville-1975/","created":"2024-03-14","updated":"2024-08-19"}
 ---
 
+
+![Nashville 1975.jpg|200](/img/user/Attachments/Nashville%201975.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","created":"2024-01-08","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","created":"2024-01-08","updated":"2024-08-19"}
 ---
 
+
+![A Clockwork Orange 1971.png|200](/img/user/Attachments/A%20Clockwork%20Orange%201971.png)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","created":"2023-12-04","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","created":"2023-12-04","updated":"2024-08-19"}
 ---
 
+
+![Poster Do the Right Thing 1989.png|200](/img/user/Attachments/Poster%20Do%20the%20Right%20Thing%201989.png)
 
 # Review
 

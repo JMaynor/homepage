@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","created":"2024-05-28","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","created":"2024-05-28","updated":"2024-08-19"}
 ---
 
+
+![Snow White 1937.png|200](/img/user/Attachments/Snow%20White%201937.png)
 
 # Review
 
