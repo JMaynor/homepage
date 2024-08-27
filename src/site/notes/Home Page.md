@@ -10,7 +10,7 @@
 >
 > Subscribe via RSS
 > [All Posts](https://www.jtm.li/feed.xml)
-> [Blog Posts](https://www.jtm.li/blogfeed.xml)
+> [Blog Posts Only](https://www.jtm.li/blogfeed.xml)
 
 # Blog Posts
 
@@ -27,7 +27,7 @@
 
 # Let's Plays and Streams
 
-A list of games I've let's played or are in the process of playing on my YT channel.
+A big thing I do in my free time is make let's plays. Below is a list of games that I've played (or are in the process of playing).
 
 - [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]
 - [[Games/American Arcadia (2023)\|American Arcadia (2023)]]
@@ -58,6 +58,7 @@ A list of games I've let's played or are in the process of playing on my YT chan
 - [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
 - [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]
 - [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
+- [[Games/Silent Hill 2 (2001)\|Silent Hill 2 (2001)]]
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
@@ -70,12 +71,12 @@ A list of games I've let's played or are in the process of playing on my YT chan
 
 { .block-language-dataview}
 
-A list of games that I've streamed at one point or another on TAC. There's other games I've been involved with, but these are the ones that I myself streamed or ones that I at least strongly involved with.
+A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered.
 
 - [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]
 - [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]
 - [[Games/Cuphead (2017)\|Cuphead (2017)]]
-- [[Games/Diner Bros\|Diner Bros]]
+- [[Games/Diner Bros (2018)\|Diner Bros (2018)]]
 - [[Games/Elden Ring (2022)\|Elden Ring (2022)]]
 - [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]
 - [[Games/Helldivers (2015)\|Helldivers (2015)]]

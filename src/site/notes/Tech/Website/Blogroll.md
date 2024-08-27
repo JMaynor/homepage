@@ -7,6 +7,7 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 
 | Person/Website                                        | Homepage URL                                         | Feed URL                                                      |
 | ----------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
+| Aeon Magazine                                         | https://aeon.co/                                     | https://aeon.co/feed.rss                                      |
 | Bret Devereaux - A Collection of Unmitigated Pedantry | https://acoup.blog/                                  | https://acoup.blog/feed/                                      |
 | brr Antarctica Blog                                   | https://brr.fyi/                                     | https://brr.fyi/feed.xml                                      |
 | Cat Valente - Welcome to Garbagetown (Substack)       | https://catvalente.substack.com/                     | https://catvalente.substack.com/feed                          |
@@ -14,6 +15,7 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | Cory Dransfeldt                                       | https://coryd.dev/                                   | https://coryd.dev/feeds/posts                                 |
 | Ed Zitron - Where's Your Ed At                        | https://www.wheresyoured.at/                         | https://www.wheresyoured.at/rss/                              |
 | Gary Butterfield (Bluesky)                            | https://bsky.app/profile/garybutterfield.bsky.social | https://bsky.app/profile/did:plc:2ndatgaqlflhu6iupejtfhdv/rss |
+| Granta Literary Magazine                              | https://granta.com/                                  | https://granta.com/feed/                                      |
 | Jason Schreier - Schrei Guy (Substack)                | https://jasonschreier.substack.com/                  | https://jasonschreier.substack.com/feed                       |
 | Kole Ross (Bluesky)                                   | https://bsky.app/profile/koleross.bsky.social        | https://bsky.app/profile/did:plc:psvjbw6ahzr6hnuf3fjfb3ia/rss |
 | LINK ROT                                              | https://linkrot.neocities.org/                       | https://linkrot.neocities.org/RSS.xml                         |

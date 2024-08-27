@@ -27,6 +27,8 @@ It seems clear to me with the ending screen that sums up what you did and the le
 
 I did very much enjoy the Twin Peaks of everything. The insane way everyone acts and the small town energy. Hoping that continues in the future.
 
+On to [[Games/Silent Hill 2 (2001)\|Silent Hill 2 (2001)]].
+
 # Links
 
 Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvvu8nnkCwUkx5FiCCrz7oC
