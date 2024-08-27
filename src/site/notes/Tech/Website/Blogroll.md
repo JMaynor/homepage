@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2024-08-15"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2024-08-27"}
 ---
 
 
-Here's a list of people I follow and blogs I regularly read.
+Here's a list of people I follow, blogs I regularly read, and a couple magazine websites.
 
 | Person/Website                                        | Homepage URL                                         | Feed URL                                                      |
 | ----------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
@@ -17,7 +17,8 @@ Here's a list of people I follow and blogs I regularly read.
 | Jason Schreier - Schrei Guy (Substack)                | https://jasonschreier.substack.com/                  | https://jasonschreier.substack.com/feed                       |
 | Kole Ross (Bluesky)                                   | https://bsky.app/profile/koleross.bsky.social        | https://bsky.app/profile/did:plc:psvjbw6ahzr6hnuf3fjfb3ia/rss |
 | LINK ROT                                              | https://linkrot.neocities.org/                       | https://linkrot.neocities.org/RSS.xml                         |
-| Maciej Ceglowski - Idle Words                         | http://idlewords.com/                                | https://idlewords.com/index.xml                               |
+| Maciej Cegłowski - Idle Words                         | http://idlewords.com/                                | https://idlewords.com/index.xml                               |
+| Nautilus Science Magazine                             | https://nautil.us/                                   | https://nautil.us/feed/                                       |
 | Orteil (Tumblr)                                       | https://orteil42.tumblr.com/                         | https://orteil42.tumblr.com/rss                               |
 | Patrick Witty - Field of View (Substack)              | https://patrickwitty.substack.com/                   | https://patrickwitty.substack.com/feed                        |
 | Seth Abramson - PROOF (Substack)                      | https://sethabramson.substack.com/                   | https://sethabramson.substack.com/feed                        |

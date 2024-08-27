@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2024-08-23"}
+{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2024-08-27"}
 ---
 
+
+I.E. "How's it made?"
 
 I write all my notes in [Obsidian](https://obsidian.md/) in plain `.md` format. Markdown notes are committed to a GitHub repo using the [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin.
 
