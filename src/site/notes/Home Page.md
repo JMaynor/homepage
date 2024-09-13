@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-08-27"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-13"}
 ---
 
 
@@ -75,6 +75,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 
 - [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]
 - [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]
+- [[Games/Book of Hours (2023)\|Book of Hours (2023)]]
 - [[Games/Cuphead (2017)\|Cuphead (2017)]]
 - [[Games/Diner Bros (2018)\|Diner Bros (2018)]]
 - [[Games/Elden Ring (2022)\|Elden Ring (2022)]]
