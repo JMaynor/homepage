@@ -84,6 +84,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]
 - [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]
 - [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
+- [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]
 - [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]
 - [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]
 - [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]
