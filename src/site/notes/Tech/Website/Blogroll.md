@@ -25,6 +25,7 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | Patrick Witty - Field of View (Substack)              | https://patrickwitty.substack.com/                   | https://patrickwitty.substack.com/feed                        |
 | Seth Abramson - PROOF (Substack)                      | https://sethabramson.substack.com/                   | https://sethabramson.substack.com/feed                        |
 | The Map Room                                          | https://www.maproomblog.com/                         | https://www.maproomblog.com/feed/                             |
+| The Marginalian                                       | https://www.themarginalian.org/                      | https://feeds.feedburner.com/brainpickings/rss                |
 | The Pudding                                           | https://pudding.cool/                                | https://feeds.feedburner.com/pudding/feed                     |
 | W. David Marx - Culture: An Owner's Manual            | https://culture.ghost.io/                            | https://culture.ghost.io/rss/                                 |
 | William Hughes (Bluesky)                              | https://bsky.app/profile/plumberduck.bsky.social     | https://bsky.app/profile/did:plc:gpyfxtwxiadm3jolqqzbui4w/rss |
