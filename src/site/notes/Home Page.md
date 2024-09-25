@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-13"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-25"}
 ---
 
 
@@ -102,3 +102,15 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 
 > [!NOTE]  🔗Links
 > [[Tech/Website/Blogroll\|Blogroll]] /  [[Tech/Website/Colophon\|Colophon]]
+
+<section style="display: none;" class="h-card">
+    <span class="p-name">Jordan Maynor</span>
+    <span class="p-given-name">Jordan</span>
+    <span class="p-family-name">Maynor</span>
+    <a class="u-url" href="https://jtm.li">Jordan Maynor</a>
+    <p class="p-adr h-adr">
+        <abbr class="p-region" title="Illinois">IL</abbr>
+        <span class="p-country-name">U.S.A</span>
+    </p>
+    <div class="p-category">programmer</div>
+</section>
