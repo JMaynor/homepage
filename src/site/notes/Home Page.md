@@ -107,7 +107,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
     <span class="p-name">Jordan Maynor</span>
     <span class="p-given-name">Jordan</span>
     <span class="p-family-name">Maynor</span>
-    <a class="u-url" href="https://jtm.li">Jordan Maynor</a>
+    <a class="u-url" rel="me" href="https://jtm.li">Jordan Maynor</a>
     <p class="p-adr h-adr">
         <abbr class="p-region" title="Illinois">IL</abbr>
         <span class="p-country-name">U.S.A</span>
