@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-frost-the-secret-history-of-twin-peaks/","created":"2024-06-07","updated":"2024-08-28"}
+{"dg-publish":true,"permalink":"/books/mark-frost-the-secret-history-of-twin-peaks/","created":"2024-06-07","updated":"2024-09-26"}
 ---
 
 
