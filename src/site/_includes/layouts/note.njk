@@ -13,10 +13,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
 
-  <!-- RSS feed autodiscovery meta tags -->
-    <link rel="alternate" type="application/rss+xml" title="Blog Feed" href="{{ meta.siteBaseUrl }}/blogfeed.xml">
-    <link rel="alternate" type="application/rss+xml" title="All Posts Feed" href="{{ meta.siteBaseUrl }}/feed.xml">
-
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
