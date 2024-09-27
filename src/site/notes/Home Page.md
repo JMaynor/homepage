@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-26"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-27"}
 ---
 
 
@@ -9,8 +9,8 @@
 > [📺YouTube](https://youtube.com/@jordan_maynor) [🎮Twitch](https://www.twitch.tv/TheAlderothCircle) ⌨[Github](https://github.com/JMaynor)
 >
 > Subscribe via RSS
-> [All Posts](https://www.jtm.li/feed.xml)
-> [Blog Posts Only](https://www.jtm.li/blogfeed.xml)
+> [All Posts](https://jtm.li/feed.xml)
+> [Blog Posts Only](https://jtm.li/blogfeed.xml)
 
 # Blog Posts
 
@@ -85,6 +85,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]
 - [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]
 - [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
+- [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Kingdom Hearts 3D Dream Drop Distance (2012)]]
 - [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]
 - [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]
 - [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]

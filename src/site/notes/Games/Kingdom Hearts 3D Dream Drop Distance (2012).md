@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","created":"2024-09-19","updated":"2024-09-19"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["streamed"],"created":"2024-09-19","updated":"2024-09-27"}
 ---
 
 
 # Review
 
-Haven't yet streamed, will write review once complete
+Will write review once complete
 
 # Links
