@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/robert-eggers/","created":"2023-12-26","updated":"2024-08-07"}
+{"dg-publish":true,"permalink":"/people/robert-eggers/","created":"2023-12-26","updated":"2024-10-07"}
 ---
 
 

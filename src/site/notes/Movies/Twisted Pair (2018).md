@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/twisted-pair-2018/","created":"2024-10-06","updated":"2024-10-06"}
+{"dg-publish":true,"permalink":"/movies/twisted-pair-2018/","created":"2024-10-06","updated":"2024-10-07"}
 ---
 
 
