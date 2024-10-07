@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/george-stevens/","created":"2024-06-17","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/george-stevens/","created":"2024-06-17","updated":"2024-10-07"}
 ---
 
 

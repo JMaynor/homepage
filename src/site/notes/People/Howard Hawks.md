@@ -5,8 +5,7 @@
 
 # Filmography
 
-| File                                                           | file.aliases                       |
-| -------------------------------------------------------------- | ---------------------------------- |
-| [[Movies/Bringing Up Baby (1938)\|Bringing Up Baby (1938)]] | <ul><li>Bringing Up Baby</li></ul> |
+| File | file.aliases |
+| ---- | ------------ |
 
 { .block-language-dataview}

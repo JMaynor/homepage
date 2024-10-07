@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/clyde-bruckman/","created":"2024-06-18","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/people/clyde-bruckman/","created":"2024-06-18","updated":"2024-10-07"}
 ---
 
 
