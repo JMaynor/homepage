@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["streamed"],"created":"2024-07-08","updated":"2024-09-19"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["streamed"],"created":"2024-07-08","updated":"2024-10-08"}
 ---
 
 
@@ -14,5 +14,7 @@ I have problems with this one's story that I don't with any of the earlier entri
 If we're married to the three character structure (and I applaud them for trying something different) then it is what it is. But if we're in full-on editor mode, I think I would drop both Terra and Ventus as playable characters. The biggest draw of each character is figuring out why they resemble characters we already know. Aqua is the blank slate that you can take wherever you'd like. I also get the impression that we're wanting TAV to feel more capable and trained than Sora. They have been trained by Luke Skywalker/Obi-Wan after all. So I would say go all the way into that and play as the one that becomes a Keyblade Master. You also have the opportunity to take the magic theme farther and perhaps have gameplay differ in BBS more so than it does already if you're focusing in on her. You can still have Terra and Ventus off running around, I just don't think we need to play as them. we can still learn what they're about without playing as them. Terra would be more interesting if we're just seeing glimpses of his fall from farther away, like Riku in KH1. And Ventus doesn't differentiate himself from Sora/Roxas enough to be worth spending time on him being playable.
 
 Overall I had a fun time. This is where the weirdness of the later sequels starts creeping in and we get away from the pureness of the original games, so that's a bit sad. But it is what it is. The one other complaint I would lodge is I don't like the difficulty scaling. The very beginning of the game is rather difficult when you have few options to work with. Then it hits a point where everything is piss easy. That lasts until you get to the post-game stuff where we completely forget how to make a fun boss and everything instakills you. So we have to do the Dodge-Dodge-Dodge-Dodge-Dodge-Dodge game waiting for a one-second opening. No good, I fully skipped doing those on-camera and we covered everything in the previous games. Karl Franz and all.
+
+Next there is the dreaded [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Dream Drop Distance]].
 
 # Links

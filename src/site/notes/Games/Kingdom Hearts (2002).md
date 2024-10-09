@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed"],"created":"2024-03-05","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed"],"created":"2024-03-05","updated":"2024-10-08"}
 ---
 
 
@@ -28,5 +28,7 @@ Kingdom Hearts is a lovely game that I experienced long long before any such bar
 > Somehow, heartbreak feels good in a place likе this.
 > Sora feels like thе best part of us, and stories feel perfect and powerful.
 > Because here, they are.
+
+On to [[Games/Kingdom Hearts Chain of Memories (2004)\|Chain of Memories]].
 
 # Links
