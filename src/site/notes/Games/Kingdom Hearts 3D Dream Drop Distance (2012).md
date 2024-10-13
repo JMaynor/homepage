@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Dream Drop Distance.png](/img/user/Attachments/Hero%20Dream%20Drop%20Distance.png)
+![Hero KH Dream.png](/img/user/Attachments/Hero%20KH%20Dream.png)
 
 # Review
 
