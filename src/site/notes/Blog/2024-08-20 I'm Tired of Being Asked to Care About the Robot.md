@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-08-20-i-m-tired-of-being-asked-to-care-about-the-robot/","created":"2024-08-19","updated":"2024-08-20"}
+{"dg-publish":true,"permalink":"/blog/2024-08-20-i-m-tired-of-being-asked-to-care-about-the-robot/","tags":["blog"],"created":"2024-08-19","updated":"2024-08-20"}
 ---
 
 

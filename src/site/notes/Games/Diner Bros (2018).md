@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-27"}
+{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["streamed","games"],"created":"2024-07-23","updated":"2024-08-27"}
 ---
 
 

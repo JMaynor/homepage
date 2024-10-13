@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","created":"2024-05-07","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","tags":["movies"],"created":"2024-05-07","updated":"2024-08-19"}
 ---
 
 

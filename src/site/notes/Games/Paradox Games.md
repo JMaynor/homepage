@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["streamed"],"created":"2024-05-13","updated":"2024-05-13"}
+{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["streamed","games"],"created":"2024-05-13","updated":"2024-05-13"}
 ---
 
 

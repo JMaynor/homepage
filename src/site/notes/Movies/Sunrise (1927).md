@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sunrise-1927/","created":"2023-12-08","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/sunrise-1927/","tags":["movies"],"created":"2023-12-08","updated":"2024-08-19"}
 ---
 
 

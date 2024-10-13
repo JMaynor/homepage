@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP"],"created":"2024-07-11","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["LP","games"],"created":"2024-07-11","updated":"2024-08-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","created":"2023-12-04","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","tags":["movies"],"created":"2023-12-04","updated":"2024-08-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/portrait-of-a-lady-on-fire-2019/","created":"2024-04-19","updated":"2024-04-19"}
+{"dg-publish":true,"permalink":"/movies/portrait-of-a-lady-on-fire-2019/","tags":["movies"],"created":"2024-04-19","updated":"2024-04-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/call-of-the-sea-2020/","tags":["LP"],"created":"2023-12-08","updated":"2024-08-06"}
+{"dg-publish":true,"permalink":"/games/call-of-the-sea-2020/","tags":["LP","games"],"created":"2023-12-08","updated":"2024-08-06"}
 ---
 
 

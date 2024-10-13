@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","created":"2024-06-14","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","tags":["movies"],"created":"2024-06-14","updated":"2024-08-19"}
 ---
 
 

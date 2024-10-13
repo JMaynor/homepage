@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2023-08-14-av-p-retrospective/","tags":["movies"],"created":"2023-08-14","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/blog/2023-08-14-av-p-retrospective/","tags":["blog","movies"],"created":"2023-08-14","updated":"2024-08-14"}
 ---
 
 

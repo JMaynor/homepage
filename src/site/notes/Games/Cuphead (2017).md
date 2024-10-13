@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-12"}
+{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["streamed","games"],"created":"2024-07-23","updated":"2024-08-12"}
 ---
 
 

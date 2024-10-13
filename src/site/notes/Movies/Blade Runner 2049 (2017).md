@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/blade-runner-2049-2017/","created":"2024-09-23","updated":"2024-09-25"}
+{"dg-publish":true,"permalink":"/movies/blade-runner-2049-2017/","tags":["movies"],"created":"2024-09-23","updated":"2024-09-25"}
 ---
 
 

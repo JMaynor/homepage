@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","created":"2024-07-05","updated":"2024-08-26"}
+{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","tags":["games"],"created":"2024-07-05","updated":"2024-08-26"}
 ---
 
 

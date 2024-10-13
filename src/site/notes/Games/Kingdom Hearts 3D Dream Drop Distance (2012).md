@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["streamed"],"created":"2024-09-19","updated":"2024-10-08"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["streamed","games"],"created":"2024-09-19","updated":"2024-10-12"}
 ---
 
+
+![Hero Dream Drop Distance.png](/img/user/Attachments/Hero%20Dream%20Drop%20Distance.png)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","created":"2024-10-08","updated":"2024-10-08"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","tags":["games","streamed"],"created":"2024-10-08","updated":"2024-10-12"}
 ---
 
+
+![Hero Fragmentary Passage.png](/img/user/Attachments/Hero%20Fragmentary%20Passage.png)
 
 # Review
 

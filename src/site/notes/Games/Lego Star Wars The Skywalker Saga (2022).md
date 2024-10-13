@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/lego-star-wars-the-skywalker-saga-2022/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/games/lego-star-wars-the-skywalker-saga-2022/","tags":["streamed","games"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/fantasia-1940/","created":"2024-06-04","updated":"2024-06-20"}
+{"dg-publish":true,"permalink":"/movies/fantasia-1940/","tags":["movies"],"created":"2024-06-04","updated":"2024-06-20"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/butch-cassidy-and-the-sundance-kid-1969/","created":"2024-01-04","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/butch-cassidy-and-the-sundance-kid-1969/","tags":["movies"],"created":"2024-01-04","updated":"2024-08-19"}
 ---
 
 

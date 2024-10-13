@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/longlegs-2024/","created":"2024-07-14","updated":"2024-07-14"}
+{"dg-publish":true,"permalink":"/movies/longlegs-2024/","tags":["movies"],"created":"2024-07-14","updated":"2024-07-14"}
 ---
 
 

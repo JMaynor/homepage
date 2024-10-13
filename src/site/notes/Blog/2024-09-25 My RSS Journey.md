@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-09-25-my-rss-journey/","created":"2024-04-12","updated":"2024-09-25"}
+{"dg-publish":true,"permalink":"/blog/2024-09-25-my-rss-journey/","tags":["blog"],"created":"2024-04-12","updated":"2024-10-10"}
 ---
 
 

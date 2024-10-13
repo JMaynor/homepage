@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["LP"],"created":"2024-01-08","updated":"2024-08-05"}
+{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["LP","games"],"created":"2024-01-08","updated":"2024-08-05"}
 ---
 
 

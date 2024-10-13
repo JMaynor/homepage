@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/dr-strangelove-1964/","created":"2024-06-17","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/dr-strangelove-1964/","tags":["movies"],"created":"2024-06-17","updated":"2024-08-19"}
 ---
 
 

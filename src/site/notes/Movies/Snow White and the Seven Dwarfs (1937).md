@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","created":"2024-05-28","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","tags":["movies"],"created":"2024-05-28","updated":"2024-08-19"}
 ---
 
 

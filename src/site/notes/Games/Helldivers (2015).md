@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/helldivers-2015/","tags":["streamed"],"created":"2024-07-23","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/games/helldivers-2015/","tags":["streamed","games"],"created":"2024-07-23","updated":"2024-08-14"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","created":"2024-01-08","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","tags":["movies"],"created":"2024-01-08","updated":"2024-08-19"}
 ---
 
 
