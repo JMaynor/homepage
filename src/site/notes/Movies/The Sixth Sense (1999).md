@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","created":"2023-11-30","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","tags":["movies"],"created":"2023-11-30","updated":"2024-08-19"}
 ---
 
 

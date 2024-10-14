@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["review"],"created":"2023-12-01","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["movies"],"created":"2023-12-01","updated":"2024-08-19"}
 ---
 
 

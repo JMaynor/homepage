@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-man-from-earth-2007/","created":"2024-06-10","updated":"2024-08-07"}
+{"dg-publish":true,"permalink":"/movies/the-man-from-earth-2007/","tags":["movies"],"created":"2024-06-10","updated":"2024-08-07"}
 ---
 
 

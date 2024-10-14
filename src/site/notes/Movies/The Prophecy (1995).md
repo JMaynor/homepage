@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-prophecy-1995/","created":"2024-09-23","updated":"2024-09-23"}
+{"dg-publish":true,"permalink":"/movies/the-prophecy-1995/","tags":["movies"],"created":"2024-09-23","updated":"2024-09-23"}
 ---
 
 

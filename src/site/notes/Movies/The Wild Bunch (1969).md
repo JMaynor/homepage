@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","created":"2023-12-18","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","tags":["movies"],"created":"2023-12-18","updated":"2024-08-19"}
 ---
 
 

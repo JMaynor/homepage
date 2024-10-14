@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-bridge-on-the-river-kwai-1957/","created":"2024-06-18","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-bridge-on-the-river-kwai-1957/","tags":["movies"],"created":"2024-06-18","updated":"2024-08-19"}
 ---
 
 

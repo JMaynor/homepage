@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shining-1980/","created":"2024-06-21","updated":"2024-07-05"}
+{"dg-publish":true,"permalink":"/movies/the-shining-1980/","tags":["movies"],"created":"2024-06-21","updated":"2024-07-05"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-lighthouse-2019/","created":"2024-04-08","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-lighthouse-2019/","tags":["movies"],"created":"2024-04-08","updated":"2024-06-17"}
 ---
 
 

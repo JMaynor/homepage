@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","created":"2024-01-04","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","tags":["movies"],"created":"2024-01-04","updated":"2024-08-19"}
 ---
 
 
