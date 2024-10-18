@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/chinatown-1974/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-14"}
+{"dg-publish":true,"permalink":"/movies/chinatown-1974/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18"}
 ---
 
+
+![[Chinatown 1974.jpg \| 200]]
 
 # Review
 
