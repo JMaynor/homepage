@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games"],"created":"2024-01-04","updated":"2024-08-28"}
+{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games"],"created":"2024-01-04","updated":"2024-10-29"}
 ---
 
 

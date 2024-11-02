@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kentucky-route-zero-2020/","tags":["LP","games"],"created":"2023-12-08","updated":"2024-08-05"}
+{"dg-publish":true,"permalink":"/games/kentucky-route-zero-2020/","tags":["LP","games"],"created":"2023-12-08","updated":"2024-10-29"}
 ---
 
 

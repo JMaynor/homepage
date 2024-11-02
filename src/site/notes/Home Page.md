@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-09-27"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-10-29"}
 ---
 
 
@@ -26,7 +26,7 @@
 
 { .block-language-dataview}
 
-# Let's Plays and Streams
+# Let's Plays
 
 A big thing I do in my free time is make let's plays. Below is a list of games that I've played (or are in the process of playing).
 
@@ -71,6 +71,8 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Visage (2020)\|Visage (2020)]]
 
 { .block-language-dataview}
+
+# Streams
 
 A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered.
 

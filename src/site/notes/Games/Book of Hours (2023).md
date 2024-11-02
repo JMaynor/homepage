@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/book-of-hours-2023/","tags":["streamed","games"],"created":"2024-09-13","updated":"2024-09-13"}
+{"dg-publish":true,"permalink":"/games/book-of-hours-2023/","tags":["streamed","games"],"created":"2024-09-13","updated":"2024-10-29"}
 ---
 
 
