@@ -16,6 +16,7 @@
 
 | Post                                                                                                                                 | Summary                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2024-11-08 Mr. Smith\|2024-11-08 Mr. Smith]]                                                                               | A description of my ideal political candidate, if I could summon them from the aether.                                     |
 | [[Blog/2024-09-25 My RSS Journey\|2024-09-25 My RSS Journey]]                                                                     | My move to using RSS as my front page of the internet, as opposed to certain other websites.                               |
 | [[Blog/2024-08-20 I'm Tired of Being Asked to Care About the Robot\|2024-08-20 I'm Tired of Being Asked to Care About the Robot]] | Rant about a frequent plot point/theme in recent media that I think has overstayed its welcome.                            |
 | [[Blog/2024-08-16 Music Make You Lose Control (Of Your Emotions)\|2024-08-16 Music Make You Lose Control (Of Your Emotions)]]     | Couple examples of some particularly emotionally-heightened songs I thought of from some games I've played.                |
