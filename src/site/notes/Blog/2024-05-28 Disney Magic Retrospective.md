@@ -25,7 +25,7 @@ Will be returning to this over time.
 | 1948 | Melody Time                            |                                                   |
 | 1949 | The Adventures of Ichabod and Mr. Toad |                                                   |
 | 1950 | Cinderella                             |                                                   |
-| 1951 | Alice in Wonderland                    |                                                   |
+| 1951 | Alice in Wonderland                    | [[Movies/Alice in Wonderland (1951)#Review\|Alice in Wonderland (1951)#Review]]             |
 | 1953 | Peter Pan                              |                                                   |
 | 1955 | Lady and the Tramp                     |                                                   |
 | 1959 | Sleeping Beauty                        | [[Movies/Sleeping Beauty (1959)#Review\|Sleeping Beauty (1959)#Review]]                 |
