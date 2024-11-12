@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-11-12"}
 ---
 
 
 > [!NOTE] 🕴 About
 >
 > Hello and welcome to my homepage! My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do let's plays on YouTube and I stream on Twitch with a group of friends on the Alderoth Circle. More recently, I've been trying to write more. Blogging, writing creatively, etc. Thus, the website.
-> [📺YouTube](https://youtube.com/@jordan_maynor) [🎮Twitch](https://www.twitch.tv/TheAlderothCircle) ⌨[Github](https://github.com/JMaynor)
 >
-> Subscribe via RSS
-> [All Posts](https://jtm.li/feed.xml)
-> [Blog Posts Only](https://jtm.li/blogfeed.xml)
+> [📺YouTube](https://youtube.com/@jordan_maynor)
+> [🎮Twitch](https://www.twitch.tv/TheAlderothCircle)
+> ⌨[Github](https://github.com/JMaynor)
 
 # Blog Posts
 
@@ -108,4 +107,4 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 { .block-language-dataview}
 
 > [!NOTE]  🔗Links
-> [[Tech/Website/Blogroll\|Blogroll]] /  [[Tech/Website/Colophon\|Colophon]]
+> [[Tech/Website/Blogroll\|Blogroll]] / [[Tech/Website/Colophon\|Colophon]] / [All Posts Feed](https://jtm.li/feed.xml) / [Blog Posts Feed](https://jtm.li/blogfeed.xml)
