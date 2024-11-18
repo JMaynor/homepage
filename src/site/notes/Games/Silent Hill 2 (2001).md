@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["LP","games"],"created":"2024-08-26","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["LP","games"],"created":"2024-08-26","updated":"2024-11-18"}
 ---
 
 
@@ -13,6 +13,12 @@ SH2 has been high on my list of To-Dos having never experienced the series until
 
 # Review
 
-Will review once finished with game.
+I have very few notes for Silent Hill 2. Nearly every single criticism I had from [[Games/Silent Hill (1999)\|Silent Hill]] was fully answered. Combat was leaps and bounds better than in the first. Way fewer enemies it felt like and far more of a focus on the atmospheric and puzzle bits. The puzzles themselves were also much better. Way less find the five themed keys of the area to open the big door to move on to the next location. There were few moments where I wasn't certain what to do next.
+
+I think any real nitpicks I have are super specific things that really aren't a big issue. Like specific puzzle moments that delved a bit too into the survival horror silliness for me. The trash chute bit with the juice stands out. It's hard to think of more though, and I feel like that is a shining beacon of a green flag right there. If I'm struggling to come up with nits to pick. I got the Leave ending and it felt a little bit overly saccharine. Canonically, has James not just murdered his wife a couple days ago? I understand to some degree she was wanting to die at that point, but it does feel a little weird that we seemingly give James a pass. Well, looks like you did a whole video game, slugger, seems you're good to go now. I looked up the other ending and they do feel a bit more thematically resonant.
+
+The story was great and I like James way more than Harry Mason (sorry Harry, but you were a bit one-note). He's orders of magnitude more interesting to think about and put yourself into the shoes of. He's got layers, our problematic king. But really, I greatly enjoyed every character. James, Angela, Laura, Eddie, Maria. They're all well-formed people. I guess I could say that Eddie feels a bit like the least of this group. He was giving me the least. But that's a hard bar, because I feel Angela, Laura, and Maria are really batting above their weight class. I have heard that others do not like Laura. I could not disagree more, there. I thought she was a hilarious little shit. Mary/Maria steals the show. Puzzling out how real she is was quite satisfying. She was created for a purpose, of course. Everything is just very rich. Rich with detail and rich with meaning.
+
+Great great stuff. I may at some point play some more Silents Hill. Probably 3, as I've heard it is also good. Past that I'm somewhat less inclined. I don't want my experiences to be spoiled with lesser attempts at the formula.
 
 # Links
