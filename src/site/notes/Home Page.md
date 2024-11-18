@@ -66,6 +66,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]
 - [[Games/The Final Station (2016)\|The Final Station (2016)]]
 - [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]
+- [[Games/The Rise of the Golden Idol (2024)\|The Rise of the Golden Idol (2024)]]
 - [[Games/The Witness (2016)\|The Witness (2016)]]
 - [[Games/Tormented Souls (2021)\|Tormented Souls (2021)]]
 - [[Games/Visage (2020)\|Visage (2020)]]
