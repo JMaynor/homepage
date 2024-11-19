@@ -15,6 +15,7 @@
 
 | Post                                                                                                                                 | Summary                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2024-11-19 YouTube Retrospective Year 4\|2024-11-19 YouTube Retrospective Year 4]]                                         | Thoughts on games I've played this year and my general plans for next year.                                                |
 | [[Blog/2024-11-08 Mr. Smith\|2024-11-08 Mr. Smith]]                                                                               | A description of my ideal political candidate, if I could summon them from the aether.                                     |
 | [[Blog/2024-09-25 My RSS Journey\|2024-09-25 My RSS Journey]]                                                                     | My move to using RSS as my front page of the internet, as opposed to certain other websites.                               |
 | [[Blog/2024-08-20 I'm Tired of Being Asked to Care About the Robot\|2024-08-20 I'm Tired of Being Asked to Care About the Robot]] | Rant about a frequent plot point/theme in recent media that I think has overstayed its welcome.                            |
