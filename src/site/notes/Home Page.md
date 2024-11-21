@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-11-12"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2023-11-28","updated":"2024-11-20"}
 ---
 
 
 > [!NOTE] 🕴 About
 >
-> Hello and welcome to my homepage! My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do let's plays on YouTube and I stream on Twitch with a group of friends on the Alderoth Circle. More recently, I've been trying to write more. Blogging, writing creatively, etc. Thus, the website.
+> Hello and welcome to my homepage! My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do let's plays on YouTube and I stream on Twitch with a group of friends on the Alderoth Circle.  I keep a more general blog for open-ended thoughts as well as canonical pages on games I play, movies I watch, etc. On those, I like to review them or post any notable thoughts I had.
 >
 > [📺YouTube](https://youtube.com/@jordan_maynor)
 > [🎮Twitch](https://www.twitch.tv/TheAlderothCircle)
@@ -98,6 +98,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]
 - [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]
 - [[Games/Paradox Games\|Paradox Games]]
+- [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]
 - [[Games/Signalis (2022)\|Signalis (2022)]]
 - [[Games/Sims 4 (2014)\|Sims 4 (2014)]]
 - [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]

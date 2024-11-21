@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2024-08-27"}
+{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2024-11-20"}
 ---
 
 
@@ -12,3 +12,5 @@ The [Eleventy](https://www.11ty.dev/) static site generator and a few [Nunjucks]
 Once generated, the website is deployed to and hosted on [Vercel](https://vercel.com/). My DNS is managed with [Hover](https://www.hover.com/). Basic page view analytics done with [Goat Counter](https://www.goatcounter.com/).
 
 I also use [Syncthing](https://syncthing.net/)to sync my markdown notes between my devices. Great utility, lets me publish changes from my desktop or my phone. Also just great in general for backing up files. I've got it on nearly every device for some reason or another.
+
+Speaking of DNS...Lichtenstein? Why .li? No particular reason. I wanted the shortest domain I could find that was related to my name or initials. Whilst searching through domains that started with jtm, filtering out domains that were just dumb, I saw .li was available. So I picked that one. Probably not the greatest idea given I have no connection to Lichtenstein, but oh well. Let us simply say that I am sending them my well wishes and hope that they live long and prosper. Or at least as long as I'm alive.
