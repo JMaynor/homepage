@@ -5,8 +5,9 @@
 
 # Bibliography
 
-| File                                                                      | series | index | file.aliases                     | read |
-| ------------------------------------------------------------------------- | ------ | ----- | -------------------------------- | ---- |
-| [[Books/Mary Renault - The Charioteer\|Mary Renault - The Charioteer]] | \-     | \-    | <ul><li>The Charioteer</li></ul> | true |
+| File                                                                                  | series | index | file.aliases                           | read  |
+| ------------------------------------------------------------------------------------- | ------ | ----- | -------------------------------------- | ----- |
+| [[Books/Mary Renault - The Charioteer\|Mary Renault - The Charioteer]]             | \-     | \-    | <ul><li>The Charioteer</li></ul>       | true  |
+| [[Books/Mary Renault - The Last of the Wine\|Mary Renault - The Last of the Wine]] | \-     | \-    | <ul><li>The Last of the Wine</li></ul> | false |
 
 { .block-language-dataview}
