@@ -8,6 +8,8 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
   userMarkdownSetup,
@@ -562,6 +564,11 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
+
+  module.exports = function (eleventyConfig) {
+    // If you have other `addPlugin` calls, UpgradeHelper should be listed last.
+    eleventyConfig.addPlugin(UpgradeHelper);
+  };
 
   // New collection for blog posts
   eleventyConfig.addCollection("blog", function (collectionApi) {
