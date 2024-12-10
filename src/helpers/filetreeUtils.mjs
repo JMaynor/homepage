@@ -70,7 +70,7 @@ function getPermalinkMeta(note, key) {
     }
     if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
       permalink = "/";
-    }    
+    }
     if (note.data.title) {
       name = note.data.title;
     }
@@ -92,7 +92,7 @@ function getPermalinkMeta(note, key) {
         .split("notes/")[1]
         .split("/");
     }
-    folders[folders.length - 1]+= ".md";
+    folders[folders.length - 1] += ".md";
   } catch {
     //ignore
   }
@@ -101,9 +101,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  lastKeyIndex = keyPath.length - 1;
+  let lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
-    key = keyPath[i];
+    let key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
@@ -122,4 +122,5 @@ function getFileTree(data) {
   return fileTree;
 }
 
-exports.getFileTree = getFileTree;
+const _getFileTree = getFileTree;
+export { _getFileTree as getFileTree };
