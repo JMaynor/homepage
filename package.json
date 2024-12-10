@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "start": "npm-run-all get-theme build:sass --parallel watch:*",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
@@ -15,6 +16,9 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
+    "engines": {
+        "node": "22.x"
+    },
     "devDependencies": {
         "@11ty/eleventy": "^3.0.0",
         "@11ty/eleventy-plugin-rss": "^2.0.2",

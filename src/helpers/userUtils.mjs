@@ -4,4 +4,5 @@ function userComputed(data) {
   return {};
 }
 
-exports.userComputed = userComputed;
+const _userComputed = userComputed;
+export { _userComputed as userComputed };

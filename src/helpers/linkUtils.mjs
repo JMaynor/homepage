@@ -104,7 +104,11 @@ async function getGraph(data) {
   };
 }
 
-exports.wikiLinkRegex = wikiLinkRegex;
-exports.internalLinkRegex = internalLinkRegex;
-exports.extractLinks = extractLinks;
-exports.getGraph = getGraph;
+const _wikiLinkRegex = wikiLinkRegex;
+export { _wikiLinkRegex as wikiLinkRegex };
+const _internalLinkRegex = internalLinkRegex;
+export { _internalLinkRegex as internalLinkRegex };
+const _extractLinks = extractLinks;
+export { _extractLinks as extractLinks };
+const _getGraph = getGraph;
+export { _getGraph as getGraph };

@@ -1,22 +1,25 @@
-const slugify = require("@sindresorhus/slugify");
-const markdownIt = require("markdown-it");
-const fs = require("fs");
-const matter = require("gray-matter");
-const faviconsPlugin = require("eleventy-plugin-gen-favicons");
-const tocPlugin = require("eleventy-plugin-nesting-toc");
-const { parse } = require("node-html-parser");
-const htmlMinifier = require("html-minifier-terser");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import slugify from "@sindresorhus/slugify";
+import markdownIt from "markdown-it";
+import { readFileSync } from "fs";
+import matter from "gray-matter";
+import faviconsPlugin from "eleventy-plugin-gen-favicons";
+import tocPlugin from "eleventy-plugin-nesting-toc";
+import { parse } from "node-html-parser";
+import { minify } from "html-minifier-terser";
+import pluginRss from "@11ty/eleventy-plugin-rss";
 
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItMark from "markdown-it-mark";
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItMathjax3 from "markdown-it-mathjax3";
+import markdownItAttrs from "markdown-it-attrs";
+import markdownItTaskCheckbox from "markdown-it-task-checkbox";
+import markdownItPlantuml from "markdown-it-plantuml";
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const {
-  userMarkdownSetup,
-  userEleventySetup,
-} = require("./src/helpers/userSetup");
+import { headerToId, namedHeadingsFilter } from "./src/helpers/utils.mjs";
+import { userMarkdownSetup, userEleventySetup } from "./src/helpers/userSetup.mjs";
 
-const Image = require("@11ty/eleventy-img");
+import Image, { statsSync } from "@11ty/eleventy-img";
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -27,7 +30,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 
   // generate images, while this is async we don’t wait
   Image(src, options);
-  let metadata = Image.statsSync(src, options);
+  let metadata = statsSync(src, options);
   return metadata;
 }
 
@@ -54,7 +57,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     const fullPath = fileName.endsWith(".md")
       ? `${startPath}${fileName}`
       : `${startPath}${fileName}.md`;
-    const file = fs.readFileSync(fullPath, "utf8");
+    const file = readFileSync(fullPath, "utf8");
     const frontMatter = matter(file);
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
@@ -95,7 +98,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -104,17 +107,17 @@ module.exports = function (eleventyConfig) {
     html: true,
     linkify: true,
   })
-    .use(require("markdown-it-anchor"), {
+    .use(markdownItAnchor, {
       slugify: headerToId,
     })
-    .use(require("markdown-it-mark"))
-    .use(require("markdown-it-footnote"))
+    .use(markdownItMark)
+    .use(markdownItFootnote)
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
-    .use(require("markdown-it-mathjax3"), {
+    .use(markdownItMathjax3, {
       tex: {
         inlineMath: [["$", "$"]],
       },
@@ -122,8 +125,8 @@ module.exports = function (eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
-    .use(require("markdown-it-attrs"))
-    .use(require("markdown-it-task-checkbox"), {
+    .use(markdownItAttrs)
+    .use(markdownItTaskCheckbox, {
       disabled: true,
       divWrap: false,
       divClass: "checkbox",
@@ -131,7 +134,7 @@ module.exports = function (eleventyConfig) {
       ulClass: "task-list",
       liClass: "task-list-item",
     })
-    .use(require("markdown-it-plantuml"), {
+    .use(markdownItPlantuml, {
       openMarker: "```plantuml",
       closeMarker: "```",
     })
@@ -509,7 +512,7 @@ module.exports = function (eleventyConfig) {
       outputPath &&
       outputPath.endsWith(".html")
     ) {
-      return htmlMinifier.minify(content, {
+      return minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
@@ -564,11 +567,6 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
-
-  module.exports = function (eleventyConfig) {
-    // If you have other `addPlugin` calls, UpgradeHelper should be listed last.
-    eleventyConfig.addPlugin(UpgradeHelper);
-  };
 
   // New collection for blog posts
   eleventyConfig.addCollection("blog", function (collectionApi) {
