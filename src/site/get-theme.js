@@ -1,8 +1,9 @@
-require("dotenv").config();
-const axios = require("axios");
-const fs = require("fs");
-const crypto = require("crypto");
-const {globSync} = require("glob");
+import dotenv from "dotenv";
+dotenv.config();
+import { get } from "axios";
+import { rmSync, writeFileSync } from "fs";
+import { createHash } from "crypto";
+import { globSync } from "glob";
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
@@ -12,7 +13,7 @@ async function getTheme() {
     //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
     //Not all themes with no legacy mark have a theme.css file, so we need to check for it
     try {
-      await axios.get(themeUrl);
+      await get(themeUrl);
     } catch {
       if (themeUrl.indexOf("theme.css") > -1) {
         themeUrl = themeUrl.replace("theme.css", "obsidian.css");
@@ -21,13 +22,13 @@ async function getTheme() {
       }
     }
 
-    const res = await axios.get(themeUrl);
+    const res = await get(themeUrl);
     try {
       const existing = globSync("src/site/styles/_theme.*.css");
       existing.forEach((file) => {
-        fs.rmSync(file);
+        rmSync(file);
       });
-    } catch {}
+    } catch { }
     let skippedFirstComment = false;
     const data = res.data.replace(themeCommentRegex, (match) => {
       if (skippedFirstComment) {
@@ -37,10 +38,10 @@ async function getTheme() {
         return match;
       }
     });
-    const hashSum = crypto.createHash("sha256");
+    const hashSum = createHash("sha256");
     hashSum.update(data);
     const hex = hashSum.digest("hex");
-    fs.writeFileSync(`src/site/styles/_theme.${hex.substring(0, 8)}.css`, data);
+    writeFileSync(`src/site/styles/_theme.${hex.substring(0, 8)}.css`, data);
   }
 }
 
