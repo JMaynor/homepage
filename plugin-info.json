@@ -3,6 +3,7 @@
         "src/site/styles/style.css",
         "src/site/index.njk",
         "src/site/index.11tydata.mjs",
+        "src/site/notes/notes.11tydata.mjs",
         "src/site/_data/filetree.mjs",
         "api/search.js",
         "netlify/functions/search/search.js",
@@ -22,7 +23,6 @@
         "src/site/img/tree-3.svg",
         "src/helpers/userUtils.mjs",
         "src/helpers/userSetup.mjs",
-        "src/site/notes/notes.11tydata.mjs",
         "vercel.json",
         "netlify.toml"
     ],
@@ -39,7 +39,6 @@
         "src/site/styles/digital-garden-base.scss",
         "src/site/styles/obsidian-base.scss",
         "src/site/notes/notes.json",
-        "src/site/notes/notes.11tydata.mjs",
         "src/site/_includes/layouts/note.njk",
         "src/site/_includes/layouts/index.njk",
         "src/site/_includes/components/notegrowthhistory.njk",
