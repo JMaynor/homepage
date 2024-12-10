@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 dotenv.config();
-import { get } from "axios";
+import axios from 'axios';
 import { rmSync, writeFileSync } from "fs";
 import { createHash } from "crypto";
 import { globSync } from "glob";
@@ -13,7 +13,7 @@ async function getTheme() {
     //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
     //Not all themes with no legacy mark have a theme.css file, so we need to check for it
     try {
-      await get(themeUrl);
+      await axios.get(themeUrl);
     } catch {
       if (themeUrl.indexOf("theme.css") > -1) {
         themeUrl = themeUrl.replace("theme.css", "obsidian.css");
@@ -22,7 +22,7 @@ async function getTheme() {
       }
     }
 
-    const res = await get(themeUrl);
+    const res = await axios.get(themeUrl);
     try {
       const existing = globSync("src/site/styles/_theme.*.css");
       existing.forEach((file) => {
