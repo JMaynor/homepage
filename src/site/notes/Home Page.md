@@ -15,6 +15,7 @@
 
 | Post                                                                                                                                 | Summary                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2024-12-23 Default Apps 2024\|2024-12-23 Default Apps 2024]]                                                               | List of apps and services I use day to day as of the end of 2024.                                                          |
 | [[Blog/2024-11-19 YouTube Retrospective Year 4\|2024-11-19 YouTube Retrospective Year 4]]                                         | Thoughts on games I've played this year and my general plans for next year.                                                |
 | [[Blog/2024-11-08 Mr. Smith\|2024-11-08 Mr. Smith]]                                                                               | A description of my ideal political candidate, if I could summon them from the aether.                                     |
 | [[Blog/2024-09-25 My RSS Journey\|2024-09-25 My RSS Journey]]                                                                     | My move to using RSS as my front page of the internet, as opposed to certain other websites.                               |
