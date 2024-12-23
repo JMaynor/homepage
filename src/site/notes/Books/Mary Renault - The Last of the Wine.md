@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2024-12-20"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2024-12-23"}
 ---
 
 
@@ -22,3 +22,7 @@ Gettin real depressing as we drink up all this wine and get to the last of it. M
 I hate the oligarchs and I hate the Spartans. How goddamn dare they outlaw Logic. What the fuck is this, Alice in Wonderland? I do not like being conquered by wretches. The City is dead.
 
 I feel a great sense of inevitability. I do not foresee a happy ending to this novel. And in particular, I am reminded of the novel's very beginning. Where we see what happened with Alexias' namesake. I'm just sayin', history rhyming would feel appropriate in this instance. Also very Greek tragedy. Why else would we open there if it would not later be relevant?
+
+----
+
+Yeah, I figured Lysis was doomed. Unfortunate, but not unexpected. I enjoyed seeing a slice of history. Well-written and interesting. It was nice how normal Alexias and Lysis' relationship is. I would've appreciated a little more romance, though.
