@@ -7,9 +7,10 @@
 >
 > Hello and welcome to my homepage! My name's Jordan and I'm a programmer from Southern Illinois. In my free time I do let's plays on YouTube and I stream on Twitch with a group of friends on the Alderoth Circle.  I keep a more general blog for open-ended thoughts as well as canonical pages on games I play, movies I watch, etc. On those, I like to review them or post any notable thoughts I had.
 >
-> [📺YouTube](https://youtube.com/@jordan_maynor)
-> [🎮Twitch](https://www.twitch.tv/TheAlderothCircle)
-> ⌨[Github](https://github.com/JMaynor)
+> [YouTube](https://youtube.com/@jordan_maynor)
+> [Twitch](https://www.twitch.tv/TheAlderothCircle)
+> [Bluesky](https://bsky.app/profile/jtm.li)
+> [Github](https://github.com/JMaynor)
 
 # Blog Posts
 
