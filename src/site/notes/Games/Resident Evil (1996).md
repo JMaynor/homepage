@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2024-12-29"}
+{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2024-12-30"}
 ---
 
+
+![Resident Evil Hero.jpg](/img/user/Attachments/Resident%20Evil%20Hero.jpg)
 
 # Summary
 
