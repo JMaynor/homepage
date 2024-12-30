@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-case-of-the-golden-idol-2022/","tags":["LP","games"],"created":"2024-04-08","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/the-case-of-the-golden-idol-2022/","tags":["LP","games"],"created":"2024-04-08","updated":"2024-12-30"}
 ---
 
 
