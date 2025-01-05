@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["LP","games"],"created":"2024-08-26","updated":"2024-11-18"}
+{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["LP","games"],"created":"2024-08-26","updated":"2025-01-01"}
 ---
 
 
@@ -22,3 +22,5 @@ The story was great and I like James way more than Harry Mason (sorry Harry, but
 Great great stuff. I may at some point play some more Silents Hill. Probably 3, as I've heard it is also good. Past that I'm somewhat less inclined. I don't want my experiences to be spoiled with lesser attempts at the formula.
 
 # Links
+
+Playlist https://www.youtube.com/watch?v=7vA1RjWbqFQ&list=PLXbBIoFOxaQvytODKXs19bAiAT9uwh4ij

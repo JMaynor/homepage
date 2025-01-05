@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2024-12-30"}
+{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2025-01-01"}
 ---
 
 
@@ -22,3 +22,5 @@ I do find myself very interested to see where they might go from there. My big t
 A great puzzle game in general and a good sequel to the original.
 
 # Links
+
+Playlist https://www.youtube.com/watch?v=r4Y_57HxWSY&list=PLXbBIoFOxaQvy_2r4uYhRuMzFC5ZNH3vh

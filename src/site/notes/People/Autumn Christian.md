@@ -5,8 +5,8 @@
 
 # Bibliography
 
-| File                                                                                                | series | index | file.aliases                              | read  |
-| --------------------------------------------------------------------------------------------------- | ------ | ----- | ----------------------------------------- | ----- |
-| [[Books/Autumn Christian - The Crooked God Machine\|Autumn Christian - The Crooked God Machine]] | \-     | \-    | <ul><li>The Crooked God Machine</li></ul> | false |
+| File                                                                                                | series | index | file.aliases                              | read |
+| --------------------------------------------------------------------------------------------------- | ------ | ----- | ----------------------------------------- | ---- |
+| [[Books/Autumn Christian - The Crooked God Machine\|Autumn Christian - The Crooked God Machine]] | \-     | \-    | <ul><li>The Crooked God Machine</li></ul> | true |
 
 { .block-language-dataview}
