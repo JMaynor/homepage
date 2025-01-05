@@ -90,6 +90,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]
 - [[Games/Helldivers (2015)\|Helldivers (2015)]]
 - [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]
+- [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]
 - [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]
 - [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]]
 - [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
