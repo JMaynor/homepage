@@ -9,10 +9,11 @@ Article breaking down David Lynch commercial for Dior Lady Blue Shanghai. https:
 
 # Filmography
 
-| File                                                     | file.aliases                    |
-| -------------------------------------------------------- | ------------------------------- |
-| [[Movies/Blue Velvet (1986)\|Blue Velvet (1986)]]     | <ul><li>Blue Velvet</li></ul>   |
-| [[Movies/Inland Empire (2006)\|Inland Empire (2006)]] | <ul><li>Inland Empire</li></ul> |
+| File                                                           | file.aliases                       |
+| -------------------------------------------------------------- | ---------------------------------- |
+| [[Movies/Blue Velvet (1986)\|Blue Velvet (1986)]]           | <ul><li>Blue Velvet</li></ul>      |
+| [[Movies/Inland Empire (2006)\|Inland Empire (2006)]]       | <ul><li>Inland Empire</li></ul>    |
+| [[Movies/Mulholland Drive (2001)\|Mulholland Drive (2001)]] | <ul><li>Mulholland Drive</li></ul> |
 
 { .block-language-dataview}
 
