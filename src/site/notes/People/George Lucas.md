@@ -7,8 +7,9 @@ Obsessed with [[Worldbuilding/Vern Cinematic Universe/Jar-Jar Binks\|Jar-Jar Bin
 
 # Filmography
 
-| File                                                             | file.aliases                        |
-| ---------------------------------------------------------------- | ----------------------------------- |
-| [[Movies/American Graffiti (1973)\|American Graffiti (1973)]] | <ul><li>American Graffiti</li></ul> |
+| File                                                                   | file.aliases                                                                  |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[Movies/American Graffiti (1973)\|American Graffiti (1973)]]       | <ul><li>American Graffiti</li></ul>                                           |
+| [[Movies/Star Wars A New Hope (1977)\|Star Wars A New Hope (1977)]] | <ul><li>Star Wars 4</li><li>A New Hope</li><li>Star Wars A New Hope</li></ul> |
 
 { .block-language-dataview}

@@ -3,4 +3,6 @@
 ---
 
 
+![A New Hope Poster.jpg|200](/img/user/Attachments/A%20New%20Hope%20Poster.jpg)
+
 # Review
