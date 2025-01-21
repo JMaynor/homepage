@@ -15,4 +15,4 @@ All of the train bits were the best, here. Loved watching our goonish Union boys
 
 Also the muttonstache...I am a fan. This fella below. I just find it dashing is all, I feel like it's primed to make a comeback. Maybe I'm crazy and need to be put away for my own safety.
 
-![Pasted image 20241026105540.png|300](/img/user/Attachments/Pasted%20image%2020241026105540.png)
+![Muttonstache Character from The General.png|300](/img/user/Attachments/Muttonstache%20Character%20from%20The%20General.png)
