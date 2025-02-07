@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/people/mary-renault/","created":"2024-11-23","updated":"2024-12-04"}
+{"dg-publish":true,"permalink":"/people/mary-renault/","created":"2024-11-23","updated":"2025-01-31"}
 ---
 
+
+Blog post that introduced me to Mary Renault: https://blogs.loc.gov/bibliomania/2024/11/20/the-nature-of-mary-renault/.
 
 # Bibliography
 
