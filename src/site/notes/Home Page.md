@@ -15,6 +15,7 @@
 
 | Post                                                                                                                                 | Summary                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2025-02-12 Illinois State Flags\|2025-02-12 Illinois State Flags]]                                                         | Review of potential Illinois state flag redesigns.                                                                         |
 | [[Blog/2025-01-17 Dick Laurent Is Dead\|2025-01-17 Dick Laurent Is Dead]]                                                         | Thoughts on the recent news of Lynch's passing.                                                                            |
 | [[Blog/2024-12-23 Default Apps 2024\|2024-12-23 Default Apps 2024]]                                                               | List of apps and services I use day to day as of the end of 2024.                                                          |
 | [[Blog/2024-11-19 YouTube Retrospective Year 4\|2024-11-19 YouTube Retrospective Year 4]]                                         | Thoughts on games I've played this year and my general plans for next year.                                                |
