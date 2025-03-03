@@ -9,4 +9,6 @@ Class of 09 is a beautiful thing. It is laugh-out-loud hilarious for the vast ma
 
 Nicole and Jecka are friend-shaped and I think we all need to be more like them. They are role models.
 
+I would also just note for the record that I am not an anime man. I do not care for it at all. So if anyone is reading this and is put off by the style, *do not* be. It's great.
+
 # Links
