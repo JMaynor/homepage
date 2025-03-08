@@ -19,7 +19,7 @@ I think any real nitpicks I have are super specific things that really aren't a 
 
 The story was great and I like James way more than Harry Mason (sorry Harry, but you were a bit one-note). He's orders of magnitude more interesting to think about and put yourself into the shoes of. He's got layers, our problematic king. But really, I greatly enjoyed every character. James, Angela, Laura, Eddie, Maria. They're all well-formed people. I guess I could say that Eddie feels a bit like the least of this group. He was giving me the least. But that's a hard bar, because I feel Angela, Laura, and Maria are really batting above their weight class. I have heard that others do not like Laura. I could not disagree more, there. I thought she was a hilarious little shit. Mary/Maria steals the show. Puzzling out how real she is was quite satisfying. She was created for a purpose, of course. Everything is just very rich. Rich with detail and rich with meaning.
 
-Great great stuff. I may at some point play some more Silents Hill. Probably 3, as I've heard it is also good. Past that I'm somewhat less inclined. I don't want my experiences to be spoiled with lesser attempts at the formula.
+Great great stuff. I may at some point play some more Silents Hill. Probably [[Games/Silent Hill 3 (2003)\|Silent Hill 3]], as I've heard it is also good. Past that I'm somewhat less inclined. I don't want my experiences to be spoiled with lesser attempts at the formula.
 
 # Links
 

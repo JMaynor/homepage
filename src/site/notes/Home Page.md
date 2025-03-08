@@ -65,6 +65,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]
 - [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
 - [[Games/Silent Hill 2 (2001)\|Silent Hill 2 (2001)]]
+- [[Games/Silent Hill 3 (2003)\|Silent Hill 3 (2003)]]
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
