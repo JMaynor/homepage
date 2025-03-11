@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/artists/lady-gaga/","created":"2025-01-29","updated":"2025-03-10"}
+{"dg-publish":true,"permalink":"/music/artists/lady-gaga/","created":"2025-01-29","updated":"2025-03-11"}
 ---
 
 
@@ -37,7 +37,7 @@ I would also include 2024's Harlequin in this discussion. It was a companion alb
 
 Continuing the theme of Gaga wanting to explore different genres and moving back to 2016, Joanna would be her take on country or soft rock. This was really her next mainline album after 2013's Artpop. It would again frustrate some of her longtime fans since she was again not just doing the fun dance pop that people wanted.
 
-Joanne in general is a lot more stripped back, a lot more personal. There's still some pop present, but we're going for more laid-back here. I would point out that Joanne is very much a bellwether in terms of where the genre would end up going. Gaga and Taylor doing this softer pop would very much lead to the likes of your Chappels Roan and your Sabrinas Carpenter. Your post-$ Keshas. So it's important in that way if nothing else.
+Joanne in general is a lot more stripped back, a lot more personal. There's still some pop present, but we're going for more laid-back here. I would point out that Joanne is very much a bellwether in terms of where the genre would end up going. Gaga and Taylor doing this softer pop would very much lead to the likes of your Chappels Roan and your Sabrinas Carpenter. Your post-$ Keshas. So it's important in that way if nothing else. It tends to be loved more by the T Swizzle girlies, so if that's your jam.
 
 # A Star Is Born (2018)
 
@@ -53,13 +53,13 @@ It also had some very unfortunate timing. Gaga is known for her big performances
 
 # Mayhem (2025)
 
-I'm hearing MJ, I'm hearing Prince. Bowie is present at this party. Mayhem is great. The clearest comparison to her body of work would be The Fame. Mayhem is very The Fame. The singles for Mayhem were Disease and Abracadabra. The expectation from them was that we were getting a way more dark pop industrial album than we got. Mayhem is, appropriately however, all over in terms of genre. Which was a definite theme with Gaga's earlier albums. But I would say Mayhem is quite a lot funkier than the singles would lead you to believe. Like I said, I'm feeling some serious MJ and Prince vibes.
+I'm hearing MJ, I'm hearing Prince. Bowie is present at this party. Mayhem is great. The clearest comparison to her body of work would be The Fame. Mayhem is very The Fame. Both in terms of general soundscape and also level of quality. The singles for Mayhem were Disease and Abracadabra. The expectation from them was that we were getting a way more dark pop industrial album than we got. Mayhem is, appropriately however, all over in terms of genre. Which was a definite theme with Gaga's earlier albums. But I would say Mayhem is quite a lot funkier than the singles would lead you to believe. Like I said, I'm feeling some serious MJ and Prince vibes.
 
-If you have felt *any* desire to know what Gaga's been up to. Any nostalgia at all for her early album era, now is the time to get back into her. This album is it. I myself knew we were back when I listened to Abracadabra and we got the signature Gaga gobbledegook lyrics  as well as literally just saying "Gaga" in the song.
+If you have felt *any* desire to know what Gaga's been up to. Any nostalgia at all for her early album era, now is the time to get back into her. This album is it. I am not fucking around here. I myself knew we were BACK when I listened to Abracadabra and we got the signature Gaga gobbledegook lyrics  as well as literally just saying "Gaga" in the song.
 
 > Abracadabra, amor-oo-na-na
 > Abracadabra, morta-oo-ga-ga
 > Abracadabra, abra-oo-na-na
 > In her tongue she said, "Death or love tonight"
 
-That is when you know she is confident in the song. When we can say near complete nonsense and it sounds great. Put your fucking paws up, y'all. My personal highs from the album are Abracadabra, Perfect Celebrity, Killah, Zombieboy, and Shadow of a Man. But I do like all of them.
+That is when you know she is confident in the song and just having fun. When we can say near complete nonsense and it sounds great. Put your fucking paws up, y'all. My personal highs from the album are Abracadabra, Perfect Celebrity, Killah, Zombieboy, and Shadow of a Man. But there are no misses here.
