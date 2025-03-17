@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2024-08-14"}
+{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-03-13"}
 ---
 
 
