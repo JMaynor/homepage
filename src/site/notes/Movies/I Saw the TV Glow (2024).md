@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/i-saw-the-tv-glow-2024/","tags":["movies"],"created":"2024-09-01","updated":"2024-09-01"}
+{"dg-publish":true,"permalink":"/movies/i-saw-the-tv-glow-2024/","tags":["movies"],"created":"2024-09-01","updated":"2025-03-13"}
 ---
 
 

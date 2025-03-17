@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/john-ford/","created":"2024-06-18","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/people/john-ford/","created":"2024-06-18","updated":"2025-03-13"}
 ---
 
 

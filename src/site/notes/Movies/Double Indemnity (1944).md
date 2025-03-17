@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","tags":["movies"],"created":"2024-06-18","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
 ---
 
 

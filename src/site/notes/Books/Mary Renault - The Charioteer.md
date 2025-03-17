@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2024-12-04"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2025-03-13"}
 ---
 
 
@@ -9,16 +9,16 @@ This novel is really good thus far. I had a somewhat tough time with the second 
 
 But it's been very simmering, even just from what I've read thus far. The text feels rich.
 
-> Lanyon seemed about to step forward; and Laurie waited. He didn’t think what he was waiting for. He was lifted into a kind of exalted dream, part loyalty, part hero-worship, all romance. Half-remembered images moved in it, the tents of Troy, the columns of Athens, David waiting in an olive grove for the sound of Jonathan’s bow.
+> Lanyon seemed about to step forward; and Laurie waited. He didn't think what he was waiting for. He was lifted into a kind of exalted dream, part loyalty, part hero-worship, all romance. Half-remembered images moved in it, the tents of Troy, the columns of Athens, David waiting in an olive grove for the sound of Jonathan's bow.
 > - Ch. 2
 
 I screamed.
 
 ----
 
-> “That’s right,” said Laurie. He took a long steadying draw on his cigarette. “I appreciate it, Reg. Don’t worry, I guarantee that if any seducing goes on it’ll be done by me.” He held his breath. Look out you don’t cut yourself, Reg had once said.
+> "That's right," said Laurie. He took a long steadying draw on his cigarette. "I appreciate it, Reg. Don't worry, I guarantee that if any seducing goes on it'll be done by me." He held his breath. Look out you don't cut yourself, Reg had once said.
 
-> Reg said, approvingly, “Ah. That’s more like it. That’s all a lad like that wants, someone to make a man of him.”
+> Reg said, approvingly, "Ah. That's more like it. That's all a lad like that wants, someone to make a man of him."
 
 Screaming, screaming.
 
@@ -36,7 +36,7 @@ So I'll be totally honest, I have literally no idea what was going on with Lauri
 
 ---
 
-> It was bad luck on her, Laurie thought. She hadn’t wanted to know. She much preferred everything to be nice. You would never have heard her commenting unkindly on one of those quiet boys, a bit shy with girls, or one of those clever women, the tailor-made type, a bit independent with men. It took all sorts to make a world. As for people like that, them one would only hear of, never meet. They belonged, like sawn-up corpses, to the exotic land of the Sunday papers. Even now, almost certainly, she wouldn’t report what she had seen, partly because it would embarrass her too much, but chiefly because she still wouldn’t fully commit herself to having talked and worked with, and even liked, people like that. She would rather consign them to some indeterminate limbo of people who were no longer nice but not fully classified; people who were a bit morbid, or had something unhealthy about them.
+> It was bad luck on her, Laurie thought. She hadn't wanted to know. She much preferred everything to be nice. You would never have heard her commenting unkindly on one of those quiet boys, a bit shy with girls, or one of those clever women, the tailor-made type, a bit independent with men. It took all sorts to make a world. As for people like that, them one would only hear of, never meet. They belonged, like sawn-up corpses, to the exotic land of the Sunday papers. Even now, almost certainly, she wouldn't report what she had seen, partly because it would embarrass her too much, but chiefly because she still wouldn't fully commit herself to having talked and worked with, and even liked, people like that. She would rather consign them to some indeterminate limbo of people who were no longer nice but not fully classified; people who were a bit morbid, or had something unhealthy about them.
 
 > Limbo, he thought, remembering the apples shining across the stream, and the day of separation coming nearer and nearer, till it would be now.
 

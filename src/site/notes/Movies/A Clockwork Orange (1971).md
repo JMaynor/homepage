@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","tags":["movies"],"created":"2024-01-08","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","tags":["movies"],"created":"2024-01-08","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/call-of-duty-2003/","tags":["LP","games"],"created":"2023-12-08","updated":"2024-08-05"}
+{"dg-publish":true,"permalink":"/games/call-of-duty-2003/","tags":["LP","games"],"created":"2023-12-08","updated":"2025-03-13"}
 ---
 
 

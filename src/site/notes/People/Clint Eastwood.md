@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/clint-eastwood/","created":"2024-06-17","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/clint-eastwood/","created":"2024-06-17","updated":"2025-03-13"}
 ---
 
 

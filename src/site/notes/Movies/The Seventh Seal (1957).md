@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-seventh-seal-1957/","tags":["movies"],"created":"2024-03-05","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/the-seventh-seal-1957/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/david-lynch/","tags":["character"],"created":"2023-03-27","updated":"2024-08-28"}
+{"dg-publish":true,"permalink":"/people/david-lynch/","tags":["character"],"created":"2023-03-27","updated":"2025-03-13"}
 ---
 
 

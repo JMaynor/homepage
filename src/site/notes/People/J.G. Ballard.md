@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/j-g-ballard/","created":"2024-12-05","updated":"2024-12-05"}
+{"dg-publish":true,"permalink":"/people/j-g-ballard/","created":"2024-12-05","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/osgood-perkins/","created":"2024-07-14","updated":"2024-07-14"}
+{"dg-publish":true,"permalink":"/people/osgood-perkins/","created":"2024-07-14","updated":"2025-03-13"}
 ---
 
 

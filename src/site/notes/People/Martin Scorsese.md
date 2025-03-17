@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/martin-scorsese/","created":"2023-12-11","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/martin-scorsese/","created":"2023-12-11","updated":"2025-03-13"}
 ---
 
 

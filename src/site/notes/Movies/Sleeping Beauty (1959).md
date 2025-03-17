@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sleeping-beauty-1959/","tags":["movies"],"created":"2024-07-20","updated":"2024-07-20"}
+{"dg-publish":true,"permalink":"/movies/sleeping-beauty-1959/","tags":["movies"],"created":"2024-07-20","updated":"2025-03-13"}
 ---
 
 

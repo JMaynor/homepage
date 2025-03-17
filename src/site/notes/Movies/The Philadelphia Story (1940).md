@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","tags":["movies"],"created":"2024-05-31","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","tags":["movies"],"created":"2023-12-29","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","tags":["movies"],"created":"2023-12-29","updated":"2025-03-13"}
 ---
 
 

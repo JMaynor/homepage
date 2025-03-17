@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/christophe-gans/","created":"2025-02-16","updated":"2025-02-16"}
+{"dg-publish":true,"permalink":"/people/christophe-gans/","created":"2025-02-16","updated":"2025-03-13"}
 ---
 
 

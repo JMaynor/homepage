@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/autumn-christian/","created":"2024-12-23","updated":"2024-12-23"}
+{"dg-publish":true,"permalink":"/people/autumn-christian/","created":"2024-12-23","updated":"2025-03-13"}
 ---
 
 

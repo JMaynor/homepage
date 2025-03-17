@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/civil-war-2024/","tags":["movies"],"created":"2024-04-21","updated":"2024-06-18"}
+{"dg-publish":true,"permalink":"/movies/civil-war-2024/","tags":["movies"],"created":"2024-04-21","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/duck-soup-1933/","tags":["movies"],"created":"2024-03-14","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/duck-soup-1933/","tags":["movies"],"created":"2024-03-14","updated":"2025-03-13"}
 ---
 
 

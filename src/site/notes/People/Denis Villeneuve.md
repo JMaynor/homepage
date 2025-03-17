@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/denis-villeneuve/","created":"2024-09-24","updated":"2024-09-24"}
+{"dg-publish":true,"permalink":"/people/denis-villeneuve/","created":"2024-09-24","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/mark-frost/","created":"2024-06-11","updated":"2024-08-28"}
+{"dg-publish":true,"permalink":"/people/mark-frost/","created":"2024-06-11","updated":"2025-03-13"}
 ---
 
 

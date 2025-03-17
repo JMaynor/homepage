@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13"}
 ---
 
 

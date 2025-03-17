@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/ridley-scott/","created":"2023-12-01","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/ridley-scott/","created":"2023-12-01","updated":"2025-03-13"}
 ---
 
 

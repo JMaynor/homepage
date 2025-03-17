@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/gore-vidal/","created":"2024-05-13","updated":"2024-05-13"}
+{"dg-publish":true,"permalink":"/people/gore-vidal/","created":"2024-05-13","updated":"2025-03-13"}
 ---
 
 
@@ -13,4 +13,3 @@
 | ---- | ------ | ----- | ------------ | ---- |
 
 { .block-language-dataview}
-

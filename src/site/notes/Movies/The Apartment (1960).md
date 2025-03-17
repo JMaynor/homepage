@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","tags":["movies"],"created":"2023-12-16","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","tags":["movies"],"created":"2023-12-16","updated":"2025-03-13"}
 ---
 
 

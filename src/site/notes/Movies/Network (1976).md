@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/network-1976/","tags":["movies"],"created":"2024-02-20","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/network-1976/","tags":["movies"],"created":"2024-02-20","updated":"2025-03-13"}
 ---
 
 
@@ -17,7 +17,7 @@ Howard Beale's monologue
 >
 > We know the air is unfit to breathe and our food is unfit to eat. And we sit watching our TVs while some local newscaster tells us that today we had fifteen homicides and sixty-three violent crimes, as if that's the way it's supposed to be!
 >
-> We all know things are bad -- worse than bad -- they're crazy.
+> We all know things are bad -- worse than bad -- they're crazy.
 >
 > It's like everything everywhere is going crazy, so we don't go out any more. We sit in the house, and slowly the world we're living in is getting smaller, and all we say is, "Please, at least leave us alone in our living rooms. Let me have my toaster and my TV and my steel-belted radials, and I won't say anything. Just leave us alone."
 >

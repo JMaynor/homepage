@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-witch-2015/","tags":["movies"],"created":"2023-12-26","updated":"2024-06-20"}
+{"dg-publish":true,"permalink":"/movies/the-witch-2015/","tags":["movies"],"created":"2023-12-26","updated":"2025-03-13"}
 ---
 
 

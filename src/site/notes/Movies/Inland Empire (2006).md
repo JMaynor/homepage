@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/inland-empire-2006/","tags":["movies"],"created":"2024-01-11","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/movies/inland-empire-2006/","tags":["movies"],"created":"2024-01-11","updated":"2025-03-13"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/gregory-widen/","created":"2024-09-23","updated":"2024-09-23"}
+{"dg-publish":true,"permalink":"/people/gregory-widen/","created":"2024-09-23","updated":"2025-03-13"}
 ---
 
 

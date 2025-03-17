@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","tags":["movies"],"created":"2024-05-31","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13"}
 ---
 
 

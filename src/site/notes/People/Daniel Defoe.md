@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/daniel-defoe/","created":"2024-11-13","updated":"2024-11-13"}
+{"dg-publish":true,"permalink":"/people/daniel-defoe/","created":"2024-11-13","updated":"2025-03-13"}
 ---
 
 

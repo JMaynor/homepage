@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/king-kong-1933/","tags":["movies"],"created":"2024-06-14","updated":"2024-08-19"}
+{"dg-publish":true,"permalink":"/movies/king-kong-1933/","tags":["movies"],"created":"2024-06-14","updated":"2025-03-13"}
 ---
 
 

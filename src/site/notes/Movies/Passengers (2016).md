@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/passengers-2016/","tags":["movies"],"created":"2024-03-11","updated":"2024-10-03"}
+{"dg-publish":true,"permalink":"/movies/passengers-2016/","tags":["movies"],"created":"2024-03-11","updated":"2025-03-13"}
 ---
 
 

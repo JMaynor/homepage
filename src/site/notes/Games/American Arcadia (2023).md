@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/american-arcadia-2023/","tags":["LP","games"],"created":"2024-02-14","updated":"2024-08-05"}
+{"dg-publish":true,"permalink":"/games/american-arcadia-2023/","tags":["LP","games"],"created":"2024-02-14","updated":"2025-03-13"}
 ---
 
 

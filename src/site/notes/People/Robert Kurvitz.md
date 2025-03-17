@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/robert-kurvitz/","created":"2024-08-20","updated":"2024-08-20"}
+{"dg-publish":true,"permalink":"/people/robert-kurvitz/","created":"2024-08-20","updated":"2025-03-13"}
 ---
 
 
