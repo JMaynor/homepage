@@ -13,4 +13,6 @@ I do enjoy the whole precursor aesthetic. The echo-y smooth bronze half-buried i
 
 Another thing I really enjoy is the lack of loading screens. I believe this is the first game where I ever saw such a thing. It's very impressive.
 
+On to [[Games/Jak II (2003)\|Jak II (2003)]]
+
 # Links

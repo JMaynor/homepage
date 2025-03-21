@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-02-22"}
+{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-03-20"}
 ---
 
 
@@ -12,5 +12,7 @@ The actual gameplay is quite good. Sly feels really good to control. He does exa
 I really like the colorful cast of characters we have. They're very charming. In particular, I really like all the animations on Sly. They're very well done and it really helps get his personality across. He's totally charismatic, even this early on. The fun cartoony noire we're going for is great and I want to see more. I distinctly remember we do go on a whole journey with these characters as the series goes on.
 
 Something that I did find funny was the lives. There were a number of quality of life things that I ran into in this game that very much seemed like the developers and designers had the question "is this fun" in mind. Small things like having one of the safes in each world allowing you to track down the clues in the other levels. Or having the speed-up ability that let you quickly retrace your way around. Stuff like that. So I thought it was exceedingly funny when we discovered that the lives meant nothing. The game has a life system as so many old games have. But near as I could tell, it didn't do anything. When I lost all my lives, it just restarted me at the same place with more lives. It was as though there were some executive who only understood the arcades who demanded there be lives. But then the dev team asked "But is that actually any fun?". The answer of course being no. So they put it in and just made it mean nothing. I'm unsure why else it would be there.
+
+On to [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]
 
 # Links

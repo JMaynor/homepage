@@ -110,6 +110,8 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]
 - [[Games/Signalis (2022)\|Signalis (2022)]]
 - [[Games/Sims 4 (2014)\|Sims 4 (2014)]]
+- [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]
+- [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]
 - [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]
 - [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
 - [[Games/We Were Here (2017)\|We Were Here (2017)]]
