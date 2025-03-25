@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/everything-everywhere-all-at-once-2022/","tags":["movies"],"created":"2024-10-06","updated":"2025-01-14"}
+{"dg-publish":true,"permalink":"/movies/everything-everywhere-all-at-once-2022/","tags":["movies"],"created":"2024-10-06","updated":"2025-03-25"}
 ---
 
 

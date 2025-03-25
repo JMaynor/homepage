@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/silent-hill-2006/","tags":["movies"],"created":"2025-02-15","updated":"2025-02-17"}
+{"dg-publish":true,"permalink":"/movies/silent-hill-2006/","tags":["movies"],"created":"2025-02-15","updated":"2025-03-24"}
 ---
 
 

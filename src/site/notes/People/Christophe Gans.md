@@ -5,8 +5,8 @@
 
 # Filmography
 
-| File                                                 | file.aliases |
-| ---------------------------------------------------- | ------------ |
-| [[Movies/Silent Hill (2006)\|Silent Hill (2006)]] | <ul></ul>    |
+| File                                                 | file.aliases                        |
+| ---------------------------------------------------- | ----------------------------------- |
+| [[Movies/Silent Hill (2006)\|Silent Hill (2006)]] | <ul><li>Silent Hill Movie</li></ul> |
 
 { .block-language-dataview}
