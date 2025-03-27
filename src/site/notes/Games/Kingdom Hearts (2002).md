@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed","games"],"created":"2024-03-05","updated":"2025-03-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["streamed","games"],"created":"2024-03-05","updated":"2025-03-26"}
 ---
 
 
@@ -32,3 +32,5 @@ Kingdom Hearts is a lovely game that I experienced long long before any such bar
 On to [[Games/Kingdom Hearts Chain of Memories (2004)\|Chain of Memories]].
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

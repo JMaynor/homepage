@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["streamed","games"],"created":"2024-07-08","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["streamed","games"],"created":"2024-07-08","updated":"2025-03-26"}
 ---
 
 
@@ -18,3 +18,5 @@ Overall I had a fun time. This is where the weirdness of the later sequels start
 Next there is the dreaded [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Dream Drop Distance]].
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

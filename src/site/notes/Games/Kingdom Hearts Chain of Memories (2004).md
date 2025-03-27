@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["streamed","games"],"created":"2024-03-05","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["streamed","games"],"created":"2024-03-05","updated":"2025-03-26"}
 ---
 
 
@@ -13,4 +13,8 @@ The other main issue is simply that it's not so fun replaying through all the sa
 
 So to generalize: not as good to other games, but I enjoy it well enough.
 
+On to [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
+
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

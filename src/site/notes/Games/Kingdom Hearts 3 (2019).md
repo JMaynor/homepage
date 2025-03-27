@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2024-12-05"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-03-26"}
 ---
 
 
@@ -14,3 +14,5 @@ But this time...what a complete turnaround. After the sheer darkness of [[Games/
 It was quite sad though when all we had was the dumb Organization shit at the end. So little Disney fun to carry us through the dark times. Fun battles, though. I think we coulda stopped with KH2.
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

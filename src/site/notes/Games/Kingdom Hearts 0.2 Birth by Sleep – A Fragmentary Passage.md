@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","tags":["games","streamed"],"created":"2024-10-08","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-03-26"}
 ---
 
 
@@ -16,3 +16,5 @@ Mickey's shirt disappearing is still so stupid it's funny.
 Last, but certainly not least we have the big one, [[Games/Kingdom Hearts 3 (2019)\|Kingdom Hearts 3]].
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

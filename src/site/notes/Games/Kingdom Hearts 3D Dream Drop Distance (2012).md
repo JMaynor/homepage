@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["streamed","games"],"created":"2024-09-19","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["streamed","games"],"created":"2024-09-19","updated":"2025-03-26"}
 ---
 
 
@@ -24,3 +24,5 @@ This one is no good and should be thrown into the seas. KH3 would require almost
 First of course, we need to cover the KH3 tech demo with the nonsense name, [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Fragmentary Passage]].
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["streamed","games"],"created":"2024-03-12","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["streamed","games"],"created":"2024-03-12","updated":"2025-03-26"}
 ---
 
 
 ![Hero Kingdom Hearts 2.jpg](/img/user/Attachments/Hero%20Kingdom%20Hearts%202.jpg)
-
-# Summary
 
 # Review
 
@@ -18,3 +16,5 @@ I really enjoyed the additions from Final Mix. The data battles of the Organizat
 Next on the list is [[Games/Kingdom Hearts Birth by Sleep (2010)\|Birth By Sleep]].
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk
