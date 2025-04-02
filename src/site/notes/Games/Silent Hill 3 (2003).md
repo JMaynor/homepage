@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-04-01"}
+{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-04-02"}
 ---
 
 
@@ -23,7 +23,11 @@ To finish off my negatives, I will also say that I'm pretty uninterested in the 
 
 Some things that I did like about the game. Because I will say, it's a perfectly good game. We're just measuring up against a titan and that inevitably has us falling short. The spooks are still here. I didn't like the monsters on the whole as much, but they're still perfectly creepy and are deployed situationally well. In addition, I think we still have a good loop of go to area, travel through mostly safe interconnecting bit, then go through new area. It still feels quite good from a basic game design standpoint, we've not lost that at all. Music is also still banging. I felt there wasn't quite so many standout tracks, but I could see that being a symptom of not fucking with the story as much. Fewer moments when a good song could shine through to connect the events to the emotions of the scene. Heather's also good. She's not as interesting as a James, but she does project a clear personality through her vocal performance, her actions, and her inner narrations of various objects.
 
-Another thing I appreciate about Silent Hill are the games' lengths. We get in, we have a good time, then we get out. Praise shorter games that don't overstay their welcome. I like that we've stuck with that thus far. I will eventually get to the Silent Hill 2 remake, but it's something that's given me pause. That one did not need to be any longer. Neither did 1 or really 3. I could see an argument for wanting 3 to be longer to make room form ore story. I don't think I agree, though. I could feel that it was shorter than previous entries, but I still think we had plenty of time to cover whatever it is we want to cover. The biggest sin against this game was simply a lack of focus.
+Another thing I appreciate about Silent Hill are the games' lengths. We get in, we have a good time, then we get out. Praise shorter games that don't overstay their welcome. I like that we've stuck with that thus far. I will eventually get to the Silent Hill 2 remake, but it's something that's given me pause. That one did not need to be any longer. Neither did 1 or really 3. I could see an argument for wanting 3 to be longer to make room for more story. I don't think I agree, though. I could feel that it was shorter than previous entries, but I still think we had plenty of time to cover whatever it is we want to cover. The biggest sin against this game was simply a lack of focus.
+
+I do think this one could use a revisit, more than 1 or 2 really need. I think going back to the drawing board here and figuring out what the story is that we want to tell and how we can effectively tell it could make for a much better game. 2 was great as is. I don't think it necessarily needed a remake. And for 1, while I could see a remake being interesting, I'm also not sure what all to even do. The enemies are pretty universally no good, not all that scary. I guess just putting a bigger focus on the exploring towns bit could be good for the game. Deleting half the enemies would really raise my opinion of that one.
+
+Might end up playing 4 in the future, I'm unsure. It just seems like a dark road, trying to get blood from an increasingly solid rock. There's a part of me that is screaming, cut your losses and get out while everything is still good. So we'll see.
 
 # Links
 
