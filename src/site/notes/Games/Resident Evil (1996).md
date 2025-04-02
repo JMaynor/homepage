@@ -23,4 +23,6 @@ I liked Chris as well. He had this weird charisma to him. The guy barely speaks 
 
 I started Resident Evil because I knew the first couple games in the series were considered some of the best survival horror games of all time. And for the year of 2025, I am (was, if you're reading this later) working my way through a Best Of list to better educate myself on great games I'd never played. I could see myself working through much of this series, however. Not just those first couple. I've seen bits and pieces of the big mommy one and it seemed quite fun, so I'm probably gonna finish up Fallout and put a semi-permanent Resident Evil in its timeslot. At least for the time being. I do like to skip around between genres.
 
+On to [[Games/Resident Evil 2 (1998)\|Resident Evil 2 (1998)]]
+
 # Links
