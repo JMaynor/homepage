@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-03-20"}
+{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-13"}
 ---
 
 
@@ -16,3 +16,5 @@ Something that I did find funny was the lives. There were a number of quality of
 On to [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQM80tJjmZYVPyCC0RgB9kmm

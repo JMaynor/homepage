@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-03-20"}
+{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-04-13"}
 ---
 
 
@@ -18,3 +18,5 @@ Just so good in every way. I have no complaints.
 Moving along to [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]
 
 # Links
+
+https://www.youtube.com/playlist?list=PL0UgLs1BOgQM80tJjmZYVPyCC0RgB9kmm
