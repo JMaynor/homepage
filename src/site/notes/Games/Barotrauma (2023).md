@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/barotrauma-2023/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-03-03"}
+{"dg-publish":true,"permalink":"/games/barotrauma-2023/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-04-14"}
 ---
 
+
+![Hero Barotrauma.jpg](/img/user/Attachments/Hero%20Barotrauma.jpg)
 
 # Review
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-02-25"}
+{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-04-14"}
 ---
 
+
+![Hero Class of 09.jpg](/img/user/Attachments/Hero%20Class%20of%2009.jpg)
 
 # Review
 

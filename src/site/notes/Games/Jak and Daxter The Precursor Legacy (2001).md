@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/jak-and-daxter-the-precursor-legacy-2001/","tags":["games","streamed"],"created":"2024-11-10","updated":"2024-12-31"}
+{"dg-publish":true,"permalink":"/games/jak-and-daxter-the-precursor-legacy-2001/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-14"}
 ---
 
+
+![Hero Jak and Daxter.jpg](/img/user/Attachments/Hero%20Jak%20and%20Daxter.jpg)
 
 # Review
 

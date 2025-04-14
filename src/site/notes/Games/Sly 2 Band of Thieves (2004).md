@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-04-13"}
+{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-04-14"}
 ---
 
+
+![Hero Sly Cooper 2.jpg](/img/user/Attachments/Hero%20Sly%20Cooper%202.jpg)
 
 # Review
 

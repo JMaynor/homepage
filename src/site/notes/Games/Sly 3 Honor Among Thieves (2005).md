@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-3-honor-among-thieves-2005/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-13"}
+{"dg-publish":true,"permalink":"/games/sly-3-honor-among-thieves-2005/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-14"}
 ---
 
+
+![Hero Sly Cooper 3.jpg](/img/user/Attachments/Hero%20Sly%20Cooper%203.jpg)
 
 # Review
 
@@ -16,6 +18,8 @@ Going into less of the story, the other thing that I didn't like that I feel is 
 I would also just mention a more catch-all, there were little moments where a lack of attention to detail was showing. The first level's boss having no bespoke music and not really bringing anything special to the table was a disappointment. I would say pretty much every boss from Sly 1 and 2 are uniformly great in their presentation. There was a couple moments actually, speaking of music, where it felt like we were falling back on generic fighting or sneaking music. When a unique track to match the specific scene really was called for.
 
 All that being said, I did still have quite a fun time actually playing. The game itself never forgets that it is a game and above all we need to be having fun. And it does accomplish that. Things are bigger, more explosive, there's more little minigames than ever. The only drawback to that approach is that you do start to see the seams. Another new thing that I did like was the conversations where you're picking your responses. I always found those to be quite fun. But in general my takeaway is good, but could've used a tighter focus on the important bits.
+
+On to [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]
 
 # Links
 

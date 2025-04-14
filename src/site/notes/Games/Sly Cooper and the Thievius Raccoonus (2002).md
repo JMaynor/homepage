@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-13"}
+{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-04-14"}
 ---
 
+
+![Hero Sly Cooper 1.jpg](/img/user/Attachments/Hero%20Sly%20Cooper%201.jpg)
 
 # Review
 
