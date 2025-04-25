@@ -114,6 +114,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]
 - [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]
 - [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]
+- [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]
 - [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
 - [[Games/We Were Here (2017)\|We Were Here (2017)]]
 - [[Games/We Were Here Forever (2022)\|We Were Here Forever (2022)]]
