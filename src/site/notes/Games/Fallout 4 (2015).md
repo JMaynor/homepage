@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP","games"],"created":"2024-03-17","updated":"2025-03-27"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["LP","games"],"created":"2024-03-17","updated":"2025-05-19"}
 ---
 
 
@@ -11,9 +11,74 @@ Fallout 4 is an action RPG (I mean...) developed, published, envisioned, manifes
 
 I've played Fallout 4 before soon after it first released, but I didn't gel with it at the time. That being said I've been wanting to do a Fallout and it is the clear choice to cover. I love [[Games/Fallout New Vegas (2010)\|New Vegas]] and much prefer it over 3 and so I decided I wanted to give 4 a fair chance, loading it with mods to buff out the dents. Join me as we bring the powerful spirit of America back into the world!
 
+# Links
+
+Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvJrxX84xzLCamHCIR9vw4u
+
+Below is a list of all mods used throughout playthrough and links to each.
+
+| Mod Name                                                                  | Link                                          | Category                        |
+| ------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------- |
+| .45 Auto Pistol (Colt M1911)                                              | https://www.nexusmods.com/fallout4/mods/21142 | Weapons                         |
+| 5.56mm Pistol                                                             | https://www.nexusmods.com/fallout4/mods/44634 | Weapons                         |
+| 5.56mm Pistol Fix                                                         | https://www.nexusmods.com/fallout4/mods/60916 | Patches                         |
+| 9mm Pistol (Browning Hi-Power) Redux                                      | https://www.nexusmods.com/fallout4/mods/20143 | Weapons                         |
+| 12.7mm Pistol (Sig Sauer P127)                                            | https://www.nexusmods.com/fallout4/mods/23434 | Weapons                         |
+| All Settlements Extended - Player's Choice                                | https://www.nexusmods.com/fallout4/mods/29095 | Player Settlement               |
+| Armor and Weapon Keywords Community Resource                              | https://www.nexusmods.com/fallout4/mods/6091  | Modders Resources and Tutorials |
+| Bullet Counted Reload System                                              | https://www.nexusmods.com/fallout4/mods/41178 | Gameplay                        |
+| Capital Wasteland .32 Caliber Pistol                                      | https://www.nexusmods.com/fallout4/mods/50396 | Weapons                         |
+| Capital Wasteland Centuars                                                | https://www.nexusmods.com/fallout4/mods/59379 | Creatures                       |
+| Capital Wasteland Outfit Pack                                             | https://www.nexusmods.com/fallout4/mods/41380 | Armor                           |
+| Capital Wasteland Outfit Pack Part 2                                      | https://www.nexusmods.com/fallout4/mods/59105 | Armor                           |
+| Colt-Mothman 6520 and N-80 Pistols Pack                                   | https://www.nexusmods.com/fallout4/mods/57194 | Weapons                         |
+| Companion Accuracy Boost                                                  | https://www.nexusmods.com/fallout4/mods/11674 | Companions                      |
+| Companion Infinite Ammo                                                   | https://www.nexusmods.com/fallout4/mods/6233  | Companions                      |
+| DKS-501 Sniper Rifle                                                      | https://www.nexusmods.com/fallout4/mods/15909 | Weapons                         |
+| DLC Creatures in the Commonwealth                                         | https://www.nexusmods.com/fallout4/mods/74220 | Creatures                       |
+| Enclave Settlement Kit and Colonel Autumn Duster                          | https://www.nexusmods.com/fallout4/mods/36228 | Crafting - Home/Settlement      |
+| Enhanced Vanilla Bodies                                                   | https://www.nexusmods.com/fallout4/mods/22110 | Models and Textures             |
+| Everyone's Best Friend                                                    | https://www.nexusmods.com/fallout4/mods/13459 | Companions                      |
+| Experience rings modifier standalone                                      | https://www.nexusmods.com/fallout4/mods/33612 | Gameplay                        |
+| Fallout 4 Script Extender                                                 | https://www.nexusmods.com/fallout4/mods/42147 | Utilities                       |
+| FO4 Photo Mode                                                            | https://www.nexusmods.com/fallout4/mods/49997 | User Interface                  |
+| Force Evolution - Super Mutant Addons                                     | https://www.nexusmods.com/fallout4/mods/79308 | Creatures                       |
+| Full Dialogue Interface                                                   | https://www.nexusmods.com/fallout4/mods/1235  | User Interface                  |
+| Hairy Men for EVB-SHB-BodyTalk (the clothed version, I ain't that bad...) | https://www.nexusmods.com/fallout4/mods/24540 | Models and Textures             |
+| HUDFramework                                                              | https://www.nexusmods.com/fallout4/mods/20309 | User Interface                  |
+| Immersive Animation Framework                                             | https://www.nexusmods.com/fallout4/mods/50555 | Animation                       |
+| JRavens Extra Tracks                                                      | https://www.nexusmods.com/fallout4/mods/2741  | Audio - Music                   |
+| Lee Enfield No. 4 Mk. 1 - Britain's Finest                                | https://www.nexusmods.com/fallout4/mods/32128 | Weapons                         |
+| Let Freedom Swing - Patriot Version                                       | https://www.nexusmods.com/fallout4/mods/32623 | Radio                           |
+| Load Accelerator                                                          | https://www.nexusmods.com/fallout4/mods/10283 | Performance                     |
+| Lots More Facial Hair                                                     | https://www.nexusmods.com/fallout4/mods/10746 | Body, Face, and Hair            |
+| Lots More Female Hairstyles                                               | https://www.nexusmods.com/fallout4/mods/10543 | Body, Face, and Hair            |
+| Lots More Male Hairstyles                                                 | https://www.nexusmods.com/fallout4/mods/10695 | Body, Face, and Hair            |
+| M1 Garand - A WWII Classic                                                | https://www.nexusmods.com/fallout4/mods/20687 | Weapons                         |
+| Mauser Family                                                             | https://www.nexusmods.com/fallout4/mods/15469 | Weapons                         |
+| Mauser Pistol                                                             | https://www.nexusmods.com/fallout4/mods/14141 | Weapons                         |
+| Minuteman General's Overcoat                                              | https://www.nexusmods.com/fallout4/mods/80988 | Clothing                        |
+| Modular Simonov PTRS-41 Anti-Tank Rifle                                   | https://www.nexusmods.com/fallout4/mods/11925 | Weapons                         |
+| Mosin Nagant Sniper Rifle                                                 | https://www.nexusmods.com/fallout4/mods/23258 | Weapons                         |
+| NCR Ranger Veteran Armor                                                  | https://www.nexusmods.com/fallout4/mods/9034  | Armor                           |
+| NCR Trooper Armor By Dr. Mobius                                           | https://www.nexusmods.com/fallout4/mods/31236 | Armor                           |
+| Place Everywhere                                                          | https://www.nexusmods.com/fallout4/mods/9424  | Player Settlement               |
+| Post-Quest Kingsport Lighthouse Settlement Light Revive                   | https://www.nexusmods.com/fallout4/mods/36193 | Visuals and Graphics            |
+| Real.AI                                                                   | https://www.nexusmods.com/fallout4/mods/72923 | NPC                             |
+| Remote Hacking                                                            | https://www.nexusmods.com/fallout4/mods/18358 | Gameplay                        |
+| Scrap Everything                                                          | https://www.nexusmods.com/fallout4/mods/5320  | Player Settlement               |
+| Service Rifle                                                             | https://www.nexusmods.com/fallout4/mods/32361 | Weapons                         |
+| Sim Settlements 2                                                         | https://www.nexusmods.com/fallout4/mods/47976 | Player Settlement               |
+| SVT-40                                                                    | https://www.nexusmods.com/fallout4/mods/22017 | Weapons                         |
+| UCO                                                                       | https://www.nexusmods.com/fallout4/mods/18489 | Clothing                        |
+| Wattz Laser Gun                                                           | https://www.nexusmods.com/fallout4/mods/26386 | Weapons                         |
+| We Have Names                                                             | https://www.nexusmods.com/fallout4/mods/74287 | NPC                             |
+| Wireless Power                                                            | https://www.nexusmods.com/fallout4/mods/57146 | Crafting - Home/Settlement      |
+| Workshop Framework                                                        | https://www.nexusmods.com/fallout4/mods/35004 | Player Settlement               |
+
 # Review
 
-I've got thoughts so lock in. I have done my damndest to split this up into digestible sections.
+I've got thoughts so lock in. I have done my damndest to split this up into digestible sections. Still actively writing and rewriting this out. I think Fallout 4 has inspired the most text from me of any of the games I've played on my channel by far.
 
 ## What's in a Game?
 
@@ -90,106 +155,3 @@ But what's really notable in terms of gameplay of Sim Settlements is that the ab
 ### The Actual Story
 
 ()
-
-## We Can Fix It
-
-There's a common refrain in the video game community. Where people will retort criticisms to their favored thing with "Well, how about you make a game you dumb stupid dingus!" I think this is just children. I struggle to envision the adult that doesn't understand that good faith criticism is perfectly fine. You do not need to go past "this doesn't work well because X, Y, and Z." But as an exercise for the writer, I have a number of random suggestions I would have, if I could just throw those out into the universe and make them happen. No particular order here. Just random nits I wanna pick, or things I'd like to erase and replace with something else.
-
-### Opening Bits and Background
-
-I actually enjoy the idea of Vault 111 in general. I think the setup of you existing as a prewar fella (or dame) is a good new opportunity for roleplay. Suddenly catapulted from your normal world. But we've gotta get rid of that background. It is an albatross around our neck. I lean towards making protag explicitly single. They've moved into the little white picket fence cul-de-sac recently and then we get the Big Day. I like Codsworth so he is fine and can stay. But I don't want spouse or child there. It opens up so many more avenues for fun and games. It allows you a much broader range of directions you could direct your protag in if you don't have things tying you down. And we are taking the voice away. Like I mentioned much earlier in this review, there's nothing illegal about having a voiced protagonist and also good dialogue. But we're a number of games into this series with a silent protagonist so at this point it feels (felt) like a tradition.
-
-So the opening goes as normal, you make your way down into the vault. I think I would also have you woken up in the same way. However, this time it is *you* that Kellogg and the Institute folks are after! You blearily wake up and right in front of you some scientist (and a mean man with a gun) have a big ol syringe in your arm drawing blood. You struggle of course, not understanding what the hell is happening. Mean man gives you the big bop and you're back out and the refreezing happens. We don't explain what's happening, but again like in the normal game we wake up at some later date as the Vault is failing.
-
-You make your escape from the Vault and are turned loose upon the world, as is customary. You're free to pursue the Institute lead, I mean what the hell was all that about? But you certainly don't need to. You don't have any kids that have been kidnapped. So if perhaps, the whole end of the world thing has proper cracked you, feel free to be a shitty little bastard and do evil playthroughs to your heart's delight. No one's watching.
-
-I think it makes sense for the first person you run into to be Codsworth. He can give you the lay of the land and explain how much time has passed. You could mention the whole syringe incident (and that you're unsure *when* it happened...) and he becomes worried and insists on taking you to a doctor because he's a good fellow. Maybe you've been poisoned or something. He doesn't actually have any idea where such a place is of course, but by jove he and his stiff upper lip will get you there. Codsworth has heard tale of there being civilization "somewhere Southeast". Alternatively, help might be much closer... I would drop Preston being at Concord. I don't want to introduce any of the factions right out the gate. And we're going to be redoing the Minuteman story anyway. Concord is, however, a raider stronghold...
-
-### Concord and Sanctuary Hills
-
-Sanctuary Hills, is unfortunately no longer a sanctuary. It's been raided to hell. There's nothing but scraps there. You do see signs though, of life. Not the greatest life. Typical raider shite everywhere with the bodies and the graffiti and all that. As you exited the vault earlier, you saw signs of attempted forced entry. Some terminal entries and notes. The last note talking about how Boss doesn't care about the vault anymore because he found something good in the Museum of History. Concord proper, if you approach it, has become a walled city. You can attempt entering, but it's got some asshole raider dipshits as guards at the entrance gate. So you can attempt to do some speech checking to get them to let you in. Or do some quests for them to prove you're cool. Or sneak in through a back entrance. You know, options. If you do get in, you'll see that the leader of this place has positioned himself as King of Concord as he sits upon his throne atop the Museum of History, whilst wearing his lovely power armor that's now covered in British redcoat regalia. (The various raiders in charge around here also follow the example of their King and are dressed as redcoats. Redcoats that run at you and scream fucking kill.) I get that the whole power armor thing is a bespoke system Bethesda was real proud of and thus shoved everywhere....it's too fucking common. And it's real shit that the player gets power armor 5 minutes into the game. The deathclaw fight is silly. So instead, this guy gets it.
-
-What's the point of all this? A frequent complaint lodged against F4 is that it's hard to be an asshole. Thus, the existence of Nuka World. I think even if we keep that content, there aren't really any towns full of assholes in F4. Having Concord be a full-on raider outpost allows the player a quick opportunity to slip into their bastard shoes, if they want to start living that life. Or maybe you're a goody-two shoes and you end up pissing someone there off. Maybe you get a whole town that thinks you need to go and that gives you reason to beat feet and head South. For me, F4 has two actual towns: Diamond City and Goodneighbor. Everything else is either the factions or the nothing settlements that have no identity. There are remarkably few dense towns with something interesting going on there that doesn't directly relate to the main story. I think having more side shit is good. These raiders don't have to be a whole faction relevant to the main story. They can just be allowed to be their own thing.
-
-### Factions
-
-So from there you can either ingratiate yourself with the natives or seek greener pastures in Boston. Let's talk about those Bostonites, because I'm wanting to make some changes. As it is now, I don't feel like the factions are particularly interesting. There's not much interplay between each. And in general, I don't think there's a very interesting question being asked in terms of "Where does this area go from here?"
-
-#### Railroad
-
-Firstly, I'm getting rid of the Railroad. Not entirely, but as a faction. I am fine with them existing. But as stated previously, I cannot suspend my disbelief that these spy fellas are getting randos off the street to care for synths above their own wellbeing. They just aren't. So the Railroad is whatever.
-
-#### The Institute
-
-What are we doing with the Institute? That's the first big change I want to implement. I struggled while playing to understand the Institute and Shawn's motivations. Of course, there's no Shawn leading the way this time, so what are doing with all that? Is there going to be another leader then who doesn't have a connection to you? And what was with the syringe? Is it what we think it is? Yes. The Institute, similar to in the main game, wanted DNA uncorrupted by radiation to work off of. However, in this case, they didn't need a whole guy. Instead, they simply took a sample. After that, they had no need of you. There's no "backup" because they've gotten what they wanted and have moved on. What have they done with the player character's DNA? Well, as before, we've created synths. The intention with the synths is different, however, in my version.
-
-When I think of why we're doing synths in the main game, I just run into so many issues. So we've created artificial life because we...want free labor? Robots are no good, I guess. And we want to be able to clandestinely gather info out in the world without attracting attention? Like....who even gives a single fuck? You are creating artificial life. Why on earth do we give a single shit what this podunk nothing town is doing or saying? Why do we care? Vaporize them if you want. Or start mind controlling them. Fallout is weird. Have ya seen Old World Blues? We can do crazy things with technology. And we've got this group that's doing the whole high science thing. But they're just using it for nothing at all. You can create artificial life, but you can't set up some water purifiers? You can literally teleport, but you can't provide people with protection from raiders? Either we care about the surface people's actions and opinions or we do not. Father says the Commonwealth is a lost cause, but we sure seem to have our sticky fingers in many of their pies. I just get lots of conflicting ideas going on in the main game.
-
-So instead, why did we create synths in this version? We created synths because we want to become the ultimate humanity that we can be. Immune to radiation with perfect bodies. And with perfect bodies that last forever, we have all the time in the world to perfect our minds. There will be no war when everyone has all their needs met. We have no more need of it. And we can teach future generations science, philosophy. We saw what happened in the Old World. The way to avoid that is pushing science as far as we can and going past the singularity. That's all great and noble, of course, but this is Fallout so how do we fuck it up and make it more interesting? I think that's how the Institute started, but that is not where they ended up. The whole robots being aware and throwing off their chains story is old hat, what if instead that *already happened* and in F4 we are seeing the after?
-
-The Institute is instead a group of synths a number of generations after the originals. They are all you to some degree. Though the grandaddy of them all exists as their leader.
-
-# Links
-
-Playlist https://www.youtube.com/playlist?list=PLXbBIoFOxaQvJrxX84xzLCamHCIR9vw4u
-
-Below is a list of all mods used throughout playthrough and links to each.
-
-| Mod Name                                                                  | Link                                          | Category                        |
-| ------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------- |
-| .45 Auto Pistol (Colt M1911)                                              | https://www.nexusmods.com/fallout4/mods/21142 | Weapons                         |
-| 5.56mm Pistol                                                             | https://www.nexusmods.com/fallout4/mods/44634 | Weapons                         |
-| 5.56mm Pistol Fix                                                         | https://www.nexusmods.com/fallout4/mods/60916 | Patches                         |
-| 9mm Pistol (Browning Hi-Power) Redux                                      | https://www.nexusmods.com/fallout4/mods/20143 | Weapons                         |
-| 12.7mm Pistol (Sig Sauer P127)                                            | https://www.nexusmods.com/fallout4/mods/23434 | Weapons                         |
-| All Settlements Extended - Player's Choice                                | https://www.nexusmods.com/fallout4/mods/29095 | Player Settlement               |
-| Armor and Weapon Keywords Community Resource                              | https://www.nexusmods.com/fallout4/mods/6091  | Modders Resources and Tutorials |
-| Bullet Counted Reload System                                              | https://www.nexusmods.com/fallout4/mods/41178 | Gameplay                        |
-| Capital Wasteland .32 Caliber Pistol                                      | https://www.nexusmods.com/fallout4/mods/50396 | Weapons                         |
-| Capital Wasteland Centuars                                                | https://www.nexusmods.com/fallout4/mods/59379 | Creatures                       |
-| Capital Wasteland Outfit Pack                                             | https://www.nexusmods.com/fallout4/mods/41380 | Armor                           |
-| Capital Wasteland Outfit Pack Part 2                                      | https://www.nexusmods.com/fallout4/mods/59105 | Armor                           |
-| Colt-Mothman 6520 and N-80 Pistols Pack                                   | https://www.nexusmods.com/fallout4/mods/57194 | Weapons                         |
-| Companion Accuracy Boost                                                  | https://www.nexusmods.com/fallout4/mods/11674 | Companions                      |
-| Companion Infinite Ammo                                                   | https://www.nexusmods.com/fallout4/mods/6233  | Companions                      |
-| DKS-501 Sniper Rifle                                                      | https://www.nexusmods.com/fallout4/mods/15909 | Weapons                         |
-| DLC Creatures in the Commonwealth                                         | https://www.nexusmods.com/fallout4/mods/74220 | Creatures                       |
-| Enclave Settlement Kit and Colonel Autumn Duster                          | https://www.nexusmods.com/fallout4/mods/36228 | Crafting - Home/Settlement      |
-| Enhanced Vanilla Bodies                                                   | https://www.nexusmods.com/fallout4/mods/22110 | Models and Textures             |
-| Everyone's Best Friend                                                    | https://www.nexusmods.com/fallout4/mods/13459 | Companions                      |
-| Experience rings modifier standalone                                      | https://www.nexusmods.com/fallout4/mods/33612 | Gameplay                        |
-| Fallout 4 Script Extender                                                 | https://www.nexusmods.com/fallout4/mods/42147 | Utilities                       |
-| FO4 Photo Mode                                                            | https://www.nexusmods.com/fallout4/mods/49997 | User Interface                  |
-| Force Evolution - Super Mutant Addons                                     | https://www.nexusmods.com/fallout4/mods/79308 | Creatures                       |
-| Full Dialogue Interface                                                   | https://www.nexusmods.com/fallout4/mods/1235  | User Interface                  |
-| Hairy Men for EVB-SHB-BodyTalk (the clothed version, I ain't that bad...) | https://www.nexusmods.com/fallout4/mods/24540 | Models and Textures             |
-| HUDFramework                                                              | https://www.nexusmods.com/fallout4/mods/20309 | User Interface                  |
-| Immersive Animation Framework                                             | https://www.nexusmods.com/fallout4/mods/50555 | Animation                       |
-| JRavens Extra Tracks                                                      | https://www.nexusmods.com/fallout4/mods/2741  | Audio - Music                   |
-| Lee Enfield No. 4 Mk. 1 - Britain's Finest                                | https://www.nexusmods.com/fallout4/mods/32128 | Weapons                         |
-| Let Freedom Swing - Patriot Version                                       | https://www.nexusmods.com/fallout4/mods/32623 | Radio                           |
-| Load Accelerator                                                          | https://www.nexusmods.com/fallout4/mods/10283 | Performance                     |
-| Lots More Facial Hair                                                     | https://www.nexusmods.com/fallout4/mods/10746 | Body, Face, and Hair            |
-| Lots More Female Hairstyles                                               | https://www.nexusmods.com/fallout4/mods/10543 | Body, Face, and Hair            |
-| Lots More Male Hairstyles                                                 | https://www.nexusmods.com/fallout4/mods/10695 | Body, Face, and Hair            |
-| M1 Garand - A WWII Classic                                                | https://www.nexusmods.com/fallout4/mods/20687 | Weapons                         |
-| Mauser Family                                                             | https://www.nexusmods.com/fallout4/mods/15469 | Weapons                         |
-| Mauser Pistol                                                             | https://www.nexusmods.com/fallout4/mods/14141 | Weapons                         |
-| Minuteman General's Overcoat                                              | https://www.nexusmods.com/fallout4/mods/80988 | Clothing                        |
-| Modular Simonov PTRS-41 Anti-Tank Rifle                                   | https://www.nexusmods.com/fallout4/mods/11925 | Weapons                         |
-| Mosin Nagant Sniper Rifle                                                 | https://www.nexusmods.com/fallout4/mods/23258 | Weapons                         |
-| NCR Ranger Veteran Armor                                                  | https://www.nexusmods.com/fallout4/mods/9034  | Armor                           |
-| NCR Trooper Armor By Dr. Mobius                                           | https://www.nexusmods.com/fallout4/mods/31236 | Armor                           |
-| Place Everywhere                                                          | https://www.nexusmods.com/fallout4/mods/9424  | Player Settlement               |
-| Post-Quest Kingsport Lighthouse Settlement Light Revive                   | https://www.nexusmods.com/fallout4/mods/36193 | Visuals and Graphics            |
-| Real.AI                                                                   | https://www.nexusmods.com/fallout4/mods/72923 | NPC                             |
-| Remote Hacking                                                            | https://www.nexusmods.com/fallout4/mods/18358 | Gameplay                        |
-| Scrap Everything                                                          | https://www.nexusmods.com/fallout4/mods/5320  | Player Settlement               |
-| Service Rifle                                                             | https://www.nexusmods.com/fallout4/mods/32361 | Weapons                         |
-| Sim Settlements 2                                                         | https://www.nexusmods.com/fallout4/mods/47976 | Player Settlement               |
-| SVT-40                                                                    | https://www.nexusmods.com/fallout4/mods/22017 | Weapons                         |
-| UCO                                                                       | https://www.nexusmods.com/fallout4/mods/18489 | Clothing                        |
-| Wattz Laser Gun                                                           | https://www.nexusmods.com/fallout4/mods/26386 | Weapons                         |
-| We Have Names                                                             | https://www.nexusmods.com/fallout4/mods/74287 | NPC                             |
-| Wireless Power                                                            | https://www.nexusmods.com/fallout4/mods/57146 | Crafting - Home/Settlement      |
-| Workshop Framework                                                        | https://www.nexusmods.com/fallout4/mods/35004 | Player Settlement               |
