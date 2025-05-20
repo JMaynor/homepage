@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-z-danielewski-house-of-leaves/","tags":["books"],"created":"2024-01-05","updated":"2025-03-03"}
+{"dg-publish":true,"permalink":"/books/mark-z-danielewski-house-of-leaves/","tags":["books"],"created":"2024-01-05","updated":"2025-05-15"}
 ---
 
 

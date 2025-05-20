@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2024-12-23"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2025-05-15"}
 ---
 
 

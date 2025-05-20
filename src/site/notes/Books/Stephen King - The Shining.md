@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/stephen-king-the-shining/","tags":["books"],"created":"2025-01-16","updated":"2025-02-07"}
+{"dg-publish":true,"permalink":"/books/stephen-king-the-shining/","tags":["books"],"created":"2025-01-16","updated":"2025-05-15"}
 ---
 
 

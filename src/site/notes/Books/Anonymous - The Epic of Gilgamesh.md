@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/anonymous-the-epic-of-gilgamesh/","tags":["books"],"created":"2025-03-16","updated":"2025-03-24"}
+{"dg-publish":true,"permalink":"/books/anonymous-the-epic-of-gilgamesh/","tags":["books"],"created":"2025-03-16","updated":"2025-05-14"}
 ---
 
 

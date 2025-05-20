@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/j-g-ballard-concrete-island/","tags":["books"],"created":"2024-12-04","updated":"2025-01-16"}
+{"dg-publish":true,"permalink":"/books/j-g-ballard-concrete-island/","tags":["books"],"created":"2024-12-04","updated":"2025-05-15"}
 ---
 
 
