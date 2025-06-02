@@ -8,5 +8,3 @@
 # Notes
 
 Forrest is an American icon, as notable as FDR and Lincoln. Also Tom Hanks' most famous role, in my opinion. Even though Jenny is the far more interesting character to watch.
-
-# Review
