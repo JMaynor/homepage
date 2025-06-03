@@ -70,6 +70,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
+- [[Games/System Shock (1994)\|System Shock (1994)]]
 - [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]
 - [[Games/The Final Station (2016)\|The Final Station (2016)]]
 - [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]
