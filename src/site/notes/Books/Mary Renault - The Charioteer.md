@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2025-06-03"}
 ---
 
 

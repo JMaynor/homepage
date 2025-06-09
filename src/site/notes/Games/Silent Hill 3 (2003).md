@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-04-02"}
+{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-06-03"}
 ---
 
 

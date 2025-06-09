@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["LP","games"],"created":"2024-08-26","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["games","LP"],"created":"2024-08-26","updated":"2025-06-03"}
 ---
 
 

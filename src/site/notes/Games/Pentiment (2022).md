@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["LP","games"],"created":"2023-12-08","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
 ---
 
 

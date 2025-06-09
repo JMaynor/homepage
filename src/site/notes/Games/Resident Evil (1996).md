@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2025-06-03"}
 ---
 
 

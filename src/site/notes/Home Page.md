@@ -61,6 +61,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Pentiment (2022)\|Pentiment (2022)]]
 - [[Games/Resident Evil (1996)\|Resident Evil (1996)]]
 - [[Games/Resident Evil 2 (1998)\|Resident Evil 2 (1998)]]
+- [[Games/Resident Evil 3 (1999)\|Resident Evil 3 (1999)]]
 - [[Games/Road 96 (2021)\|Road 96 (2021)]]
 - [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
 - [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]

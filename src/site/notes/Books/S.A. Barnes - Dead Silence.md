@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/s-a-barnes-dead-silence/","tags":["books"],"created":"2024-06-11","updated":"2025-03-17"}
+{"dg-publish":true,"permalink":"/books/s-a-barnes-dead-silence/","tags":["books"],"created":"2024-06-11","updated":"2025-06-06"}
 ---
 
 

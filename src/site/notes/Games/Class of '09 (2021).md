@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-04-14"}
+{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-06-04"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["streamed","games"],"created":"2024-07-08","updated":"2025-03-26"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["games","streamed"],"created":"2024-07-08","updated":"2025-03-26"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-frost-twin-peaks-the-final-dossier/","tags":["books"],"created":"2024-06-07","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/books/mark-frost-twin-peaks-the-final-dossier/","tags":["books"],"created":"2024-06-07","updated":"2025-06-05"}
 ---
 
 
