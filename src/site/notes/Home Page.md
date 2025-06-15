@@ -94,6 +94,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Book of Hours (2023)\|Book of Hours (2023)]]
 - [[Games/Class of '09 (2021)\|Class of '09 (2021)]]
 - [[Games/Cuphead (2017)\|Cuphead (2017)]]
+- [[Games/Death of the Reprobate (2024)\|Death of the Reprobate (2024)]]
 - [[Games/Diner Bros (2018)\|Diner Bros (2018)]]
 - [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]
 - [[Games/Elden Ring (2022)\|Elden Ring (2022)]]
