@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-2-1998/","tags":["games","LP"],"created":"2025-03-29","updated":"2025-05-30"}
+{"dg-publish":true,"permalink":"/games/resident-evil-2-1998/","tags":["games","LP"],"created":"2025-03-29","updated":"2025-06-18"}
 ---
 
 
@@ -23,4 +23,8 @@ Still enjoying the story in general. I'm aware that there is a turn somewhere, w
 
 Leon is my boy. Claire is my boy. We've still got good protags that I quite liked. We never get quite as much dialogue from them as I'd want. I think what's really missing here is Silent Hill-style in-head narrations when examining objects. It's a great way of getting across more personality from the character that I'd love if the series made use of. But they're still pretty likeable and make you want to root for them. This trend surely must be bucked at some point. Not every Resident Evil protag can enter the my boy pantheon. Chris, at the very least, is in good company.
 
+On to [[Games/Resident Evil 3 (1999)\|Resident Evil 3]].
+
 # Links
+
+Playlist https://www.youtube.com/watch?v=ru-J73Cr6hc&list=PLXbBIoFOxaQuucs5XPQTQgYwVhmII9aXL
