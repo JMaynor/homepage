@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/four-last-things-2017/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-06-07"}
+{"dg-publish":true,"permalink":"/games/four-last-things-2017/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-07-15"}
 ---
 
+
+![Hero Four Last Things.jpg](/img/user/Attachments/Hero%20Four%20Last%20Things.jpg)
 
 # Review
 
