@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/homer-the-odyssey/","tags":["books"],"created":"2025-03-21","updated":"2025-07-08"}
+{"dg-publish":true,"permalink":"/books/homer-the-odyssey/","tags":["books"],"created":"2025-03-21","updated":"2025-07-23"}
 ---
 
 
@@ -21,6 +21,10 @@ There is way less wacky mythological adventures with monsters in the Odyssey tha
 
 ----
 
-I fucking hate some of these insane moral lessons we're being taught. So let's talk about the whole Helios cow situation. So it's storming continuously for long enough that the Odyssey crew go through absolutely all of their supplies. (Storming because Zeus mind you) Odysseus is then magically lulled to sleep and his crew kill the cows. Helios is pissed off naturally and demands redress. Poseidon loves fucking up Odysseus for literally the most insane of reasons. Odysseus didn't allow Poseidon's son to eat him and his crew. A horrible sin. So Zeuss blow apart his sumptuous barque and send the crew straight to Hades. Then the Phaecians escort Odysseus to Ithaca and shower him with the wildest level of neighborly kindness. So Poseidon turns their boat to stone? Fucking why???? This theme keeps coming up of how to treat guests. But the ones who treat guests well are punished, while the others are endlessly rewarded. Polyphemus gets an unending blood debt that Poseidon, bitch that he is, will never forget about. Nothing happens to the Laestrygonians. Nothing happens to Circe or Calypso. But no, the Phaecians in particular we really gotta punish them. Fuck these stupid gods. I genuinely don't understand what the Ancient Greeks are getting from this lesson-wise. There's no rhyme or reason.
+I fucking hate some of these insane moral lessons we're being taught. So let's talk about the whole Helios cow situation. So it's storming continuously for long enough that the Odyssey crew go through absolutely all of their supplies. (Storming because Zeus mind you) Odysseus is then magically lulled to sleep and his crew kill the cows. Helios is pissed off naturally and demands redress. Poseidon loves fucking up Odysseus for literally the most insane of reasons. Odysseus didn't allow Poseidon's son to eat him and his crew. A horrible sin. So Zeus blows apart his sumptuous barque and sends the crew straight to Hades. Then the Phaecians escort Odysseus to Ithaca and shower him with the wildest level of neighborly kindness. So Poseidon turns their boat to stone? Fucking why???? This theme keeps coming up of how to treat guests. But the ones who treat guests well are punished, while the others are endlessly rewarded. Polyphemus gets an unending blood debt that Poseidon, bitch that he is, will never forget about. Nothing happens to the Laestrygonians. Nothing happens to Circe or Calypso. But no, the Phaecians in particular we really gotta punish them. Fuck these stupid gods. I genuinely don't understand what the Ancient Greeks are getting from this lesson-wise. There's no rhyme or reason.
+
+---
+
+We do in fact waffle around Ithaca way longer than expected.
 
 # Review

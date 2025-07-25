@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-07-25"}
 ---
 
 
@@ -17,7 +17,7 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | Gary Butterfield (Bluesky)                            | https://bsky.app/profile/garybutterfield.bsky.social | https://bsky.app/profile/did:plc:2ndatgaqlflhu6iupejtfhdv/rss |
 | Granta Literary Magazine                              | https://granta.com/                                  | https://granta.com/feed/                                      |
 | Jason Schreier - Schrei Guy (Substack)                | https://jasonschreier.substack.com/                  | https://jasonschreier.substack.com/feed                       |
-| Kole Ross (Bluesky)                                   | https://bsky.app/profile/koleross.bsky.social        | https://bsky.app/profile/did:plc:psvjbw6ahzr6hnuf3fjfb3ia/rss |
+| Kaye Ross (Bluesky)                                   | https://bsky.app/profile/kaye.zone/                  | https://bsky.app/profile/did:plc:psvjbw6ahzr6hnuf3fjfb3ia/rss |
 | LINK ROT                                              | https://linkrot.neocities.org/                       | https://linkrot.neocities.org/RSS.xml                         |
 | Maciej Cegłowski - Idle Words                         | http://idlewords.com/                                | https://idlewords.com/index.xml                               |
 | Nautilus Science Magazine                             | https://nautil.us/                                   | https://nautil.us/feed/                                       |
