@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-07-25"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-07-28"}
 ---
 
 
@@ -24,8 +24,10 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | Orteil (Tumblr)                                       | https://orteil42.tumblr.com/                         | https://orteil42.tumblr.com/rss                               |
 | Patrick Witty - Field of View (Substack)              | https://patrickwitty.substack.com/                   | https://patrickwitty.substack.com/feed                        |
 | Seth Abramson - PROOF (Substack)                      | https://sethabramson.substack.com/                   | https://sethabramson.substack.com/feed                        |
+| Taco Bell Quarterly                                   | https://tacobellquarterly.org/                       | https://tacobellquarterly.org/feed/                           |
 | The Map Room                                          | https://www.maproomblog.com/                         | https://www.maproomblog.com/feed/                             |
 | The Marginalian                                       | https://www.themarginalian.org/                      | https://feeds.feedburner.com/brainpickings/rss                |
 | The Pudding                                           | https://pudding.cool/                                | https://feeds.feedburner.com/pudding/feed                     |
 | W. David Marx - Culture: An Owner's Manual            | https://culture.ghost.io/                            | https://culture.ghost.io/rss/                                 |
 | William Hughes (Bluesky)                              | https://bsky.app/profile/plumberduck.bsky.social     | https://bsky.app/profile/did:plc:gpyfxtwxiadm3jolqqzbui4w/rss |
+| Worlds Revealed (Library of Congress Blog)            | https://blogs.loc.gov/maps                           | https://blogs.loc.gov/maps/feed/                              |
