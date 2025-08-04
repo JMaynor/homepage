@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-07-29"}
 ---
 
 
