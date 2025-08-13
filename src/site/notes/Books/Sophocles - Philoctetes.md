@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/books/sophocles-philoctetes/","tags":["books"],"created":"2025-08-03","updated":"2025-08-10"}
+{"dg-publish":true,"permalink":"/books/sophocles-philoctetes/","tags":["books"],"created":"2025-08-03","updated":"2025-08-11"}
 ---
 
 
 # Review
 
 I've decided I hate the chorus. They're such a nothing that does so little to move anything along. We speak back and forth to them but it's so weird. Because they're not a real person. They're just this narration machine that's shaped like a character. It very much feels like Sophocles threw in a part for some of his kids to play that they couldn't fuck up. I dunno, it feels like something that would surely go away in time as we understand better how to convey information that the characters themselves (the actual characters) wouldn't have reason to talk about. We'll get there.
+
+Also, thought Heracles showing up was naff. I know it's the style of the time, but gods descending and resolving all conflicts is so boring. Thought for a moment we were gonna have to make an actual cogent emotional or rational argument to convince Philoctetes to come with us. Nope! I appreciate that at least it was Heracles himself. That's more interesting than one of the more typical Olympians, but still. I can't wait to start reading stories that contain characters.

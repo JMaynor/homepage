@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-07-28"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-08-05"}
 ---
 
+
+# Blogroll
 
 Here's a list of people I follow, blogs I regularly read, and a couple magazine websites.
 
@@ -31,3 +33,45 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | W. David Marx - Culture: An Owner's Manual            | https://culture.ghost.io/                            | https://culture.ghost.io/rss/                                 |
 | William Hughes (Bluesky)                              | https://bsky.app/profile/plumberduck.bsky.social     | https://bsky.app/profile/did:plc:gpyfxtwxiadm3jolqqzbui4w/rss |
 | Worlds Revealed (Library of Congress Blog)            | https://blogs.loc.gov/maps                           | https://blogs.loc.gov/maps/feed/                              |
+
+# Podroll
+
+Podcasts I either listen to now or have regularly listened to in the past.
+
+| Podcast                                | Website URL                         | Feed URL                                                |
+| -------------------------------------- | ----------------------------------- | ------------------------------------------------------- |
+| 99% Invisible                          | https://99percentinvisible.org/     | https://feeds.99percentinvisible.org/99percentinvisible |
+| Abject Suffering                       | https://abjectsuffering.com/        | https://www.abjectsuffering.com/rss                     |
+| Adaptation Decay                       | https://duckfeed.tv/adaptationdecay | Patreon Podcast                                         |
+| Alice Isn't Dead                       |                                     |                                                         |
+| Astonishing Legends                    |                                     |                                                         |
+| Best Quality Vaccuum                   |                                     |                                                         |
+| Bonfireside Chat                       | https://bonfireside.chat/           | https://www.bonfireside.chat/rss                        |
+| Boston's Favorite Son                  |                                     |                                                         |
+| Cortex                                 |                                     |                                                         |
+| Dan Carlin's Hardcore History          |                                     |                                                         |
+| Desert Skies                           |                                     |                                                         |
+| Dialog Choices Podcast                 |                                     |                                                         |
+| Everything to Guppy                    |                                     |                                                         |
+| Fistshark Marketing                    |                                     |                                                         |
+| Jimquisition                           |                                     |                                                         |
+| Lore                                   |                                     |                                                         |
+| My Dad Wrote a Porno                   |                                     |                                                         |
+| NYMPHOWARS                             |                                     |                                                         |
+| Of Horse                               |                                     |                                                         |
+| Otherworld                             |                                     |                                                         |
+| Real Lich Hours                        |                                     |                                                         |
+| Rude Eats                              |                                     |                                                         |
+| Search Engine                          |                                     |                                                         |
+| Serial                                 |                                     |                                                         |
+| Sibling Rivalry                        |                                     |                                                         |
+| The Bald and the Beautiful             |                                     |                                                         |
+| The Broski Report with Brittany Broski |                                     |                                                         |
+| The Dollop                             |                                     |                                                         |
+| The Drunk Guys Book Club Podcast       |                                     |                                                         |
+| The Magnus Archives                    |                                     |                                                         |
+| Unfilmable                             |                                     | Patreon Podcast                                         |
+| Watch Out For Fireballs!               |                                     |                                                         |
+| Welcome to Night Vale                  |                                     |                                                         |
+| Wolf 359                               |                                     |                                                         |
+| You're Dead To Me                      |                                     |                                                         |
