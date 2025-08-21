@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-too-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/we-were-here-too-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-08-21"}
 ---
 
 
 ![Hero We Were Here Too.jpg](/img/user/Attachments/Hero%20We%20Were%20Here%20Too.jpg)
-
-# Summary
 
 # Review
 

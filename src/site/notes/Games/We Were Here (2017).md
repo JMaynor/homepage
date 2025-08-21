@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-08-21"}
 ---
 
 
 ![Hero We Were Here.jpg](/img/user/Attachments/Hero%20We%20Were%20Here.jpg)
-
-# Summary
 
 # Review
 
