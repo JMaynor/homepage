@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["games","streamed"],"created":"2024-06-08","updated":"2025-02-17"}
+{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["games","streamed"],"created":"2024-06-08","updated":"2025-08-26"}
 ---
 
 
 ![Hero Elden Ring.jpg](/img/user/Attachments/Hero%20Elden%20Ring.jpg)
-
-# Summary
 
 # Review
 
@@ -36,7 +34,7 @@ The system has failed. Learn to accept what can and cannot be changed or reject 
 The struggle of attempting to understand one's place in the world when there are higher powers pulling the strings. The presence and absence of a mother's influence.
 
 - Dark Souls 3
-The system has failed and the powers that be have abdicated their responsibility. But what's worse is the fix that would normally have worked no longer will. That sucks.  (we're getting a bit wordy here)
+The system has failed and the powers that be have abdicated their responsibility. But what's worse is the fix that would normally have worked no longer will. That sucks. (we're getting a bit wordy here)
 
 - Sekiro
 I dunno what Sekiro's about because it was too hard for me.
@@ -56,7 +54,7 @@ Again, I go back to my thesis statement I've come up with for this game. Status 
 
 ## DLC Review
 
-This fixed none of the issues that I had with the game and frequently just doubled down on them. Also did not like the constant fan-service/boss redos. Whatever you wanna call it. Same exact problem I had with majority of Dark Souls 3. Where we spend more time treading old ground than exploring new ideas. Overall, didn't enjoy it. Which is sad, because DLC was a frequent highpoint in previous games of the series. Artorias of the Abyss. The Lost Crowns. Old Hunters. Frequently had some of the best content in the game.
+This fixed none of the issues that I had with the game and frequently just doubled down on them. Also did not like the constant fan-service/boss redos. Whatever you wanna call it. Same exact problem I had with majority of Dark Souls 3. Where we spend more time treading old ground than exploring new ideas. Overall, didn't enjoy it. Which is sad, because DLC was a frequent high point in previous games of the series. Artorias of the Abyss. The Lost Crowns. Old Hunters. Frequently had some of the best content in the game.
 
 First, I'm gonna say again, these games have become unfun from how they insist on upping the ante. A guy with a sword used to just be a guy with a sword. Now they fly around the arena shooting lasers out of their eyes, doing delayed hits, and having extended combos that end with AOEs. It's just stupid. The people that argue making the games easier would be "going backward" have heads filled with sand. Difficulty was never the best part of this series and the people that think it was are stupendously blind. How can you so easily trade away every good thing in the series in service of more difficulty? Please for the love of God just go play Call of Duty. I know it's a pointless argument. I'm of the old days and they are the new ones in this land. They're bound to capture the land and push out the dissenters. But allow me the small mercy of being able to look back on the land I once cultivated and shed a tear for what was lost.
 
@@ -64,7 +62,7 @@ Anyway, I will admit that I came into the DLC with trepidation. I wasn't fully o
 
 Let's talk about the lore. Miquella. I was surprised the DLC ended up being exactly what people expected. I was almost starting to appreciate the "answers to questions you weren't even asking" approach they seemed to be using in the past. I remember everyone was *certain* we'd be getting a Londor DLC from Dark Souls 3. Nope, here's this other random city of pygmies you've never heard of. I guess that that's nice. It's a little weird.
 
-I get that some people's souls are lit ablaze from being put in the big sandbox. For me, it's a temporary interest with a short half-life. sandboxes quickly wear out their welcome. In the main game, every single time we got into one of the bespoke legacy dungeons with like actual level design happening, I felt life coming back to me. It's a sad thing. The problem with this big open world is you can't put anything that's really important anywhere, because your player is significantly more likely to miss it than if it were in a dungeon. So the whole open world is filled to the brim with stupid crafting items I don't give a shit about and don't want. I feel very little desire to peak around every corner because 99% of the time there is nothing of interest there. By the time we got to the DLC, there was whole areas where I'm just like "Eh, screw it, move on." I guess it was better here in that everything was smaller. So it did feel more manageable. Whereas in the main game, by the 2/3rd point, I was actively thinking "Jesus Christ, this is a lotta shit to get through. Fuck it, I don't even care anymore"
+I get that some people's souls are lit ablaze from being put in the big sandbox. For me, it's a temporary interest with a short half-life. Sandboxes quickly wear out their welcome. In the main game, every single time we got into one of the bespoke legacy dungeons with like actual level design happening, I felt life coming back to me. It's a sad thing. The problem with this big open world is you can't put anything that's really important anywhere, because your player is significantly more likely to miss it than if it were in a dungeon. So the whole open world is filled to the brim with stupid crafting items I don't give a shit about and don't want. I feel very little desire to peak around every corner because 99% of the time there is nothing of interest there. By the time we got to the DLC, there was whole areas where I'm just like "Eh, screw it, move on." I guess it was better here in that everything was smaller. So it did feel more manageable. Whereas in the main game, by the 2/3rd point, I was actively thinking "Jesus Christ, this is a lotta shit to get through. Fuck it, I don't even care anymore" Just a shocking thing to say about a From game. Or at least that would been past-me's reaction to hearing myself say that about one of their games.
 
 There's definitely some pretty areas. From remains at the top of their game in terms of vistas. But again, sad when those vistas contain so little. I really don't like that so much of my time spent navigating these interesting vistas is taken up hoovering in these hundreds and hundreds of crafting materials that I don't want. It spoils the good bits of the game when you have this constant malaise of whatever you have to wade through. I much prefer when you have the striking vistas and then can go over and explore it and find good and interesting things. Dark Souls 3 is a game I'm very mild on, but the Irithyll reveal after leaving the Catacombs is top tier. Whereas in Elden Ring, there's definitely some beautiful vistas but they don't really fell like they have as much as staying power to me. I would say the best one is the first time you see Liurnia.
 

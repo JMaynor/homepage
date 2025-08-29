@@ -40,6 +40,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Amnesia A Machine for Pigs (2013)\|Amnesia A Machine for Pigs (2013)]]
 - [[Games/Amnesia Rebirth (2020)\|Amnesia Rebirth (2020)]]
 - [[Games/Amnesia The Bunker (2023)\|Amnesia The Bunker (2023)]]
+- [[Games/Amnesia the Dark Descent (2010)\|Amnesia the Dark Descent (2010)]]
 - [[Games/Call of Duty (2003)\|Call of Duty (2003)]]
 - [[Games/Call of Duty 2 (2005)\|Call of Duty 2 (2005)]]
 - [[Games/Call of Duty Black Ops (2010)\|Call of Duty Black Ops (2010)]]
