@@ -125,6 +125,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]
 - [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]
 - [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
+- [[Games/Star Trucker (2024)\|Star Trucker (2024)]]
 - [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]
 - [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]
 - [[Games/Warframe (2013)\|Warframe (2013)]]
