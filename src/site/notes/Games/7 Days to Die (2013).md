@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-03"}
 ---
 
 
 ![Hero 7 Days to Die.jpg](/img/user/Attachments/Hero%207%20Days%20to%20Die.jpg)
-
-# Summary
 
 # Review
 

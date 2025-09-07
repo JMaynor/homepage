@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["games","streamed"],"created":"2024-03-05","updated":"2025-03-26"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-chain-of-memories-2004/","tags":["games","streamed"],"created":"2024-03-05","updated":"2025-09-04"}
 ---
 
 

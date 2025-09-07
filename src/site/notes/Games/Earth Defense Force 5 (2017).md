@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/earth-defense-force-5-2017/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-03-03"}
+{"dg-publish":true,"permalink":"/games/earth-defense-force-5-2017/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-09-04"}
 ---
 
+
+![Hero Earth Defense Force 5.jpg](/img/user/Attachments/Hero%20Earth%20Defense%20Force%205.jpg)
 
 # Review
 

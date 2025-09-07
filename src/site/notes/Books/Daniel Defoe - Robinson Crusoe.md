@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/daniel-defoe-robinson-crusoe/","tags":["books"],"created":"2024-11-13","updated":"2024-11-22"}
+{"dg-publish":true,"permalink":"/books/daniel-defoe-robinson-crusoe/","tags":["books"],"created":"2024-11-13","updated":"2025-09-03"}
 ---
 
 

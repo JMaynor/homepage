@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/helldivers-2015/","tags":["games","streamed"],"created":"2024-07-23","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/helldivers-2015/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04"}
 ---
 
 
 ![Hero Helldivers.jpg](/img/user/Attachments/Hero%20Helldivers.jpg)
-
-# Summary
 
 # Review
 

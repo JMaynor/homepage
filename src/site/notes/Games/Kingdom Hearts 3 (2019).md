@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-03-26"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-09-04"}
 ---
 
 

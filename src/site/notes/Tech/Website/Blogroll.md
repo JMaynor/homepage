@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-08-05"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-09-05"}
 ---
 
 
@@ -38,40 +38,40 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 
 Podcasts I either listen to now or have regularly listened to in the past.
 
-| Podcast                                | Website URL                         | Feed URL                                                |
-| -------------------------------------- | ----------------------------------- | ------------------------------------------------------- |
-| 99% Invisible                          | https://99percentinvisible.org/     | https://feeds.99percentinvisible.org/99percentinvisible |
-| Abject Suffering                       | https://abjectsuffering.com/        | https://www.abjectsuffering.com/rss                     |
-| Adaptation Decay                       | https://duckfeed.tv/adaptationdecay | Patreon Podcast                                         |
-| Alice Isn't Dead                       |                                     |                                                         |
-| Astonishing Legends                    |                                     |                                                         |
-| Best Quality Vaccuum                   |                                     |                                                         |
-| Bonfireside Chat                       | https://bonfireside.chat/           | https://www.bonfireside.chat/rss                        |
-| Boston's Favorite Son                  |                                     |                                                         |
-| Cortex                                 |                                     |                                                         |
-| Dan Carlin's Hardcore History          |                                     |                                                         |
-| Desert Skies                           |                                     |                                                         |
-| Dialog Choices Podcast                 |                                     |                                                         |
-| Everything to Guppy                    |                                     |                                                         |
-| Fistshark Marketing                    |                                     |                                                         |
-| Jimquisition                           |                                     |                                                         |
-| Lore                                   |                                     |                                                         |
-| My Dad Wrote a Porno                   |                                     |                                                         |
-| NYMPHOWARS                             |                                     |                                                         |
-| Of Horse                               |                                     |                                                         |
-| Otherworld                             |                                     |                                                         |
-| Real Lich Hours                        |                                     |                                                         |
-| Rude Eats                              |                                     |                                                         |
-| Search Engine                          |                                     |                                                         |
-| Serial                                 |                                     |                                                         |
-| Sibling Rivalry                        |                                     |                                                         |
-| The Bald and the Beautiful             |                                     |                                                         |
-| The Broski Report with Brittany Broski |                                     |                                                         |
-| The Dollop                             |                                     |                                                         |
-| The Drunk Guys Book Club Podcast       |                                     |                                                         |
-| The Magnus Archives                    |                                     |                                                         |
-| Unfilmable                             |                                     | Patreon Podcast                                         |
-| Watch Out For Fireballs!               |                                     |                                                         |
-| Welcome to Night Vale                  |                                     |                                                         |
-| Wolf 359                               |                                     |                                                         |
-| You're Dead To Me                      |                                     |                                                         |
+| Podcast                                | Website URL                                     | Feed URL                                                |
+| -------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
+| 99% Invisible                          | https://99percentinvisible.org/                 | https://feeds.99percentinvisible.org/99percentinvisible |
+| Abject Suffering                       | https://abjectsuffering.com/                    | https://www.abjectsuffering.com/rss                     |
+| Adaptation Decay                       | https://duckfeed.tv/adaptationdecay             | Patreon Podcast                                         |
+| Alice Isn't Dead                       | https://www.nightvalepresents.com/aliceisntdead | http://feeds.nightvalepresents.com/aliceisntdeadpodcast |
+| Astonishing Legends                    | https://astonishinglegends.com/                 | https://audioboom.com/channels/4322549.rss              |
+| Best Quality Vaccuum                   | https://www.bestqualityvacuum.net/              |                                                         |
+| Bonfireside Chat                       | https://bonfireside.chat/                       | https://www.bonfireside.chat/rss                        |
+| Boston's Favorite Son                  |                                                 |                                                         |
+| Cortex                                 |                                                 |                                                         |
+| Dan Carlin's Hardcore History          |                                                 |                                                         |
+| Desert Skies                           |                                                 |                                                         |
+| Dialog Choices Podcast                 |                                                 |                                                         |
+| Everything to Guppy                    |                                                 |                                                         |
+| Fistshark Marketing                    |                                                 |                                                         |
+| Jimquisition                           |                                                 |                                                         |
+| Lore                                   |                                                 |                                                         |
+| My Dad Wrote a Porno                   |                                                 |                                                         |
+| NYMPHOWARS                             |                                                 |                                                         |
+| Of Horse                               |                                                 |                                                         |
+| Otherworld                             |                                                 |                                                         |
+| Real Lich Hours                        |                                                 |                                                         |
+| Rude Eats                              |                                                 |                                                         |
+| Search Engine                          |                                                 |                                                         |
+| Serial                                 |                                                 |                                                         |
+| Sibling Rivalry                        |                                                 |                                                         |
+| The Bald and the Beautiful             |                                                 |                                                         |
+| The Broski Report with Brittany Broski |                                                 |                                                         |
+| The Dollop                             |                                                 |                                                         |
+| The Drunk Guys Book Club Podcast       |                                                 |                                                         |
+| The Magnus Archives                    |                                                 |                                                         |
+| Unfilmable                             |                                                 | Patreon Podcast                                         |
+| Watch Out For Fireballs!               |                                                 |                                                         |
+| Welcome to Night Vale                  |                                                 |                                                         |
+| Wolf 359                               |                                                 |                                                         |
+| You're Dead To Me                      |                                                 |                                                         |

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["games","streamed"],"created":"2024-05-13","updated":"2024-10-29"}
+{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["games","streamed"],"created":"2024-05-13","updated":"2025-09-03"}
 ---
 
-
-# Summary
 
 # Review
 

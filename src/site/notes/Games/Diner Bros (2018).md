@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04"}
 ---
 
 
 ![Hero Diner Bros.jpg](/img/user/Attachments/Hero%20Diner%20Bros.jpg)
-
-# Summary
 
 # Review
 

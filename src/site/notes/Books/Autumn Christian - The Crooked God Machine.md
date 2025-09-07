@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/autumn-christian-the-crooked-god-machine/","tags":["books"],"created":"2024-12-23","updated":"2024-12-30"}
+{"dg-publish":true,"permalink":"/books/autumn-christian-the-crooked-god-machine/","tags":["books"],"created":"2024-12-23","updated":"2025-09-03"}
 ---
 
 
