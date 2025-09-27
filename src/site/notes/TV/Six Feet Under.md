@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/six-feet-under/","created":"2025-02-24","updated":"2025-08-29"}
+{"dg-publish":true,"permalink":"/tv/six-feet-under/","created":"2025-02-24","updated":"2025-09-26"}
 ---
 
 
@@ -33,7 +33,13 @@ So sad, but happy for Brenda. Get the hell away from Nate. I hope it works out w
 
 ## Season 4
 
-()
+The last episode of the season really brought it together for me. When I was starting to write up some of my thoughts on the season, I was a bit cooler on it than the previous seasons. There's some plots that didn't fully work for me. Though we ended up going some very unexpected places that kept me on my toes and kept things from being predictable. George...some very good hints there that I did not put together until IT happened. 2 == 3 > 1 == 4 is generally my ranking. I did like the first season but it has some early show weirdness where we didn't fully have the tone and the characters in place, as is pretty typical with TV. I think it's very telling that the show completely dropped its central antagonist from the first season and a half (the corporate death-Nazis) and everything improved in the 2nd and 3rd seasons. An obvious case of gaining confidence and a better understanding of what your show is about, IMO.
+
+There's one plotline from this season that I'm not convinced about and that would be Rico. I feel like we weren't sure what to do with him. The central themes of Six Feet Under are, of course, how death affects these people. And the thing with Rico is that he's never really shown himself to be all that affected by his work. I would say generally one of the more well-adjusted of this lot. (at least in that respect, we've seen the stupid machismo rear its ugly head before) The acting out and the general personalities we see from the Fishers are often directly tied to their relationship with death and a desire to feel alive. Rico's always been a secondary character in the show, and that's fine, but with his whole affair situation, I felt like we were devoting more time to him than is really necessary. It's not that I think the plotline itself doesn't make sense. It's a natural continuation from where he and Vanessa were at in season 3. However, I think I would cut the scenes where we are actually seeing him at the stripper's house. Have it just be a situation where we see the initial infidelity in the car and thereafter we see him get calls at Fisher and Sons (and Diaz) occasionally from the stripper and we fill in the details ourselves. I think that would be better, because I mostly just feel we're devoting too much time to him when he doesn't directly relate to those central themes. Not bad, I just could see improvement by making things a bit more slim and focused there.
+
+Other than that, I like that we continued following Brenda, even when she wasn't with Nate. Brenda is a good character with depth and way back when they split at the end of season 2, I was afraid we were gonna give her the boot. But she's more than interesting enough herself and has enough history with our main family that it would have felt bad moving away from her. So, glad that fear was definitively squashed.
+
+Nate, I dunno what to say at this point. At one point I called him "a stain" and I don't really think there's any coming back from that. I know that being over the top is our bread and butter, but that's a pretty damning thing to say about a person. Like, I get that his wife died. And I get that the fact that he didn't love her makes him feel even more fucked up about her dying. But, man, I wish he had not looked Poseidon's gift horse in the mouth and just moved on. It's more sad because we've seen numerous times how emotionally intelligent and caring he's capable of being. David was never that great at being the shoulder for the dearly departed's family to cry on. But the sheer contrast between him and Nate of the last season or two makes David look like a saint and a scholar. And Nate's continuing problems are entirely self-created. He is capable of better, but chooses not to be. Throw him into the fucking sea.
 
 ## Season 5
 

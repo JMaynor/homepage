@@ -11,37 +11,37 @@ But maybe just maybe. They've got [a vote](https://apps.ilsos.gov/stateflag/) go
 
 # The Candidates
 
-![Illinois_Centennial_Flag.jpg|450](/img/user/Attachments/Illinois_Centennial_Flag.jpg)
+![Illinois_Centennial_Flag.jpg|450](/img/user/_sys/Attachments/Illinois_Centennial_Flag.jpg)
 
 The Centennial flag. Not a bad design, though something about the alternating blue stars on white background and the white star on blue background I'm not a fan of.
 
 ----
 
-![Illinois_Sesquicentennial_Flag.jpg|450](/img/user/Attachments/Illinois_Sesquicentennial_Flag.jpg)
+![Illinois_Sesquicentennial_Flag.jpg|450](/img/user/_sys/Attachments/Illinois_Sesquicentennial_Flag.jpg)
 
 The Sesquicentennial flag. I feel like this is a flag that I shouldn't like, but I do. There's like no symbolism going on. This flag proudly says "We are the 21st state!" and like nothing else. But in general, as will become evident, I don't care for the flags that literally just put an image of Illinois on them. But in this case, the simplified version of our state I really like. It looks a bit like an arrowhead, but still recognizably Illinois. Also the colors are very comfy on this flag. The softer blue in comparison to the more standard dark blue you see on flags.
 
 ----
 
-![Illinois State Flag Blue Line With Gold Star.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Blue%20Line%20With%20Gold%20Star.jpg)
+![Illinois State Flag Blue Line With Gold Star.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Blue%20Line%20With%20Gold%20Star.jpg)
 
 I don't think I like the middle white ring illusion being created. Also nothing about this flag really screams Illinois to me. If you showed this to someone that had no knowledge of state flags and asked them which state it was, I think it's extremely unlikely they would ever get it.
 
 ----
 
-![Illinois State Flag I Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20I%20Design.jpg)
+![Illinois State Flag I Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20I%20Design.jpg)
 
 I feel like if we're just going to put a big I on our flag, you may as well go Sesquicentennial. Also, the way the red stripes on the right terminate at different lengths feels off to me. Not a fan.
 
 ----
 
-![Illinois State Flag Lincoln Looking Right.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Lincoln%20Looking%20Right.jpg)
+![Illinois State Flag Lincoln Looking Right.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Lincoln%20Looking%20Right.jpg)
 
 Alright, let's get into the Lincoln hate. I don't want Lincoln on our flag. (The crowd gasps, a child screams, several men are heard swearing and cocking shotguns) I love Lincoln, ok. He is the great fucking emancipator. He transformed America into more of the America it was always meant to, and should always have been. And I know the Illinois has claimed him completely. But Illinois...nobody is coming to take him away from you. You don't have to have him *everywhere*. And I just feel like it's weird to have a historical figure on your flag. So Illinois hasn't done *anything* notable since having Lincoln? It's just very high school football was my glory days. Also southern Illinois was cut off because we don't matter so fuck this flag.
 
 ----
 
-![Illinois State Flag Monarch Butterfly.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Monarch%20Butterfly.jpg)
+![Illinois State Flag Monarch Butterfly.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Monarch%20Butterfly.jpg)
 
 Simplicity is key with flags. A child should be able to remember and draw it. So I'm fine with this one. I mostly like the colors. The orange in particular. I don't think you see orange on flags too often. This one's almost a little too simple. I enjoy the use of a butterfly, is that saying we are special and precious?
 
@@ -53,37 +53,37 @@ No.
 
 ----
 
-![Illinois State Flag Violet Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Violet%20Design.jpg)
+![Illinois State Flag Violet Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Violet%20Design.jpg)
 
 Alright here is my pick. I really love the triple symbol of the violet flower made up of corn kernels, which contain the great gear of industry. Very clever. Love. Also, the use of the gray for the background as opposed to a typical white really brings everything together. I have no doubt in my mind that this design will never ever win. But it can die happy knowing that it was too good for this cruel and hateful world.
 
 ----
 
-![Illinois State Flag Illinois With Lincoln Head Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Illinois%20With%20Lincoln%20Head%20Design.jpg)
+![Illinois State Flag Illinois With Lincoln Head Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Illinois%20With%20Lincoln%20Head%20Design.jpg)
 
 The star that is white represents Chicago so get fucked.
 
 -----
 
-![Illinois State Flag Illinois in Center with Blue Stripes on Sides Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Illinois%20in%20Center%20with%20Blue%20Stripes%20on%20Sides%20Design.jpg)
+![Illinois State Flag Illinois in Center with Blue Stripes on Sides Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Illinois%20in%20Center%20with%20Blue%20Stripes%20on%20Sides%20Design.jpg)
 
 This is another one of those "not much symbolism going on here, eh?" flags. I'm gonna go against my grain and say that I would be ok with this one. I think the two blue tones really saves it. I like those bars on the sides. This flag walks up to me and says "I am Illinois." which I suppose is what our flag should do, even if it could stand to be a bit more subtle about it.
 
 ----
 
-![Illinois State Flag Rolling Hills Landscape Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Rolling%20Hills%20Landscape%20Design.jpg)
+![Illinois State Flag Rolling Hills Landscape Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Rolling%20Hills%20Landscape%20Design.jpg)
 
 Not a fan of the alternating green and white stripes. It feels too busy. I do like the colors used and the overall design. Maybe it would work better if the sun didn't have the white outline? And then make the sun a bit more orangey? You could make it the color of that Monarch butterfly earlier perhaps.
 
 ----
 
-![Illinois State Flag Seal With Stripes.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Seal%20With%20Stripes.jpg)
+![Illinois State Flag Seal With Stripes.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Seal%20With%20Stripes.jpg)
 
 The seal exhausts me. I guess this is better than what we got now. I would laugh my ass off if this is the one that won. Very "we saved the city!" from Spongebob. Yeah I guess you've fixed the wretched seal on blank background design by...adding some stripes to the background. I'm glad we at least got rid of the word Illinois. But we still have dates and the motto since it's all still shit. I fucking hate people just slapping our seal on the flag! Try harder. This does at least feel like it comes from someone who understands that we live in a shit world where our flag is no good. And they saw an opportunity to work within the system to make incremental change. Which is good, I guess. Just makes me sad, though.
 
 -----
 
-![Illinois State Flag Star on Central Stripe Design.jpg|450](/img/user/Attachments/Illinois%20State%20Flag%20Star%20on%20Central%20Stripe%20Design.jpg)
+![Illinois State Flag Star on Central Stripe Design.jpg|450](/img/user/_sys/Attachments/Illinois%20State%20Flag%20Star%20on%20Central%20Stripe%20Design.jpg)
 
 I notice a lot of people tried to have something that symbolized Lake Michigan in their flag designs. Are we all aware that it is not in fact named after us and does in fact only touch us at a very small portion? It's just not something I would even think of if I were making a design, but it seems to figure very prominently in people's minds. I have to assume it's the Chicago talking. The Chicagoans are certain that Illinois is a small urban area next to a great big expanse of blue.
 
