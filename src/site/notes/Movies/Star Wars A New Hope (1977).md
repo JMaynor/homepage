@@ -3,7 +3,7 @@
 ---
 
 
-![A New Hope Poster.jpg|200](/img/user/Attachments/A%20New%20Hope%20Poster.jpg)
+![A New Hope Poster.jpg|200](/img/user/_sys/Attachments/A%20New%20Hope%20Poster.jpg)
 
 # Notes
 

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","tags":["games"],"created":"2024-07-05","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","tags":["games","streamed"],"created":"2024-07-05","updated":"2025-09-30"}
 ---
 
-
-# Summary
 
 # Review
 
@@ -13,6 +11,6 @@ In Stardew you quit the faceless amazon corporation Joja and become a farmer to 
 
 I called the player character a sociopath earlier. A strong condemnation, but not an unfounded one. One particular thing I hate in Stardew is the relationship system. I hate that everyone is reduced to gift receptacles. I like that your relationship with the villagers of Pelican Town goes up by talking to them, but the game directly incentives you to repeatedly give them gifts every week so they like you. It's so weird. It's like the Ur-bad example in video games of how to human beings wrong. Where instead of being a person, they're just a meter. I enjoy the actual events you get with them. Again, very heartfelt, if a bit overly saccharine for my tastes. But the way you get there is so icky.
 
-Why is there a system to erase your spouse's memories of your relationship? Or delete your children and turn them into doves? I know why. It's for all the insane people that say "I gotta get all the good boy points with everyone and see everything." These people are not reasonable, they are insane. And they don't need to be catered to. It's so sociopathic and dark. I just think of the humanity of a Disco Elysium and how far from that this is sometimes. It's very frustrating because the whole game *feel*s like it should be some lovely Studio Ghibli fun times. Where we learn about nature and each other and it's bright and nice. To some degree it is, but there's these systemic problems with it that I have real trouble reconciling with the overt themes the game presents.
+Why is there a system to erase your spouse's memories of your relationship? Or delete your children and turn them into doves? I know why. It's for all the insane people that say "I gotta get all the good boy points with everyone and see everything." These people are not reasonable, they are insane. And they don't need to be catered to. It's so sociopathic and dark. I just think of the humanity of a Disco Elysium and how far from that this is sometimes. It's very frustrating because the whole game *feels* like it should be some lovely Studio Ghibli fun times. Where we learn about nature and each other and it's bright and nice. To some degree it is, but there's these systemic problems with it that I have real trouble reconciling with the overt themes the game presents.
 
 # Links

@@ -3,7 +3,7 @@
 ---
 
 
-![Platoon 1986.jpg|200](/img/user/Attachments/Platoon%201986.jpg)
+![Platoon 1986.jpg|200](/img/user/_sys/Attachments/Platoon%201986.jpg)
 
 # Review
 

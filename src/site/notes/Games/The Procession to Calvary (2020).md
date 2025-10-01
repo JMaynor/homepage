@@ -3,7 +3,7 @@
 ---
 
 
-![Hero The Procession to Calvary.jpg](/img/user/Attachments/Hero%20The%20Procession%20to%20Calvary.jpg)
+![Hero The Procession to Calvary.jpg](/img/user/_sys/Attachments/Hero%20The%20Procession%20to%20Calvary.jpg)
 
 # Review
 

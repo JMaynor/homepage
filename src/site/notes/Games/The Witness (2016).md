@@ -3,7 +3,7 @@
 ---
 
 
-![Hero The Witness.jpg](/img/user/Attachments/Hero%20The%20Witness.jpg)
+![Hero The Witness.jpg](/img/user/_sys/Attachments/Hero%20The%20Witness.jpg)
 
 # Summary
 

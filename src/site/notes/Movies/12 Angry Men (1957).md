@@ -3,7 +3,7 @@
 ---
 
 
-![12 Angry Men 1957.jpg|200](/img/user/Attachments/12%20Angry%20Men%201957.jpg)
+![12 Angry Men 1957.jpg|200](/img/user/_sys/Attachments/12%20Angry%20Men%201957.jpg)
 
 # Review
 

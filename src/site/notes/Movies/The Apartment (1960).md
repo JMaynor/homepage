@@ -3,7 +3,7 @@
 ---
 
 
-![The Apartment 1960.jpg|200](/img/user/Attachments/The%20Apartment%201960.jpg)
+![The Apartment 1960.jpg|200](/img/user/_sys/Attachments/The%20Apartment%201960.jpg)
 
 # Review
 

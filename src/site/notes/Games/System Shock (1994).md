@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-07-29"}
+{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-09-30"}
 ---
 
 
-![Hero System Shock.jpg](/img/user/Attachments/Hero%20System%20Shock.jpg)
+![Hero System Shock.jpg](/img/user/_sys/Attachments/Hero%20System%20Shock.jpg)
 
 # Summary
 
@@ -13,6 +13,12 @@ Very exciting, this is another in the long list of "best games of all-time" that
 
 # Review
 
-Will review once completed.
+This was a really excellent remake. What I say has to be taken with a grain of salt as I have no experience with the original. But this was really enjoyable. I loved the feeling of the wireframe of the game being old, but everything else feeling fresh. All the old-game-isms that would have likely caused a worse experience were polished and shined up. The environments here are gorgeous. I thought as much when I started the game and was still thinking about how pretty everything was by the end.
+
+I think something that does frustrate me with modern games is that you often see such a glut of unnecessary mechanics piled on top of each other. I feel that if you can completely ignore 1 or more of a game's mechanics and still get through it fine, that feels really wrong. If so, why is it there? This is something that you don't tend to see with older games. Simply because...they're old. But it feels satisfying once you're firing on all cylinders, using all the resources you're being given and becoming the master of the domain. In particular here, with Citadel Station, it was extremely satisfying to go from creeping along the floors like a cockroach in a big, intimidating, and hostile area. To skating down the halls with glee swinging a laser rapier and showing the cyborgs what for.
+
+Was fun meeting GLaDOS's mother.
+
+Most definitely will be playing [[Games/System Shock 2 (1999)\|System Shock 2]] in the near future. A bit disappointing it didn't get the full remake treatment like 1 did, but given the troubled development history, it's hardly surprising.
 
 # Links

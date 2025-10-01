@@ -3,7 +3,7 @@
 ---
 
 
-![Who's Afraid of Virginia Woolf 1966.jpg|200](/img/user/Attachments/Who's%20Afraid%20of%20Virginia%20Woolf%201966.jpg)
+![Who's Afraid of Virginia Woolf 1966.jpg|200](/img/user/_sys/Attachments/Who's%20Afraid%20of%20Virginia%20Woolf%201966.jpg)
 
 # Review
 

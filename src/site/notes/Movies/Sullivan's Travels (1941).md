@@ -3,7 +3,7 @@
 ---
 
 
-![Sullivan's Travels 1941.jpg|200](/img/user/Attachments/Sullivan's%20Travels%201941.jpg)
+![Sullivan's Travels 1941.jpg|200](/img/user/_sys/Attachments/Sullivan's%20Travels%201941.jpg)
 
 # Review
 

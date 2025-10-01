@@ -3,7 +3,7 @@
 ---
 
 
-![Gold Rush 1925.jpg|200](/img/user/Attachments/Gold%20Rush%201925.jpg)
+![Gold Rush 1925.jpg|200](/img/user/_sys/Attachments/Gold%20Rush%201925.jpg)
 
 # Review
 

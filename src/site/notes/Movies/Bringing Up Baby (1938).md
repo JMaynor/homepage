@@ -3,7 +3,7 @@
 ---
 
 
-![Bringing Up Baby 1938.jpg|200](/img/user/Attachments/Bringing%20Up%20Baby%201938.jpg)
+![Bringing Up Baby 1938.jpg|200](/img/user/_sys/Attachments/Bringing%20Up%20Baby%201938.jpg)
 
 # Review
 

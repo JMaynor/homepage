@@ -3,7 +3,7 @@
 ---
 
 
-![Psycho 1960 Poster.jpg|200](/img/user/Attachments/Psycho%201960%20Poster.jpg)
+![Psycho 1960 Poster.jpg|200](/img/user/_sys/Attachments/Psycho%201960%20Poster.jpg)
 
 # Review
 

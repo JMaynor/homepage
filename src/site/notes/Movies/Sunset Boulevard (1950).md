@@ -3,7 +3,7 @@
 ---
 
 
-![Sunset Boulevard 1950.jpg|200](/img/user/Attachments/Sunset%20Boulevard%201950.jpg)
+![Sunset Boulevard 1950.jpg|200](/img/user/_sys/Attachments/Sunset%20Boulevard%201950.jpg)
 
 # Review
 

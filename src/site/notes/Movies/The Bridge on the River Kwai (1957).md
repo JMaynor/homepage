@@ -3,7 +3,7 @@
 ---
 
 
-![The Bridge on the River Kwai 1958.jpg|200](/img/user/Attachments/The%20Bridge%20on%20the%20River%20Kwai%201958.jpg)
+![The Bridge on the River Kwai 1958.jpg|200](/img/user/_sys/Attachments/The%20Bridge%20on%20the%20River%20Kwai%201958.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![All the president's men 1976.jpg|200](/img/user/Attachments/All%20the%20president's%20men%201976.jpg)
+![All the president's men 1976.jpg|200](/img/user/_sys/Attachments/All%20the%20president's%20men%201976.jpg)
 
 # Review
 

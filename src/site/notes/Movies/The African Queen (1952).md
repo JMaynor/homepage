@@ -3,7 +3,7 @@
 ---
 
 
-![The African Queen 1952.jpg|200](/img/user/Attachments/The%20African%20Queen%201952.jpg)
+![The African Queen 1952.jpg|200](/img/user/_sys/Attachments/The%20African%20Queen%201952.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Swing_Time 1936.jpg|200](/img/user/Attachments/Swing_Time%201936.jpg)
+![Swing_Time 1936.jpg|200](/img/user/_sys/Attachments/Swing_Time%201936.jpg)
 
 # Review
 

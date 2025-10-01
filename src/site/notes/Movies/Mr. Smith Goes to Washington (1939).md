@@ -3,7 +3,7 @@
 ---
 
 
-![Mr. Smith Goes to Washington 1939.jpg|200](/img/user/Attachments/Mr.%20Smith%20Goes%20to%20Washington%201939.jpg)
+![Mr. Smith Goes to Washington 1939.jpg|200](/img/user/_sys/Attachments/Mr.%20Smith%20Goes%20to%20Washington%201939.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Hero We Were Here Forever.jpg](/img/user/Attachments/Hero%20We%20Were%20Here%20Forever.jpg)
+![Hero We Were Here Forever.jpg](/img/user/_sys/Attachments/Hero%20We%20Were%20Here%20Forever.jpg)
 
 # Review
 
