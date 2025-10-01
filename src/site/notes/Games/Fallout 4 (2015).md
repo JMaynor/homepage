@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-10-01"}
 ---
 
 
-![Hero Fallout 4.jpg](/img/user/_sys/Attachments/Hero%20Fallout%204.jpg)
+![Hero Fallout4.jpg](/img/user/_sys/Attachments/Hero%20Fallout4.jpg)
 
 # Summary
 
