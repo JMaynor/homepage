@@ -3,7 +3,7 @@
 ---
 
 
-![West Side Story 1961.jpg|200](/img/user/Attachments/West%20Side%20Story%201961.jpg)
+![West Side Story 1961.jpg|200](/img/user/_sys/Attachments/West%20Side%20Story%201961.jpg)
 
 # Review
 

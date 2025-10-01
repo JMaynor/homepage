@@ -3,7 +3,7 @@
 ---
 
 
-![Kingdom Hearts Birth By Sleep Hero.png](/img/user/Attachments/Kingdom%20Hearts%20Birth%20By%20Sleep%20Hero.png)
+![Kingdom Hearts Birth By Sleep Hero.png](/img/user/_sys/Attachments/Kingdom%20Hearts%20Birth%20By%20Sleep%20Hero.png)
 
 # Review
 

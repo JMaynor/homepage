@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Norco.jpg](/img/user/Attachments/Hero%20Norco.jpg)
+![Hero Norco.jpg](/img/user/_sys/Attachments/Hero%20Norco.jpg)
 
 # Summary
 

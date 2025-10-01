@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Mass Effect 2.jpg](/img/user/Attachments/Hero%20Mass%20Effect%202.jpg)
+![Hero Mass Effect 2.jpg](/img/user/_sys/Attachments/Hero%20Mass%20Effect%202.jpg)
 
 # Summary
 

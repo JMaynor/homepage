@@ -3,7 +3,7 @@
 ---
 
 
-![Hero KH Dream.png](/img/user/Attachments/Hero%20KH%20Dream.png)
+![Hero KH Dream.png](/img/user/_sys/Attachments/Hero%20KH%20Dream.png)
 
 # Review
 

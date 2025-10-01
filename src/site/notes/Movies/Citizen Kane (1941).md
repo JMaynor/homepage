@@ -3,7 +3,7 @@
 ---
 
 
-![Citizen Kane Poster.jpg|200](/img/user/Attachments/Citizen%20Kane%20Poster.jpg)
+![Citizen Kane Poster.jpg|200](/img/user/_sys/Attachments/Citizen%20Kane%20Poster.jpg)
 
 # Review
 

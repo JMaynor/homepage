@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Hypnospace Outlaw.jpg](/img/user/Attachments/Hero%20Hypnospace%20Outlaw.jpg)
+![Hero Hypnospace Outlaw.jpg](/img/user/_sys/Attachments/Hero%20Hypnospace%20Outlaw.jpg)
 
 # Summary
 

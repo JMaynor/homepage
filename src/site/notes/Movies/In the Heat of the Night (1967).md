@@ -3,7 +3,7 @@
 ---
 
 
-![In the Heat of the Night 1967.jpg|200](/img/user/Attachments/In%20the%20Heat%20of%20the%20Night%201967.jpg)
+![In the Heat of the Night 1967.jpg|200](/img/user/_sys/Attachments/In%20the%20Heat%20of%20the%20Night%201967.jpg)
 
 # Review
 

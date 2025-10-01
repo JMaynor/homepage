@@ -3,7 +3,7 @@
 ---
 
 
-![To_Kill_a_Mockingbird 1963.jpg|200](/img/user/Attachments/To_Kill_a_Mockingbird%201963.jpg)
+![To_Kill_a_Mockingbird 1963.jpg|200](/img/user/_sys/Attachments/To_Kill_a_Mockingbird%201963.jpg)
 
 # Review
 

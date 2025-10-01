@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Sniper Elite 5.jpg](/img/user/Attachments/Hero%20Sniper%20Elite%205.jpg)
+![Hero Sniper Elite 5.jpg](/img/user/_sys/Attachments/Hero%20Sniper%20Elite%205.jpg)
 
 # Review
 

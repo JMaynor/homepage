@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Scarlet Hollow.jpg](/img/user/Attachments/Hero%20Scarlet%20Hollow.jpg)
+![Hero Scarlet Hollow.jpg](/img/user/_sys/Attachments/Hero%20Scarlet%20Hollow.jpg)
 
 # Summary
 

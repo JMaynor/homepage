@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Little Nightmares II.jpg](/img/user/Attachments/Hero%20Little%20Nightmares%20II.jpg)
+![Hero Little Nightmares II.jpg](/img/user/_sys/Attachments/Hero%20Little%20Nightmares%20II.jpg)
 
 # Review
 

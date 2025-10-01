@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Elden Ring.jpg](/img/user/Attachments/Hero%20Elden%20Ring.jpg)
+![Hero Elden Ring.jpg](/img/user/_sys/Attachments/Hero%20Elden%20Ring.jpg)
 
 # Review
 

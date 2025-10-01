@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Star Trucker.jpg](/img/user/Attachments/Hero%20Star%20Trucker.jpg)
+![Hero Star Trucker.jpg](/img/user/_sys/Attachments/Hero%20Star%20Trucker.jpg)
 
 # Review
 

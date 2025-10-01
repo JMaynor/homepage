@@ -3,7 +3,7 @@
 ---
 
 
-![The Last Picture Show 1971.jpeg|200](/img/user/Attachments/The%20Last%20Picture%20Show%201971.jpeg)
+![The Last Picture Show 1971.jpeg|200](/img/user/_sys/Attachments/The%20Last%20Picture%20Show%201971.jpeg)
 
 https://assets.scriptslug.com/live/pdf/scripts/the-last-picture-show-1971.pdf
 

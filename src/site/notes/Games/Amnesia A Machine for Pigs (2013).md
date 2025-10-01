@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Amnesia A Machine For Pigs.jpg](/img/user/Attachments/Hero%20Amnesia%20A%20Machine%20For%20Pigs.jpg)
+![Hero Amnesia A Machine For Pigs.jpg](/img/user/_sys/Attachments/Hero%20Amnesia%20A%20Machine%20For%20Pigs.jpg)
 
 # Summary
 

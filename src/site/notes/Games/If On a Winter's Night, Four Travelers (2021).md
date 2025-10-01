@@ -3,7 +3,7 @@
 ---
 
 
-![Hero If On a Winter's Night.jpg](/img/user/Attachments/Hero%20If%20On%20a%20Winter's%20Night.jpg)
+![Hero If On a Winter's Night.jpg](/img/user/_sys/Attachments/Hero%20If%20On%20a%20Winter's%20Night.jpg)
 
 # Summary
 

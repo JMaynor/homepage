@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Jak and Daxter.jpg](/img/user/Attachments/Hero%20Jak%20and%20Daxter.jpg)
+![Hero Jak and Daxter.jpg](/img/user/_sys/Attachments/Hero%20Jak%20and%20Daxter.jpg)
 
 # Review
 

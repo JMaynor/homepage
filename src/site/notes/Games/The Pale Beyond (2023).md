@@ -3,7 +3,7 @@
 ---
 
 
-![Hero The Pale Beyond.jpg](/img/user/Attachments/Hero%20The%20Pale%20Beyond.jpg)
+![Hero The Pale Beyond.jpg](/img/user/_sys/Attachments/Hero%20The%20Pale%20Beyond.jpg)
 
 # Summary
 

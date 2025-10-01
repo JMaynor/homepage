@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Call of Duty World at War.jpg](/img/user/Attachments/Hero%20Call%20of%20Duty%20World%20at%20War.jpg)
+![Hero Call of Duty World at War.jpg](/img/user/_sys/Attachments/Hero%20Call%20of%20Duty%20World%20at%20War.jpg)
 
 # Summary
 

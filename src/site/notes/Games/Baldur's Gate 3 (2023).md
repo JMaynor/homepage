@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/baldur-s-gate-3-2023/","tags":["games","streamed"],"created":"2025-03-20","updated":"2025-08-11"}
+{"dg-publish":true,"permalink":"/games/baldur-s-gate-3-2023/","tags":["games","streamed"],"created":"2025-03-20","updated":"2025-10-01"}
 ---
 
 
@@ -22,5 +22,13 @@ Combat-wise, I have a general disdain for DnD combat. At least here it's getting
 Overall, I think one of the things I haven't fucked with in Act 1 is it feels like the game assumes more of a familiarity with this world than I have. There are a lot of names that are thrown out with extreme regularity. And I have no idea if these are DnD names or if they're specific to this game. I feel a bit lost a not insignificant portion of the time. And the constant barrage of vocab terms kind of just puts me into a malaise where I stop taking in new information. Not sure who these people are, why I should care. The game doesn't *require* that knowledge per se, but given that the roleplaying of a roleplaying game is my favorite aspect, being reduced to "Uh, I dunno, I'm a Greek guy I guess" can be a bit frustrating.
 
 ## Act 2
+
+Act 2 feels generally more interesting than Act 1. There's more little weirdos running around. And there's some more interesting things to see in the underdark and such. The one big negative I feel is that it's so dour and grim for such a long period. I would imagine that's somewhat the point. Whenever you finish, you get the big sunlight and everything, but this fucking game goes on so long that it's just a bit depressing after a while. And I would agree with my earlier assessment that the game is largely okay. It ain't blowing me away like the critical response would suggest it should.
+
+And I have to say, this game is too fucking long. Even if you were not doing any side shit and just steamrolling the main quest, it goddamn goes on and on. Why can't campaigns end? It's the only thing that I want in this world. But it seems wholly impossible. Can't happen in real life, doesn't happen here. I dunno, I'm just tired of DnD. It makes me feel spent. Our intention, because this game refuses to end or be anywhere near done after having played it for hours and hours is to take a break and come back later.
+
+## Act 3
+
+()
 
 # Links

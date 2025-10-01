@@ -3,7 +3,7 @@
 ---
 
 
-![Poster Do the Right Thing 1989.png|200](/img/user/Attachments/Poster%20Do%20the%20Right%20Thing%201989.png)
+![Poster Do the Right Thing 1989.png|200](/img/user/_sys/Attachments/Poster%20Do%20the%20Right%20Thing%201989.png)
 
 # Review
 

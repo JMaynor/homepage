@@ -5,7 +5,7 @@
 
 👀I am *seated*. (Production still from filming)
 
-![John Derek and Charlton Heston in The Ten Commandments 1956.jpg|400](/img/user/Attachments/John%20Derek%20and%20Charlton%20Heston%20in%20The%20Ten%20Commandments%201956.jpg)
+![John Derek and Charlton Heston in The Ten Commandments 1956.jpg|400](/img/user/_sys/Attachments/John%20Derek%20and%20Charlton%20Heston%20in%20The%20Ten%20Commandments%201956.jpg)
 
 # Review
 

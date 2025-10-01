@@ -3,6 +3,6 @@
 ---
 
 
-![Harry Potter and the Philosopher's Stone Poster.jpg|200](/img/user/Attachments/Harry%20Potter%20and%20the%20Philosopher's%20Stone%20Poster.jpg)
+![Harry Potter and the Philosopher's Stone Poster.jpg|200](/img/user/_sys/Attachments/Harry%20Potter%20and%20the%20Philosopher's%20Stone%20Poster.jpg)
 
 # Review

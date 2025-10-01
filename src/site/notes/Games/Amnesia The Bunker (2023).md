@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Amnesia the Bunker.jpg](/img/user/Attachments/Hero%20Amnesia%20the%20Bunker.jpg)
+![Hero Amnesia the Bunker.jpg](/img/user/_sys/Attachments/Hero%20Amnesia%20the%20Bunker.jpg)
 
 # Summary
 

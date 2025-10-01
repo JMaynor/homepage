@@ -3,7 +3,7 @@
 ---
 
 
-![The General 1926.png|200](/img/user/Attachments/The%20General%201926.png)
+![The General 1926.png|200](/img/user/_sys/Attachments/The%20General%201926.png)
 
 # Review
 
@@ -15,4 +15,4 @@ All of the train bits were the best, here. Loved watching our goonish Union boys
 
 Also the muttonstache...I am a fan. This fella below. I just find it dashing is all, I feel like it's primed to make a comeback. Maybe I'm crazy and need to be put away for my own safety.
 
-![Muttonstache Character from The General.png|300](/img/user/Attachments/Muttonstache%20Character%20from%20The%20General.png)
+![Muttonstache Character from The General.png|300](/img/user/_sys/Attachments/Muttonstache%20Character%20from%20The%20General.png)

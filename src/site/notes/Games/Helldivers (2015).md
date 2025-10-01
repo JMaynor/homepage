@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Helldivers.jpg](/img/user/Attachments/Hero%20Helldivers.jpg)
+![Hero Helldivers.jpg](/img/user/_sys/Attachments/Hero%20Helldivers.jpg)
 
 # Review
 

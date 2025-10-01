@@ -3,7 +3,7 @@
 ---
 
 
-![It's a Wonderful Life 1946.jpeg|200](/img/user/Attachments/It's%20a%20Wonderful%20Life%201946.jpeg)
+![It's a Wonderful Life 1946.jpeg|200](/img/user/_sys/Attachments/It's%20a%20Wonderful%20Life%201946.jpeg)
 
 # Review
 

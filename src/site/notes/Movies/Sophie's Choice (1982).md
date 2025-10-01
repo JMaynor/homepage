@@ -3,7 +3,7 @@
 ---
 
 
-![Sophie's Choice 1982.jpg|200](/img/user/Attachments/Sophie's%20Choice%201982.jpg)
+![Sophie's Choice 1982.jpg|200](/img/user/_sys/Attachments/Sophie's%20Choice%201982.jpg)
 
 # Review
 

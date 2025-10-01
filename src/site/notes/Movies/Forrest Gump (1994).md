@@ -3,7 +3,7 @@
 ---
 
 
-![Forrest Gump Poster.jpg|200](/img/user/Attachments/Forrest%20Gump%20Poster.jpg)
+![Forrest Gump Poster.jpg|200](/img/user/_sys/Attachments/Forrest%20Gump%20Poster.jpg)
 
 # Notes
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-07-25"}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-09-03"}
 ---
 
 
@@ -75,6 +75,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 - [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
 - [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
 - [[Games/System Shock (1994)\|System Shock (1994)]]
+- [[Games/System Shock 2 (1999)\|System Shock 2 (1999)]]
 - [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]
 - [[Games/The Final Station (2016)\|The Final Station (2016)]]
 - [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]
@@ -126,6 +127,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 - [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]
 - [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
 - [[Games/Star Trucker (2024)\|Star Trucker (2024)]]
+- [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]
 - [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]
 - [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]
 - [[Games/Warframe (2013)\|Warframe (2013)]]

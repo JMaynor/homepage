@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Rise of the Golden Idol.jpg](/img/user/Attachments/Hero%20Rise%20of%20the%20Golden%20Idol.jpg)
+![Hero Rise of the Golden Idol.jpg](/img/user/_sys/Attachments/Hero%20Rise%20of%20the%20Golden%20Idol.jpg)
 
 # Summary
 

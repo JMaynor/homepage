@@ -3,7 +3,7 @@
 ---
 
 
-![The Grapes of Wrath Poster.jpg|200](/img/user/Attachments/The%20Grapes%20of%20Wrath%20Poster.jpg)
+![The Grapes of Wrath Poster.jpg|200](/img/user/_sys/Attachments/The%20Grapes%20of%20Wrath%20Poster.jpg)
 
 # Review
 

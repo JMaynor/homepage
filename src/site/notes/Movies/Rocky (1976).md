@@ -3,7 +3,7 @@
 ---
 
 
-![Rocky 1976.jpg|200](/img/user/Attachments/Rocky%201976.jpg)
+![Rocky 1976.jpg|200](/img/user/_sys/Attachments/Rocky%201976.jpg)
 
 # Review
 

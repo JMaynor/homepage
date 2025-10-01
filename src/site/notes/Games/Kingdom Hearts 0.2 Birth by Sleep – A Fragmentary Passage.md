@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Fragmentary Passage.png](/img/user/Attachments/Hero%20Fragmentary%20Passage.png)
+![Hero Fragmentary Passage.png](/img/user/_sys/Attachments/Hero%20Fragmentary%20Passage.png)
 
 # Review
 

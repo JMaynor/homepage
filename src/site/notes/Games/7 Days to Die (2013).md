@@ -3,7 +3,7 @@
 ---
 
 
-![Hero 7 Days to Die.jpg](/img/user/Attachments/Hero%207%20Days%20to%20Die.jpg)
+![Hero 7 Days to Die.jpg](/img/user/_sys/Attachments/Hero%207%20Days%20to%20Die.jpg)
 
 # Review
 

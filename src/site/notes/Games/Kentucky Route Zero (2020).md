@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Kentucky Route Zero.jpg](/img/user/Attachments/Hero%20Kentucky%20Route%20Zero.jpg)
+![Hero Kentucky Route Zero.jpg](/img/user/_sys/Attachments/Hero%20Kentucky%20Route%20Zero.jpg)
 
 # Summary
 

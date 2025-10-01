@@ -3,7 +3,7 @@
 ---
 
 
-![Poster Ben-Hur 1959.jpg|200](/img/user/Attachments/Poster%20Ben-Hur%201959.jpg)
+![Poster Ben-Hur 1959.jpg|200](/img/user/_sys/Attachments/Poster%20Ben-Hur%201959.jpg)
 
 # Review
 

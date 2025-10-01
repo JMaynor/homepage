@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Sly Cooper 4.jpg](/img/user/Attachments/Hero%20Sly%20Cooper%204.jpg)
+![Hero Sly Cooper 4.jpg](/img/user/_sys/Attachments/Hero%20Sly%20Cooper%204.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Cuphead.jpg](/img/user/Attachments/Hero%20Cuphead.jpg)
+![Hero Cuphead.jpg](/img/user/_sys/Attachments/Hero%20Cuphead.jpg)
 
 # Review
 

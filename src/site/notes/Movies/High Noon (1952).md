@@ -3,7 +3,7 @@
 ---
 
 
-![High Noon 1952.jpg|200](/img/user/Attachments/High%20Noon%201952.jpg)
+![High Noon 1952.jpg|200](/img/user/_sys/Attachments/High%20Noon%201952.jpg)
 
 # Review
 

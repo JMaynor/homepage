@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Call of Duty.jpg](/img/user/Attachments/Hero%20Call%20of%20Duty.jpg)
+![Hero Call of Duty.jpg](/img/user/_sys/Attachments/Hero%20Call%20of%20Duty.jpg)
 
 # Summary
 

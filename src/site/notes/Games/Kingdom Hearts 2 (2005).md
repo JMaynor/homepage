@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Kingdom Hearts 2.jpg](/img/user/Attachments/Hero%20Kingdom%20Hearts%202.jpg)
+![Hero Kingdom Hearts 2.jpg](/img/user/_sys/Attachments/Hero%20Kingdom%20Hearts%202.jpg)
 
 # Review
 

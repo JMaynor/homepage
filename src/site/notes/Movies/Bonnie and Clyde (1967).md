@@ -3,7 +3,7 @@
 ---
 
 
-![Bonnie and Clyde 1967.jpg|200](/img/user/Attachments/Bonnie%20and%20Clyde%201967.jpg)
+![Bonnie and Clyde 1967.jpg|200](/img/user/_sys/Attachments/Bonnie%20and%20Clyde%201967.jpg)
 
 # Review
 

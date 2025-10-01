@@ -3,7 +3,7 @@
 ---
 
 
-![The Wild Bunch 1969.jpg|200](/img/user/Attachments/The%20Wild%20Bunch%201969.jpg)
+![The Wild Bunch 1969.jpg|200](/img/user/_sys/Attachments/The%20Wild%20Bunch%201969.jpg)
 
 # Review
 

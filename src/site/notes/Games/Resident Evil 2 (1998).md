@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Resident Evil 2.jpg](/img/user/Attachments/Hero%20Resident%20Evil%202.jpg)
+![Hero Resident Evil 2.jpg](/img/user/_sys/Attachments/Hero%20Resident%20Evil%202.jpg)
 
 # Summary
 

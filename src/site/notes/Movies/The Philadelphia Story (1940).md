@@ -3,7 +3,7 @@
 ---
 
 
-![The Philadelphia Story 1940.jpg|200](/img/user/Attachments/The%20Philadelphia%20Story%201940.jpg)
+![The Philadelphia Story 1940.jpg|200](/img/user/_sys/Attachments/The%20Philadelphia%20Story%201940.jpg)
 
 # Review
 

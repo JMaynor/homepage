@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Jak II.jpg](/img/user/Attachments/Hero%20Jak%20II.jpg)
+![Hero Jak II.jpg](/img/user/_sys/Attachments/Hero%20Jak%20II.jpg)
 
 # Review
 

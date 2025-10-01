@@ -3,7 +3,7 @@
 ---
 
 
-![Hero KOTOR1.jpg](/img/user/Attachments/Hero%20KOTOR1.jpg)
+![Hero KOTOR1.jpg](/img/user/_sys/Attachments/Hero%20KOTOR1.jpg)
 
 # Summary
 

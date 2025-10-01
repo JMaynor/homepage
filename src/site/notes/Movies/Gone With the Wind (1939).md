@@ -3,7 +3,7 @@
 ---
 
 
-![Gone With the Wind Poster.jpg|200](/img/user/Attachments/Gone%20With%20the%20Wind%20Poster.jpg)
+![Gone With the Wind Poster.jpg|200](/img/user/_sys/Attachments/Gone%20With%20the%20Wind%20Poster.jpg)
 
 # Review
 

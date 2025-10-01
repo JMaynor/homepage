@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Diner Bros.jpg](/img/user/Attachments/Hero%20Diner%20Bros.jpg)
+![Hero Diner Bros.jpg](/img/user/_sys/Attachments/Hero%20Diner%20Bros.jpg)
 
 # Review
 

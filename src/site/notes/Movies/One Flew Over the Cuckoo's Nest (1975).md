@@ -3,6 +3,6 @@
 ---
 
 
-![One Flew Over the Cuckoo's Nest Poster.jpg|200](/img/user/Attachments/One%20Flew%20Over%20the%20Cuckoo's%20Nest%20Poster.jpg)
+![One Flew Over the Cuckoo's Nest Poster.jpg|200](/img/user/_sys/Attachments/One%20Flew%20Over%20the%20Cuckoo's%20Nest%20Poster.jpg)
 
 # Review

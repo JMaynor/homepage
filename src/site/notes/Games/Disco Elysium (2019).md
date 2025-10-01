@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Disco Elysium.jpg](/img/user/Attachments/Hero%20Disco%20Elysium.jpg)
+![Hero Disco Elysium.jpg](/img/user/_sys/Attachments/Hero%20Disco%20Elysium.jpg)
 
 # Summary
 

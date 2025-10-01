@@ -3,7 +3,7 @@
 ---
 
 
-![Duck Soup 1933.jpeg|200](/img/user/Attachments/Duck%20Soup%201933.jpeg)
+![Duck Soup 1933.jpeg|200](/img/user/_sys/Attachments/Duck%20Soup%201933.jpeg)
 
 # Review
 

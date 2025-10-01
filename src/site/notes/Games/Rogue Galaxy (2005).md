@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Rogue Galaxy.jpg](/img/user/Attachments/Hero%20Rogue%20Galaxy.jpg)
+![Hero Rogue Galaxy.jpg](/img/user/_sys/Attachments/Hero%20Rogue%20Galaxy.jpg)
 
 # Summary
 

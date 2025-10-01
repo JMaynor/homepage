@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Alien Isolation.jpg](/img/user/Attachments/Hero%20Alien%20Isolation.jpg)
+![Hero Alien Isolation.jpg](/img/user/_sys/Attachments/Hero%20Alien%20Isolation.jpg)
 
 # Summary
 

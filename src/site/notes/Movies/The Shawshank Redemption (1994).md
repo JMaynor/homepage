@@ -3,7 +3,7 @@
 ---
 
 
-![Shawshank Redemption 1994.jpg|200](/img/user/Attachments/Shawshank%20Redemption%201994.jpg)
+![Shawshank Redemption 1994.jpg|200](/img/user/_sys/Attachments/Shawshank%20Redemption%201994.jpg)
 
 # Review
 

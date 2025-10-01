@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Project Zomboid.jpg](/img/user/Attachments/Hero%20Project%20Zomboid.jpg)
+![Hero Project Zomboid.jpg](/img/user/_sys/Attachments/Hero%20Project%20Zomboid.jpg)
 
 # Review
 

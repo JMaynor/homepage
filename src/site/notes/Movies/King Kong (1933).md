@@ -3,7 +3,7 @@
 ---
 
 
-![King Kong 1933.jpg|200](/img/user/Attachments/King%20Kong%201933.jpg)
+![King Kong 1933.jpg|200](/img/user/_sys/Attachments/King%20Kong%201933.jpg)
 
 # Review
 

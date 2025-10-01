@@ -3,7 +3,7 @@
 ---
 
 
-![The Graduate 1967.jpg|200](/img/user/Attachments/The%20Graduate%201967.jpg)
+![The Graduate 1967.jpg|200](/img/user/_sys/Attachments/The%20Graduate%201967.jpg)
 
 # Review
 

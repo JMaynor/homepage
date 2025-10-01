@@ -3,7 +3,7 @@
 ---
 
 
-![Spartacus 1960.png|200](/img/user/Attachments/Spartacus%201960.png)
+![Spartacus 1960.png|200](/img/user/_sys/Attachments/Spartacus%201960.png)
 
 # Review
 

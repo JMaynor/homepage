@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/aeschylus-agamemnon/","tags":["books"],"created":"2025-06-11","updated":"2025-09-02"}
+{"dg-publish":true,"permalink":"/books/aeschylus-agamemnon/","tags":["books"],"created":"2025-06-11","updated":"2025-09-22"}
 ---
 
 
@@ -9,8 +9,8 @@ Lord Jesus, the thees and thous are here and it feels like they are more present
 
 I can see the counterargument. This was intended to rhyme. It's not difficult to imagine the original writer being quite happy that someone is going the extra mile to keep things rhyming in another language. But it just doesn't feel natural. I would rather get a more direct translation that tries to keep the general flow of the original, but isn't afraid to stray away from the rhyming structure. My two cents. Generally, I just feel very confused. I haven't read all that much, but people will go on such long tirades about *something*. It feels like I totally get what we're talking about at the start of a diatribe, but by the end I've forgotten who's even speaking much less what they're yammering about. In particular, because there isn't much of a sense of place. We do very little actual stagework in these plays. No idea where anyone actually physically is. Which isn't completely unexpected. Most of these plays, I would assume, are just being performed at random amphitheaters? Few props, we're not doing backgrounds? Again, total assumption on my part. But if that's the case, it would make sense when reading these that everyone just sort of goes on and off stage, saying their lines, and moving on to the next bit.
 
-----
-
-()
-
 # Review
+
+Okay, so I may be abandoning any further Grecian plays. I can fuck with the epic poem. There's enough going on there structurally that I enjoy following along. But these plays are not for me. I'm so tired of reading along to these people whinging about nothing for hours. I desperately wanted to shorten every character's dialogue by at least a half. And I'm aware that these plays should really only take like an hour or two at most to read... Also the chorus needs to be shot. What do they do? Because I'm now at 3 for 3 after [[Books/Sophocles - Ajax\|Ajax]], [[Books/Sophocles - Philoctetes\|Philoctetes]], and now Agamemnon where they very much seem to do nothing but stand there telling "woe is me!" and taking up time that the actual characters could be using. It's very boring.
+
+I did like Cassandra. She was fun enough. And she spoke mostly like an actual person (getting to her point in a reasonable time and moving on). I also finally started to get on board with everything when Clymnestra and Aegisthus were cackling at what they had done. That being about 2 minutes before the end. Did not enjoy, do not particularly want to read any further if the only form a particular story is in is play-form. I'm interested in the story, but not that interested.

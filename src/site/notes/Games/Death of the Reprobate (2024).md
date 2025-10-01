@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Death of the Reprobate.jpg](/img/user/Attachments/Hero%20Death%20of%20the%20Reprobate.jpg)
+![Hero Death of the Reprobate.jpg](/img/user/_sys/Attachments/Hero%20Death%20of%20the%20Reprobate.jpg)
 
 # Review
 

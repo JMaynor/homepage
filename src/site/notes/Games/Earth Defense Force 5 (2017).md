@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Earth Defense Force 5.jpg](/img/user/Attachments/Hero%20Earth%20Defense%20Force%205.jpg)
+![Hero Earth Defense Force 5.jpg](/img/user/_sys/Attachments/Hero%20Earth%20Defense%20Force%205.jpg)
 
 # Review
 

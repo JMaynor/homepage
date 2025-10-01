@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Outer Wilds.jpg](/img/user/Attachments/Hero%20Outer%20Wilds.jpg)
+![Hero Outer Wilds.jpg](/img/user/_sys/Attachments/Hero%20Outer%20Wilds.jpg)
 
 # Summary
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Dr. Strangelove 1964.jpg|200](/img/user/Attachments/Dr.%20Strangelove%201964.jpg)
+![Dr. Strangelove 1964.jpg|200](/img/user/_sys/Attachments/Dr.%20Strangelove%201964.jpg)
 
 # Review
 

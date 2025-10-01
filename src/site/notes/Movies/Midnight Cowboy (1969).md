@@ -3,7 +3,7 @@
 ---
 
 
-![Midnight Cowboy 1969.jpg|200](/img/user/Attachments/Midnight%20Cowboy%201969.jpg)
+![Midnight Cowboy 1969.jpg|200](/img/user/_sys/Attachments/Midnight%20Cowboy%201969.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Easy Rider 1969.jpg|200](/img/user/Attachments/Easy%20Rider%201969.jpg)
+![Easy Rider 1969.jpg|200](/img/user/_sys/Attachments/Easy%20Rider%201969.jpg)
 
 # Review
 

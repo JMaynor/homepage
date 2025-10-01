@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Call of the Sea.jpg](/img/user/Attachments/Hero%20Call%20of%20the%20Sea.jpg)
+![Hero Call of the Sea.jpg](/img/user/_sys/Attachments/Hero%20Call%20of%20the%20Sea.jpg)
 
 # Summary
 

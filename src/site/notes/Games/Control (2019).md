@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Control.png](/img/user/Attachments/Hero%20Control.png)
+![Hero Control.png](/img/user/_sys/Attachments/Hero%20Control.png)
 
 # Summary
 

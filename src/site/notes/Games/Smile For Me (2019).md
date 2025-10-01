@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Smile For Me.jpg](/img/user/Attachments/Hero%20Smile%20For%20Me.jpg)
+![Hero Smile For Me.jpg](/img/user/_sys/Attachments/Hero%20Smile%20For%20Me.jpg)
 
 # Summary
 

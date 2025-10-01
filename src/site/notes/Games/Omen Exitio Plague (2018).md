@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Omen Exitio Plague.jpg](/img/user/Attachments/Hero%20Omen%20Exitio%20Plague.jpg)
+![Hero Omen Exitio Plague.jpg](/img/user/_sys/Attachments/Hero%20Omen%20Exitio%20Plague.jpg)
 
 # Summary
 

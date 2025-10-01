@@ -3,7 +3,7 @@
 ---
 
 
-![The Treasure of the Sierra Madre 1947.jpg|200](/img/user/Attachments/The%20Treasure%20of%20the%20Sierra%20Madre%201947.jpg)
+![The Treasure of the Sierra Madre 1947.jpg|200](/img/user/_sys/Attachments/The%20Treasure%20of%20the%20Sierra%20Madre%201947.jpg)
 
 # Review
 

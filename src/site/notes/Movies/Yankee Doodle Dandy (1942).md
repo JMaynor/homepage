@@ -3,7 +3,7 @@
 ---
 
 
-![Poster Yankee Doodle Dandy 1942.jpg|200](/img/user/Attachments/Poster%20Yankee%20Doodle%20Dandy%201942.jpg)
+![Poster Yankee Doodle Dandy 1942.jpg|200](/img/user/_sys/Attachments/Poster%20Yankee%20Doodle%20Dandy%201942.jpg)
 
 # Review
 

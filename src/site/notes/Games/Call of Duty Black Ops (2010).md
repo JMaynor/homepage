@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Call of Duty Black Ops.jpg](/img/user/Attachments/Hero%20Call%20of%20Duty%20Black%20Ops.jpg)
+![Hero Call of Duty Black Ops.jpg](/img/user/_sys/Attachments/Hero%20Call%20of%20Duty%20Black%20Ops.jpg)
 
 # Summary
 

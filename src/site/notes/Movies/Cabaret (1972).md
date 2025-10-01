@@ -3,7 +3,7 @@
 ---
 
 
-![Cabaret 1972.jpg|200](/img/user/Attachments/Cabaret%201972.jpg)
+![Cabaret 1972.jpg|200](/img/user/_sys/Attachments/Cabaret%201972.jpg)
 
 # Review
 

@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Lego Star Wars Skywalker Saga.jpg](/img/user/Attachments/Hero%20Lego%20Star%20Wars%20Skywalker%20Saga.jpg)
+![Hero Lego Star Wars Skywalker Saga.jpg](/img/user/_sys/Attachments/Hero%20Lego%20Star%20Wars%20Skywalker%20Saga.jpg)
 
 # Review
 

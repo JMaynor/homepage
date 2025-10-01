@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Barotrauma.jpg](/img/user/Attachments/Hero%20Barotrauma.jpg)
+![Hero Barotrauma.jpg](/img/user/_sys/Attachments/Hero%20Barotrauma.jpg)
 
 # Review
 

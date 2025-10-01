@@ -3,7 +3,7 @@
 ---
 
 
-![Hero Silent Hill.jpg](/img/user/Attachments/Hero%20Silent%20Hill.jpg)
+![Hero Silent Hill.jpg](/img/user/_sys/Attachments/Hero%20Silent%20Hill.jpg)
 
 # Summary
 

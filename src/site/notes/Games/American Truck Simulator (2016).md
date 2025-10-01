@@ -3,7 +3,7 @@
 ---
 
 
-![Hero American Truck Simulator.jpg](/img/user/Attachments/Hero%20American%20Truck%20Simulator.jpg)
+![Hero American Truck Simulator.jpg](/img/user/_sys/Attachments/Hero%20American%20Truck%20Simulator.jpg)
 
 # Review
 
