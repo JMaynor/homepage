@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2025-10-02"}
 ---
 
 

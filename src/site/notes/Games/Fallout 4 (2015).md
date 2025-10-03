@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-10-01"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-10-02"}
 ---
 
 

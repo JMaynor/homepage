@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-10-01"}
 ---
 
 
@@ -35,105 +35,109 @@
 
 A big thing I do in my free time is make let's plays. Below is a list of games that I've played (or are in the process of playing).
 
-- [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]
-- [[Games/American Arcadia (2023)\|American Arcadia (2023)]]
-- [[Games/Amnesia A Machine for Pigs (2013)\|Amnesia A Machine for Pigs (2013)]]
-- [[Games/Amnesia Rebirth (2020)\|Amnesia Rebirth (2020)]]
-- [[Games/Amnesia The Bunker (2023)\|Amnesia The Bunker (2023)]]
-- [[Games/Amnesia the Dark Descent (2010)\|Amnesia the Dark Descent (2010)]]
-- [[Games/Call of Duty (2003)\|Call of Duty (2003)]]
-- [[Games/Call of Duty 2 (2005)\|Call of Duty 2 (2005)]]
-- [[Games/Call of Duty Black Ops (2010)\|Call of Duty Black Ops (2010)]]
-- [[Games/Call of Duty World at War (2008)\|Call of Duty World at War (2008)]]
-- [[Games/Call of the Sea (2020)\|Call of the Sea (2020)]]
-- [[Games/Control (2019)\|Control (2019)]]
-- [[Games/Disco Elysium (2019)\|Disco Elysium (2019)]]
-- [[Games/Fallout 4 (2015)\|Fallout 4 (2015)]]
-- [[Games/Hypnospace Outlaw (2019)\|Hypnospace Outlaw (2019)]]
-- [[Games/Kentucky Route Zero (2020)\|Kentucky Route Zero (2020)]]
-- [[Games/Mass Effect 1 (2007)\|Mass Effect 1 (2007)]]
-- [[Games/Mass Effect 2 (2010)\|Mass Effect 2 (2010)]]
-- [[Games/Mass Effect 3 (2012)\|Mass Effect 3 (2012)]]
-- [[Games/Mundaun (2021)\|Mundaun (2021)]]
-- [[Games/Night in the Woods (2017)\|Night in the Woods (2017)]]
-- [[Games/No one lives under the lighthouse (2020)\|No one lives under the lighthouse (2020)]]
-- [[Games/Norco (2022)\|Norco (2022)]]
-- [[Games/Omen Exitio Plague (2018)\|Omen Exitio Plague (2018)]]
-- [[Games/Outer Wilds (2019)\|Outer Wilds (2019)]]
-- [[Games/Pentiment (2022)\|Pentiment (2022)]]
-- [[Games/Resident Evil (1996)\|Resident Evil (1996)]]
-- [[Games/Resident Evil 2 (1998)\|Resident Evil 2 (1998)]]
-- [[Games/Resident Evil 3 (1999)\|Resident Evil 3 (1999)]]
-- [[Games/Resident Evil 4 (2005)\|Resident Evil 4 (2005)]]
-- [[Games/Road 96 (2021)\|Road 96 (2021)]]
-- [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]
-- [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]
-- [[Games/Silent Hill (1999)\|Silent Hill (1999)]]
-- [[Games/Silent Hill 2 (2001)\|Silent Hill 2 (2001)]]
-- [[Games/Silent Hill 3 (2003)\|Silent Hill 3 (2003)]]
-- [[Games/Smile For Me (2019)\|Smile For Me (2019)]]
-- [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]
-- [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]]
-- [[Games/System Shock (1994)\|System Shock (1994)]]
-- [[Games/System Shock 2 (1999)\|System Shock 2 (1999)]]
-- [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]
-- [[Games/The Final Station (2016)\|The Final Station (2016)]]
-- [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]
-- [[Games/The Rise of the Golden Idol (2024)\|The Rise of the Golden Idol (2024)]]
-- [[Games/The Witness (2016)\|The Witness (2016)]]
-- [[Games/Tormented Souls (2021)\|Tormented Souls (2021)]]
-- [[Games/Visage (2020)\|Visage (2020)]]
+| Game                                                                                                          | Started            | Finished           |
+| ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
+| [[Games/Alien Isolation (2014)\|Alien Isolation (2014)]]                                                   | June 12, 2022      | August 15, 2022    |
+| [[Games/American Arcadia (2023)\|American Arcadia (2023)]]                                                 | February 10, 2024  | March 02, 2024     |
+| [[Games/Amnesia A Machine for Pigs (2013)\|Amnesia A Machine for Pigs (2013)]]                             | April 11, 2023     | March 16, 2023     |
+| [[Games/Amnesia Rebirth (2020)\|Amnesia Rebirth (2020)]]                                                   | September 13, 2021 | December 13, 2021  |
+| [[Games/Amnesia The Bunker (2023)\|Amnesia The Bunker (2023)]]                                             | June 23, 2023      | July 01, 2023      |
+| [[Games/Amnesia the Dark Descent (2010)\|Amnesia the Dark Descent (2010)]]                                 | \-                 | \-                 |
+| [[Games/Call of Duty (2003)\|Call of Duty (2003)]]                                                         | January 27, 2023   | February 25, 2023  |
+| [[Games/Call of Duty 2 (2005)\|Call of Duty 2 (2005)]]                                                     | March 18, 2023     | April 02, 2023     |
+| [[Games/Call of Duty Black Ops (2010)\|Call of Duty Black Ops (2010)]]                                     | September 24, 2023 | November 19, 2023  |
+| [[Games/Call of Duty World at War (2008)\|Call of Duty World at War (2008)]]                               | July 02, 2023      | July 24, 2023      |
+| [[Games/Call of the Sea (2020)\|Call of the Sea (2020)]]                                                   | February 14, 2021  | February 28, 2021  |
+| [[Games/Control (2019)\|Control (2019)]]                                                                   | October 01, 2022   | December 19, 2022  |
+| [[Games/Disco Elysium (2019)\|Disco Elysium (2019)]]                                                       | April 05, 2023     | June 19, 2023      |
+| [[Games/Fallout 4 (2015)\|Fallout 4 (2015)]]                                                               | April 20, 2024     | May 25, 2025       |
+| [[Games/Hypnospace Outlaw (2019)\|Hypnospace Outlaw (2019)]]                                               | December 28, 2023  | February 10, 2024  |
+| [[Games/Kentucky Route Zero (2020)\|Kentucky Route Zero (2020)]]                                           | April 03, 2022     | April 16, 2022     |
+| [[Games/Mass Effect 1 (2007)\|Mass Effect 1 (2007)]]                                                       | May 16, 2021       | September 06, 2021 |
+| [[Games/Mass Effect 2 (2010)\|Mass Effect 2 (2010)]]                                                       | October 05, 2021   | February 23, 2022  |
+| [[Games/Mass Effect 3 (2012)\|Mass Effect 3 (2012)]]                                                       | April 28, 2022     | July 10, 2022      |
+| [[Games/Mundaun (2021)\|Mundaun (2021)]]                                                                   | April 28, 2024     | May 27, 2024       |
+| [[Games/Night in the Woods (2017)\|Night in the Woods (2017)]]                                             | January 02, 2024   | February 11, 2024  |
+| [[Games/No one lives under the lighthouse (2020)\|No one lives under the lighthouse (2020)]]               | August 27, 2023    | September 01, 2023 |
+| [[Games/Norco (2022)\|Norco (2022)]]                                                                       | July 14, 2024      | August 18, 2024    |
+| [[Games/Omen Exitio Plague (2018)\|Omen Exitio Plague (2018)]]                                             | August 24, 2022    | September 18, 2022 |
+| [[Games/Outer Wilds (2019)\|Outer Wilds (2019)]]                                                           | January 07, 2023   | February 04, 2023  |
+| [[Games/Pentiment (2022)\|Pentiment (2022)]]                                                               | September 20, 2023 | October 22, 2023   |
+| [[Games/Resident Evil (1996)\|Resident Evil (1996)]]                                                       | December 29, 2024  | February 23, 2025  |
+| [[Games/Resident Evil 2 (1998)\|Resident Evil 2 (1998)]]                                                   | March 22, 2025     | June 08, 2025      |
+| [[Games/Resident Evil 3 (1999)\|Resident Evil 3 (1999)]]                                                   | June 08, 2025      | June 18, 2025      |
+| [[Games/Resident Evil 4 (2005)\|Resident Evil 4 (2005)]]                                                   | June 30, 2025      | October 02, 2025   |
+| [[Games/Road 96 (2021)\|Road 96 (2021)]]                                                                   | December 02, 2022  | December 12, 2022  |
+| [[Games/Rogue Galaxy (2005)\|Rogue Galaxy (2005)]]                                                         | March 20, 2021     | June 20, 2021      |
+| [[Games/Scarlet Hollow (2021)\|Scarlet Hollow (2021)]]                                                     | February 21, 2024  | \-                 |
+| [[Games/Silent Hill (1999)\|Silent Hill (1999)]]                                                           | June 02, 2024      | July 07, 2024      |
+| [[Games/Silent Hill 2 (2001)\|Silent Hill 2 (2001)]]                                                       | September 19, 2024 | November 17, 2024  |
+| [[Games/Silent Hill 3 (2003)\|Silent Hill 3 (2003)]]                                                       | February 15, 2025  | April 01, 2025     |
+| [[Games/Smile For Me (2019)\|Smile For Me (2019)]]                                                         | July 31, 2023      | August 11, 2023    |
+| [[Games/Star Wars Knights of the Old Republic (2003)\|Star Wars Knights of the Old Republic (2003)]]       | March 08, 2021     | April 18, 2021     |
+| [[Games/Star Wars Knights of the Old Republic II (2004)\|Star Wars Knights of the Old Republic II (2004)]] | August 09, 2021    | March 18, 2022     |
+| [[Games/System Shock (1994)\|System Shock (1994)]]                                                         | May 26, 2025       | \-                 |
+| [[Games/System Shock 2 (1999)\|System Shock 2 (1999)]]                                                     | \-                 | \-                 |
+| [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]                           | March 03, 2024     | April 06, 2024     |
+| [[Games/The Final Station (2016)\|The Final Station (2016)]]                                               | September 17, 2023 | October 02, 2023   |
+| [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]                                                   | March 28, 2024     | April 27, 2024     |
+| [[Games/The Rise of the Golden Idol (2024)\|The Rise of the Golden Idol (2024)]]                           | November 17, 2024  | December 29, 2024  |
+| [[Games/The Witness (2016)\|The Witness (2016)]]                                                           | April 27, 2021     | July 09, 2021      |
+| [[Games/Tormented Souls (2021)\|Tormented Souls (2021)]]                                                   | November 12, 2023  | January 08, 2024   |
+| [[Games/Visage (2020)\|Visage (2020)]]                                                                     | July 07, 2021      | July 25, 2021      |
 
 { .block-language-dataview}
 
 # Streams
 
-A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered.
+A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered. Start and end dates generally only relate to games with a clear endpoint that were definitively finished. Rather than evergreen games that we come back to. Or if I have some idea of when I first played something.
 
-- [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]
-- [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]
-- [[Games/Baldur's Gate 3 (2023)\|Baldur's Gate 3 (2023)]]
-- [[Games/Barotrauma (2023)\|Barotrauma (2023)]]
-- [[Games/Book of Hours (2023)\|Book of Hours (2023)]]
-- [[Games/Class of '09 (2021)\|Class of '09 (2021)]]
-- [[Games/Cuphead (2017)\|Cuphead (2017)]]
-- [[Games/Death of the Reprobate (2024)\|Death of the Reprobate (2024)]]
-- [[Games/Diner Bros (2018)\|Diner Bros (2018)]]
-- [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]
-- [[Games/Elden Ring (2022)\|Elden Ring (2022)]]
-- [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]
-- [[Games/Four Last Things (2017)\|Four Last Things (2017)]]
-- [[Games/Helldivers (2015)\|Helldivers (2015)]]
-- [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]
-- [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]
-- [[Games/Jak II (2003)\|Jak II (2003)]]
-- [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]
-- [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]]
-- [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]
-- [[Games/Kingdom Hearts 3 (2019)\|Kingdom Hearts 3 (2019)]]
-- [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Kingdom Hearts 3D Dream Drop Distance (2012)]]
-- [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]
-- [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]
-- [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]
-- [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]
-- [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]
-- [[Games/Paradox Games\|Paradox Games]]
-- [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]
-- [[Games/Signalis (2022)\|Signalis (2022)]]
-- [[Games/Sims 4 (2014)\|Sims 4 (2014)]]
-- [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]
-- [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]
-- [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]
-- [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]
-- [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]
-- [[Games/Star Trucker (2024)\|Star Trucker (2024)]]
-- [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]
-- [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]
-- [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]
-- [[Games/Warframe (2013)\|Warframe (2013)]]
-- [[Games/We Were Here (2017)\|We Were Here (2017)]]
-- [[Games/We Were Here Forever (2022)\|We Were Here Forever (2022)]]
-- [[Games/We Were Here Together (2019)\|We Were Here Together (2019)]]
-- [[Games/We Were Here Too (2018)\|We Were Here Too (2018)]]
+| Game                                                                                                                              | Started            | Finished           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
+| [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]                                                                           | \-                 | \-                 |
+| [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]                                                     | \-                 | \-                 |
+| [[Games/Baldur's Gate 3 (2023)\|Baldur's Gate 3 (2023)]]                                                                       | June 03, 2025      | \-                 |
+| [[Games/Barotrauma (2023)\|Barotrauma (2023)]]                                                                                 | \-                 | \-                 |
+| [[Games/Book of Hours (2023)\|Book of Hours (2023)]]                                                                           | September 05, 2024 | September 12, 2024 |
+| [[Games/Class of '09 (2021)\|Class of '09 (2021)]]                                                                             | January 02, 2025   | January 02, 2025   |
+| [[Games/Cuphead (2017)\|Cuphead (2017)]]                                                                                       | September 09, 2023 | December 09, 2023  |
+| [[Games/Death of the Reprobate (2024)\|Death of the Reprobate (2024)]]                                                         | June 12, 2025      | July 15, 2025      |
+| [[Games/Diner Bros (2018)\|Diner Bros (2018)]]                                                                                 | \-                 | \-                 |
+| [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]                                                           | \-                 | \-                 |
+| [[Games/Elden Ring (2022)\|Elden Ring (2022)]]                                                                                 | \-                 | \-                 |
+| [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]                                                             | \-                 | \-                 |
+| [[Games/Four Last Things (2017)\|Four Last Things (2017)]]                                                                     | June 07, 2025      | June 07, 2025      |
+| [[Games/Helldivers (2015)\|Helldivers (2015)]]                                                                                 | \-                 | \-                 |
+| [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]                         | \-                 | \-                 |
+| [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]                               | \-                 | \-                 |
+| [[Games/Jak II (2003)\|Jak II (2003)]]                                                                                         | \-                 | \-                 |
+| [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]                                                                         | \-                 | \-                 |
+| [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]] | \-                 | \-                 |
+| [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]                                                                     | March 28, 2006     | March 28, 2006     |
+| [[Games/Kingdom Hearts 3 (2019)\|Kingdom Hearts 3 (2019)]]                                                                     | \-                 | \-                 |
+| [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Kingdom Hearts 3D Dream Drop Distance (2012)]]                           | \-                 | \-                 |
+| [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]                                           | \-                 | \-                 |
+| [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]                                     | March 28, 2006     | March 28, 2006     |
+| [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]                                   | \-                 | \-                 |
+| [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]                                                                   | \-                 | \-                 |
+| [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]                                                             | \-                 | \-                 |
+| [[Games/Paradox Games\|Paradox Games]]                                                                                         | \-                 | \-                 |
+| [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]                                                                       | \-                 | \-                 |
+| [[Games/Signalis (2022)\|Signalis (2022)]]                                                                                     | \-                 | \-                 |
+| [[Games/Sims 4 (2014)\|Sims 4 (2014)]]                                                                                         | \-                 | \-                 |
+| [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]                                                           | \-                 | \-                 |
+| [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]                                                   | \-                 | \-                 |
+| [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]                           | \-                 | \-                 |
+| [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]                                               | \-                 | May 31, 2025       |
+| [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]                                                                         | \-                 | \-                 |
+| [[Games/Star Trucker (2024)\|Star Trucker (2024)]]                                                                             | September 02, 2025 | \-                 |
+| [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]                                                                         | \-                 | \-                 |
+| [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]                                                   | June 07, 2025      | June 12, 2025      |
+| [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]                                                       | July 22, 2025      | August 21, 2025    |
+| [[Games/Warframe (2013)\|Warframe (2013)]]                                                                                     | \-                 | \-                 |
+| [[Games/We Were Here (2017)\|We Were Here (2017)]]                                                                             | \-                 | \-                 |
+| [[Games/We Were Here Forever (2022)\|We Were Here Forever (2022)]]                                                             | \-                 | \-                 |
+| [[Games/We Were Here Together (2019)\|We Were Here Together (2019)]]                                                           | \-                 | \-                 |
+| [[Games/We Were Here Too (2018)\|We Were Here Too (2018)]]                                                                     | \-                 | \-                 |
 
 { .block-language-dataview}

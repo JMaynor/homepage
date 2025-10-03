@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-4-2005/","tags":["games","LP"],"created":"2025-05-30","updated":"2025-09-30"}
+{"dg-publish":true,"permalink":"/games/resident-evil-4-2005/","tags":["games","LP"],"created":"2025-05-30","updated":"2025-10-02"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["games","LP"],"created":"2024-02-10","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["games","LP"],"created":"2024-02-10","updated":"2025-10-02"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-2-1998/","tags":["games","LP"],"created":"2025-03-29","updated":"2025-06-18"}
+{"dg-publish":true,"permalink":"/games/resident-evil-2-1998/","tags":["games","LP"],"created":"2025-03-29","updated":"2025-10-02"}
 ---
 
 
