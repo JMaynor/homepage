@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/games/amnesia-the-dark-descent-2010/","tags":["games","LP"],"created":"2024-07-25","updated":"2025-08-26"}
+{"dg-publish":true,"permalink":"/games/amnesia-the-dark-descent-2010/","tags":["games","LP"],"created":"2024-07-25","updated":"2025-10-03"}
 ---
 
+
+![Hero Amnesia The Dark Descent.jpg](/img/user/_sys/Attachments/Hero%20Amnesia%20The%20Dark%20Descent.jpg)
 
 # Summary
 
