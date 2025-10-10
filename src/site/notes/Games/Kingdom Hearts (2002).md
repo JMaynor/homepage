@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["games","streamed"],"created":"2024-03-05","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2002/","tags":["games","streamed"],"created":"2024-03-05","updated":"2025-10-10"}
 ---
 
 
