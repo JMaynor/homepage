@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/project-zomboid-2013/","tags":["games","streamed"],"created":"2024-11-20","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/project-zomboid-2013/","tags":["games","streamed"],"created":"2024-11-20","updated":"2025-10-11"}
 ---
 
 

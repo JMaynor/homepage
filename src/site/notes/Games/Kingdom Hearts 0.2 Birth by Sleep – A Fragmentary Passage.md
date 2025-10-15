@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-10-11"}
 ---
 
 

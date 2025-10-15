@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11"}
 ---
 
 

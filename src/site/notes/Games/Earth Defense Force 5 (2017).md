@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/earth-defense-force-5-2017/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/earth-defense-force-5-2017/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-10-12"}
 ---
 
 

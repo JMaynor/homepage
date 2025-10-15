@@ -95,44 +95,44 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 
 | Game                                                                                                                              | Started            | Finished           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]                                                                           | \-                 | \-                 |
+| [[Games/7 Days to Die (2013)\|7 Days to Die (2013)]]                                                                           | October 07, 2021   | October 27, 2022   |
 | [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]                                                     | \-                 | \-                 |
 | [[Games/Baldur's Gate 3 (2023)\|Baldur's Gate 3 (2023)]]                                                                       | June 03, 2025      | \-                 |
-| [[Games/Barotrauma (2023)\|Barotrauma (2023)]]                                                                                 | \-                 | \-                 |
+| [[Games/Barotrauma (2023)\|Barotrauma (2023)]]                                                                                 | January 22, 2022   | April 30, 2022     |
 | [[Games/Book of Hours (2023)\|Book of Hours (2023)]]                                                                           | September 05, 2024 | September 12, 2024 |
 | [[Games/Class of '09 (2021)\|Class of '09 (2021)]]                                                                             | January 02, 2025   | January 02, 2025   |
 | [[Games/Cuphead (2017)\|Cuphead (2017)]]                                                                                       | September 09, 2023 | December 09, 2023  |
 | [[Games/Death of the Reprobate (2024)\|Death of the Reprobate (2024)]]                                                         | June 12, 2025      | July 15, 2025      |
-| [[Games/Diner Bros (2018)\|Diner Bros (2018)]]                                                                                 | \-                 | \-                 |
-| [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]                                                           | \-                 | \-                 |
-| [[Games/Elden Ring (2022)\|Elden Ring (2022)]]                                                                                 | \-                 | \-                 |
+| [[Games/Diner Bros (2018)\|Diner Bros (2018)]]                                                                                 | December 07, 2021  | \-                 |
+| [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]                                                           | April 27, 2019     | \-                 |
+| [[Games/Elden Ring (2022)\|Elden Ring (2022)]]                                                                                 | February 24, 2022  | July 18, 2024      |
 | [[Games/Escape the Backrooms (2022)\|Escape the Backrooms (2022)]]                                                             | \-                 | \-                 |
 | [[Games/Four Last Things (2017)\|Four Last Things (2017)]]                                                                     | June 07, 2025      | June 07, 2025      |
-| [[Games/Helldivers (2015)\|Helldivers (2015)]]                                                                                 | \-                 | \-                 |
-| [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]                         | \-                 | \-                 |
+| [[Games/Helldivers (2015)\|Helldivers (2015)]]                                                                                 | March 31, 2019     | April 02, 2019     |
+| [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]                         | December 21, 2023  | December 21, 2023  |
 | [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]                               | \-                 | \-                 |
 | [[Games/Jak II (2003)\|Jak II (2003)]]                                                                                         | \-                 | \-                 |
 | [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]                                                                         | January 01, 2005   | January 01, 2005   |
-| [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]] | \-                 | \-                 |
+| [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]] | October 17, 2024   | October 17, 2024   |
 | [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]                                                                     | March 28, 2006     | March 28, 2006     |
-| [[Games/Kingdom Hearts 3 (2019)\|Kingdom Hearts 3 (2019)]]                                                                     | \-                 | \-                 |
-| [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Kingdom Hearts 3D Dream Drop Distance (2012)]]                           | \-                 | \-                 |
-| [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]                                           | \-                 | \-                 |
+| [[Games/Kingdom Hearts 3 (2019)\|Kingdom Hearts 3 (2019)]]                                                                     | October 17, 2024   | December 05, 2024  |
+| [[Games/Kingdom Hearts 3D Dream Drop Distance (2012)\|Kingdom Hearts 3D Dream Drop Distance (2012)]]                           | September 21, 2024 | October 12, 2024   |
+| [[Games/Kingdom Hearts Birth by Sleep (2010)\|Kingdom Hearts Birth by Sleep (2010)]]                                           | August 01, 2024    | August 22, 2024    |
 | [[Games/Kingdom Hearts Chain of Memories (2004)\|Kingdom Hearts Chain of Memories (2004)]]                                     | March 28, 2006     | March 28, 2006     |
-| [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]                                   | \-                 | \-                 |
-| [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]                                                                   | \-                 | \-                 |
-| [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]                                                             | \-                 | \-                 |
+| [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]                                   | June 11, 2023      | August 24, 2023    |
+| [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]                                                                   | December 22, 2022  | February 11, 2023  |
+| [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]                                                             | February 23, 2023  | March 02, 2023     |
 | [[Games/Paradox Games\|Paradox Games]]                                                                                         | \-                 | \-                 |
-| [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]                                                                       | \-                 | \-                 |
-| [[Games/Signalis (2022)\|Signalis (2022)]]                                                                                     | \-                 | \-                 |
-| [[Games/Sims 4 (2014)\|Sims 4 (2014)]]                                                                                         | \-                 | \-                 |
-| [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]                                                           | \-                 | \-                 |
-| [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]                                                   | \-                 | \-                 |
-| [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]                           | \-                 | \-                 |
-| [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]                                               | \-                 | May 31, 2025       |
-| [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]                                                                         | \-                 | \-                 |
+| [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]                                                                       | August 24, 2024    | \-                 |
+| [[Games/Signalis (2022)\|Signalis (2022)]]                                                                                     | July 04, 2023      | July 18, 2023      |
+| [[Games/Sims 4 (2014)\|Sims 4 (2014)]]                                                                                         | November 01, 2021  | March 09, 2023     |
+| [[Games/Sly 2 Band of Thieves (2004)\|Sly 2 Band of Thieves (2004)]]                                                           | February 27, 2025  | March 22, 2025     |
+| [[Games/Sly 3 Honor Among Thieves (2005)\|Sly 3 Honor Among Thieves (2005)]]                                                   | March 29, 2025     | April 12, 2025     |
+| [[Games/Sly Cooper and the Thievius Raccoonus (2002)\|Sly Cooper and the Thievius Raccoonus (2002)]]                           | February 20, 2025  | February 22, 2025  |
+| [[Games/Sly Cooper- Thieves in Time (2013)\|Sly Cooper- Thieves in Time (2013)]]                                               | May 03, 2025       | May 31, 2025       |
+| [[Games/Sniper Elite 5 (2022)\|Sniper Elite 5 (2022)]]                                                                         | December 29, 2022  | February 23, 2023  |
 | [[Games/Star Trucker (2024)\|Star Trucker (2024)]]                                                                             | September 02, 2025 | \-                 |
-| [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]                                                                         | \-                 | \-                 |
+| [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]                                                                         | August 09, 2020    | \-                 |
 | [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]                                                   | June 07, 2025      | June 12, 2025      |
 | [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]                                                       | July 22, 2025      | August 21, 2025    |
 | [[Games/Warframe (2013)\|Warframe (2013)]]                                                                                     | \-                 | \-                 |
