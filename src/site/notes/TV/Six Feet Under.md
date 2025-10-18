@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/six-feet-under/","created":"2025-02-24","updated":"2025-09-26"}
+{"dg-publish":true,"permalink":"/tv/six-feet-under/","created":"2025-02-24","updated":"2025-10-17"}
 ---
 
 
@@ -43,4 +43,8 @@ Nate, I dunno what to say at this point. At one point I called him "a stain" and
 
 ## Season 5
 
-()
+Noticeable increase in quality compared to the previous season. This show is kind and giving. There is a presence of justice that can be felt, particularly in season 5. When people do or say things beyond the pale, there is always always their just deserts on the horizon.
+
+I feel Six Feet Under is exactly what was needed after previous unnamed shows. I wanted character drama and that is what I received. Very rare in this show for plot to happen just because. The writing was never arbitrary. It's always serving a purpose. For a show where we frequently commune with the dead, it also felt pretty realistic to me. The drama is real. People will say real things, sometimes cruel sometimes very kind. But always believable from what we know of them.
+
+Overall, highly recommended. Ending is as good as I heard. They wrap up the show in a very satisfying way. There's no things left unsaid that you wish they had done.

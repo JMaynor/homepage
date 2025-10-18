@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-10-16"}
 ---
 
 
 # Summary
 
-Inspired by streaming the Kingdom Hearts series and the knowledge that (as of the time of this writing) we'll be watching Snow White as part of the [[Blog/2023-11-30 AFI Top 100 List\|AFI Top 100 List]], I've decided I want to rewatch all the Disney movies. From beginning to end. I wanna take a genuine look at the magic. The secret stuff that is oft-remarked upon, but rarely closely interrogated. I feel like people will say that Disney used to be more magical. But was it? Or is it just that we grew up? If it was, when did the magic go away?
+Inspired by streaming the [Kingdom Hearts series](https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk) and the knowledge that (as of the time of this writing) we'll be watching Snow White as part of the [[Blog/2023-11-30 AFI Top 100 List\|AFI Top 100 List]], I've decided I want to rewatch all the Disney movies. From beginning to end. I wanna take a genuine look at the magic. The secret stuff that is oft-remarked upon, but rarely closely interrogated. I feel like people will say that Disney used to be more magical. But was it? Or is it just that we grew up? If it was, when did the magic go away?
 
-Will be returning to this over time.
+Will be returning to this over a period of time.
 
 # List
 
@@ -18,7 +18,7 @@ Will be returning to this over time.
 | 1940 | Fantasia                               | [[Movies/Fantasia (1940)#Review\|Fantasia (1940)#Review]]                        |
 | 1941 | Dumbo                                  | [[Movies/Dumbo (1941)#Review\|Dumbo (1941)#Review]]                           |
 | 1942 | Bambi                                  | [[Movies/Bambi (1942)#Review\|Bambi (1942)#Review]]                           |
-| 1943 | Saludos Amigos                         |                                                   |
+| 1943 | Saludos Amigos                         | [[Movies/Saludos Amigos (1942)#Review\|Saludos Amigos (1942)#Review]]                  |
 | 1945 | The Three Caballeros                   |                                                   |
 | 1946 | Make Mine Music                        |                                                   |
 | 1947 | Fun and Fancy Free                     |                                                   |
