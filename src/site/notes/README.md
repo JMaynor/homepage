@@ -42,7 +42,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 | [[Games/Amnesia A Machine for Pigs (2013)\|Amnesia A Machine for Pigs (2013)]]                             | April 11, 2023     | March 16, 2023     |
 | [[Games/Amnesia Rebirth (2020)\|Amnesia Rebirth (2020)]]                                                   | September 13, 2021 | December 13, 2021  |
 | [[Games/Amnesia The Bunker (2023)\|Amnesia The Bunker (2023)]]                                             | June 23, 2023      | July 01, 2023      |
-| [[Games/Amnesia the Dark Descent (2010)\|Amnesia the Dark Descent (2010)]]                                 | August 05, 2025    | \-                 |
+| [[Games/Amnesia the Dark Descent (2010)\|Amnesia the Dark Descent (2010)]]                                 | August 05, 2025    | October 27, 2025   |
 | [[Games/Call of Duty (2003)\|Call of Duty (2003)]]                                                         | January 27, 2023   | February 25, 2023  |
 | [[Games/Call of Duty 2 (2005)\|Call of Duty 2 (2005)]]                                                     | March 18, 2023     | April 02, 2023     |
 | [[Games/Call of Duty Black Ops (2010)\|Call of Duty Black Ops (2010)]]                                     | September 24, 2023 | November 19, 2023  |
@@ -50,7 +50,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 | [[Games/Call of the Sea (2020)\|Call of the Sea (2020)]]                                                   | February 14, 2021  | February 28, 2021  |
 | [[Games/Control (2019)\|Control (2019)]]                                                                   | October 01, 2022   | December 19, 2022  |
 | [[Games/Disco Elysium (2019)\|Disco Elysium (2019)]]                                                       | April 05, 2023     | June 19, 2023      |
-| [[Games/DOOM (2016)\|DOOM (2016)]]                                                                         | \-                 | \-                 |
+| [[Games/DOOM (2016)\|DOOM (2016)]]                                                                         | October 11, 2025   | \-                 |
 | [[Games/Fallout 4 (2015)\|Fallout 4 (2015)]]                                                               | April 20, 2024     | May 25, 2025       |
 | [[Games/Hypnospace Outlaw (2019)\|Hypnospace Outlaw (2019)]]                                               | December 28, 2023  | February 10, 2024  |
 | [[Games/Kentucky Route Zero (2020)\|Kentucky Route Zero (2020)]]                                           | April 03, 2022     | April 16, 2022     |
