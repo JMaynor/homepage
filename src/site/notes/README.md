@@ -85,7 +85,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 | [[Games/The Rise of the Golden Idol (2024)\|The Rise of the Golden Idol (2024)]]                           | November 17, 2024  | December 29, 2024  |
 | [[Games/The Witness (2016)\|The Witness (2016)]]                                                           | April 27, 2021     | July 09, 2021      |
 | [[Games/Tormented Souls (2021)\|Tormented Souls (2021)]]                                                   | November 12, 2023  | January 08, 2024   |
-| [[Games/Total War- Rome (2004)\|Total War- Rome (2004)]]                                                   | \-                 | \-                 |
+| [[Games/Total War- Rome (2004)\|Total War- Rome (2004)]]                                                   | November 03, 2025  | \-                 |
 | [[Games/Visage (2020)\|Visage (2020)]]                                                                     | July 07, 2021      | July 25, 2021      |
 
 { .block-language-dataview}
