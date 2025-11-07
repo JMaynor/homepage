@@ -135,6 +135,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 | [[Games/Star Trucker (2024)\|Star Trucker (2024)]]                                                                             | September 02, 2025 | \-                 |
 | [[Games/Stardew Valley (2016)\|Stardew Valley (2016)]]                                                                         | August 09, 2020    | \-                 |
 | [[Games/The Procession to Calvary (2020)\|The Procession to Calvary (2020)]]                                                   | June 07, 2025      | June 12, 2025      |
+| [[Games/The Red Strings Club (2018)\|The Red Strings Club (2018)]]                                                             | November 06, 2025  | November 06, 2025  |
 | [[Games/Tony Hawk's Underground (2003)\|Tony Hawk's Underground (2003)]]                                                       | July 22, 2025      | August 21, 2025    |
 | [[Games/Warframe (2013)\|Warframe (2013)]]                                                                                     | \-                 | \-                 |
 | [[Games/We Were Here (2017)\|We Were Here (2017)]]                                                                             | \-                 | \-                 |
