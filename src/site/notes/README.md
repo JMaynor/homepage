@@ -51,6 +51,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 | [[Games/Control (2019)\|Control (2019)]]                                                                   | October 01, 2022   | December 19, 2022  |
 | [[Games/Disco Elysium (2019)\|Disco Elysium (2019)]]                                                       | April 05, 2023     | June 19, 2023      |
 | [[Games/DOOM (2016)\|DOOM (2016)]]                                                                         | October 11, 2025   | November 16, 2025  |
+| [[Games/Doom Eternal (2020)\|Doom Eternal (2020)]]                                                         | \-                 | \-                 |
 | [[Games/Fallout 4 (2015)\|Fallout 4 (2015)]]                                                               | April 20, 2024     | May 25, 2025       |
 | [[Games/Hypnospace Outlaw (2019)\|Hypnospace Outlaw (2019)]]                                               | December 28, 2023  | February 10, 2024  |
 | [[Games/Kentucky Route Zero (2020)\|Kentucky Route Zero (2020)]]                                           | April 03, 2022     | April 16, 2022     |
