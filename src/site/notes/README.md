@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-10-01"}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-12-17"}
 ---
 
 
@@ -117,8 +117,8 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 | [[Games/Four Last Things (2017)\|Four Last Things (2017)]]                                                                     | June 07, 2025      | June 07, 2025      |
 | [[Games/Helldivers (2015)\|Helldivers (2015)]]                                                                                 | March 31, 2019     | April 02, 2019     |
 | [[Games/If On a Winter's Night, Four Travelers (2021)\|If On a Winter's Night, Four Travelers (2021)]]                         | December 21, 2023  | December 21, 2023  |
-| [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]                               | \-                 | \-                 |
-| [[Games/Jak II (2003)\|Jak II (2003)]]                                                                                         | \-                 | \-                 |
+| [[Games/Jak and Daxter The Precursor Legacy (2001)\|Jak and Daxter The Precursor Legacy (2001)]]                               | January 01, 2003   | January 01, 2003   |
+| [[Games/Jak II (2003)\|Jak II (2003)]]                                                                                         | January 01, 2003   | \-                 |
 | [[Games/Kingdom Hearts (2002)\|Kingdom Hearts (2002)]]                                                                         | January 01, 2005   | January 01, 2005   |
 | [[Games/Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage\|Kingdom Hearts 0.2 Birth by Sleep – A Fragmentary Passage]] | October 17, 2024   | October 17, 2024   |
 | [[Games/Kingdom Hearts 2 (2005)\|Kingdom Hearts 2 (2005)]]                                                                     | March 28, 2006     | March 28, 2006     |
@@ -129,6 +129,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 | [[Games/Lego Star Wars The Skywalker Saga (2022)\|Lego Star Wars The Skywalker Saga (2022)]]                                   | June 11, 2023      | August 24, 2023    |
 | [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]                                                                   | December 22, 2022  | February 11, 2023  |
 | [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]                                                             | February 23, 2023  | March 02, 2023     |
+| [[Games/Okami (2006)\|Okami (2006)]]                                                                                           | January 01, 2009   | January 01, 2009   |
 | [[Games/Paradox Games\|Paradox Games]]                                                                                         | \-                 | \-                 |
 | [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]                                                                       | August 24, 2024    | \-                 |
 | [[Games/Signalis (2022)\|Signalis (2022)]]                                                                                     | July 04, 2023      | July 18, 2023      |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/jak-ii-2003/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/jak-ii-2003/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-17"}
 ---
 
 
