@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-10-16"}
+{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-12-15"}
 ---
 
 
@@ -19,7 +19,7 @@ Will be returning to this over a period of time.
 | 1941 | Dumbo                                  | [[Movies/Dumbo (1941)#Review\|Dumbo (1941)#Review]]                           |
 | 1942 | Bambi                                  | [[Movies/Bambi (1942)#Review\|Bambi (1942)#Review]]                           |
 | 1943 | Saludos Amigos                         | [[Movies/Saludos Amigos (1942)#Review\|Saludos Amigos (1942)#Review]]                  |
-| 1945 | The Three Caballeros                   |                                                   |
+| 1945 | The Three Caballeros                   | [[Movies/The Three Caballeros (1945)#Review\|The Three Caballeros (1945)#Review]]            |
 | 1946 | Make Mine Music                        |                                                   |
 | 1947 | Fun and Fancy Free                     |                                                   |
 | 1948 | Melody Time                            |                                                   |
