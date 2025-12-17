@@ -101,9 +101,14 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 | [[Games/American Truck Simulator (2016)\|American Truck Simulator (2016)]]                                                     | \-                 | \-                 |
 | [[Games/Baldur's Gate 3 (2023)\|Baldur's Gate 3 (2023)]]                                                                       | June 03, 2025      | \-                 |
 | [[Games/Barotrauma (2023)\|Barotrauma (2023)]]                                                                                 | January 22, 2022   | April 30, 2022     |
+| [[Games/Bloodborne (2015)\|Bloodborne (2015)]]                                                                                 | March 24, 2015     | March 24, 2015     |
 | [[Games/Book of Hours (2023)\|Book of Hours (2023)]]                                                                           | September 05, 2024 | September 12, 2024 |
 | [[Games/Class of '09 (2021)\|Class of '09 (2021)]]                                                                             | January 02, 2025   | January 02, 2025   |
+| [[Games/Class of '09- The Re-Up (2023)\|Class of '09- The Re-Up (2023)]]                                                       | December 16, 2025  | December 16, 2025  |
 | [[Games/Cuphead (2017)\|Cuphead (2017)]]                                                                                       | September 09, 2023 | December 09, 2023  |
+| [[Games/Dark Souls (2011)\|Dark Souls (2011)]]                                                                                 | January 01, 2014   | January 01, 2014   |
+| [[Games/Dark Souls II (2014)\|Dark Souls II (2014)]]                                                                           | March 11, 2014     | March 11, 2014     |
+| [[Games/Dark Souls III (2016)\|Dark Souls III (2016)]]                                                                         | April 12, 2016     | April 12, 2016     |
 | [[Games/Death of the Reprobate (2024)\|Death of the Reprobate (2024)]]                                                         | June 12, 2025      | July 15, 2025      |
 | [[Games/Diner Bros (2018)\|Diner Bros (2018)]]                                                                                 | December 07, 2021  | \-                 |
 | [[Games/Earth Defense Force 5 (2017)\|Earth Defense Force 5 (2017)]]                                                           | April 27, 2019     | \-                 |
