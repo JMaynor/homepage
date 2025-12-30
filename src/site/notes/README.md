@@ -83,6 +83,7 @@ A big thing I do in my free time is make let's plays. Below is a list of games t
 | [[Games/System Shock (1994)\|System Shock (1994)]]                                                         | May 26, 2025       | October 08, 2025   |
 | [[Games/System Shock 2 (1999)\|System Shock 2 (1999)]]                                                     | \-                 | \-                 |
 | [[Games/The Case of the Golden Idol (2022)\|The Case of the Golden Idol (2022)]]                           | March 03, 2024     | April 06, 2024     |
+| [[Games/The Complex- Found Footage\|The Complex- Found Footage]]                                           | December 16, 2022  | December 16, 2022  |
 | [[Games/The Final Station (2016)\|The Final Station (2016)]]                                               | September 17, 2023 | October 02, 2023   |
 | [[Games/The Pale Beyond (2023)\|The Pale Beyond (2023)]]                                                   | March 28, 2024     | April 27, 2024     |
 | [[Games/The Rise of the Golden Idol (2024)\|The Rise of the Golden Idol (2024)]]                           | November 17, 2024  | December 29, 2024  |
