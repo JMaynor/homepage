@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/doom-eternal-2020/","tags":["games","LP"],"created":"2025-11-30","updated":"2025-11-30"}
+{"dg-publish":true,"permalink":"/games/doom-eternal-2020/","tags":["games","LP"],"created":"2025-11-30","updated":"2026-01-05"}
 ---
 
 
@@ -13,6 +13,18 @@ This one went way up my list of things to play after having played 2016's Doom a
 
 # Review
 
-Will review once completed.
+Doom Eternal is good, I think there's just a bit to much of it. We inevitably must compare ourselves to [[Games/DOOM (2016)\|DOOM (2016)]]. And the problem there is that Doom 2016 is exceedingly svelte. It's fun. The core gameplay loop becomes clear very quickly and the joy of the game is simply iterating on it over and over as we throw various groups of demons at you. Doom Eternal is the sequel. Naturally, things are bigger and badder. You've got more tools in your belt and your enemies all have their own little gameplay hooks. They complement each other more. You've got some that are purely playing defense. You tend to also have much larger battles. They do give you all the tools you need to deal with said issues. The problem is that it's just a bit too much.
+
+When I first started playing the game, I went with hard mode. This was wrong. The game is more fun on the normal difficulty. The issue is that even then, there were so many times where I found myself with seven demons in my face gnawing on my broken and battered body. There's so much shit going on and you've got so many tools you need to be thinking about. It's...fun. But it's just slightly too much for me. I think 2016 is so much tighter as a whole experience. I suspect the people who are totally on board for Eternal, who say that 2016 is too easy and they can't go back, are the same sort of folks who say the earlier Soulsbornes are too easy and we should only be playing Sekiro and Elden Ring. Just a suspicion.
+
+None of the additional gameplay elements are in themselves bad to me. It just requires me to pay that much more attention all the time. These new Doom games are not ones where you can turn off your brain and do lines. And it gets a little exhausting. It's a wonderfully crafted game. Making it so that you're not given nearly as many resources in the arenas themselves but have to take them with your own hands from the demons (using your various implements) is all well put-together. I just don't enter quite the same stage of euphoria that I did in 2016.
+
+I do greatly enjoy how video-gamey everything is. It was one of my biggest praises of the previous game. It knew that it was a video game and it flaunted it. We've only increased that sense of artificiality to everything. The silly traps everywhere. The additional parkouring going on. But it's a good sense of artificiality where it's made clear that this world is one made to Doomguy's liking. It is his playground and zoo. To be enjoyed like an evening stroll. And Doomguy himself is a lovable sort. I move that we have him added to the list of platonic solids. The elemental shapes that make up our universe. He is as iconic and as I said, elemental, as the triangle, the square, and so on.
+
+I don't know why we continue having this silly story shit. There was more of it in this one and every time I looked at it when it was on my screen and could but sneer. I know we technically have a couple moments where he does the same thing he did in 2016. Pushes past the bureaucracy in-cutscene to make it clear that you and Doomguy are one and you both know that this nonsense is to be ignored. But it feels like there's a bit less of that going on in Eternal. I swear to god, there's some contingent of nerds in id who desperately, with heaving breaths of self-praise, want to smuggle in their silly lore. I feel that in 2016 they were a clear and obvious minority. But it does feel like they're building up an army and intend to march on our capital.
+
+I think Doom Eternal succeeds at everything it intends to do. It is a good and tight experience. I enjoyed it greatly. I think it just demands a bit too much from me. And so if you asked me which I liked better, I would affirmatively say 2016. I will also mention that I ran into no issues tech-wise with 2016. I ran into several with Eternal. Firstly, it has some bug with regards to certain bluetooth headphones. Every time I start the game, it tries to put my headphones into a headset mode. Even though I have fully disabled that mode in my computer's device manager so that it should not be possible to do that. In order to fix this, I have to open up the control panel and toggle one of the stupid little Microsoft enhancements (bass boost for example). Whatever setting it is on, when I switch it the other way, the audio becomes crisp and clear. I don't know why. That is the fix that I found for that issue, however. The second issue is that I frequently run into is with the level loading screens. They often go to a black screen and don't actually load. I have found no fix for this. The fix is to go into the task manager to kill the game and then try again. (Doing the steps to fix the audio every time.) Sucks. Didn't happen with 2016. Just some things that I came to associate with the overall experience of Eternal. It is what it is.
 
 # Links
+
+Playlist: https://www.youtube.com/playlist?list=PLXbBIoFOxaQsFNxVUBWS_Q9Ce1r_RtiIU

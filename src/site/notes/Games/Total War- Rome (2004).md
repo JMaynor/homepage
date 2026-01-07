@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/total-war-rome-2004/","tags":["games","LP"],"created":"2025-05-30","updated":"2025-11-03"}
+{"dg-publish":true,"permalink":"/games/total-war-rome-2004/","tags":["games","LP"],"created":"2025-05-30","updated":"2026-01-05"}
 ---
 
 
@@ -16,3 +16,5 @@ I am so very afraid. Strategy is far from my bread and butter. But I'm covering 
 Will review once completed.
 
 # Links
+
+Playlist: https://www.youtube.com/playlist?list=PLXbBIoFOxaQuJYYSc-cldJZMtK8Xxyi40
