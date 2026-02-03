@@ -133,6 +133,7 @@ A list of games that I've streamed at one point or another on Twitch with TAC. T
 | [[Games/Little Nightmares (2017)\|Little Nightmares (2017)]]                                                                   | December 22, 2022  | February 11, 2023  |
 | [[Games/Little Nightmares II (2021)\|Little Nightmares II (2021)]]                                                             | February 23, 2023  | March 02, 2023     |
 | [[Games/Lost in Vivo (2018)\|Lost in Vivo (2018)]]                                                                             | December 23, 2025  | December 23, 2025  |
+| [[Games/Nightmare Kart (2024)\|Nightmare Kart (2024)]]                                                                         | January 20, 2026   | January 20, 2026   |
 | [[Games/Okami (2006)\|Okami (2006)]]                                                                                           | January 01, 2009   | January 01, 2009   |
 | [[Games/Paradox Games\|Paradox Games]]                                                                                         | \-                 | \-                 |
 | [[Games/Project Zomboid (2013)\|Project Zomboid (2013)]]                                                                       | August 24, 2024    | \-                 |
