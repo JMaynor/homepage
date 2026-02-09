@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2025-09-05"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2026-02-03"}
 ---
 
 
@@ -25,7 +25,6 @@ Here's a list of people I follow, blogs I regularly read, and a couple magazine 
 | Nautilus Science Magazine                             | https://nautil.us/                                   | https://nautil.us/feed/                                       |
 | Orteil (Tumblr)                                       | https://orteil42.tumblr.com/                         | https://orteil42.tumblr.com/rss                               |
 | Patrick Witty - Field of View (Substack)              | https://patrickwitty.substack.com/                   | https://patrickwitty.substack.com/feed                        |
-| Seth Abramson - PROOF (Substack)                      | https://sethabramson.substack.com/                   | https://sethabramson.substack.com/feed                        |
 | Taco Bell Quarterly                                   | https://tacobellquarterly.org/                       | https://tacobellquarterly.org/feed/                           |
 | The Map Room                                          | https://www.maproomblog.com/                         | https://www.maproomblog.com/feed/                             |
 | The Marginalian                                       | https://www.themarginalian.org/                      | https://feeds.feedburner.com/brainpickings/rss                |

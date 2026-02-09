@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/doom-eternal-2020/","tags":["games","LP"],"created":"2025-11-30","updated":"2026-01-27"}
+{"dg-publish":true,"permalink":"/games/doom-eternal-2020/","tags":["games","LP"],"created":"2025-11-30","updated":"2026-02-06"}
 ---
 
 
