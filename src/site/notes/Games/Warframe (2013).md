@@ -1,9 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games","streamed"],"created":"2024-01-04","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games","streamed"],"created":"2024-01-04","updated":"2026-02-11"}
 ---
 
 
 Playlist of stuff https://www.youtube.com/watch?v=RqlicgmjFUE&list=PLPwV3HidsVXgGun0ZuKgltY0syG8QVThQ&index=1
+
+# Notes
+
+Warframes to Get
+
+| Normal/Prime | Warframe   |
+| ------------ | ---------- |
+| Prime        | Atlas      |
+| Prime        | Baruuk     |
+| Prime        | Caliban    |
+| Prime        | Chroma     |
+| Prime        | Gara       |
+| Prime        | Garuda     |
+| Prime        | **Gyre**   |
+| Prime        | Limbo      |
+| Prime        | **Nidus**  |
+| Prime        | Octavia    |
+| Prime        | Rhino      |
+| Prime        | Titania    |
+| Prime        | Wukong     |
+| Prime        | Zephyr     |
+| Normal       | Baruuk     |
+| Normal       | Gauss      |
+| Normal       | Grendel    |
+| Normal       | Hildryn    |
+| Normal       | **Koumei** |
+| Normal       | **Nokko**  |
+| Normal       | Protea     |
+| Normal       | Sevagoth   |
+| Normal       | **Temple** |
+| Normal       | **Uriel**  |
 
 # Review
 
@@ -20,7 +51,7 @@ My first big problem with it is that, despite being far and away the longest que
 
 ### Drifting On By
 
-The 4th section being the biggest section of the quest, where you're playing as drifter. So let's talk about ol' drifty boy. What exactly is their purpose? I mean narratively. Warframe's not new to some weirdo concepts. But if you're going to get into parallel universes/selves, the typical and primary use case for that is a way of playing with regret and what-ifs. What if I went to medical school and got my doctorate? Well, let's see by introducing Dr. Protagonist from a couple universe over. Parallel universes are a very heavy-handed way of demonstrating a character's regrets and what they wish they would have done differently. I don't mean to sound dismissive to the concept entirely.  *Everything, Everywhere, All At Once* is one of my favorite movies from the last few years and that's it's central concept. But I just say all that because that's just what their purpose is narratively. That is what they're for. They're a tool and not a subtle one.
+The 4th section being the biggest section of the quest, where you're playing as drifter. So let's talk about ol' drifty boy. What exactly is their purpose? I mean narratively. Warframe's not new to some weirdo concepts. But if you're going to get into parallel universes/selves, the typical and primary use case for that is a way of playing with regret and what-ifs. What if I went to medical school and got my doctorate? Well, let's see by introducing Dr. Protagonist from a couple universes over. Parallel universes are a very heavy-handed way of demonstrating a character's regrets and what they wish they would have done differently. I don't mean to sound dismissive to the concept entirely. *Everything, Everywhere, All At Once* is one of my favorite movies from the last few years and that's its central concept. But I just say all that because that's just what their purpose is narratively. That is what they're for. They're a tool and not a subtle one.
 
 So how do Drifter and Operator differ? Well Drifter is older. That's really about it. In New War, we learn that the Operator made a deal with the Man in the Wall, got the void powers going, became a Tenno and so on. Drifter however stayed stuck in the Void and eventually created/became trapped in Duviri. But like what is the actual difference between the two? What can you do with Drifter narratively that you couldn't have done with the Operator character? What does opening up this wormhole do for you?
 
@@ -28,7 +59,7 @@ Originally it seems Drifter is more of a down-to-Earth fella. Can't do the void 
 
 ### No Friends
 
-My 2nd big thing is that glaring plothole that I feel repeatedly comes up in the game. It's not an issue that is unique to New War, nor to Warframe, but is endemic to nearly all MMOs. Why does the Origin system fall to Ballas/Sentients when our Operator gets got? Where are the other Tenno during that gap in time? Why did they all decide to stop doing anything and immediately let the sentients in?  There canonically is at least more than one. The concept of there being plural Tenno comes up way too often to suggest there is actually only one and that the MMO aspect is just a gameplay conceit and should be hand-waved away when we talk about story. So what were they doing when my Tenno was incapacitated? Seemingly nothing given they never get a mention in the quest at all. Moreover, how many Tenno are there? I'd be willing to say there's only 4 (max squad size), but even if I granted that, I still question where those other 3 bozos were.
+My 2nd big thing is that glaring plothole that I feel repeatedly comes up in the game. It's not an issue that is unique to New War, nor to Warframe, but is endemic to nearly all MMOs. Why does the Origin system fall to Ballas/Sentients when our Operator gets got? Where are the other Tenno during that gap in time? Why did they all decide to stop doing anything and immediately let the sentients in? There canonically is at least more than one. The concept of there being plural Tenno comes up way too often to suggest there is actually only one and that the MMO aspect is just a gameplay conceit and should be hand-waved away when we talk about story. So what were they doing when my Tenno was incapacitated? Seemingly nothing given they never get a mention in the quest at all. Moreover, how many Tenno are there? I'd be willing to say there's only 4 (max squad size), but even if I granted that, I still question where those other 3 bozos were.
 
 ### Everything in Order, Ordis?
 
