@@ -5,7 +5,7 @@
 
 # Review
 
-I regret to inform everyone that Baby Steps is a great game. And I really enjoy it. Haven't finished it (I'm like maybe 60-70% through), but I know enough to have an informed opinion.
+I regret to inform everyone that Baby Steps is a great game. And I really enjoy it.
 
 For those unfamiliar with what arena we are in, this game was made by Gabe Cuzillo, Maxi Boch, and Bennett Foddy. I was unfamiliar with the first two, but I'm quite familiar with the devastation Foddy leaves in his wake. (of Getting Over It with Bennett Foddy fame). Much of the lens I see the game through is with that work in mind. The first thing to understand is that Baby Steps is not remotely as hateful as Getting Over It. This walking simulator gives you many opportunities for heartbreaking progress loss. But the structure of the game means that you're not in a situation where you can tumble back to the beginning of the game. The game is actually rather heartfelt. It wants you to succeed. There is genuine emotion here. Which might not be immediately evident upon first playing it.
 
