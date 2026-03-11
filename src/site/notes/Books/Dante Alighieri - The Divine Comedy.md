@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/dante-alighieri-the-divine-comedy/","tags":["books"],"created":"2025-04-27","updated":"2026-03-05"}
+{"dg-publish":true,"permalink":"/books/dante-alighieri-the-divine-comedy/","tags":["books"],"created":"2025-04-27","updated":"2026-03-06"}
 ---
 
 
@@ -13,7 +13,11 @@ But anyway, I did read Inferno and then subsequently dropped it, not bothering w
 
 ## Purgatorio
 
-To be read
+Something interesting about Purgatorio in relation to Inferno (or at least my recollection of Inferno) is that the physical layout of things is a lot less clear. I've noticed we tend to be a lot more metaphorical and floating. Not a bad thing per se, just something I've noticed. Has made things a little confusing sometimes. I find myself having to stop and think "Wait, where are we and who is speaking?" I would imagine if this is an actual change in the prose from Inferno to Purgatorio, it'll probably only increase in Paradiso.
+
+Overall, it's fine. Not as interesting as Inferno, but the actual poetry of the thing is good. I enjoy catching far more references to the various classical epics having now actually read them. It's nice to be more cultured!
+
+Horribly low-brow aside. I was always disappointed that they never made another one of those Dante God of War clone games. I did not myself even play it and I know that it wasn't like...good. But I thought it was sort of an interesting idea doing Christian theology stuff as a backdrop for a video game as opposed to the Greek, Norse, etc stuff we always see. I can imagine doing Purgatorio and Paradiso is rather a lot more difficult than Inferno. But just something I occasionally think of.
 
 ## Paradiso
 
