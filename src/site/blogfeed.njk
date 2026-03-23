@@ -12,7 +12,7 @@
   <link href="{{ meta.siteBaseUrl }}"/>
   <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ meta.siteBaseUrl }}</id>
-  {%- for note in collections.note | reverse -%}
+  {%- for note in collections.blog | reverse -%}
   {%- if note.url != "/" -%}
   <entry>
     <title>{%- if note.title -%}{{ note.title }}{%- else -%}{{ note.fileSlug }}{%- endif -%}</title>
