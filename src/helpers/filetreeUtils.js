@@ -1,3 +1,35 @@
+// Natural sort comparison - handles numbers anywhere in the string
+const naturalCompare = (a, b) => {
+  const aLower = a.toLowerCase();
+  const bLower = b.toLowerCase();
+
+  // Split into chunks of text and numbers
+  const aChunks = aLower.match(/(\d+|\D+)/g) || [];
+  const bChunks = bLower.match(/(\d+|\D+)/g) || [];
+
+  const maxLen = Math.max(aChunks.length, bChunks.length);
+
+  for (let i = 0; i < maxLen; i++) {
+    const aChunk = aChunks[i] || '';
+    const bChunk = bChunks[i] || '';
+
+    const aIsNum = /^\d+$/.test(aChunk);
+    const bIsNum = /^\d+$/.test(bChunk);
+
+    if (aIsNum && bIsNum) {
+      // Compare as numbers
+      const diff = parseInt(aChunk, 10) - parseInt(bChunk, 10);
+      if (diff !== 0) return diff;
+    } else {
+      // Compare as strings
+      if (aChunk < bChunk) return -1;
+      if (aChunk > bChunk) return 1;
+    }
+  }
+
+  return 0;
+};
+
 const sortTree = (unsorted) => {
   //Sort by folder before file, then by name
   const orderedTree = Object.keys(unsorted)
@@ -24,22 +56,7 @@ const sortTree = (unsorted) => {
         return -1;
       }
 
-      //Regular expression that extracts any initial decimal number
-      const aNum = parseFloat(a.match(/^\d+(\.\d+)?/));
-      const bNum = parseFloat(b.match(/^\d+(\.\d+)?/));
-
-      const a_is_num = !isNaN(aNum);
-      const b_is_num = !isNaN(bNum);
-
-      if (a_is_num && b_is_num && aNum != bNum) {
-        return aNum - bNum; //Fast comparison between numbers
-      }
-
-      if (a.toLowerCase() > b.toLowerCase()) {
-        return 1;
-      }
-
-      return -1;
+      return naturalCompare(a, b);
     })
     .reduce((obj, key) => {
       obj[key] = unsorted[key];
@@ -70,7 +87,7 @@ function getPermalinkMeta(note, key) {
     }
     if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
       permalink = "/";
-    }
+    }    
     if (note.data.title) {
       name = note.data.title;
     }
@@ -88,11 +105,15 @@ function getPermalinkMeta(note, key) {
     if (note.data["dg-path"]) {
       folders = note.data["dg-path"].split("/");
     } else {
-      folders = note.filePathStem
-        .split("notes/")[1]
-        .split("/");
+      // Ensure we extract everything after the LAST "notes/" occurrence
+      const parts = note.filePathStem.split("/notes/");
+      if (parts.length > 1) {
+        folders = parts.slice(-1)[0].split("/"); // Take the last part after "notes/"
+      } else {
+        folders = []; // Handle unexpected cases gracefully
+      }
     }
-    folders[folders.length - 1] += ".md";
+    folders[folders.length - 1]+= ".md";
   } catch {
     //ignore
   }
@@ -101,9 +122,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  let lastKeyIndex = keyPath.length - 1;
+  lastKeyIndex = keyPath.length - 1;
   for (var i = 0; i < lastKeyIndex; ++i) {
-    let key = keyPath[i];
+    key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
@@ -122,5 +143,4 @@ function getFileTree(data) {
   return fileTree;
 }
 
-const _getFileTree = getFileTree;
-export { _getFileTree as getFileTree };
+exports.getFileTree = getFileTree;

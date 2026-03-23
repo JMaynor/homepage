@@ -9,9 +9,8 @@
     {% for imp in dynamics.index.head %}
       {% include imp %}
     {% endfor %}
-
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
@@ -21,7 +20,7 @@
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-    <main class="content cm-s-obsidian {{contentClasses}}">
+    <main class="content cm-s-obsidian print {{contentClasses}}">
       <header>
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
@@ -76,5 +75,6 @@
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+    {%include "components/basesScript.njk"%}
     </body>
   </html>
