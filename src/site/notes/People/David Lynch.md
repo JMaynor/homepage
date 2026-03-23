@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/david-lynch/","tags":["character"],"created":"2023-03-27","updated":"2025-06-22","dg-note-properties":{"aliases":[],"date created":"2023-03-27","date modified":"2025-06-22","tags":["character"]}}
+{"dg-publish":true,"permalink":"/people/david-lynch/","tags":["character"],"created":"2023-03-27","updated":"2025-03-13"}
 ---
 
 
@@ -9,46 +9,21 @@ Article breaking down David Lynch commercial for Dior Lady Blue Shanghai. https:
 
 # Filmography
 
-```base
-filters:
-  and:
-    - file.folder == "Movies"
-    - director.contains(link(this.file.name))
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - aliases
-      - date finished
-    sort:
-      - column: note.aliases
-        direction: ASC
-```
+| File                                                           | file.aliases                       |
+| -------------------------------------------------------------- | ---------------------------------- |
+| [[Movies/Blue Velvet (1986)\|Blue Velvet (1986)]]           | <ul><li>Blue Velvet</li></ul>      |
+| [[Movies/Inland Empire (2006)\|Inland Empire (2006)]]       | <ul><li>Inland Empire</li></ul>    |
+| [[Movies/Mulholland Drive (2001)\|Mulholland Drive (2001)]] | <ul><li>Mulholland Drive</li></ul> |
+
+{ .block-language-dataview}
 
 # Bibliography
 
-```base
-filters:
-  and:
-    - file.folder == "Books"
-    - author == link(this.file.name)
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - series
-      - index
-      - aliases
-      - date started
-      - date finished
-    sort:
-      - column: note.series
-        direction: ASC
-      - column: note.index
-        direction: ASC
-```
+| File                                                                                  | series | index | file.aliases                            | read |
+| ------------------------------------------------------------------------------------- | ------ | ----- | --------------------------------------- | ---- |
+| [[Books/David Lynch - Catching the Big Fish\|David Lynch - Catching the Big Fish]] | \-     | \-    | <ul><li>Catching the Big Fish</li></ul> | true |
+
+{ .block-language-dataview}
 
 # Quotes
 
