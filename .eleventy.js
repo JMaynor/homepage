@@ -740,6 +740,11 @@ module.exports = function(eleventyConfig) {
     },
   });
 
+  // New collection for blog posts
+  eleventyConfig.addCollection("blog", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("src/site/notes/Blog/**/*.md");
+  });
+
   userEleventySetup(eleventyConfig);
 
   return {
