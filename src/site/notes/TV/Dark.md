@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/dark/","created":"2024-04-18","updated":"2024-04-19"}
+{"dg-publish":true,"permalink":"/tv/dark/","created":"2024-04-18","updated":"2024-04-19","dg-note-properties":{"aliases":null,"date created":"2024-04-18","date modified":"2024-04-19","tags":null}}
 ---
 
 

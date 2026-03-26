@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/hannibal/","created":"2023-12-22","updated":"2026-02-20"}
+{"dg-publish":true,"permalink":"/tv/hannibal/","created":"2023-12-22","updated":"2026-02-20","dg-note-properties":{"aliases":[],"date created":"2023-12-22","date modified":"2026-02-20","tags":[]}}
 ---
 
 

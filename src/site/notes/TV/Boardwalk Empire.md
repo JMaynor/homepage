@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/boardwalk-empire/","created":"2025-02-24","updated":"2025-06-14"}
+{"dg-publish":true,"permalink":"/tv/boardwalk-empire/","created":"2025-02-24","updated":"2025-06-14","dg-note-properties":{"aliases":[],"date created":"2025-02-24","date modified":"2025-06-14","tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/from/","created":"2025-11-17","updated":"2025-12-22"}
+{"dg-publish":true,"permalink":"/tv/from/","created":"2025-11-17","updated":"2025-12-22","dg-note-properties":{"aliases":[],"date created":"2025-11-17","date modified":"2025-12-22","tags":[]}}
 ---
 
 

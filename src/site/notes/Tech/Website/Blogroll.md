@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2026-02-03"}
+{"dg-publish":true,"permalink":"/tech/website/blogroll/","created":"2024-08-15","updated":"2026-03-26","dg-note-properties":{"aliases":[],"date created":"2024-08-15","date modified":"2026-03-26","tags":[]}}
 ---
 
 
@@ -41,17 +41,17 @@ Podcasts I either listen to now or have regularly listened to in the past.
 | -------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
 | 99% Invisible                          | https://99percentinvisible.org/                 | https://feeds.99percentinvisible.org/99percentinvisible |
 | Abject Suffering                       | https://abjectsuffering.com/                    | https://www.abjectsuffering.com/rss                     |
-| Adaptation Decay                       | https://duckfeed.tv/adaptationdecay             | Patreon Podcast                                         |
+| Adaptation Decay                       |                                                 | Patreon Podcast                                         |
 | Alice Isn't Dead                       | https://www.nightvalepresents.com/aliceisntdead | http://feeds.nightvalepresents.com/aliceisntdeadpodcast |
 | Astonishing Legends                    | https://astonishinglegends.com/                 | https://audioboom.com/channels/4322549.rss              |
-| Best Quality Vaccuum                   | https://www.bestqualityvacuum.net/              |                                                         |
-| Bonfireside Chat                       | https://bonfireside.chat/                       | https://www.bonfireside.chat/rss                        |
+| Best Quality Vaccuum                   |                                                 |                                                         |
+| Bonfireside Chat                       |                                                 | https://www.bonfireside.chat/rss                        |
 | Boston's Favorite Son                  |                                                 |                                                         |
 | Cortex                                 |                                                 |                                                         |
 | Dan Carlin's Hardcore History          |                                                 |                                                         |
 | Desert Skies                           |                                                 |                                                         |
 | Dialog Choices Podcast                 |                                                 |                                                         |
-| Everything to Guppy                    |                                                 |                                                         |
+| Everything to Guppy                    | https://www.patreon.com/collection/1715683      |                                                         |
 | Fistshark Marketing                    |                                                 |                                                         |
 | Jimquisition                           |                                                 |                                                         |
 | Lore                                   |                                                 |                                                         |
@@ -59,7 +59,7 @@ Podcasts I either listen to now or have regularly listened to in the past.
 | NYMPHOWARS                             |                                                 |                                                         |
 | Of Horse                               |                                                 |                                                         |
 | Otherworld                             |                                                 |                                                         |
-| Real Lich Hours                        |                                                 |                                                         |
+| Real Lich Hours                        | https://www.patreon.com/collection/1335458      | Patreon podcast                                         |
 | Rude Eats                              |                                                 |                                                         |
 | Search Engine                          |                                                 |                                                         |
 | Serial                                 |                                                 |                                                         |
@@ -69,8 +69,8 @@ Podcasts I either listen to now or have regularly listened to in the past.
 | The Dollop                             |                                                 |                                                         |
 | The Drunk Guys Book Club Podcast       |                                                 |                                                         |
 | The Magnus Archives                    |                                                 |                                                         |
-| Unfilmable                             |                                                 | Patreon Podcast                                         |
-| Watch Out For Fireballs!               |                                                 |                                                         |
+| Unfilmable                             | https://www.patreon.com/collection/1335476      | Patreon Podcast                                         |
+| Watch Out For Fireballs!               | https://www.patreon.com/collection/800722       |                                                         |
 | Welcome to Night Vale                  |                                                 |                                                         |
 | Wolf 359                               |                                                 |                                                         |
 | You're Dead To Me                      |                                                 |                                                         |

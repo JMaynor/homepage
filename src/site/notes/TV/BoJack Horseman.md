@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/bo-jack-horseman/","created":"2024-03-26","updated":"2026-03-18"}
+{"dg-publish":true,"permalink":"/tv/bo-jack-horseman/","created":"2024-03-26","updated":"2026-03-18","dg-note-properties":{"aliases":[],"date created":"2024-03-26","date finished":"2020-01-31","date modified":"2026-03-18","tags":[]}}
 ---
 
 

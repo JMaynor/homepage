@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/tech/website/colophon/","created":"2024-08-15","updated":"2025-03-13","dg-note-properties":{"aliases":null,"date created":"2024-08-15","date modified":"2025-03-13","tags":null}}
 ---
 
 

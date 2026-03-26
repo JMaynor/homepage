@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/deadwood/","created":"2025-10-06","updated":"2026-01-12"}
+{"dg-publish":true,"permalink":"/tv/deadwood/","created":"2025-10-06","updated":"2026-01-12","dg-note-properties":{"aliases":[],"date created":"2025-10-06","date modified":"2026-01-12","tags":[]}}
 ---
 
 

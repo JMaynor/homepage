@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/the-good-place/","created":"2024-03-26","updated":"2025-09-30"}
+{"dg-publish":true,"permalink":"/tv/the-good-place/","created":"2024-03-26","updated":"2025-09-30","dg-note-properties":{"aliases":["Good Place"],"date created":"2024-03-26","date modified":"2025-09-30","tags":[]}}
 ---
 
 

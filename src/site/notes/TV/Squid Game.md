@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/squid-game/","created":"2025-07-20","updated":"2025-07-21"}
+{"dg-publish":true,"permalink":"/tv/squid-game/","created":"2025-07-20","updated":"2025-07-21","dg-note-properties":{"aliases":[],"date created":"2025-07-20","date modified":"2025-07-21","tags":[]}}
 ---
 
 

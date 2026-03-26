@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/the-chair-company/","created":"2026-01-07","updated":"2026-01-07"}
+{"dg-publish":true,"permalink":"/tv/the-chair-company/","created":"2026-01-07","updated":"2026-01-07","dg-note-properties":{"aliases":[],"date created":"2026-01-07","date modified":"2026-01-07","tags":[]}}
 ---
 
 

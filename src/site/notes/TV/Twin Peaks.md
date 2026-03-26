@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/twin-peaks/","created":"2024-03-26","updated":"2025-08-21"}
+{"dg-publish":true,"permalink":"/tv/twin-peaks/","created":"2024-03-26","updated":"2025-08-21","dg-note-properties":{"aliases":[],"date created":"2024-03-26","date modified":"2025-08-21","tags":[]}}
 ---
 
 
