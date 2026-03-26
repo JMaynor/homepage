@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2025-12-17","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2025-12-17","tags":["gardenEntry"]}}
 ---
 
 
@@ -15,6 +15,7 @@
 
 | Post                                                                                                                                 | Summary                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Blog/2026-03-26 Let the lore die. Kill it, if you have to.\|2026-03-26 Let the lore die. Kill it, if you have to.]]             | Rant about lore and media literacy                                                                                                             |
 | [[Blog/2025-12-22 YouTube Retrospective Year 5\|2025-12-22 YouTube Retrospective Year 5]]                                         | Thoughts on games I've played this year and my general plans for next year.                                                                    |
 | [[Blog/2025-12-18 A Game That Is A Game\|2025-12-18 A Game That Is A Game]]                                                       | A useful phrase I've been using recently to descrbe a subset of games, and why I think it's important.                                         |
 | [[Blog/2025-06-13 Bless You\|2025-06-13 Bless You]]                                                                               | Extremely important rant with widespread implications. The power that this has, the intelligence that this has, the clearance that this has... |
