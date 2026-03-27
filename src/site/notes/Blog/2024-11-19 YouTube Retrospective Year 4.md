@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-11-19-you-tube-retrospective-year-4/","tags":["blog"],"created":"2023-12-22","updated":"2025-12-22"}
+{"dg-publish":true,"permalink":"/blog/2024-11-19-you-tube-retrospective-year-4/","tags":["blog"],"created":"2023-12-22","updated":"2025-12-22","dg-note-properties":{"aliases":[],"date created":"2023-12-22","date modified":"2025-12-22","summary":"Thoughts on games I've played this year and my general plans for next year.","tags":["blog"]}}
 ---
 
 

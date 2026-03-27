@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025-12-18-a-game-that-is-a-game/","tags":["blog"],"created":"2025-12-18","updated":"2025-12-18"}
+{"dg-publish":true,"permalink":"/blog/2025-12-18-a-game-that-is-a-game/","tags":["blog"],"created":"2025-12-18","updated":"2025-12-18","dg-note-properties":{"aliases":[],"date created":"2025-12-18","date modified":"2025-12-18","summary":"A useful phrase I've been using recently to descrbe a subset of games, and why I think it's important.","tags":["blog"]}}
 ---
 
 

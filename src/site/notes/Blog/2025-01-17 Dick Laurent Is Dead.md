@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025-01-17-dick-laurent-is-dead/","tags":["blog"],"created":"2025-01-17","updated":"2025-01-17"}
+{"dg-publish":true,"permalink":"/blog/2025-01-17-dick-laurent-is-dead/","tags":["blog"],"created":"2025-01-17","updated":"2025-01-17","dg-note-properties":{"aliases":null,"date created":"2025-01-17","date modified":"2025-01-17","summary":"Thoughts on the recent news of Lynch's passing.","tags":"blog"}}
 ---
 
 

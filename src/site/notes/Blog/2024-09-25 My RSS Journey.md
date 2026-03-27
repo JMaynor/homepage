@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-09-25-my-rss-journey/","tags":["blog"],"created":"2024-04-12","updated":"2024-10-10"}
+{"dg-publish":true,"permalink":"/blog/2024-09-25-my-rss-journey/","tags":["blog"],"created":"2024-04-12","updated":"2024-10-10","dg-note-properties":{"aliases":null,"date created":"2024-04-12","date modified":"2024-10-10","summary":"My move to using RSS as my front page of the internet, as opposed to certain other websites.","tags":"blog"}}
 ---
 
 

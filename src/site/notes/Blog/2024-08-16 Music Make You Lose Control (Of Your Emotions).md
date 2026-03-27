@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-08-16-music-make-you-lose-control-of-your-emotions/","tags":["blog","music","games"],"created":"2024-08-12","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/blog/2024-08-16-music-make-you-lose-control-of-your-emotions/","tags":["blog","music","games"],"created":"2024-08-12","updated":"2025-03-13","dg-note-properties":{"aliases":null,"date created":"2024-08-12","date modified":"2025-03-13","summary":"Couple examples of some particularly emotionally-heightened songs I thought of from some games I've played.","tags":"blog, music, games"}}
 ---
 
 

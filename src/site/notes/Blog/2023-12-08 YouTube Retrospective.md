@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2023-12-08-you-tube-retrospective/","tags":["blog","games","youtube"],"created":"2023-12-07","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/blog/2023-12-08-you-tube-retrospective/","tags":["blog","games","youtube"],"created":"2023-12-07","updated":"2025-03-13","dg-note-properties":{"aliases":null,"date created":"2023-12-07","date modified":"2025-03-13","summary":"Thoughts on games I've played on my youTube channel and how I think things have gone up till now with it.","tags":"blog, games, youtube"}}
 ---
 
 

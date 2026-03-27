@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2023-08-14-av-p-retrospective/","tags":["blog","movies"],"created":"2023-08-14","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/blog/2023-08-14-av-p-retrospective/","tags":["blog","movies"],"created":"2023-08-14","updated":"2025-03-13","dg-note-properties":{"aliases":"AvP Retrospective","date created":"2023-08-14","date modified":"2025-03-13","summary":"Short review of each of the Alien, Predator, and AvP films inspired by my enjoyment of playing Alien Isolation.","tags":"blog, movies"}}
 ---
 
 

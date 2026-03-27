@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-08-20-i-m-tired-of-being-asked-to-care-about-the-robot/","tags":["blog"],"created":"2024-08-19","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/blog/2024-08-20-i-m-tired-of-being-asked-to-care-about-the-robot/","tags":["blog"],"created":"2024-08-19","updated":"2025-03-13","dg-note-properties":{"aliases":null,"date created":"2024-08-19","date modified":"2025-03-13","summary":"Rant about a frequent plot point/theme in recent media that I think has overstayed its welcome.","tags":"blog"}}
 ---
 
 

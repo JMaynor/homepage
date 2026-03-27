@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-12-15"}
+{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-12-15","dg-note-properties":{"aliases":["Disney Magic Retrospective"],"date created":"2024-05-28","date modified":"2025-12-15","summary":"Review of all the Disney animated films and whether I feel each is magical or not.","tags":["blog","movies"]}}
 ---
 
 

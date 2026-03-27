@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/music/artists/lady-gaga/","created":"2025-01-29","updated":"2025-03-11"}
+{"dg-publish":true,"permalink":"/music/artists/lady-gaga/","created":"2025-01-29","updated":"2025-03-11","dg-note-properties":{"aliases":null,"date created":"2025-01-29","date modified":"2025-03-11","tags":null}}
 ---
 
 
