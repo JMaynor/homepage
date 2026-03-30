@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/donna-tart-the-secret-history/","tags":["books"],"created":"2025-11-21","updated":"2025-12-04"}
+{"dg-publish":true,"permalink":"/books/donna-tart-the-secret-history/","tags":["books"],"created":"2025-11-21","updated":"2025-12-04","dg-note-properties":{"aliases":["The Secret History"],"author":"[[Donna Tartt]]","date created":"2025-11-21","date finished":"2025-12-03","date modified":"2025-12-04","date started":"2025-11-21","index":null,"series":null,"tags":["books"]}}
 ---
 
 

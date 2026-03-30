@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/sophocles-ajax/","tags":["books"],"created":"2025-07-28","updated":"2025-08-03"}
+{"dg-publish":true,"permalink":"/books/sophocles-ajax/","tags":["books"],"created":"2025-07-28","updated":"2025-08-03","dg-note-properties":{"aliases":["Ajax"],"author":"[[Sophocles]]","date created":"2025-07-28","date finished":"2025-08-01","date modified":"2025-08-03","date started":"2025-07-28","index":null,"series":null,"tags":["books"]}}
 ---
 
 

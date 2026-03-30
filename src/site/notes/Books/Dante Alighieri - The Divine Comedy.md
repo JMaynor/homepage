@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/dante-alighieri-the-divine-comedy/","tags":["books"],"created":"2025-04-27","updated":"2026-03-20"}
+{"dg-publish":true,"permalink":"/books/dante-alighieri-the-divine-comedy/","tags":["books"],"created":"2025-04-27","updated":"2026-03-20","dg-note-properties":{"aliases":["The Divine Comedy"],"author":"[[Dante Alighieri]]","date created":"2025-04-27","date finished":"2026-03-20","date modified":"2026-03-20","date started":"2021-01-01","index":null,"series":null,"tags":["books"]}}
 ---
 
 

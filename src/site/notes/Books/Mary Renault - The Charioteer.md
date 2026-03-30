@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-charioteer/","tags":["books"],"created":"2024-11-23","updated":"2025-09-03","dg-note-properties":{"aliases":["The Charioteer"],"author":"[[Mary Renault]]","date created":"2024-11-23","date finished":"2024-12-04","date modified":"2025-09-03","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
 

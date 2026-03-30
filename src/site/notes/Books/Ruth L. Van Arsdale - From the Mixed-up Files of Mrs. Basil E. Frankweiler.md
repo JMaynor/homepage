@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/ruth-l-van-arsdale-from-the-mixed-up-files-of-mrs-basil-e-frankweiler/","tags":["books"],"created":"2024-06-07","updated":"2025-10-10"}
+{"dg-publish":true,"permalink":"/books/ruth-l-van-arsdale-from-the-mixed-up-files-of-mrs-basil-e-frankweiler/","tags":["books"],"created":"2024-06-07","updated":"2025-10-10","dg-note-properties":{"aliases":["From the Mixed-up Files of Mrs. Basil E. Frankweiler"],"author":"[[Ruth L. Van Arsdale]]","date created":"2024-06-07","date finished":"2005-01-01","date modified":"2025-10-10","date started":"2005-01-01","tags":["books"]}}
 ---
 
 

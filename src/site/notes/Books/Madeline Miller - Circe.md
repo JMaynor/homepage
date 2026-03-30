@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/madeline-miller-circe/","tags":["books"],"created":"2024-06-07","updated":"2025-08-28"}
+{"dg-publish":true,"permalink":"/books/madeline-miller-circe/","tags":["books"],"created":"2024-06-07","updated":"2025-08-28","dg-note-properties":{"aliases":["Circe"],"author":"[[Madeline Miller]]","date created":"2024-06-07","date finished":"2023-06-27","date modified":"2025-08-28","tags":["books"]}}
 ---
 
 

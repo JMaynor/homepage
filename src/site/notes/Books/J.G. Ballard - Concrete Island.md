@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/j-g-ballard-concrete-island/","tags":["books"],"created":"2024-12-04","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/j-g-ballard-concrete-island/","tags":["books"],"created":"2024-12-04","updated":"2025-09-03","dg-note-properties":{"aliases":["Concrete Island"],"author":"[[J.G. Ballard]]","date created":"2024-12-04","date finished":"2025-01-16","date modified":"2025-09-03","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
 

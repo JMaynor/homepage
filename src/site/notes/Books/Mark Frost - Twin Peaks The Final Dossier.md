@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-frost-twin-peaks-the-final-dossier/","tags":["books"],"created":"2024-06-07","updated":"2025-06-05"}
+{"dg-publish":true,"permalink":"/books/mark-frost-twin-peaks-the-final-dossier/","tags":["books"],"created":"2024-06-07","updated":"2025-06-05","dg-note-properties":{"aliases":["The Final Dossier","Twin Peaks The Final Dossier"],"author":"[[Mark Frost]]","date created":"2024-06-07","date finished":"2022-12-01","date modified":"2025-06-05","date started":"2022-11-30","index":2,"series":"Twin Peaks Books","tags":["books"]}}
 ---
 
 

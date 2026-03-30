@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/sophocles-philoctetes/","tags":["books"],"created":"2025-08-03","updated":"2025-08-11"}
+{"dg-publish":true,"permalink":"/books/sophocles-philoctetes/","tags":["books"],"created":"2025-08-03","updated":"2025-08-11","dg-note-properties":{"aliases":["Philoctetes"],"author":"[[Sophocles]]","date created":"2025-08-03","date finished":"2025-08-10","date modified":"2025-08-11","date started":"2025-08-06","index":null,"series":null,"tags":["books"]}}
 ---
 
 

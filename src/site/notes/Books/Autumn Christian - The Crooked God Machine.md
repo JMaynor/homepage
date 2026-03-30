@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/autumn-christian-the-crooked-god-machine/","tags":["books"],"created":"2024-12-23","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/autumn-christian-the-crooked-god-machine/","tags":["books"],"created":"2024-12-23","updated":"2025-09-03","dg-note-properties":{"aliases":["The Crooked God Machine"],"author":"[[Autumn Christian]]","date created":"2024-12-23","date finished":"2024-12-30","date modified":"2025-09-03","index":null,"series":null,"tags":["books"]}}
 ---
 
 

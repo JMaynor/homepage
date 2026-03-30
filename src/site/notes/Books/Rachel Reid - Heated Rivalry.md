@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/rachel-reid-heated-rivalry/","tags":["books"],"created":"2026-02-20","updated":"2026-02-27"}
+{"dg-publish":true,"permalink":"/books/rachel-reid-heated-rivalry/","tags":["books"],"created":"2026-02-20","updated":"2026-02-27","dg-note-properties":{"aliases":["Heated Rivalry"],"author":"[[Rachel Reid]]","date created":"2026-02-20","date finished":"2026-02-26","date modified":"2026-02-27","date started":"2026-02-24","index":2,"series":"Game Changers","tags":["books"]}}
 ---
 
 

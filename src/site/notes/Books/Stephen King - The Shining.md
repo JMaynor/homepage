@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/stephen-king-the-shining/","tags":["books"],"created":"2025-01-16","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/stephen-king-the-shining/","tags":["books"],"created":"2025-01-16","updated":"2025-09-03","dg-note-properties":{"aliases":["The Shining"],"author":"[[Stephen King]]","date created":"2025-01-16","date finished":"2025-02-07","date modified":"2025-09-03","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
 

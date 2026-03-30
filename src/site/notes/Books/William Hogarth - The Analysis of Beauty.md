@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/william-hogarth-the-analysis-of-beauty/","tags":["books"],"created":"2025-10-06","updated":"2025-11-21"}
+{"dg-publish":true,"permalink":"/books/william-hogarth-the-analysis-of-beauty/","tags":["books"],"created":"2025-10-06","updated":"2025-11-21","dg-note-properties":{"aliases":["The Analysis of Beauty"],"author":"[[William Hogarth]]","date created":"2025-10-06","date finished":"2025-11-21","date modified":"2025-11-21","date started":"2025-10-06","index":null,"series":null,"tags":["books"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 I should probably say why on Earth I was reading this. Given I do not have an artistic background. And have only a passing interest in aesthetics. Well, it's silly. I don't recall how I originally found it, but I read [this blog post](https://substack.com/@etiennefd/p-99325295) and really liked the image used at the top. Particularly this fella.
 
-![William Hogarth Analysis of Beauty Plate 1 Farnese Hercules.png|200](/img/user/_sys/Attachments/William%20Hogarth%20Analysis%20of%20Beauty%20Plate%201%20Farnese%20Hercules.png)
+![William Hogarth Analysis of Beauty Plate 1 Farnese Hercules.png\|200](/img/user/_sys/Attachments/William%20Hogarth%20Analysis%20of%20Beauty%20Plate%201%20Farnese%20Hercules.png)
 
 He seemed so familiar, but I couldn't place it. That being said, he stuck in my mind as just this...really good shape. For a couple of days, I found that the image would return to me unbidden. Come to find out it's only one of the most famous pieces of ancient Greek sculpture, the [Farnese Hercules](https://en.wikipedia.org/wiki/Farnese_Hercules). (Actually Roman, but thought to be a copy of a Greek original.) And I, the culturally deficient baboon that I was, didn't immediately recognize it as such.
 

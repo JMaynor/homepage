@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2025-09-18","dg-note-properties":{"aliases":["The Last of the Wine"],"author":"[[Mary Renault]]","date created":"2024-12-05","date finished":"2024-12-23","date modified":"2025-09-18","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
+
+Takes place generally from [[History/Events/(-00000431-04-04 Beginning of Peloponnesian War)\|(-00000431-04-04 Beginning of Peloponnesian War)]] to the [[History/Events/(-00000404-04-25) End of Peloponnesian War\|(-00000404-04-25) End of Peloponnesian War]].
 
 # Reading Notes
 

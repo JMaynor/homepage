@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/quintus-smyrnaeus-posthomerica/","tags":["books"],"created":"2025-08-11","updated":"2025-08-28"}
+{"dg-publish":true,"permalink":"/books/quintus-smyrnaeus-posthomerica/","tags":["books"],"created":"2025-08-11","updated":"2025-08-28","dg-note-properties":{"aliases":["Posthomerica"],"author":"[[Quintus Smyrnaeus]]","date created":"2025-08-11","date finished":"2025-08-28","date modified":"2025-08-28","date started":"2025-08-11","index":null,"series":null,"tags":["books"]}}
 ---
 
 

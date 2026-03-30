@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-fire-from-heaven/","tags":["books"],"created":"2025-08-11","updated":"2025-09-22"}
+{"dg-publish":true,"permalink":"/books/mary-renault-fire-from-heaven/","tags":["books"],"created":"2025-08-11","updated":"2025-09-22","dg-note-properties":{"aliases":["Fire from Heaven"],"author":"[[Mary Renault]]","date created":"2025-08-11","date finished":"2025-09-20","date modified":"2025-09-22","date started":"2025-09-02","index":1,"series":"Alexander trilogy","tags":["books"]}}
 ---
 
 

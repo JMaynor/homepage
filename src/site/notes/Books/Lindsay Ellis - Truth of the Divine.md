@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/lindsay-ellis-truth-of-the-divine/","tags":["books"],"created":"2025-10-07","updated":"2025-10-20"}
+{"dg-publish":true,"permalink":"/books/lindsay-ellis-truth-of-the-divine/","tags":["books"],"created":"2025-10-07","updated":"2025-10-20","dg-note-properties":{"aliases":["Truth of the Divine"],"author":"[[Lindsay Ellis]]","date created":"2025-10-07","date finished":"2025-10-18","date modified":"2025-10-20","date started":"2025-10-10","index":2,"series":"Noumena","tags":["books"]}}
 ---
 
 

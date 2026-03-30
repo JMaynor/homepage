@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/s-a-barnes-dead-silence/","tags":["books"],"created":"2024-06-11","updated":"2025-06-06"}
+{"dg-publish":true,"permalink":"/books/s-a-barnes-dead-silence/","tags":["books"],"created":"2024-06-11","updated":"2025-06-06","dg-note-properties":{"aliases":["Dead Silence"],"author":"[[S.A. Barnes]]","date created":"2024-06-11","date finished":"2024-08-22","date modified":"2025-06-06","date started":"2024-06-21","tags":["books"]}}
 ---
 
 

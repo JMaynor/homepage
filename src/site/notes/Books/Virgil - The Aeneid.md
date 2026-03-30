@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/virgil-the-aeneid/","tags":["books"],"created":"2025-09-15","updated":"2026-02-18"}
+{"dg-publish":true,"permalink":"/books/virgil-the-aeneid/","tags":["books"],"created":"2025-09-15","updated":"2026-02-18","dg-note-properties":{"aliases":["The Aeneid"],"author":"[[Virgil]]","date created":"2025-09-15","date finished":"2026-02-18","date modified":"2026-02-18","date started":"2026-01-19","index":null,"series":null,"tags":["books"]}}
 ---
 
 

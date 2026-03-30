@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/s-a-barnes-ghost-station/","tags":["books"],"created":"2025-03-05","updated":"2025-06-06"}
+{"dg-publish":true,"permalink":"/books/s-a-barnes-ghost-station/","tags":["books"],"created":"2025-03-05","updated":"2025-06-06","dg-note-properties":{"aliases":["Ghost Station"],"author":"[[S.A. Barnes]]","date created":"2025-03-05","date finished":"2025-03-17","date modified":"2025-06-06","date started":"2025-03-05","index":null,"series":null,"tags":["books"]}}
 ---
 
 

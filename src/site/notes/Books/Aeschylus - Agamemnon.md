@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/aeschylus-agamemnon/","tags":["books"],"created":"2025-06-11","updated":"2025-09-22"}
+{"dg-publish":true,"permalink":"/books/aeschylus-agamemnon/","tags":["books"],"created":"2025-06-11","updated":"2025-09-22","dg-note-properties":{"aliases":["Agamemnon"],"author":"[[Aeschylus]]","date created":"2025-06-11","date finished":"2025-09-22","date modified":"2025-09-22","date started":"2025-08-29","index":1,"series":"Oresteia","tags":["books"]}}
 ---
 
 

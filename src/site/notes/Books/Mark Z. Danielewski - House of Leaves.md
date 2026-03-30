@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-z-danielewski-house-of-leaves/","tags":["books"],"created":"2024-01-05","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/books/mark-z-danielewski-house-of-leaves/","tags":["books"],"created":"2024-01-05","updated":"2025-06-04","dg-note-properties":{"aliases":["House of Leaves"],"author":"[[Mark Z. Danielewski]]","date created":"2024-01-05","date finished":"2025-03-03","date modified":"2025-06-04","date started":"2025-02-07","tags":["books"]}}
 ---
 
 

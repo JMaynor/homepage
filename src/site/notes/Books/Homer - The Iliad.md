@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/homer-the-iliad/","tags":["books"],"created":"2025-03-21","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/homer-the-iliad/","tags":["books"],"created":"2025-03-21","updated":"2025-09-03","dg-note-properties":{"aliases":["The Iliad"],"author":"[[Homer]]","date created":"2025-03-21","date finished":"2025-05-13","date modified":"2025-09-03","date started":"2025-04-04","index":2,"series":"Epic Cycle","tags":["books"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/lindsay-ellis-axiom-s-end/","tags":["books"],"created":"2025-09-26","updated":"2025-10-07"}
+{"dg-publish":true,"permalink":"/books/lindsay-ellis-axiom-s-end/","tags":["books"],"created":"2025-09-26","updated":"2025-10-07","dg-note-properties":{"aliases":["Axiom's End"],"author":"[[Lindsay Ellis]]","date created":"2025-09-26","date finished":"2025-10-06","date modified":"2025-10-07","date started":"2025-09-26","index":1,"series":"Noumena","tags":["books"]}}
 ---
 
 

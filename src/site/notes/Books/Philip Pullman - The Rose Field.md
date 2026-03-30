@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/philip-pullman-the-rose-field/","tags":["books"],"created":"2025-11-19","updated":"2025-11-21"}
+{"dg-publish":true,"permalink":"/books/philip-pullman-the-rose-field/","tags":["books"],"created":"2025-11-19","updated":"2025-11-21","dg-note-properties":{"aliases":["The Rose Field"],"author":"[[Philip Pullman]]","date created":"2025-11-19","date finished":"2025-11-20","date modified":"2025-11-21","date started":"2025-11-07","index":3,"series":"Book of Dust","tags":["books"]}}
 ---
 
 

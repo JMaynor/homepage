@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/daniel-defoe-robinson-crusoe/","tags":["books"],"created":"2024-11-13","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/daniel-defoe-robinson-crusoe/","tags":["books"],"created":"2024-11-13","updated":"2025-09-03","dg-note-properties":{"aliases":["Robinson Crusoe"],"author":"[[Daniel Defoe]]","date created":"2024-11-13","date finished":"2024-11-22","date modified":"2025-09-03","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
 

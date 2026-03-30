@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/homer-the-odyssey/","tags":["books"],"created":"2025-03-21","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/homer-the-odyssey/","tags":["books"],"created":"2025-03-21","updated":"2025-09-03","dg-note-properties":{"aliases":["The Odyssey"],"author":"[[Homer]]","date created":"2025-03-21","date finished":"2025-07-28","date modified":"2025-09-03","date started":"2025-05-14","index":7,"series":"Epic Cycle","tags":["books"]}}
 ---
 
 

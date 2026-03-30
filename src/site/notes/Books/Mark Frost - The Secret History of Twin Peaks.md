@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mark-frost-the-secret-history-of-twin-peaks/","tags":["books"],"created":"2024-06-07","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/books/mark-frost-the-secret-history-of-twin-peaks/","tags":["books"],"created":"2024-06-07","updated":"2025-09-03","dg-note-properties":{"aliases":["The Secret History of Twin Peaks"],"author":"[[Mark Frost]]","date created":"2024-06-07","date finished":"2022-11-20","date modified":"2025-09-03","date started":null,"index":1,"series":"Twin Peaks Books","tags":["books"]}}
 ---
 
 

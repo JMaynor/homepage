@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/lindsay-ellis-apostles-of-mercy/","tags":["books"],"created":"2025-10-20","updated":"2025-11-03"}
+{"dg-publish":true,"permalink":"/books/lindsay-ellis-apostles-of-mercy/","tags":["books"],"created":"2025-10-20","updated":"2025-11-03","dg-note-properties":{"aliases":["Apostles of Mercy"],"author":"[[Lindsay Ellis]]","date created":"2025-10-20","date finished":"2025-10-29","date modified":"2025-11-03","date started":"2025-10-20","index":3,"series":"Noumena","tags":["books"]}}
 ---
 
 
