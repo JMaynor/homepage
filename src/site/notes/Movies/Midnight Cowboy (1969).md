@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/midnight-cowboy-1969/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13","dg-note-properties":{"aliases":"Midnight Cowboy","date created":"2024-05-31","date modified":"2025-03-13","director":"[[John Schlesinger]]","tags":"movies"}}
 ---
 
 
-![Midnight Cowboy 1969.jpg|200](/img/user/_sys/Attachments/Midnight%20Cowboy%201969.jpg)
+![Midnight Cowboy 1969.jpg\|200](/img/user/_sys/Attachments/Midnight%20Cowboy%201969.jpg)
 
 # Review
 

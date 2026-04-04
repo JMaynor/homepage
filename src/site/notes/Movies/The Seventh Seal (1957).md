@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-seventh-seal-1957/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-seventh-seal-1957/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13","dg-note-properties":{"aliases":"The Seventh Seal","date created":"2024-03-05","date modified":"2025-03-13","director":"[[Ingmar Bergman]]","tags":"movies"}}
 ---
 
 

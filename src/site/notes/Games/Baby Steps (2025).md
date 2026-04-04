@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/baby-steps-2025/","tags":["games"],"created":"2025-10-06","updated":"2025-11-04"}
+{"dg-publish":true,"permalink":"/games/baby-steps-2025/","tags":["games"],"created":"2025-10-06","updated":"2025-11-04","dg-note-properties":{"aliases":["Baby Steps"],"date created":"2025-10-06","date finished":"2025-11-04","date modified":"2025-11-04","date started":"2025-09-29","tags":["games"]}}
 ---
 
 

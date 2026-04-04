@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-man-from-earth-2007/","tags":["movies"],"created":"2024-06-10","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-man-from-earth-2007/","tags":["movies"],"created":"2024-06-10","updated":"2025-03-13","dg-note-properties":{"aliases":"The Man from Earth","date created":"2024-06-10","date modified":"2025-03-13","director":"[[Richard Schenkman]]","tags":"movies"}}
 ---
 
 

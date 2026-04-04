@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/amnesia-a-machine-for-pigs-2013/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/amnesia-a-machine-for-pigs-2013/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":"Machine for Pigs","date created":"2023-12-08","date finished":"2023-03-16","date modified":"2025-06-03","date started":"2023-04-11","played":true,"tags":["games","LP"]}}
 ---
 
 

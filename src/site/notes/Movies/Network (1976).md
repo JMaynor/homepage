@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/network-1976/","tags":["movies"],"created":"2024-02-20","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/network-1976/","tags":["movies"],"created":"2024-02-20","updated":"2025-03-13","dg-note-properties":{"aliases":"Network","date created":"2024-02-20","date modified":"2025-03-13","director":"[[Sidney Lumet]]","tags":"movies"}}
 ---
 
 
-![Network 1976.png|200](/img/user/_sys/Attachments/Network%201976.png)
+![Network 1976.png\|200](/img/user/_sys/Attachments/Network%201976.png)
 
 # Review
 

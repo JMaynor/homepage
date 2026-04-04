@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/dr-strangelove-1964/","tags":["movies"],"created":"2024-06-17","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/dr-strangelove-1964/","tags":["movies"],"created":"2024-06-17","updated":"2025-03-13","dg-note-properties":{"aliases":"Dr. Strangelove","date created":"2024-06-17","date modified":"2025-03-13","director":"[[Stanley Kubrick]]","tags":"movies"}}
 ---
 
 
-![Dr. Strangelove 1964.jpg|200](/img/user/_sys/Attachments/Dr.%20Strangelove%201964.jpg)
+![Dr. Strangelove 1964.jpg\|200](/img/user/_sys/Attachments/Dr.%20Strangelove%201964.jpg)
 
 # Review
 

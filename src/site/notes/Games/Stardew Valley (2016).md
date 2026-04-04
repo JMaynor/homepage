@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","tags":["games","streamed"],"created":"2024-07-05","updated":"2026-02-09"}
+{"dg-publish":true,"permalink":"/games/stardew-valley-2016/","tags":["games","streamed"],"created":"2024-07-05","updated":"2026-02-09","dg-note-properties":{"aliases":["Stardew Valley"],"date created":"2024-07-05","date finished":null,"date modified":"2026-02-09","date started":"2020-08-09","tags":["games","streamed"]}}
 ---
 
 

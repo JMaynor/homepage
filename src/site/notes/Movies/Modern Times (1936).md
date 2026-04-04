@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/modern-times-1936/","tags":["movies"],"created":"2023-12-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/modern-times-1936/","tags":["movies"],"created":"2023-12-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Modern Times","date created":"2023-12-18","date modified":"2025-03-13","director":"[[Charlie Chaplin]]","tags":"movies"}}
 ---
 
 
-![Modern Times 1936.jpg|200](/img/user/_sys/Attachments/Modern%20Times%201936.jpg)
+![Modern Times 1936.jpg\|200](/img/user/_sys/Attachments/Modern%20Times%201936.jpg)
 
 # Summary
 

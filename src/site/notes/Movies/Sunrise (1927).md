@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sunrise-1927/","tags":["movies"],"created":"2023-12-08","updated":"2025-11-14"}
+{"dg-publish":true,"permalink":"/movies/sunrise-1927/","tags":["movies"],"created":"2023-12-08","updated":"2025-11-14","dg-note-properties":{"aliases":["Sunrise"],"date created":"2023-12-08","date modified":"2025-11-14","director":"[[F.W. Murnau]]","tags":["movies"]}}
 ---
 
 
-![Sunrise 1927.jpg|201](/img/user/_sys/Attachments/Sunrise%201927.jpg)
+![Sunrise 1927.jpg\|201](/img/user/_sys/Attachments/Sunrise%201927.jpg)
 
 # Review
 

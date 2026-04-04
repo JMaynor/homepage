@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/alien-isolation-2014/","tags":["games","LP"],"created":"2023-12-01","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/alien-isolation-2014/","tags":["games","LP"],"created":"2023-12-01","updated":"2025-06-03","dg-note-properties":{"aliases":"Alien Isolation","date created":"2023-12-01","date finished":"2022-08-15","date modified":"2025-06-03","date started":"2022-06-12","played":true,"tags":["games","LP"]}}
 ---
 
 

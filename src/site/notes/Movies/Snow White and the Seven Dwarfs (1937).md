@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","tags":["movies"],"created":"2024-05-28","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/snow-white-and-the-seven-dwarfs-1937/","tags":["movies"],"created":"2024-05-28","updated":"2025-03-13","dg-note-properties":{"aliases":"Snow White and the Seven Dwarfs","date created":"2024-05-28","date modified":"2025-03-13","director":"[[David Hand]]","tags":"movies"}}
 ---
 
 
-![Snow White 1937.png|200](/img/user/_sys/Attachments/Snow%20White%201937.png)
+![Snow White 1937.png\|200](/img/user/_sys/Attachments/Snow%20White%201937.png)
 
 # Review
 

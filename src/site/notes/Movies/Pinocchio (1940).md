@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pinocchio-1940/","tags":["movies"],"created":"2024-05-30","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/pinocchio-1940/","tags":["movies"],"created":"2024-05-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Pinocchio","date created":"2024-05-30","date modified":"2025-03-13","director":["[[Hamilton Luske]]","[[Ben Sharpsteen]]"],"tags":"movies"}}
 ---
 
 

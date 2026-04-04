@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/once-upon-a-time-in-hollywood-2019/","tags":["movies"],"created":"2025-06-19","updated":"2025-06-19"}
+{"dg-publish":true,"permalink":"/movies/once-upon-a-time-in-hollywood-2019/","tags":["movies"],"created":"2025-06-19","updated":"2025-06-19","dg-note-properties":{"aliases":["Once Upon a Time in Hollywood"],"date created":"2025-06-19","date finished":"2025-06-19","date modified":"2025-06-19","director":"[[Quentin Tarantino]]","tags":["movies"]}}
 ---
 
 

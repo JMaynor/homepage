@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-sixth-sense-1999/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13","dg-note-properties":{"aliases":"The Sixth Sense","date created":"2023-11-30","date modified":"2025-03-13","director":"[[M. Night Shyamalan]]","tags":"movies"}}
 ---
 
 
-![The Sixth Sense 1999.png|200](/img/user/_sys/Attachments/The%20Sixth%20Sense%201999.png)
+![The Sixth Sense 1999.png\|200](/img/user/_sys/Attachments/The%20Sixth%20Sense%201999.png)
 
 # Review
 

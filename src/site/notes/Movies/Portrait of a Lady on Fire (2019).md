@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/portrait-of-a-lady-on-fire-2019/","tags":["movies"],"created":"2024-04-19","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/portrait-of-a-lady-on-fire-2019/","tags":["movies"],"created":"2024-04-19","updated":"2025-03-13","dg-note-properties":{"aliases":"Portrait of a Lady on Fire","date created":"2024-04-19","date modified":"2025-03-13","director":"[[Céline Sciamma]]","tags":"movies"}}
 ---
 
 

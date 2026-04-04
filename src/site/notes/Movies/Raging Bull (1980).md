@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/raging-bull-1980/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-05"}
+{"dg-publish":true,"permalink":"/movies/raging-bull-1980/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-05","dg-note-properties":{"aliases":"Raging Bull","date created":"2024-06-18","date modified":"2025-01-05","director":"[[Martin Scorsese]]","tags":"movies"}}
 ---
 
 
-![Raging Bull poster.jpg|200](/img/user/_sys/Attachments/Raging%20Bull%20poster.jpg)
+![Raging Bull poster.jpg\|200](/img/user/_sys/Attachments/Raging%20Bull%20poster.jpg)
 
 # Review
 

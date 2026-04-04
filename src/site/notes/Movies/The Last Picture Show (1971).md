@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-last-picture-show-1971/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13","dg-note-properties":{"aliases":"The Last Picture Show","date created":"2023-12-01","date modified":"2025-03-13","director":"[[Peter Bogdanovich]]","tags":"movies"}}
 ---
 
 
-![The Last Picture Show 1971.jpeg|200](/img/user/_sys/Attachments/The%20Last%20Picture%20Show%201971.jpeg)
+![The Last Picture Show 1971.jpeg\|200](/img/user/_sys/Attachments/The%20Last%20Picture%20Show%201971.jpeg)
 
 https://assets.scriptslug.com/live/pdf/scripts/the-last-picture-show-1971.pdf
 

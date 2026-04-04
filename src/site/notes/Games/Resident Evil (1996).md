@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/resident-evil-1996/","tags":["games","LP"],"created":"2024-12-29","updated":"2025-06-03","dg-note-properties":{"aliases":"Resident Evil","date created":"2024-12-29","date finished":"2025-02-23","date modified":"2025-06-03","date started":"2024-12-29","played":true,"tags":["games","LP"]}}
 ---
 
 

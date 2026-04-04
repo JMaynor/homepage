@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sleeping-beauty-1959/","tags":["movies"],"created":"2024-07-20","updated":"2025-12-15"}
+{"dg-publish":true,"permalink":"/movies/sleeping-beauty-1959/","tags":["movies"],"created":"2024-07-20","updated":"2025-12-15","dg-note-properties":{"aliases":["Sleeping Beauty"],"date created":"2024-07-20","date modified":"2025-12-15","director":null,"tags":["movies"]}}
 ---
 
 

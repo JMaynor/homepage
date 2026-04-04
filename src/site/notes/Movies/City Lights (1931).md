@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/city-lights-1931/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23"}
+{"dg-publish":true,"permalink":"/movies/city-lights-1931/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23","dg-note-properties":{"aliases":"City Lights","date created":"2024-06-18","date modified":"2024-11-23","director":"[[Charlie Chaplin]]","tags":"movies"}}
 ---
 
 
-![City Lights 1931 Poster.jpg|200](/img/user/_sys/Attachments/City%20Lights%201931%20Poster.jpg)
+![City Lights 1931 Poster.jpg\|200](/img/user/_sys/Attachments/City%20Lights%201931%20Poster.jpg)
 
 # Review
 

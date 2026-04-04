@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/civil-war-2024/","tags":["movies"],"created":"2024-04-21","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/civil-war-2024/","tags":["movies"],"created":"2024-04-21","updated":"2025-03-13","dg-note-properties":{"aliases":"Civil War","date created":"2024-04-21","date modified":"2025-03-13","director":"[[Alex Garland]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/mundaun-2021/","tags":["games","LP"],"created":"2024-04-29","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/mundaun-2021/","tags":["games","LP"],"created":"2024-04-29","updated":"2025-06-03","dg-note-properties":{"aliases":null,"date created":"2024-04-29","date finished":"2024-05-27","date modified":"2025-06-03","date started":"2024-04-28","played":true,"tags":["games","LP"]}}
 ---
 
 

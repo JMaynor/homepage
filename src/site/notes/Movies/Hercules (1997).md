@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/hercules-1997/","tags":["movies"],"created":"2024-07-20","updated":"2025-12-15"}
+{"dg-publish":true,"permalink":"/movies/hercules-1997/","tags":["movies"],"created":"2024-07-20","updated":"2025-12-15","dg-note-properties":{"aliases":["Hercules"],"date created":"2024-07-20","date modified":"2025-12-15","director":null,"tags":["movies"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/dumbo-1941/","tags":["movies"],"created":"2024-05-28","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/dumbo-1941/","tags":["movies"],"created":"2024-05-28","updated":"2025-03-13","dg-note-properties":{"aliases":"Dumbo","date created":"2024-05-28","date modified":"2025-03-13","director":"[[Ben Sharpsteen]]","tags":"movies"}}
 ---
 
 

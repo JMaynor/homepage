@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Pulp Fiction","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Quentin Tarantino\|Quentin Tarantino]]","tags":"movies"}}
 ---
 
 
-![Pulp Fiction 1994.jpeg|200](/img/user/_sys/Attachments/Pulp%20Fiction%201994.jpeg)
+![Pulp Fiction 1994.jpeg\|200](/img/user/_sys/Attachments/Pulp%20Fiction%201994.jpeg)
 
 # Review
 
-I feel weird reviewing Pulp Fiction because it's just one of those movies that everyone knows. So instead, I won't. instead, I will simply ramble about [[People/Quentin Tarantino\|Quentin Tarantino]]. In general, I like Tarantino's films. He's not one of my favorite directors or anything but of his movies that I've seen, I thought they were good. Reservoir Dogs is my personal fave. I like the subversion of the plot starting only once the heist is already over. Also, as has been stated on previous occasions, I like movies with small settings/bottle episodes. Kill Bill is the definite second.
+I feel weird reviewing Pulp Fiction because it's just one of those movies that everyone knows. So instead, I won't. instead, I will simply ramble about [[Quentin Tarantino]]. In general, I like Tarantino's films. He's not one of my favorite directors or anything but of his movies that I've seen, I thought they were good. Reservoir Dogs is my personal fave. I like the subversion of the plot starting only once the heist is already over. Also, as has been stated on previous occasions, I like movies with small settings/bottle episodes. Kill Bill is the definite second.
 
 Generally, I think the thing that draws me to Tarantino is his dialogue. People feel like people and talk like people. I don't like his whole thing with the n word though. I just imagine him gleefully smiling while writing the script. He tee-hees, kicks his feet about, and says "Whoops, looks like another slipped in...oh no..."
 

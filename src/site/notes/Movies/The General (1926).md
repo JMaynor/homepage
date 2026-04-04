@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-general-1926/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-general-1926/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The General","date created":"2024-06-18","date modified":"2025-03-13","director":["[[Buster Keaton]]","[[Clyde Bruckman]]"],"tags":"movies"}}
 ---
 
 
-![The General 1926.png|200](/img/user/_sys/Attachments/The%20General%201926.png)
+![The General 1926.png\|200](/img/user/_sys/Attachments/The%20General%201926.png)
 
 # Review
 
@@ -15,4 +15,4 @@ All of the train bits were the best, here. Loved watching our goonish Union boys
 
 Also the muttonstache...I am a fan. This fella below. I just find it dashing is all, I feel like it's primed to make a comeback. Maybe I'm crazy and need to be put away for my own safety.
 
-![Muttonstache Character from The General.png|300](/img/user/_sys/Attachments/Muttonstache%20Character%20from%20The%20General.png)
+![Muttonstache Character from The General.png\|300](/img/user/_sys/Attachments/Muttonstache%20Character%20from%20The%20General.png)

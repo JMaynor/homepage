@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"The Gold Rush","date created":"2024-03-21","date modified":"2025-03-13","director":"[[People/Charlie Chaplin\|Charlie Chaplin]]","tags":"movies"}}
 ---
 
 
-![Gold Rush 1925.jpg|200](/img/user/_sys/Attachments/Gold%20Rush%201925.jpg)
+![Gold Rush 1925.jpg\|200](/img/user/_sys/Attachments/Gold%20Rush%201925.jpg)
 
 # Review
 
-Really enjoyed it. Probably my favorite [[People/Charlie Chaplin\|Charlie Chaplin]] thus far. I'm really coming to like his stuff. I think something that surprised me was how quick some of the editing was, going between the different camera angles. The movie was older (obviously), but the cinematography was surprisingly modern to me. And there was a couple instances that had me thinking "Wow, how'd he do that?" The scene where he's shown hanging onto the cabin above the cliff in particular. Like was it a little doll made to move or something? Not sure. I also particularly enjoyed the rivalry between the Tramp and Jim McKay. Love that we go from nearly eating each other to good friends. This movie definitely is the one that established that I like Charlie Chaplin's stuff. The previous movies were definitely fun, but Gold Rush was my favorite of the bunch thus far. Also I can definitely see how the Tramp character caught on and became Chaplin's most famous role. He's a lot of fun to watch. Silly and comedic, but there's a lot of heart there. You can slot him into many different circumstances and just see what happens.
+Really enjoyed it. Probably my favorite [[Charlie Chaplin]] thus far. I'm really coming to like his stuff. I think something that surprised me was how quick some of the editing was, going between the different camera angles. The movie was older (obviously), but the cinematography was surprisingly modern to me. And there was a couple instances that had me thinking "Wow, how'd he do that?" The scene where he's shown hanging onto the cabin above the cliff in particular. Like was it a little doll made to move or something? Not sure. I also particularly enjoyed the rivalry between the Tramp and Jim McKay. Love that we go from nearly eating each other to good friends. This movie definitely is the one that established that I like Charlie Chaplin's stuff. The previous movies were definitely fun, but Gold Rush was my favorite of the bunch thus far. Also I can definitely see how the Tramp character caught on and became Chaplin's most famous role. He's a lot of fun to watch. Silly and comedic, but there's a lot of heart there. You can slot him into many different circumstances and just see what happens.
 
 I've also come to enjoy the silent film era. It's obvious of course while you're watching the film, but when I think back on it, I don't really think about the lack of dialogue. It's not what's remembered anyway. Just the various events that occur and the personalities conveyed through how people move and interact with each other.
 

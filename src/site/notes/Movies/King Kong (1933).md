@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/king-kong-1933/","tags":["movies"],"created":"2024-06-14","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/king-kong-1933/","tags":["movies"],"created":"2024-06-14","updated":"2025-03-13","dg-note-properties":{"aliases":"King Kong","date created":"2024-06-14","date modified":"2025-03-13","director":["[[Merian C. Cooper]]","[[Ernest B. Schoedsack]]"],"tags":"movies"}}
 ---
 
 
-![King Kong 1933.jpg|200](/img/user/_sys/Attachments/King%20Kong%201933.jpg)
+![King Kong 1933.jpg\|200](/img/user/_sys/Attachments/King%20Kong%201933.jpg)
 
 # Review
 

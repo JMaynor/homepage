@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bambi-1942/","tags":["movies"],"created":"2024-05-30","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/bambi-1942/","tags":["movies"],"created":"2024-05-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Bambi","date created":"2024-05-30","date modified":"2025-03-13","director":"[[David Hand]]","tags":"movies"}}
 ---
 
 

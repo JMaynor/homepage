@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/jak-and-daxter-the-precursor-legacy-2001/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/games/jak-and-daxter-the-precursor-legacy-2001/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-17","dg-note-properties":{"aliases":["Jak and Daxter The Precursor Legacy"],"date created":"2024-11-10","date finished":"2003-01-01","date modified":"2025-12-17","date started":"2003-01-01","tags":["games","streamed"]}}
 ---
 
 

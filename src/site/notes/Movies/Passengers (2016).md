@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/passengers-2016/","tags":["movies"],"created":"2024-03-11","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/passengers-2016/","tags":["movies"],"created":"2024-03-11","updated":"2025-03-13","dg-note-properties":{"aliases":"Passengers","date created":"2024-03-11","date modified":"2025-03-13","director":"[[Morten Tyldum]]","tags":"movies"}}
 ---
 
 

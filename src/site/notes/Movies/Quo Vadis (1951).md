@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/quo-vadis-1951/","tags":["movies"],"created":"2026-02-15","updated":"2026-02-15"}
+{"dg-publish":true,"permalink":"/movies/quo-vadis-1951/","tags":["movies"],"created":"2026-02-15","updated":"2026-02-15","dg-note-properties":{"aliases":["Quo Vadis"],"date created":"2026-02-15","date finished":"2026-02-15","date modified":"2026-02-15","director":"[[Mervin LeRoy]]","tags":["movies"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/barotrauma-2023/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/barotrauma-2023/","tags":["games","streamed"],"created":"2025-02-28","updated":"2025-10-11","dg-note-properties":{"aliases":[],"date created":"2025-02-28","date finished":"2022-04-30","date modified":"2025-10-11","date started":"2022-01-22","tags":["games","streamed"]}}
 ---
 
 

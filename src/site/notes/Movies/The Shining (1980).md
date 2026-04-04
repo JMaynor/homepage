@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shining-1980/","tags":["movies"],"created":"2024-06-21","updated":"2025-01-14"}
+{"dg-publish":true,"permalink":"/movies/the-shining-1980/","tags":["movies"],"created":"2024-06-21","updated":"2025-01-14","dg-note-properties":{"aliases":"The Shining","date created":"2024-06-21","date modified":"2025-01-14","director":"[[Stanley Kubrick]]","tags":"movies"}}
 ---
 
 
-![The Shining Poster.jpg|200](/img/user/_sys/Attachments/The%20Shining%20Poster.jpg)
+![The Shining Poster.jpg\|200](/img/user/_sys/Attachments/The%20Shining%20Poster.jpg)
 
 # Review
 

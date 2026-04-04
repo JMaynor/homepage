@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/duck-soup-1933/","tags":["movies"],"created":"2024-03-14","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/duck-soup-1933/","tags":["movies"],"created":"2024-03-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Duck Soup","date created":"2024-03-14","date modified":"2025-03-13","director":"[[Leo McCarey]]","tags":"movies"}}
 ---
 
 
-![Duck Soup 1933.jpeg|200](/img/user/_sys/Attachments/Duck%20Soup%201933.jpeg)
+![Duck Soup 1933.jpeg\|200](/img/user/_sys/Attachments/Duck%20Soup%201933.jpeg)
 
 # Review
 

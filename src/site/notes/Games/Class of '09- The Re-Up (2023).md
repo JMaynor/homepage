@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/class-of-09-the-re-up-2023/","tags":["games","streamed"],"created":"2025-12-17","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/games/class-of-09-the-re-up-2023/","tags":["games","streamed"],"created":"2025-12-17","updated":"2025-12-17","dg-note-properties":{"aliases":["Class of 09 2","Class of 09 The Re-Up"],"date created":"2025-12-17","date finished":"2025-12-16","date modified":"2025-12-17","date started":"2025-12-16","tags":["games","streamed"]}}
 ---
 
 

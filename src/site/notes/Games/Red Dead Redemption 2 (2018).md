@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/red-dead-redemption-2-2018/","tags":["games"],"created":"2024-09-16","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/red-dead-redemption-2-2018/","tags":["games"],"created":"2024-09-16","updated":"2025-06-04","dg-note-properties":{"aliases":["Red Dead Redemption 2","RDR2"],"date created":"2024-09-16","date finished":"2025-05-12","date modified":"2025-06-04","played":true,"tags":["games"]}}
 ---
 
 

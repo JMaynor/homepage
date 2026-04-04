@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/gone-with-the-wind-1939/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-23"}
+{"dg-publish":true,"permalink":"/movies/gone-with-the-wind-1939/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-23","dg-note-properties":{"aliases":"Gone With the Wind","date created":"2024-06-18","date modified":"2024-12-23","director":"[[Victor Fleming]]","tags":"movies"}}
 ---
 
 
-![Gone With the Wind Poster.jpg|200](/img/user/_sys/Attachments/Gone%20With%20the%20Wind%20Poster.jpg)
+![Gone With the Wind Poster.jpg\|200](/img/user/_sys/Attachments/Gone%20With%20the%20Wind%20Poster.jpg)
 
 # Review
 

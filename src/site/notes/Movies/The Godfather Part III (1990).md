@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-godfather-part-iii-1990/","tags":["movies"],"created":"2024-08-09","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-godfather-part-iii-1990/","tags":["movies"],"created":"2024-08-09","updated":"2025-03-13","dg-note-properties":{"aliases":["Godfather 3","Godfather Part 3"],"date created":"2024-08-09","date modified":"2025-03-13","director":"[[Francis Ford Coppola]]","tags":"movies"}}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-graduate-1967/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-26"}
+{"dg-publish":true,"permalink":"/movies/the-graduate-1967/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-26","dg-note-properties":{"aliases":"The Graduate","date created":"2024-06-18","date modified":"2024-10-26","director":"[[Mike Nichols]]","tags":"movies"}}
 ---
 
 
-![The Graduate 1967.jpg|200](/img/user/_sys/Attachments/The%20Graduate%201967.jpg)
+![The Graduate 1967.jpg\|200](/img/user/_sys/Attachments/The%20Graduate%201967.jpg)
 
 # Review
 

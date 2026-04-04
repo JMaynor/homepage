@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/friendship-2024/","tags":["movies"],"created":"2025-06-29","updated":"2025-06-29"}
+{"dg-publish":true,"permalink":"/movies/friendship-2024/","tags":["movies"],"created":"2025-06-29","updated":"2025-06-29","dg-note-properties":{"aliases":[],"date created":"2025-06-29","date finished":"2025-06-29","date modified":"2025-06-29","director":"[[Andrew DeYoung]]","tags":["movies"]}}
 ---
 
 

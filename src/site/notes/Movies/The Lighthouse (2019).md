@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-lighthouse-2019/","tags":["movies"],"created":"2024-04-08","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-lighthouse-2019/","tags":["movies"],"created":"2024-04-08","updated":"2025-03-13","dg-note-properties":{"aliases":"The Lighthouse","date created":"2024-04-08","date modified":"2025-03-13","director":"[[Robert Eggers]]","tags":"movies"}}
 ---
 
 

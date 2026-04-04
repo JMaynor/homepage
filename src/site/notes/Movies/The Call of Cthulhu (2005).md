@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-call-of-cthulhu-2005/","tags":["movies"],"created":"2025-09-06","updated":"2025-09-06"}
+{"dg-publish":true,"permalink":"/movies/the-call-of-cthulhu-2005/","tags":["movies"],"created":"2025-09-06","updated":"2025-09-06","dg-note-properties":{"aliases":["The Call of Cthulhu"],"date created":"2025-09-06","date finished":"2025-09-06","date modified":"2025-09-06","director":"[[Andrew Leman]]","tags":["movies"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["games","LP"],"created":"2024-05-21","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/silent-hill-1999/","tags":["games","LP"],"created":"2024-05-21","updated":"2025-10-02","dg-note-properties":{"aliases":["Silent Hill"],"date created":"2024-05-21","date finished":"2024-07-07","date modified":"2025-10-02","date started":"2024-06-02","played":true,"tags":["games","LP"]}}
 ---
 
 

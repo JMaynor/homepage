@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/book-of-hours-2023/","tags":["games","streamed"],"created":"2024-09-13","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/book-of-hours-2023/","tags":["games","streamed"],"created":"2024-09-13","updated":"2025-06-04","dg-note-properties":{"aliases":["Book of Hours"],"date created":"2024-09-13","date finished":"2024-09-12","date modified":"2025-06-04","date started":"2024-09-05","played":true,"tags":["games","streamed"]}}
 ---
 
 

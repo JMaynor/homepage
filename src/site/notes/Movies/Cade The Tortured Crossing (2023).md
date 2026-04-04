@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/cade-the-tortured-crossing-2023/","tags":["movies"],"created":"2024-12-08","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/cade-the-tortured-crossing-2023/","tags":["movies"],"created":"2024-12-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Cade The Tortured Crossing","date created":"2024-12-08","date modified":"2025-03-13","director":"[[Neil Breen]]","tags":"movies"}}
 ---
 
 

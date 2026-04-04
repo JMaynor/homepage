@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/dark-souls-iii-2016/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/games/dark-souls-iii-2016/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-17","dg-note-properties":{"aliases":["Dark Souls 3"],"date created":"2024-11-10","date finished":"2016-04-12","date modified":"2025-12-17","date started":"2016-04-12","tags":["games","streamed"]}}
 ---
 
 

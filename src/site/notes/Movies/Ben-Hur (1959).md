@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Ben-Hur","date created":"2023-11-30","date modified":"2025-03-13","director":"[[William Wyler]]","tags":"movies"}}
 ---
 
 
-![Poster Ben-Hur 1959.jpg|200](/img/user/_sys/Attachments/Poster%20Ben-Hur%201959.jpg)
+![Poster Ben-Hur 1959.jpg\|200](/img/user/_sys/Attachments/Poster%20Ben-Hur%201959.jpg)
 
 # Review
 

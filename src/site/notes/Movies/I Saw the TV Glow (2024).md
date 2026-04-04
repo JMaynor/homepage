@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/i-saw-the-tv-glow-2024/","tags":["movies"],"created":"2024-09-01","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/i-saw-the-tv-glow-2024/","tags":["movies"],"created":"2024-09-01","updated":"2025-03-13","dg-note-properties":{"aliases":"I Saw the TV Glow","date created":"2024-09-01","date modified":"2025-03-13","director":"[[Jane Schoenbrun]]","tags":"movies"}}
 ---
 
 

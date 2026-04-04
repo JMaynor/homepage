@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/intolerance-1916/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/intolerance-1916/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":"Intolerance","date created":"2024-01-25","date modified":"2025-03-13","director":"[[D. W. Griffith]]","tags":"movies"}}
 ---
 
 
-![Intolerance 1916.jpg|200](/img/user/_sys/Attachments/Intolerance%201916.jpg)
+![Intolerance 1916.jpg\|200](/img/user/_sys/Attachments/Intolerance%201916.jpg)
 
 # Review
 

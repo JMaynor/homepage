@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/vertigo-1958/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-08"}
+{"dg-publish":true,"permalink":"/movies/vertigo-1958/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-08","dg-note-properties":{"aliases":"Vertigo","date created":"2024-06-18","date modified":"2024-12-08","director":"[[Alfred Hitchcock]]","tags":"movies"}}
 ---
 
 
-![Vertigo 1958 Poster.jpg|200](/img/user/_sys/Attachments/Vertigo%201958%20Poster.jpg)
+![Vertigo 1958 Poster.jpg\|200](/img/user/_sys/Attachments/Vertigo%201958%20Poster.jpg)
 
 # Review
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/shane-1953/","tags":["movies"],"created":"2024-05-24","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/shane-1953/","tags":["movies"],"created":"2024-05-24","updated":"2025-03-13","dg-note-properties":{"aliases":"Shane","date created":"2024-05-24","date modified":"2025-03-13","director":"[[George Stevens]]","tags":"movies"}}
 ---
 
 
-![Shane 1953.jpg|200](/img/user/_sys/Attachments/Shane%201953.jpg)
+![Shane 1953.jpg\|200](/img/user/_sys/Attachments/Shane%201953.jpg)
 
 # Review
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/nosferatu-2024/","tags":["movies"],"created":"2025-01-26","updated":"2025-01-26"}
+{"dg-publish":true,"permalink":"/movies/nosferatu-2024/","tags":["movies"],"created":"2025-01-26","updated":"2025-01-26","dg-note-properties":{"aliases":"Nosferatu","date created":"2025-01-26","date modified":"2025-01-26","director":"[[Robert Eggers]]","tags":"movies"}}
 ---
 
 

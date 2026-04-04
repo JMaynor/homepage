@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/on-the-waterfront-1954/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18"}
+{"dg-publish":true,"permalink":"/movies/on-the-waterfront-1954/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"On the Waterfront","date created":"2024-06-18","date modified":"2024-10-18","director":"[[Elia Kazan]]","tags":"movies"}}
 ---
 
 
-![On the Waterfront 1954.jpg|200](/img/user/_sys/Attachments/On%20the%20Waterfront%201954.jpg)
+![On the Waterfront 1954.jpg\|200](/img/user/_sys/Attachments/On%20the%20Waterfront%201954.jpg)
 
 # Review
 

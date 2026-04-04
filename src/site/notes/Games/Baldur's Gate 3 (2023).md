@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/baldur-s-gate-3-2023/","tags":["games","streamed"],"created":"2025-03-20","updated":"2025-10-01"}
+{"dg-publish":true,"permalink":"/games/baldur-s-gate-3-2023/","tags":["games","streamed"],"created":"2025-03-20","updated":"2025-10-01","dg-note-properties":{"aliases":["Baldur's Gate 3"],"date created":"2025-03-20","date finished":null,"date modified":"2025-10-01","date started":"2025-06-03","played":false,"tags":["games","streamed"]}}
 ---
 
 

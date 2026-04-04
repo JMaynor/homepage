@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/silent-hill-3-2003/","tags":["games","LP"],"created":"2025-02-16","updated":"2025-10-02","dg-note-properties":{"aliases":["SH3","Silent Hill 3"],"date created":"2025-02-16","date finished":"2025-04-01","date modified":"2025-10-02","date started":"2025-02-15","played":true,"tags":["games","LP"]}}
 ---
 
 

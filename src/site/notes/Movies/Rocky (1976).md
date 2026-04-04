@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/rocky-1976/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/rocky-1976/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"Rocky","date created":"2024-03-21","date modified":"2025-03-13","director":"[[John G. Avildsen]]","tags":"movies"}}
 ---
 
 
-![Rocky 1976.jpg|200](/img/user/_sys/Attachments/Rocky%201976.jpg)
+![Rocky 1976.jpg\|200](/img/user/_sys/Attachments/Rocky%201976.jpg)
 
 # Review
 

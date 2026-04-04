@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-deer-hunter-1978/","tags":["movies"],"created":"2024-04-05","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-deer-hunter-1978/","tags":["movies"],"created":"2024-04-05","updated":"2025-03-13","dg-note-properties":{"aliases":"The Deer Hunter","date created":"2024-04-05","date modified":"2025-03-13","director":"[[Michael Cimino]]","tags":"movies"}}
 ---
 
 
-![The Deer Hunter 1978.jpg|200](/img/user/_sys/Attachments/The%20Deer%20Hunter%201978.jpg)
+![The Deer Hunter 1978.jpg\|200](/img/user/_sys/Attachments/The%20Deer%20Hunter%201978.jpg)
 
 # Review
 

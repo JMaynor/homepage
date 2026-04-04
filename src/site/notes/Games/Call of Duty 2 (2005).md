@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/call-of-duty-2-2005/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/call-of-duty-2-2005/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-04","dg-note-properties":{"aliases":[],"date created":"2023-12-08","date finished":"2023-04-02","date modified":"2025-06-04","date started":"2023-03-18","played":true,"tags":["games","LP"]}}
 ---
 
 

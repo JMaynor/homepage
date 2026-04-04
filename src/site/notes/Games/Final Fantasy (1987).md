@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/final-fantasy-1987/","tags":["games"],"created":"2025-09-04","updated":"2026-03-09"}
+{"dg-publish":true,"permalink":"/games/final-fantasy-1987/","tags":["games"],"created":"2025-09-04","updated":"2026-03-09","dg-note-properties":{"aliases":["FF1","Final Fantasy 1"],"date created":"2025-09-04","date finished":"2012-01-01","date modified":"2026-03-09","date started":"2012-01-01","tags":["games"]}}
 ---
 
 

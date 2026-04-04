@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-searchers-1956/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23"}
+{"dg-publish":true,"permalink":"/movies/the-searchers-1956/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23","dg-note-properties":{"aliases":"The Searchers","date created":"2024-06-18","date modified":"2024-11-23","director":"[[John Ford]]","tags":"movies"}}
 ---
 
 
-![The Searchers Poster.jpg|200](/img/user/_sys/Attachments/The%20Searchers%20Poster.jpg)
+![The Searchers Poster.jpg\|200](/img/user/_sys/Attachments/The%20Searchers%20Poster.jpg)
 
 # Review
 

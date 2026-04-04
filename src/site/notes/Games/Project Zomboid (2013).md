@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/project-zomboid-2013/","tags":["games","streamed"],"created":"2024-11-20","updated":"2026-03-02"}
+{"dg-publish":true,"permalink":"/games/project-zomboid-2013/","tags":["games","streamed"],"created":"2024-11-20","updated":"2026-03-02","dg-note-properties":{"aliases":["Project Zomboid"],"date created":"2024-11-20","date finished":null,"date modified":"2026-03-02","date started":"2024-08-24","tags":["games","streamed"]}}
 ---
 
 

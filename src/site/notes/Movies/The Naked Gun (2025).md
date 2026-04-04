@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-naked-gun-2025/","tags":["movies"],"created":"2025-08-10","updated":"2025-08-10"}
+{"dg-publish":true,"permalink":"/movies/the-naked-gun-2025/","tags":["movies"],"created":"2025-08-10","updated":"2025-08-10","dg-note-properties":{"aliases":["The Naked Gun"],"date created":"2025-08-10","date finished":"2025-08-10","date modified":"2025-08-10","director":"[[Akiva Schaffer]]","tags":["movies"]}}
 ---
 
 

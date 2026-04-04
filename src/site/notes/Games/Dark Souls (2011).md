@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/dark-souls-2011/","tags":["games","streamed"],"created":"2024-01-17","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/games/dark-souls-2011/","tags":["games","streamed"],"created":"2024-01-17","updated":"2025-12-17","dg-note-properties":{"aliases":["Dark Souls"],"date created":"2024-01-17","date finished":"2014-01-01","date modified":"2025-12-17","date started":"2014-01-01","tags":["games","streamed"]}}
 ---
 
 

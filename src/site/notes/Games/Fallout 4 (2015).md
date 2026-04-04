@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-12-22"}
+{"dg-publish":true,"permalink":"/games/fallout-4-2015/","tags":["games","LP"],"created":"2024-03-17","updated":"2025-12-22","dg-note-properties":{"aliases":["Fallout 4"],"date created":"2024-03-17","date finished":"2025-05-25","date modified":"2025-12-22","date started":"2024-04-20","played":true,"tags":["games","LP"]}}
 ---
 
 

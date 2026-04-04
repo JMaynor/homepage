@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/strange-darling-2023/","tags":["movies"],"created":"2024-10-08","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/strange-darling-2023/","tags":["movies"],"created":"2024-10-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Strange Darling","date created":"2024-10-08","date modified":"2025-03-13","director":"[[JT Mollner]]","tags":"movies"}}
 ---
 
 

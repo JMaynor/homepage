@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/schindler-s-list-1993/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-08"}
+{"dg-publish":true,"permalink":"/movies/schindler-s-list-1993/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-08","dg-note-properties":{"aliases":"Schindler’s List","date created":"2024-06-18","date modified":"2024-12-08","director":"[[Steven Spielberg]]","tags":"movies"}}
 ---
 
 
-![Schindler's List 1993 Poster.jpg|200](/img/user/_sys/Attachments/Schindler's%20List%201993%20Poster.jpg)
+![Schindler's List 1993 Poster.jpg\|200](/img/user/_sys/Attachments/Schindler's%20List%201993%20Poster.jpg)
 
 # Review
 

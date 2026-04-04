@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/7-days-to-die-2013/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11","dg-note-properties":{"aliases":["7 Days to Die"],"date created":"2024-07-23","date finished":"2022-10-27","date modified":"2025-10-11","date started":"2021-10-07","tags":["games","streamed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/perfect-blue-1997/","tags":["movies"],"created":"2025-01-24","updated":"2025-04-04"}
+{"dg-publish":true,"permalink":"/movies/perfect-blue-1997/","tags":["movies"],"created":"2025-01-24","updated":"2025-04-04","dg-note-properties":{"aliases":"Perfect Blue","date created":"2025-01-24","date modified":"2025-04-04","director":"[[Satoshi Kon]]","tags":"movies"}}
 ---
 
 

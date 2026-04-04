@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sunset-boulevard-1950/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-01"}
+{"dg-publish":true,"permalink":"/movies/sunset-boulevard-1950/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-01","dg-note-properties":{"aliases":"Sunset Boulevard","date created":"2024-06-18","date modified":"2024-11-01","director":"[[Billy Wilder]]","tags":"movies"}}
 ---
 
 
-![Sunset Boulevard 1950.jpg|200](/img/user/_sys/Attachments/Sunset%20Boulevard%201950.jpg)
+![Sunset Boulevard 1950.jpg\|200](/img/user/_sys/Attachments/Sunset%20Boulevard%201950.jpg)
 
 # Review
 

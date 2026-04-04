@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/cuphead-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-03","dg-note-properties":{"aliases":["Cuphead"],"date created":"2024-07-23","date finished":"2023-12-09","date modified":"2025-09-03","date started":"2023-09-09","played":true,"tags":["games","streamed"]}}
 ---
 
 

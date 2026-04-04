@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/disco-elysium-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":"Disco Elysium","date created":"2023-12-08","date finished":"2023-06-19","date modified":"2025-06-03","date started":"2023-04-05","played":true,"tags":["games","LP"]}}
 ---
 
 

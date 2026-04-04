@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/boiling-point-2021/","tags":["movies"],"created":"2025-09-22","updated":"2025-09-22"}
+{"dg-publish":true,"permalink":"/movies/boiling-point-2021/","tags":["movies"],"created":"2025-09-22","updated":"2025-09-22","dg-note-properties":{"aliases":["Boiling Point"],"date created":"2025-09-22","date finished":"2025-09-21","date modified":"2025-09-22","director":"[[Philip Barantini]]","tags":["movies"]}}
 ---
 
 

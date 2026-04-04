@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/dark-souls-ii-2014/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-19"}
+{"dg-publish":true,"permalink":"/games/dark-souls-ii-2014/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-19","dg-note-properties":{"aliases":["Dark Souls 2"],"date created":"2024-11-10","date finished":"2014-03-11","date modified":"2025-12-19","date started":"2014-03-11","played":true,"tags":["games","streamed"]}}
 ---
 
 

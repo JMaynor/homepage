@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/taxi-driver-1976/","tags":["movies"],"created":"2024-04-05","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/taxi-driver-1976/","tags":["movies"],"created":"2024-04-05","updated":"2025-03-13","dg-note-properties":{"aliases":"Taxi Driver","date created":"2024-04-05","date modified":"2025-03-13","director":"[[Martin Scorsese]]","tags":"movies"}}
 ---
 
 
-![Taxi Driver 1976.jpg|200](/img/user/_sys/Attachments/Taxi%20Driver%201976.jpg)
+![Taxi Driver 1976.jpg\|200](/img/user/_sys/Attachments/Taxi%20Driver%201976.jpg)
 
 # Review
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-bridge-on-the-river-kwai-1957/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-bridge-on-the-river-kwai-1957/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Bridge on the River Kwai","date created":"2024-06-18","date modified":"2025-03-13","director":"[[David Lean]]","tags":"movies"}}
 ---
 
 
-![The Bridge on the River Kwai 1958.jpg|200](/img/user/_sys/Attachments/The%20Bridge%20on%20the%20River%20Kwai%201958.jpg)
+![The Bridge on the River Kwai 1958.jpg\|200](/img/user/_sys/Attachments/The%20Bridge%20on%20the%20River%20Kwai%201958.jpg)
 
 # Review
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/silent-hill-2006/","tags":["movies"],"created":"2025-02-15","updated":"2025-03-24"}
+{"dg-publish":true,"permalink":"/movies/silent-hill-2006/","tags":["movies"],"created":"2025-02-15","updated":"2025-03-24","dg-note-properties":{"aliases":"Silent Hill Movie","date created":"2025-02-15","date modified":"2025-03-24","director":"[[Christophe Gans]]","tags":"movies"}}
 ---
 
 

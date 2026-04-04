@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/it-happened-one-night-1934/","tags":["movies"],"created":"2024-05-24","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/it-happened-one-night-1934/","tags":["movies"],"created":"2024-05-24","updated":"2025-03-13","dg-note-properties":{"aliases":"It Happened One Night","date created":"2024-05-24","date modified":"2025-03-13","director":"[[Frank Capra]]","tags":"movies"}}
 ---
 
 
-![It happened one night 1934.jpg|200](/img/user/_sys/Attachments/It%20happened%20one%20night%201934.jpg)
+![It happened one night 1934.jpg\|200](/img/user/_sys/Attachments/It%20happened%20one%20night%201934.jpg)
 
 # Review
 

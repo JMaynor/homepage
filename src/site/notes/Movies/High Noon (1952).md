@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/high-noon-1952/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/high-noon-1952/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"High Noon","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Fred Zinnemann]]","tags":"movies"}}
 ---
 
 
-![High Noon 1952.jpg|200](/img/user/_sys/Attachments/High%20Noon%201952.jpg)
+![High Noon 1952.jpg\|200](/img/user/_sys/Attachments/High%20Noon%201952.jpg)
 
 # Review
 

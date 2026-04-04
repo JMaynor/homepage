@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-witch-2015/","tags":["movies"],"created":"2023-12-26","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-witch-2015/","tags":["movies"],"created":"2023-12-26","updated":"2025-03-13","dg-note-properties":{"aliases":"The Witch","date created":"2023-12-26","date modified":"2025-03-13","director":"[[Robert Eggers]]","tags":"movies"}}
 ---
 
 

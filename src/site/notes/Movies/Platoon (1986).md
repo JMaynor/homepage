@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/platoon-1986/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/platoon-1986/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Platoon","date created":"2023-12-04","date modified":"2025-03-13","director":"[[Oliver Stone]]","tags":"movies"}}
 ---
 
 
-![Platoon 1986.jpg|200](/img/user/_sys/Attachments/Platoon%201986.jpg)
+![Platoon 1986.jpg\|200](/img/user/_sys/Attachments/Platoon%201986.jpg)
 
 # Review
 

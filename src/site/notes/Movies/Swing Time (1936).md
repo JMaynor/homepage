@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/swing-time-1936/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/swing-time-1936/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Swing Time","date created":"2023-11-30","date modified":"2025-03-13","director":"[[George Stevens]]","tags":"movies"}}
 ---
 
 
-![Swing_Time 1936.jpg|200](/img/user/_sys/Attachments/Swing_Time%201936.jpg)
+![Swing_Time 1936.jpg\|200](/img/user/_sys/Attachments/Swing_Time%201936.jpg)
 
 # Review
 

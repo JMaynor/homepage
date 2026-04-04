@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-treasure-of-the-sierra-madre-1948/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-treasure-of-the-sierra-madre-1948/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Treasure of the Sierra Madre","date created":"2024-06-18","date modified":"2025-03-13","director":"[[John Huston]]","tags":"movies"}}
 ---
 
 
-![The Treasure of the Sierra Madre 1947.jpg|200](/img/user/_sys/Attachments/The%20Treasure%20of%20the%20Sierra%20Madre%201947.jpg)
+![The Treasure of the Sierra Madre 1947.jpg\|200](/img/user/_sys/Attachments/The%20Treasure%20of%20the%20Sierra%20Madre%201947.jpg)
 
 # Review
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/they-shoot-horses-don-t-they-1969/","tags":["movies"],"created":"2025-03-30","updated":"2025-03-30"}
+{"dg-publish":true,"permalink":"/movies/they-shoot-horses-don-t-they-1969/","tags":["movies"],"created":"2025-03-30","updated":"2025-03-30","dg-note-properties":{"aliases":"They Shoot Horses, Don't They?","date created":"2025-03-30","date modified":"2025-03-30","director":"[[Sydney Pollack]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/scarlet-hollow-2021/","tags":["games","LP"],"created":"2024-02-13","updated":"2025-07-21"}
+{"dg-publish":true,"permalink":"/games/scarlet-hollow-2021/","tags":["games","LP"],"created":"2024-02-13","updated":"2025-07-21","dg-note-properties":{"aliases":[],"date created":"2024-02-13","date finished":null,"date modified":"2025-07-21","date started":"2024-02-21","tags":["games","LP"]}}
 ---
 
 

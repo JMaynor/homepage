@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/hocus-pocus-1993/","tags":["movies"],"created":"2024-04-19","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/hocus-pocus-1993/","tags":["movies"],"created":"2024-04-19","updated":"2025-03-13","dg-note-properties":{"aliases":"Hocus Pocus","date created":"2024-04-19","date modified":"2025-03-13","director":"[[Kenny Ortega]]","tags":"movies"}}
 ---
 
 

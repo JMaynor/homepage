@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["games","LP"],"created":"2024-08-26","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/silent-hill-2-2001/","tags":["games","LP"],"created":"2024-08-26","updated":"2025-06-03","dg-note-properties":{"aliases":["SH2","Silent Hill 2"],"date created":"2024-08-26","date finished":"2024-11-17","date modified":"2025-06-03","date started":"2024-09-19","played":true,"tags":["games","LP"]}}
 ---
 
 

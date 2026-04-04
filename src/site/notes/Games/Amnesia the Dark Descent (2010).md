@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/amnesia-the-dark-descent-2010/","tags":["games","LP"],"created":"2024-07-25","updated":"2025-10-28"}
+{"dg-publish":true,"permalink":"/games/amnesia-the-dark-descent-2010/","tags":["games","LP"],"created":"2024-07-25","updated":"2025-10-28","dg-note-properties":{"aliases":["Amnesia The Dark Descent","Dark Descent"],"date created":"2024-07-25","date finished":"2025-10-27","date modified":"2025-10-28","date started":"2025-08-05","tags":["games","LP"]}}
 ---
 
 

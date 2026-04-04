@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/apocalypse-now-1979/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/apocalypse-now-1979/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Apocalypse Now","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Francis Ford Coppola]]","tags":"movies"}}
 ---
 
 
-![Apocalypse Now 1979.jpg|200](/img/user/_sys/Attachments/Apocalypse%20Now%201979.jpg)
+![Apocalypse Now 1979.jpg\|200](/img/user/_sys/Attachments/Apocalypse%20Now%201979.jpg)
 
 # Review
 

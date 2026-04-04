@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/bloodborne-2015/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-19"}
+{"dg-publish":true,"permalink":"/games/bloodborne-2015/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-12-19","dg-note-properties":{"aliases":["Bloodborne"],"date created":"2024-11-10","date finished":"2015-03-24","date modified":"2025-12-19","date started":"2015-03-24","tags":["games","streamed"]}}
 ---
 
 

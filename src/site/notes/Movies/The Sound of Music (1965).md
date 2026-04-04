@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-sound-of-music-1965/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13","dg-note-properties":{"aliases":"The Sound of Music","date created":"2024-05-07","date modified":"2025-03-13","director":"[[Robert Wise]]","tags":"movies"}}
 ---
 
 
-![Sound of music 1965.jpg|200](/img/user/_sys/Attachments/Sound%20of%20music%201965.jpg)
+![Sound of music 1965.jpg\|200](/img/user/_sys/Attachments/Sound%20of%20music%201965.jpg)
 
 # Review
 

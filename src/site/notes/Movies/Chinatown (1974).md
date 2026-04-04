@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/chinatown-1974/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-10"}
+{"dg-publish":true,"permalink":"/movies/chinatown-1974/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-10","dg-note-properties":{"aliases":"Chinatown","date created":"2024-06-18","date modified":"2024-12-10","director":"[[Roman Polanski]]","tags":"movies"}}
 ---
 
 
-![Chinatown.jpg| 200](/img/user/_sys/Attachments/Chinatown.jpg)
+![Chinatown.jpg\| 200](/img/user/_sys/Attachments/Chinatown.jpg)
 
 # Review
 

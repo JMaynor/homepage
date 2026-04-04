@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["games","streamed"],"created":"2024-06-08","updated":"2025-12-17"}
+{"dg-publish":true,"permalink":"/games/elden-ring-2022/","tags":["games","streamed"],"created":"2024-06-08","updated":"2025-12-17","dg-note-properties":{"aliases":["Elden Ring"],"date created":"2024-06-08","date finished":"2024-07-18","date modified":"2025-12-17","date started":"2022-02-24","tags":["games","streamed"]}}
 ---
 
 

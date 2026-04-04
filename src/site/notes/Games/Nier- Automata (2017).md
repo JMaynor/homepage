@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/nier-automata-2017/","tags":["games"],"created":"2025-02-11","updated":"2025-02-11"}
+{"dg-publish":true,"permalink":"/games/nier-automata-2017/","tags":["games"],"created":"2025-02-11","updated":"2025-02-11","dg-note-properties":{"aliases":["Nier: Automata","Nier Automata"],"date created":"2025-02-11","date modified":"2025-02-11","played":false,"tags":"games"}}
 ---
 
 

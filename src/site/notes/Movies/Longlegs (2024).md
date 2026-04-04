@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/longlegs-2024/","tags":["movies"],"created":"2024-07-14","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/longlegs-2024/","tags":["movies"],"created":"2024-07-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Longlegs","date created":"2024-07-14","date modified":"2025-03-13","director":"[[Osgood Perkins]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/hereditary-2018/","tags":["movies"],"created":"2025-10-26","updated":"2025-10-26"}
+{"dg-publish":true,"permalink":"/movies/hereditary-2018/","tags":["movies"],"created":"2025-10-26","updated":"2025-10-26","dg-note-properties":{"aliases":["Hereditary"],"date created":"2025-10-26","date finished":"2025-10-26","date modified":"2025-10-26","director":"[[Ari Aster]]","tags":["movies"]}}
 ---
 
 

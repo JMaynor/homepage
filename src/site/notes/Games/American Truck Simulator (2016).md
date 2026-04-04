@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/american-truck-simulator-2016/","tags":["games","streamed"],"created":"2024-07-05","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/american-truck-simulator-2016/","tags":["games","streamed"],"created":"2024-07-05","updated":"2025-09-03","dg-note-properties":{"aliases":["American Truck Simulator"],"date created":"2024-07-05","date finished":null,"date modified":"2025-09-03","date started":null,"tags":["games","streamed"]}}
 ---
 
 

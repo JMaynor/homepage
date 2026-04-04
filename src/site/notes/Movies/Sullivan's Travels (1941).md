@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sullivan-s-travels-1941/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/sullivan-s-travels-1941/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13","dg-note-properties":{"aliases":"Sullivan's Travels","date created":"2024-03-05","date modified":"2025-03-13","director":"[[Preston Sturges]]","tags":"movies"}}
 ---
 
 
-![Sullivan's Travels 1941.jpg|200](/img/user/_sys/Attachments/Sullivan's%20Travels%201941.jpg)
+![Sullivan's Travels 1941.jpg\|200](/img/user/_sys/Attachments/Sullivan's%20Travels%201941.jpg)
 
 # Review
 

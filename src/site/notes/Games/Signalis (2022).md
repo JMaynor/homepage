@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/signalis-2022/","tags":["games","streamed"],"created":"2024-07-01","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/signalis-2022/","tags":["games","streamed"],"created":"2024-07-01","updated":"2025-10-11","dg-note-properties":{"aliases":["Signalis"],"date created":"2024-07-01","date finished":"2023-07-18","date modified":"2025-10-11","date started":"2023-07-04","tags":["games","streamed"]}}
 ---
 
 

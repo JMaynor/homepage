@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/unforgiven-1992/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/unforgiven-1992/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":"Unforgiven","date created":"2024-01-25","date modified":"2025-03-13","director":"[[Clint Eastwood]]","tags":"movies"}}
 ---
 
 
-![Unforgiven 1992.jpg|200](/img/user/_sys/Attachments/Unforgiven%201992.jpg)
+![Unforgiven 1992.jpg\|200](/img/user/_sys/Attachments/Unforgiven%201992.jpg)
 
 # Review
 

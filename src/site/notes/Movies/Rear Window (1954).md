@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/rear-window-1954/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/rear-window-1954/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13","dg-note-properties":{"aliases":"Rear Window","date created":"2024-05-07","date modified":"2025-03-13","director":"[[Alfred Hitchcock]]","tags":"movies"}}
 ---
 
 
-![Rear Window 1954.jpg|200](/img/user/_sys/Attachments/Rear%20Window%201954.jpg)
+![Rear Window 1954.jpg\|200](/img/user/_sys/Attachments/Rear%20Window%201954.jpg)
 
 # Review
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","tags":["movies"],"created":"2023-12-29","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/in-the-heat-of-the-night-1967/","tags":["movies"],"created":"2023-12-29","updated":"2025-03-13","dg-note-properties":{"aliases":"In the Heat of the Night","date created":"2023-12-29","date modified":"2025-03-13","director":"[[Norman Jewison]]","tags":"movies"}}
 ---
 
 
-![In the Heat of the Night 1967.jpg|200](/img/user/_sys/Attachments/In%20the%20Heat%20of%20the%20Night%201967.jpg)
+![In the Heat of the Night 1967.jpg\|200](/img/user/_sys/Attachments/In%20the%20Heat%20of%20the%20Night%201967.jpg)
 
 # Review
 

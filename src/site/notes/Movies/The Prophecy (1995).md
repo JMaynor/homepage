@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-prophecy-1995/","tags":["movies"],"created":"2024-09-23","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/the-prophecy-1995/","tags":["movies"],"created":"2024-09-23","updated":"2025-03-13","dg-note-properties":{"aliases":"The Prophecy","date created":"2024-09-23","date modified":"2025-03-13","director":"[[Gregory Widen]]","tags":"movies"}}
 ---
 
 

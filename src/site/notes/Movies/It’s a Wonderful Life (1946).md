@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/it-s-a-wonderful-life-1946/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18"}
+{"dg-publish":true,"permalink":"/movies/it-s-a-wonderful-life-1946/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"It’s a Wonderful Life","date created":"2024-06-18","date modified":"2024-10-18","director":"[[Frank Capra]]","tags":"movies"}}
 ---
 
 
-![It's a Wonderful Life 1946.jpeg|200](/img/user/_sys/Attachments/It's%20a%20Wonderful%20Life%201946.jpeg)
+![It's a Wonderful Life 1946.jpeg\|200](/img/user/_sys/Attachments/It's%20a%20Wonderful%20Life%201946.jpeg)
 
 # Review
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-sign-of-the-cross-1932/","tags":["movies"],"created":"2025-04-23","updated":"2025-04-25"}
+{"dg-publish":true,"permalink":"/movies/the-sign-of-the-cross-1932/","tags":["movies"],"created":"2025-04-23","updated":"2025-04-25","dg-note-properties":{"aliases":"The Sign of the Cross","date created":"2025-04-23","date modified":"2025-04-25","director":"[[Cecil B. DeMille]]","tags":"movies"}}
 ---
 
 
