@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-final-station-2016/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/the-final-station-2016/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-10-02","dg-note-properties":{"aliases":[],"date created":"2023-12-08","date finished":"2023-10-02","date modified":"2025-10-02","date started":"2023-09-17","played":true,"tags":["games","LP"]}}
 ---
 
 

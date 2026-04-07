@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/alien-romulus-2024/","tags":["movies"],"created":"2024-08-17","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/alien-romulus-2024/","tags":["movies"],"created":"2024-08-17","updated":"2025-03-13","dg-note-properties":{"aliases":"Alien Romulus","date created":"2024-08-17","date modified":"2025-03-13","director":"[[Fede Álvarez]]","tags":"movies"}}
 ---
 
 

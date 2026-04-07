@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/12-angry-men-1957/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":["12 Angry Men","Twelve Angry Men"],"date created":"2023-12-04","date modified":"2025-03-13","director":"[[Sidney Lumet]]","tags":"movies"}}
 ---
 
 
-![12 Angry Men 1957.jpg|200](/img/user/_sys/Attachments/12%20Angry%20Men%201957.jpg)
+![12 Angry Men 1957.jpg\|200](/img/user/_sys/Attachments/12%20Angry%20Men%201957.jpg)
 
 # Review
 

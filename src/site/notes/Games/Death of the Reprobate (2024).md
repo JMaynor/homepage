@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/death-of-the-reprobate-2024/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/death-of-the-reprobate-2024/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-09-04","dg-note-properties":{"aliases":["Death of the Reprobate"],"date created":"2025-06-06","date finished":"2025-07-15","date modified":"2025-09-04","date started":"2025-06-12","tags":["games","streamed"]}}
 ---
 
 

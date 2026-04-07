@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/nightmare-kart-2024/","tags":["games","streamed"],"created":"2026-01-22","updated":"2026-01-23"}
+{"dg-publish":true,"permalink":"/games/nightmare-kart-2024/","tags":["games","streamed"],"created":"2026-01-22","updated":"2026-01-23","dg-note-properties":{"aliases":[],"date created":"2026-01-22","date finished":"2026-01-20","date modified":"2026-01-23","date started":"2026-01-20","tags":["games","streamed"]}}
 ---
 
 

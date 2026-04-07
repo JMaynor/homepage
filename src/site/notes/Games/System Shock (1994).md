@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-10-09"}
+{"dg-publish":true,"permalink":"/games/system-shock-1994/","tags":["games","LP"],"created":"2025-05-26","updated":"2025-10-09","dg-note-properties":{"aliases":["System Shock"],"date created":"2025-05-26","date finished":"2025-10-08","date modified":"2025-10-09","date started":"2025-05-26","played":false,"tags":["games","LP"]}}
 ---
 
 

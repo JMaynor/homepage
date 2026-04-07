@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["games","LP"],"created":"2024-01-08","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/tormented-souls-2021/","tags":["games","LP"],"created":"2024-01-08","updated":"2025-10-02","dg-note-properties":{"aliases":[],"date created":"2024-01-08","date finished":"2024-01-08","date modified":"2025-10-02","date started":"2023-11-12","played":true,"tags":["games","LP"]}}
 ---
 
 

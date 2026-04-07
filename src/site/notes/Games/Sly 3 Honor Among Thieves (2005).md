@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-3-honor-among-thieves-2005/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/sly-3-honor-among-thieves-2005/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-10-11","dg-note-properties":{"aliases":["Sly 3"],"date created":"2024-11-10","date finished":"2025-04-12","date modified":"2025-10-11","date started":"2025-03-29","tags":["games","streamed"]}}
 ---
 
 

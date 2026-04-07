@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/star-trucker-2024/","tags":["games","streamed"],"created":"2025-09-03","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/star-trucker-2024/","tags":["games","streamed"],"created":"2025-09-03","updated":"2025-09-03","dg-note-properties":{"aliases":[],"date created":"2025-09-03","date finished":null,"date modified":"2025-09-03","date started":"2025-09-02","tags":["games","streamed"]}}
 ---
 
 

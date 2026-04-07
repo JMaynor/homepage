@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["games","streamed"],"created":"2024-05-13","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/paradox-games/","tags":["games","streamed"],"created":"2024-05-13","updated":"2025-09-03","dg-note-properties":{"aliases":[],"date created":"2024-05-13","date modified":"2025-09-03","played":true,"tags":["games","streamed"]}}
 ---
 
 

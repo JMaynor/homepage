@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-case-of-the-golden-idol-2022/","tags":["games","LP"],"created":"2024-04-08","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/the-case-of-the-golden-idol-2022/","tags":["games","LP"],"created":"2024-04-08","updated":"2025-10-02","dg-note-properties":{"aliases":["Case of the Golden Idol","The Case of the Golden Idol"],"date created":"2024-04-08","date finished":"2024-04-06","date modified":"2025-10-02","date started":"2024-03-03","played":true,"tags":["games","LP"]}}
 ---
 
 

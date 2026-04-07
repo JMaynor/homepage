@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/american-graffiti-1973/","tags":["movies"],"created":"2024-03-05","updated":"2025-03-13","dg-note-properties":{"aliases":"American Graffiti","date created":"2024-03-05","date modified":"2025-03-13","director":"[[George Lucas]]","tags":"movies"}}
 ---
 
 
-![American Graffiti 1973.jpg|200](/img/user/_sys/Attachments/American%20Graffiti%201973.jpg)
+![American Graffiti 1973.jpg\|200](/img/user/_sys/Attachments/American%20Graffiti%201973.jpg)
 
 # Review
 

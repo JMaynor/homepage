@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-2019/","tags":["games","streamed"],"created":"2024-10-08","updated":"2025-10-11","dg-note-properties":{"aliases":["KH3","Kingdom Hearts 3"],"date created":"2024-10-08","date finished":"2024-12-05","date modified":"2025-10-11","date started":"2024-10-17","tags":["games","streamed"]}}
 ---
 
 

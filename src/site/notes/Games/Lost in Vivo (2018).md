@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/lost-in-vivo-2018/","tags":["games","streamed"],"created":"2025-12-28","updated":"2025-12-28"}
+{"dg-publish":true,"permalink":"/games/lost-in-vivo-2018/","tags":["games","streamed"],"created":"2025-12-28","updated":"2025-12-28","dg-note-properties":{"aliases":["Lost in Vivo"],"date created":"2025-12-28","date finished":"2025-12-23","date modified":"2025-12-28","date started":"2025-12-23","tags":["games","streamed"]}}
 ---
 
 

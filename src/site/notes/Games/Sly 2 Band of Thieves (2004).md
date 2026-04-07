@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/sly-2-band-of-thieves-2004/","tags":["games","streamed"],"created":"2024-11-11","updated":"2025-10-11","dg-note-properties":{"aliases":[],"date created":"2024-11-11","date finished":"2025-03-22","date modified":"2025-10-11","date started":"2025-02-27","tags":["games","streamed"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/sly-cooper-and-the-thievius-raccoonus-2002/","tags":["games","streamed"],"created":"2024-11-10","updated":"2025-10-11","dg-note-properties":{"aliases":["Sly Cooper"],"date created":"2024-11-10","date finished":"2025-02-22","date modified":"2025-10-11","date started":"2025-02-20","tags":["games","streamed"]}}
 ---
 
 

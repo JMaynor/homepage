@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-procession-to-calvary-2020/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-07-15"}
+{"dg-publish":true,"permalink":"/games/the-procession-to-calvary-2020/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-07-15","dg-note-properties":{"aliases":["The Procession to Calvary"],"date created":"2025-06-06","date finished":"2025-06-12","date modified":"2025-07-15","date started":"2025-06-07","tags":["games","streamed"]}}
 ---
 
 

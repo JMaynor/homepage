@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/okami-2006/","tags":["games","streamed"],"created":"2025-12-17","updated":"2025-12-18"}
+{"dg-publish":true,"permalink":"/games/okami-2006/","tags":["games","streamed"],"created":"2025-12-17","updated":"2025-12-18","dg-note-properties":{"aliases":["Okami"],"date created":"2025-12-17","date finished":"2009-01-01","date modified":"2025-12-18","date started":"2009-01-01","tags":["games","streamed"]}}
 ---
 
 

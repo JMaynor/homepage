@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/resident-evil-4-2005/","tags":["games","LP"],"created":"2025-05-30","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/resident-evil-4-2005/","tags":["games","LP"],"created":"2025-05-30","updated":"2025-10-02","dg-note-properties":{"aliases":["Resident Evil 4"],"date created":"2025-05-30","date finished":"2025-10-02","date modified":"2025-10-02","date started":"2025-06-30","tags":["games","LP"]}}
 ---
 
 

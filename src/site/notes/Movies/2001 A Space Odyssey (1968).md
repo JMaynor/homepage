@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/2001-a-space-odyssey-1968/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-08"}
+{"dg-publish":true,"permalink":"/movies/2001-a-space-odyssey-1968/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-08","dg-note-properties":{"aliases":["2001: A Space Odyssey","2001"],"date created":"2024-06-18","date modified":"2024-11-08","director":"[[Stanley Kubrick]]","tags":"movies"}}
 ---
 
 
-![2001 A Space Odyssey 1968 Poster.png|200](/img/user/_sys/Attachments/2001%20A%20Space%20Odyssey%201968%20Poster.png)
+![2001 A Space Odyssey 1968 Poster.png\|200](/img/user/_sys/Attachments/2001%20A%20Space%20Odyssey%201968%20Poster.png)
 
 # Review
 

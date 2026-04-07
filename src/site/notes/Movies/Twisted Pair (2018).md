@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/twisted-pair-2018/","tags":["movies"],"created":"2024-10-06","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/twisted-pair-2018/","tags":["movies"],"created":"2024-10-06","updated":"2025-03-13","dg-note-properties":{"aliases":"Twisted Pair","date created":"2024-10-06","date modified":"2025-03-13","director":"[[Neil Breen]]","tags":"movies"}}
 ---
 
 

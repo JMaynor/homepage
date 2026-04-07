@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-night-at-the-opera-1935/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/a-night-at-the-opera-1935/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"A Night at the Opera","date created":"2023-12-04","date modified":"2025-03-13","director":"[[Sam Wood]]","tags":"movies"}}
 ---
 
 
-![A Night at the Opera 1935.jpg|200](/img/user/_sys/Attachments/A%20Night%20at%20the%20Opera%201935.jpg)
+![A Night at the Opera 1935.jpg\|200](/img/user/_sys/Attachments/A%20Night%20at%20the%20Opera%201935.jpg)
 
 # Review
 

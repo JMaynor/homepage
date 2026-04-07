@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":null,"date created":"2023-12-08","date finished":"2023-10-22","date modified":"2025-06-03","date started":"2023-09-20","played":true,"tags":["games","LP"]}}
 ---
 
 

@@ -7,7 +7,7 @@
 
 # Review
 
-I love [[Billy Wilder]]. I love [[People/Jack Lemmon\|Jack Lemmon]]. I love [[People/Tony Curtis\|Tony Curtis]]. I love [[People/Marilyn Monroe\|Marilyn Monroe]]. This film was so funny and so good. I really do love Wilder's directorial style. During dialogue in particular it stands out. I love how he frequently will get shots that include several of the characters in the scene so we can get all their reactions to something someone's saying. Without it just feeling like a stageplay where we all line up and talk in a weird way to each other.
+I love [[People/Billy Wilder\|Billy Wilder]]. I love [[People/Jack Lemmon\|Jack Lemmon]]. I love [[People/Tony Curtis\|Tony Curtis]]. I love [[People/Marilyn Monroe\|Marilyn Monroe]]. This film was so funny and so good. I really do love Wilder's directorial style. During dialogue in particular it stands out. I love how he frequently will get shots that include several of the characters in the scene so we can get all their reactions to something someone's saying. Without it just feeling like a stageplay where we all line up and talk in a weird way to each other.
 
 The snappy dialogue makes things feel so natural. Not necessarily because it's what somebody would actually say in a given situation. But it's friendly and bouncy and *feels* like how you think about speaking with friends. (Lemmon's and Curtis' dialogue with each other being the big highlight here.)
 

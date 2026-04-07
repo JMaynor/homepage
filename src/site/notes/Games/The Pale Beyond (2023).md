@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-pale-beyond-2023/","tags":["games","LP"],"created":"2024-02-14","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/the-pale-beyond-2023/","tags":["games","LP"],"created":"2024-02-14","updated":"2025-06-03","dg-note-properties":{"aliases":null,"date created":"2024-02-14","date finished":"2024-04-27","date modified":"2025-06-03","date started":"2024-03-28","played":true,"tags":["games","LP"]}}
 ---
 
 

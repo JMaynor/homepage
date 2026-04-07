@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/tootsie-1982/","tags":["movies"],"created":"2024-01-19","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/tootsie-1982/","tags":["movies"],"created":"2024-01-19","updated":"2025-03-13","dg-note-properties":{"aliases":"Tootsie","date created":"2024-01-19","date modified":"2025-03-13","director":"[[Sydney Pollack]]","tags":"movies"}}
 ---
 
 
-![Tootsie 1982.jpg|200](/img/user/_sys/Attachments/Tootsie%201982.jpg)
+![Tootsie 1982.jpg\|200](/img/user/_sys/Attachments/Tootsie%201982.jpg)
 
 # Review
 

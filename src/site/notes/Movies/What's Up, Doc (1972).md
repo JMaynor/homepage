@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/what-s-up-doc-1972/","tags":["movies"],"created":"2025-03-08","updated":"2025-03-08"}
+{"dg-publish":true,"permalink":"/movies/what-s-up-doc-1972/","tags":["movies"],"created":"2025-03-08","updated":"2025-03-08","dg-note-properties":{"aliases":"What's Up, Doc?","date created":"2025-03-08","date modified":"2025-03-08","director":"[[Peter Bogdanovich]]","tags":"movies"}}
 ---
 
 

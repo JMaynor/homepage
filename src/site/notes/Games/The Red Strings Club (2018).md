@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-red-strings-club-2018/","tags":["games","streamed"],"created":"2025-11-06","updated":"2025-11-06"}
+{"dg-publish":true,"permalink":"/games/the-red-strings-club-2018/","tags":["games","streamed"],"created":"2025-11-06","updated":"2025-11-06","dg-note-properties":{"aliases":["The Red Strings Club"],"date created":"2025-11-06","date finished":"2025-11-06","date modified":"2025-11-06","date started":"2025-11-06","tags":["games","streamed"]}}
 ---
 
 

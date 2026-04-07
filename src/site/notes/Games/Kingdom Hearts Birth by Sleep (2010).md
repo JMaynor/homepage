@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["games","streamed"],"created":"2024-07-08","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-birth-by-sleep-2010/","tags":["games","streamed"],"created":"2024-07-08","updated":"2025-10-11","dg-note-properties":{"aliases":["BBS","Birth By Sleep","Kingdom Hearts Birth By Sleep"],"date created":"2024-07-08","date finished":"2024-08-22","date modified":"2025-10-11","date started":"2024-08-01","tags":["games","streamed"]}}
 ---
 
 

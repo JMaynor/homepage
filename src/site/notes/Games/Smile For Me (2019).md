@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/smile-for-me-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/smile-for-me-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-10-02","dg-note-properties":{"aliases":[],"date created":"2023-12-08","date finished":"2023-08-11","date modified":"2025-10-02","date started":"2023-07-31","played":true,"tags":["games","LP"]}}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","tags":["movies"],"created":"2024-01-08","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/a-clockwork-orange-1971/","tags":["movies"],"created":"2024-01-08","updated":"2025-03-13","dg-note-properties":{"aliases":"A Clockwork Orange","date created":"2024-01-08","date modified":"2025-03-13","director":"[[People/Stanley Kubrick\|Stanley Kubrick]]","tags":"movies"}}
 ---
 
 
-![A Clockwork Orange 1971.png|200](/img/user/_sys/Attachments/A%20Clockwork%20Orange%201971.png)
+![A Clockwork Orange 1971.png\|200](/img/user/_sys/Attachments/A%20Clockwork%20Orange%201971.png)
 
 # Review
 

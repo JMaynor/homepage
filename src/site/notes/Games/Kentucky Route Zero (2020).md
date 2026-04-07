@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kentucky-route-zero-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/kentucky-route-zero-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":"Kentucky Route Zero","date created":"2023-12-08","date finished":"2022-04-16","date modified":"2025-06-03","date started":"2022-04-03","played":true,"tags":["games","LP"]}}
 ---
 
 

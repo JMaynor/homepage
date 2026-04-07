@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["games","streamed"],"created":"2024-03-12","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-2-2005/","tags":["games","streamed"],"created":"2024-03-12","updated":"2025-09-04","dg-note-properties":{"aliases":["Kingdom Hearts 2"],"date created":"2024-03-12","date finished":"2006-03-28","date modified":"2025-09-04","date started":"2006-03-28","tags":["games","streamed"]}}
 ---
 
 

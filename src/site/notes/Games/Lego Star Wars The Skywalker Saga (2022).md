@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/lego-star-wars-the-skywalker-saga-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/lego-star-wars-the-skywalker-saga-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":["Lego Star Wars"],"date created":"2024-07-23","date finished":"2023-08-24","date modified":"2025-09-04","date started":"2023-06-11","tags":["games","streamed"]}}
 ---
 
 

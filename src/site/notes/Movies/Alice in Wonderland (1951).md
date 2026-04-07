@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/alice-in-wonderland-1951/","tags":["movies"],"created":"2024-11-06","updated":"2024-11-10"}
+{"dg-publish":true,"permalink":"/movies/alice-in-wonderland-1951/","tags":["movies"],"created":"2024-11-06","updated":"2024-11-10","dg-note-properties":{"aliases":"Alice in Wonderland","date created":"2024-11-06","date modified":"2024-11-10","director":null,"tags":"movies"}}
 ---
 
 

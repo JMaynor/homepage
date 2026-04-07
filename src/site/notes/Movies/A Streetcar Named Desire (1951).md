@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-streetcar-named-desire-1951/","tags":["movies"],"created":"2024-05-20","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/a-streetcar-named-desire-1951/","tags":["movies"],"created":"2024-05-20","updated":"2025-03-13","dg-note-properties":{"aliases":"A Streetcar Named Desire","date created":"2024-05-20","date modified":"2025-03-13","director":"[[Elia Kazan]]","tags":"movies"}}
 ---
 
 
-![A Streetcar Named Desire 1951.jpg|200](/img/user/_sys/Attachments/A%20Streetcar%20Named%20Desire%201951.jpg)
+![A Streetcar Named Desire 1951.jpg\|200](/img/user/_sys/Attachments/A%20Streetcar%20Named%20Desire%201951.jpg)
 
 # Review
 

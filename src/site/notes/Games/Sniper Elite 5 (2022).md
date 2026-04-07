@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sniper-elite-5-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/sniper-elite-5-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11","dg-note-properties":{"aliases":["Sniper Elite 5"],"date created":"2024-07-23","date finished":"2023-02-23","date modified":"2025-10-11","date started":"2022-12-29","tags":["games","streamed"]}}
 ---
 
 

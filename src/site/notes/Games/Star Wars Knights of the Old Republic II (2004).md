@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/star-wars-knights-of-the-old-republic-ii-2004/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/star-wars-knights-of-the-old-republic-ii-2004/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":"KOTOR2","date created":"2023-12-08","date finished":"2022-03-18","date modified":"2025-06-03","date started":"2021-08-09","played":true,"tags":["games","LP"]}}
 ---
 
 

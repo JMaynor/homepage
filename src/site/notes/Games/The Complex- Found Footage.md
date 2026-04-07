@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-complex-found-footage/","tags":["games","LP"],"created":"2025-12-30","updated":"2025-12-30"}
+{"dg-publish":true,"permalink":"/games/the-complex-found-footage/","tags":["games","LP"],"created":"2025-12-30","updated":"2025-12-30","dg-note-properties":{"aliases":["The Complex: Found Footage"],"date created":"2025-12-30","date finished":"2022-12-16","date modified":"2025-12-30","date started":"2022-12-16","tags":["games","LP"]}}
 ---
 
 

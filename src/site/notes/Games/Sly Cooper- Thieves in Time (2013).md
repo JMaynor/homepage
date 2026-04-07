@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/sly-cooper-thieves-in-time-2013/","tags":["games","streamed"],"created":"2025-04-14","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/sly-cooper-thieves-in-time-2013/","tags":["games","streamed"],"created":"2025-04-14","updated":"2025-10-11","dg-note-properties":{"aliases":["Sly Cooper: Thieves in Time"],"date created":"2025-04-14","date finished":"2025-05-31","date modified":"2025-10-11","date started":"2025-05-03","tags":["games","streamed"]}}
 ---
 
 

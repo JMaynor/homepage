@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/class-of-09-2021/","tags":["games","streamed"],"created":"2025-01-02","updated":"2025-06-04","dg-note-properties":{"aliases":["Class of '09","Class of 09"],"date created":"2025-01-02","date finished":"2025-01-02","date modified":"2025-06-04","date started":"2025-01-02","played":true,"tags":["games","streamed"]}}
 ---
 
 

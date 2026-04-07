@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/final-fantasy-ii-1988/","tags":["games"],"created":"2025-09-04","updated":"2025-10-06"}
+{"dg-publish":true,"permalink":"/games/final-fantasy-ii-1988/","tags":["games"],"created":"2025-09-04","updated":"2025-10-06","dg-note-properties":{"aliases":["FF2","Final Fantasy 2"],"date created":"2025-09-04","date finished":"2025-10-05","date modified":"2025-10-06","date started":null,"tags":["games"]}}
 ---
 
 

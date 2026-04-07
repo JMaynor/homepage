@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/no-one-lives-under-the-lighthouse-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/no-one-lives-under-the-lighthouse-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":null,"date created":"2023-12-08","date finished":"2023-09-01","date modified":"2025-06-03","date started":"2023-08-27","played":true,"tags":["games","LP"]}}
 ---
 
 

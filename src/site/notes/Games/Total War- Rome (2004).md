@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/total-war-rome-2004/","tags":["games","LP"],"created":"2025-05-30","updated":"2026-01-05"}
+{"dg-publish":true,"permalink":"/games/total-war-rome-2004/","tags":["games","LP"],"created":"2025-05-30","updated":"2026-01-05","dg-note-properties":{"aliases":["Rome Total War","Total War Rome"],"date created":"2025-05-30","date finished":null,"date modified":"2026-01-05","date started":"2025-11-03","tags":["games","LP"]}}
 ---
 
 

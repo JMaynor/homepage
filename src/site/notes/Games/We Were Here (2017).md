@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":[],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
 ---
 
 

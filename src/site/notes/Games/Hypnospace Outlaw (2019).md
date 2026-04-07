@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["games","LP"],"created":"2024-02-10","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/hypnospace-outlaw-2019/","tags":["games","LP"],"created":"2024-02-10","updated":"2025-10-02","dg-note-properties":{"aliases":[],"date created":"2024-02-10","date finished":"2024-02-10","date modified":"2025-10-02","date started":"2023-12-28","played":true,"tags":["games","LP"]}}
 ---
 
 

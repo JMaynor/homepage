@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/yankee-doodle-dandy-1942/","tags":["movies"],"created":"2023-12-01","updated":"2024-10-11"}
+{"dg-publish":true,"permalink":"/movies/yankee-doodle-dandy-1942/","tags":["movies"],"created":"2023-12-01","updated":"2024-10-11","dg-note-properties":{"aliases":"Yankee Doodle Dandy","date created":"2023-12-01","date modified":"2024-10-11","director":"[[Michael Curtiz]]","tags":"movies"}}
 ---
 
 
-![Poster Yankee Doodle Dandy 1942.jpg|200](/img/user/_sys/Attachments/Poster%20Yankee%20Doodle%20Dandy%201942.jpg)
+![Poster Yankee Doodle Dandy 1942.jpg\|200](/img/user/_sys/Attachments/Poster%20Yankee%20Doodle%20Dandy%201942.jpg)
 
 # Review
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13"}
+{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"All About Eve","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Joseph L. Mankiewicz]]","tags":"movies"}}
 ---
 
 
-![All About Eve 1950.jpg|200](/img/user/_sys/Attachments/All%20About%20Eve%201950.jpg)
+![All About Eve 1950.jpg\|200](/img/user/_sys/Attachments/All%20About%20Eve%201950.jpg)
 
 # Review
 

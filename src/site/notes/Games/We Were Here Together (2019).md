@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-together-2019/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04"}
+{"dg-publish":true,"permalink":"/games/we-were-here-together-2019/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":["We Were Here Together"],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
 ---
 
 

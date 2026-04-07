@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-witness-2016/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-04"}
+{"dg-publish":true,"permalink":"/games/the-witness-2016/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-04","dg-note-properties":{"aliases":null,"date created":"2023-12-08","date finished":"2021-07-09","date modified":"2025-06-04","date started":"2021-04-27","played":true,"tags":["games","LP"]}}
 ---
 
 

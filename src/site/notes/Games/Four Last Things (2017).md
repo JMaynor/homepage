@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/four-last-things-2017/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-07-15"}
+{"dg-publish":true,"permalink":"/games/four-last-things-2017/","tags":["games","streamed"],"created":"2025-06-06","updated":"2025-07-15","dg-note-properties":{"aliases":["Four Last Things"],"date created":"2025-06-06","date finished":"2025-06-07","date modified":"2025-07-15","date started":"2025-06-07","tags":["games","streamed"]}}
 ---
 
 

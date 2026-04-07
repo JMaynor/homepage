@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/diner-bros-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-10-11","dg-note-properties":{"aliases":["Diner Bros"],"date created":"2024-07-23","date finished":null,"date modified":"2025-10-11","date started":"2021-12-07","tags":["games","streamed"]}}
 ---
 
 

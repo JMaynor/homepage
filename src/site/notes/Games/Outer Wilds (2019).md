@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/outer-wilds-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-09-03"}
+{"dg-publish":true,"permalink":"/games/outer-wilds-2019/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-09-03","dg-note-properties":{"aliases":["Outer Wilds"],"date created":"2023-12-08","date finished":"2023-02-04","date modified":"2025-09-03","date started":"2023-01-07","tags":["games","LP"]}}
 ---
 
 

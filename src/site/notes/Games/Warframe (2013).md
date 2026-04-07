@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games","streamed"],"created":"2024-01-04","updated":"2026-02-11"}
+{"dg-publish":true,"permalink":"/games/warframe-2013/","tags":["games","streamed"],"created":"2024-01-04","updated":"2026-02-11","dg-note-properties":{"aliases":[],"date created":"2024-01-04","date finished":null,"date modified":"2026-02-11","date started":null,"tags":["games","streamed"]}}
 ---
 
 

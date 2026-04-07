@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/a-trip-to-the-moon-1902/","tags":["movies"],"created":"2026-02-27","updated":"2026-03-02"}
+{"dg-publish":true,"permalink":"/movies/a-trip-to-the-moon-1902/","tags":["movies"],"created":"2026-02-27","updated":"2026-03-02","dg-note-properties":{"aliases":["A Trip to the Moon"],"date created":"2026-02-27","date finished":"2017-01-01","date modified":"2026-03-02","director":"[[Georges Méliès]]","tags":["movies"]}}
 ---
 
 

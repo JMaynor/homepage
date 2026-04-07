@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["games","LP"],"created":"2024-07-11","updated":"2025-06-03"}
+{"dg-publish":true,"permalink":"/games/norco-2022/","tags":["games","LP"],"created":"2024-07-11","updated":"2025-06-03","dg-note-properties":{"aliases":"Norco","date created":"2024-07-11","date finished":"2024-08-18","date modified":"2025-06-03","date started":"2024-07-14","played":true,"tags":["games","LP"]}}
 ---
 
 

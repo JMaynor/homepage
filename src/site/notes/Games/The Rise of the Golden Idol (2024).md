@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2025-10-02"}
+{"dg-publish":true,"permalink":"/games/the-rise-of-the-golden-idol-2024/","tags":["games","LP"],"created":"2024-11-17","updated":"2025-10-02","dg-note-properties":{"aliases":["Rise of the Golden Idol","The Rise of the Golden Idol"],"date created":"2024-11-17","date finished":"2024-12-29","date modified":"2025-10-02","date started":"2024-11-17","played":true,"tags":["games","LP"]}}
 ---
 
 

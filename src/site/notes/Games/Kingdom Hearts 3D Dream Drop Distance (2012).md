@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["games","streamed"],"created":"2024-09-19","updated":"2025-10-11"}
+{"dg-publish":true,"permalink":"/games/kingdom-hearts-3-d-dream-drop-distance-2012/","tags":["games","streamed"],"created":"2024-09-19","updated":"2025-10-11","dg-note-properties":{"aliases":["Dream Drop Distance","Dream Drop","Kingdom Hearts 3D"],"date created":"2024-09-19","date finished":"2024-10-12","date modified":"2025-10-11","date started":"2024-09-21","tags":["games","streamed"]}}
 ---
 
 
