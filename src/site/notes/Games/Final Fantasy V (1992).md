@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/games/final-fantasy-v-1992/","tags":["games"],"created":"2025-09-04","updated":"2026-03-11","dg-note-properties":{"aliases":["FF5","Final Fantasy 5"],"date created":"2025-09-04","date finished":"2011-01-01","date modified":"2026-03-11","date started":"2011-01-01","tags":["games"]}}
+---
+
+
+# Review
+
+5 is probably one of my favorite Final Fantasies mechanically. This is where we take the job system of 3 and really push it to where it needed to be. It's a great joy nearing the end of the game with your many mastered job abilities in tow as you absolutely stomp all over the Exdeath's coterie of dipshits. Rapidfire-dualwield-spellblade. Dualcast-Behemoth-Meteor-Mimic. It's good. It just feels good.
+
+The story is a bit of a step-down from 4. There is *a lot* of pop culture bullshit in this one. 5 tends to feel a lot more dated than 4 with its attempts at humor. It mostly just comes across as a bit more juvenile to me. Not outright bad, just a bit misdirected. The villain is *fine*. I mean, I don't think anybody on this earth really gives a shit about Exdeath to any meaningful capacity. But we do establish some of the silly void interdimensional rift stuff that will be popping up for the rest of time. So I'm fine with an occasionally mulligan. He's a darkness guy, he wants to do darkness to the world. You're light. Fix. Sure.
+
+Biggest disappointment of the pixel remaster is, yet again, their deleting of the GBA additions. The sealed temple was a great place to really push the game's job system as far as it could go. Really sucks not having that anymore. The GBA really feels like the definitive edition to me. I dunno. I mean, I get that it's just *more*. But sometimes more is fun. Really makes me wish they had a different philosophy with these pixel remasters. These games have already been released a million times on so many different consoles. If you're making a PC version, something that is supposed to last for the all days...you should want to get as close to the spirit of the original graphics as possible. I can see eschewing the 3d graphics of the DS remakes and sticking with 2d. We don't *really* need 3 dimensions here. DTM. But with regards to the actual content, I most definitely would have included the various optional bosses and extra bits and bobs that have been added in subsequent iterations. When I think of these games, I do think of some of the later additions. But I guess not anymore. Annoying.
