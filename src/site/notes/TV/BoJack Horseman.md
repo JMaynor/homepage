@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/bo-jack-horseman/","created":"2024-03-26","updated":"2026-03-18","dg-note-properties":{"aliases":[],"date created":"2024-03-26","date finished":"2020-01-31","date modified":"2026-03-18","tags":[]}}
+{"dg-publish":true,"permalink":"/tv/bo-jack-horseman/","created":"2024-03-26","updated":"2026-04-14","dg-note-properties":{"aliases":[],"date created":"2024-03-26","date finished":"2020-01-31","date modified":"2026-04-14","tags":[]}}
 ---
 
 
@@ -12,5 +12,7 @@ Bojack the show is chiefly concerned with the titular character (Horseman, by th
 One of the things I particularly respect about Bojack Horseman is its willingness to go there. There's too many examples for me to go through, particularly given that most of them directly relate to big turning points in characters' journeys or the general plot. Bojack is above all things a character drama. It blends that drama with ample humor, but I wouldn't say that I go to Bojack for laughs. I think in some ways you could describe the show as a long-running character assassination of its main character. Bojack walks a difficult line. How do you, for 6 seasons, keep up the tightrope-walking of getting your audience to empathize and root for the main character, while simultaneously providing endless examples of their complete shitheel self-sabotaging behavior?
 
 It's hard. I wouldn't doubt that some people watched the show and at some point just went "Fuck him, who cares." And checked out of his journey. I find the character too compelling and too well-written to do so. Bojack wants to be good. And he tries. He just keeps fucking it up. He's not owed infinite chances. But I don't find it a task watching. I want him to succeed, even if I worry more and more that he might not.
+
+I respect that the show is willing to put Bojack through the blender and not have him come out the other side. He permanently fucks up multiple relationships. I think a lesser show would have had a more redemptive ending. Bojack doesn't need to die. But it needs to be clear that he can't just get away with everything he's done and we all move on. You can want to be good all you want, but if you don't start doing that, then don't be surprised when people who care for you eventually have to cut you off. The Mr. Blue musical outro of Bojack is perfect. I think it's a really well-sketched approximation of the feeling of growing apart from someone. We were friends for a time, and we can be nostalgic about that. We don't have to hate each other but we're not good for each other and I have a life now. I have to move on. And I hope the best for you. It's a more realistic and more complex human interaction than a lot of shows are willing to explore.
 
 > *Back in the 90s, I was in a very famous TV shooooww....*

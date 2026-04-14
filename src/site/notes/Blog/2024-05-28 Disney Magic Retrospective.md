@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2025-12-15","dg-note-properties":{"aliases":["Disney Magic Retrospective"],"date created":"2024-05-28","date modified":"2025-12-15","summary":"Review of all the Disney animated films and whether I feel each is magical or not.","tags":["blog","movies"]}}
+{"dg-publish":true,"permalink":"/blog/2024-05-28-disney-magic-retrospective/","tags":["blog","movies"],"created":"2024-05-28","updated":"2026-04-13","dg-note-properties":{"aliases":["Disney Magic Retrospective"],"date created":"2024-05-28","date modified":"2026-04-13","summary":"Review of all the Disney animated films and whether I feel each is magical or not.","tags":["blog","movies"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Inspired by streaming the [Kingdom Hearts series](https://www.youtube.com/playlist?list=PL0UgLs1BOgQNl_T_-OWZD8DPAQTFKXYMk) and the knowledge that (as of the time of this writing) we'll be watching Snow White as part of the [[Blog/2023-11-30 AFI Top 100 List\|AFI Top 100 List]], I've decided I want to rewatch all the Disney movies. From beginning to end. I wanna take a genuine look at the magic. The secret stuff that is oft-remarked upon, but rarely closely interrogated. I feel like people will say that Disney used to be more magical. But was it? Or is it just that we grew up? If it was, when did the magic go away?
 
-Will be returning to this over a period of time.
+Will be returning to this over a period of time. Don't recall where specifically I got the below list. It was some Wikipedia list page or another. I am sure there is disagreement here and there about which movies are the real Disney movies and which are not. Maybe I'm missing some and maybe I'm including some that literally no one on Earth gives a toss about. Oh well.
 
 # List
 
@@ -20,7 +20,7 @@ Will be returning to this over a period of time.
 | 1942 | Bambi                                  | [[Movies/Bambi (1942)#Review\|Bambi (1942)#Review]]                           |
 | 1943 | Saludos Amigos                         | [[Movies/Saludos Amigos (1942)#Review\|Saludos Amigos (1942)#Review]]                  |
 | 1945 | The Three Caballeros                   | [[Movies/The Three Caballeros (1945)#Review\|The Three Caballeros (1945)#Review]]            |
-| 1946 | Make Mine Music                        |                                                   |
+| 1946 | Make Mine Music                        | [[Movies/Make Mine Music (1946)#Review\|Make Mine Music (1946)#Review]]                 |
 | 1947 | Fun and Fancy Free                     |                                                   |
 | 1948 | Melody Time                            |                                                   |
 | 1949 | The Adventures of Ichabod and Mr. Toad |                                                   |
