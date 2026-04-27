@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/game-of-thrones/","created":"2024-04-14","updated":"2025-03-13","dg-note-properties":{"aliases":null,"date created":"2024-04-14","date modified":"2025-03-13","tags":null}}
+{"dg-publish":true,"permalink":"/tv/game-of-thrones/","created":"2024-04-14","updated":"2026-04-22","dg-note-properties":{"aliases":[],"date created":"2024-04-14","date modified":"2026-04-22","tags":[]}}
 ---
 
 

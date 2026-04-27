@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/invincible/","created":"2025-04-21","updated":"2025-04-21","dg-note-properties":{"aliases":null,"date created":"2025-04-21","date modified":"2025-04-21","tags":null}}
+{"dg-publish":true,"permalink":"/tv/invincible/","created":"2025-04-21","updated":"2026-04-22","dg-note-properties":{"aliases":[],"date created":"2025-04-21","date modified":"2026-04-22","tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tv/pluribus/","created":"2026-01-04","updated":"2026-01-16","dg-note-properties":{"aliases":[],"date created":"2026-01-04","date modified":"2026-01-16","tags":[]}}
+{"dg-publish":true,"permalink":"/tv/pluribus/","created":"2026-01-04","updated":"2026-04-22","dg-note-properties":{"aliases":[],"date created":"2026-01-04","date modified":"2026-04-22","tags":[]}}
 ---
 
 
