@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-05-04","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-05-04","tags":["gardenEntry"]}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-05-06","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-05-06","tags":["gardenEntry"]}}
 ---
 
 
@@ -47,9 +47,9 @@ filters:
 properties:
   file.name:
     displayName: Game
-  note.date started:
+  note["date started"]:
     displayName: Started
-  note.date finished:
+  note["date finished"]:
     displayName: Finished
 views:
   - type: table
@@ -72,9 +72,9 @@ filters:
     - note["dg-publish"] == true
     - file.tags.contains("streamed")
 properties:
-  note.date finished:
+  note["date finished"]:
     displayName: Finished
-  note.date started:
+  note["date started"]:
     displayName: Started
 views:
   - type: table
