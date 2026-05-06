@@ -47,10 +47,10 @@ filters:
 properties:
   file.name:
     displayName: Game
-  note["date started"]:
-    displayName: Started
-  note["date finished"]:
-    displayName: Finished
+  note.date started:
+    displayName: Date Started
+  note.date finished:
+    displayName: Date Finished
 views:
   - type: table
     name: Table
@@ -76,6 +76,10 @@ properties:
     displayName: Finished
   note["date started"]:
     displayName: Started
+  note.date started:
+    displayName: Date Started
+  note.date finished:
+    displayName: Date Finished
 views:
   - type: table
     name: Table
