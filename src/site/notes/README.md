@@ -47,17 +47,11 @@ filters:
 properties:
   file.name:
     displayName: Game
-  note.date started:
-    displayName: Date Started
-  note.date finished:
-    displayName: Date Finished
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - date started
-      - date finished
 
 ```
 
@@ -71,21 +65,13 @@ filters:
     - file.folder == "Games"
     - note["dg-publish"] == true
     - file.tags.contains("streamed")
-properties:
-  note["date finished"]:
-    displayName: Finished
-  note["date started"]:
-    displayName: Started
-  note.date started:
-    displayName: Date Started
-  note.date finished:
-    displayName: Date Finished
+properties:  
+  file.name:  
+    displayName: Game
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - date started
-      - date finished
 
 ```
