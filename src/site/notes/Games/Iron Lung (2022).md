@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/iron-lung-2022/","tags":["games"],"created":"2026-05-25","updated":"2026-05-25","dg-note-properties":{"aliases":["Iron Lung"],"date created":"2026-05-25","date finished":"2026-05-25","date modified":"2026-05-25","date started":"2026-05-25","tags":["games"]}}
+{"dg-publish":true,"permalink":"/games/iron-lung-2022/","tags":["games","LP"],"created":"2026-05-25","updated":"2026-05-25","dg-note-properties":{"aliases":["Iron Lung"],"date created":"2026-05-25","date finished":"2026-05-25","date modified":"2026-05-25","date started":"2026-05-25","tags":["games","LP"]}}
 ---
 
 
