@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2025-09-18","dg-note-properties":{"aliases":["The Last of the Wine"],"author":"[[Mary Renault]]","date created":"2024-12-05","date finished":"2024-12-23","date modified":"2025-09-18","date started":null,"index":null,"series":null,"tags":["books"]}}
+{"dg-publish":true,"permalink":"/books/mary-renault-the-last-of-the-wine/","tags":["books"],"created":"2024-12-05","updated":"2025-09-18","dg-note-properties":{"aliases":["The Last of the Wine"],"author":"[[People/Mary Renault]]","date created":"2024-12-05","date finished":"2024-12-23","date modified":"2025-09-18","date started":null,"index":null,"series":null,"tags":["books"]}}
 ---
 
 

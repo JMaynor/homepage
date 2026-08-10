@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/william-hogarth-the-analysis-of-beauty/","tags":["books"],"created":"2025-10-06","updated":"2025-11-21","dg-note-properties":{"aliases":["The Analysis of Beauty"],"author":"[[William Hogarth]]","date created":"2025-10-06","date finished":"2025-11-21","date modified":"2025-11-21","date started":"2025-10-06","index":null,"series":null,"tags":["books"]}}
+{"dg-publish":true,"permalink":"/books/william-hogarth-the-analysis-of-beauty/","tags":["books"],"created":"2025-10-06","updated":"2025-11-21","dg-note-properties":{"aliases":["The Analysis of Beauty"],"author":"[[People/William Hogarth]]","date created":"2025-10-06","date finished":"2025-11-21","date modified":"2025-11-21","date started":"2025-10-06","index":null,"series":null,"tags":["books"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/anne-rice-interview-with-the-vampire/","tags":["books"],"created":"2026-07-13","updated":"2026-07-28","dg-note-properties":{"aliases":["Interview With the Vampire"],"author":"[[Anne Rice]]","date created":"2026-07-13","date finished":"2026-07-27","date modified":"2026-07-28","date started":"2026-07-13","index":1,"series":"The Vampire Chronicles","tags":["books"]}}
+{"dg-publish":true,"permalink":"/books/anne-rice-interview-with-the-vampire/","tags":["books"],"created":"2026-07-13","updated":"2026-07-28","dg-note-properties":{"aliases":["Interview With the Vampire"],"author":"[[People/Anne Rice]]","date created":"2026-07-13","date finished":"2026-07-27","date modified":"2026-07-28","date started":"2026-07-13","index":1,"series":"The Vampire Chronicles","tags":["books"]}}
 ---
 
 

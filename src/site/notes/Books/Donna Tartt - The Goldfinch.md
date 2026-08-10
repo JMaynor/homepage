@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/donna-tartt-the-goldfinch/","tags":["books"],"created":"2025-12-03","updated":"2026-05-19","dg-note-properties":{"aliases":["The Goldfinch"],"author":"[[Donna Tartt]]","date created":"2025-12-03","date finished":"2026-05-18","date modified":"2026-05-19","date started":"2026-04-04","index":null,"series":null,"tags":["books"]}}
+{"dg-publish":true,"permalink":"/books/donna-tartt-the-goldfinch/","tags":["books"],"created":"2025-12-03","updated":"2026-05-19","dg-note-properties":{"aliases":["The Goldfinch"],"author":"[[People/Donna Tartt]]","date created":"2025-12-03","date finished":"2026-05-18","date modified":"2026-05-19","date started":"2026-04-04","index":null,"series":null,"tags":["books"]}}
 ---
 
 
