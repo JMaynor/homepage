@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-ten-commandments-1956/","tags":["movies"],"created":"2025-04-22","updated":"2025-05-27","dg-note-properties":{"aliases":"The Ten Commandments","date created":"2025-04-22","date modified":"2025-05-27","director":"[[Cecil B. DeMille]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-ten-commandments-1956/","tags":["movies"],"created":"2025-04-22","updated":"2025-05-27","dg-note-properties":{"aliases":"The Ten Commandments","date created":"2025-04-22","date modified":"2025-05-27","director":"[[People/Cecil B. DeMille]]","tags":"movies"}}
 ---
 
 

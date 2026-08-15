@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/casablanca-1942/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-10","dg-note-properties":{"aliases":"Casablanca","date created":"2024-06-18","date modified":"2025-01-10","director":"[[Michael Curtiz]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/casablanca-1942/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-10","dg-note-properties":{"aliases":"Casablanca","date created":"2024-06-18","date modified":"2025-01-10","director":"[[People/Michael Curtiz]]","tags":"movies"}}
 ---
 
 

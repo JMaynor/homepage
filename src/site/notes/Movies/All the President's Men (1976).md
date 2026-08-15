@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/all-the-president-s-men-1976/","tags":["movies"],"created":"2023-12-28","updated":"2025-03-13","dg-note-properties":{"aliases":"All the President's Men","date created":"2023-12-28","date modified":"2025-03-13","director":"[[Alan J. Pakula]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/all-the-president-s-men-1976/","tags":["movies"],"created":"2023-12-28","updated":"2025-03-13","dg-note-properties":{"aliases":"All the President's Men","date created":"2023-12-28","date modified":"2025-03-13","director":"[[People/Alan J. Pakula]]","tags":"movies"}}
 ---
 
 

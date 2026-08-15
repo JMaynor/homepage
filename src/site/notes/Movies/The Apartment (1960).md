@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","tags":["movies"],"created":"2023-12-16","updated":"2025-03-13","dg-note-properties":{"aliases":"The Apartment","date created":"2023-12-16","date modified":"2025-03-13","director":"[[Billy Wilder]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-apartment-1960/","tags":["movies"],"created":"2023-12-16","updated":"2025-03-13","dg-note-properties":{"aliases":"The Apartment","date created":"2023-12-16","date modified":"2025-03-13","director":"[[People/Billy Wilder]]","tags":"movies"}}
 ---
 
 

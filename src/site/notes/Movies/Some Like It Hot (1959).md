@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/some-like-it-hot-1959/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"Some Like It Hot","date created":"2024-06-18","date modified":"2024-10-18","director":"[[People/Billy Wilder\|Billy Wilder]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/some-like-it-hot-1959/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"Some Like It Hot","date created":"2024-06-18","date modified":"2024-10-18","director":"[[People/Billy Wilder]]","tags":"movies"}}
 ---
 
 

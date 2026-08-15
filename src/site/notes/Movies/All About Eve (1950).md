@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"All About Eve","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Joseph L. Mankiewicz]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/all-about-eve-1950/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"All About Eve","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Joseph L. Mankiewicz]]","tags":"movies"}}
 ---
 
 

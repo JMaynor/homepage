@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/cabaret-1972/","tags":["movies"],"created":"2024-02-20","updated":"2025-03-13","dg-note-properties":{"aliases":"Cabaret","date created":"2024-02-20","date modified":"2025-03-13","director":"[[Bob Fosse]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/cabaret-1972/","tags":["movies"],"created":"2024-02-20","updated":"2025-03-13","dg-note-properties":{"aliases":"Cabaret","date created":"2024-02-20","date modified":"2025-03-13","director":"[[People/Bob Fosse]]","tags":"movies"}}
 ---
 
 

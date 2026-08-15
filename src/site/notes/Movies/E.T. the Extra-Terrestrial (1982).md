@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/e-t-the-extra-terrestrial-1982/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"E.T. the Extra-Terrestrial","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Steven Spielberg]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/e-t-the-extra-terrestrial-1982/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"E.T. the Extra-Terrestrial","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Steven Spielberg]]","tags":"movies"}}
 ---
 
 

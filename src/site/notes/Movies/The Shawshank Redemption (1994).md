@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","tags":["movies"],"created":"2024-01-04","updated":"2025-03-13","dg-note-properties":{"aliases":"The Shawshank Redemption","date created":"2024-01-04","date modified":"2025-03-13","director":"[[Frank Darabont]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-shawshank-redemption-1994/","tags":["movies"],"created":"2024-01-04","updated":"2025-03-13","dg-note-properties":{"aliases":"The Shawshank Redemption","date created":"2024-01-04","date modified":"2025-03-13","director":"[[People/Frank Darabont]]","tags":"movies"}}
 ---
 
 

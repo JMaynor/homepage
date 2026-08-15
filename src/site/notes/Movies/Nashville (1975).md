@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/nashville-1975/","tags":["movies"],"created":"2024-03-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Nashville","date created":"2024-03-14","date modified":"2025-03-13","director":"[[Robert Altman]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/nashville-1975/","tags":["movies"],"created":"2024-03-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Nashville","date created":"2024-03-14","date modified":"2025-03-13","director":"[[People/Robert Altman]]","tags":"movies"}}
 ---
 
 

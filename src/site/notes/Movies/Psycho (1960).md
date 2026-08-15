@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/psycho-1960/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-17","dg-note-properties":{"aliases":"Psycho","date created":"2024-06-18","date modified":"2024-11-17","director":"[[Alfred Hitchcock]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/psycho-1960/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-17","dg-note-properties":{"aliases":"Psycho","date created":"2024-06-18","date modified":"2024-11-17","director":"[[People/Alfred Hitchcock]]","tags":"movies"}}
 ---
 
 

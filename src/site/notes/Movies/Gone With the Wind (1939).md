@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/gone-with-the-wind-1939/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-23","dg-note-properties":{"aliases":"Gone With the Wind","date created":"2024-06-18","date modified":"2024-12-23","director":"[[Victor Fleming]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/gone-with-the-wind-1939/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-23","dg-note-properties":{"aliases":"Gone With the Wind","date created":"2024-06-18","date modified":"2024-12-23","director":"[[People/Victor Fleming]]","tags":"movies"}}
 ---
 
 

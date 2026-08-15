@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/titanic-1997/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"Titanic","date created":"2025-01-14","date modified":"2025-01-14","director":"[[James Cameron]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/titanic-1997/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"Titanic","date created":"2025-01-14","date modified":"2025-01-14","director":"[[People/James Cameron]]","tags":"movies"}}
 ---
 
 

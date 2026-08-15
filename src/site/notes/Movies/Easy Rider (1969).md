@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","tags":["movies"],"created":"2023-12-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Easy Rider","date created":"2023-12-08","date modified":"2025-03-13","director":"[[People/Dennis Hopper\|Dennis Hopper]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/easy-rider-1969/","tags":["movies"],"created":"2023-12-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Easy Rider","date created":"2023-12-08","date modified":"2025-03-13","director":"[[People/Dennis Hopper]]","tags":"movies"}}
 ---
 
 

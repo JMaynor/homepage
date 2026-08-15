@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/spartacus-1960/","tags":["movies"],"created":"2023-12-16","updated":"2025-03-13","dg-note-properties":{"aliases":"Spartacus","date created":"2023-12-16","date modified":"2025-03-13","director":"[[Stanley Kubrick]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/spartacus-1960/","tags":["movies"],"created":"2023-12-16","updated":"2025-03-13","dg-note-properties":{"aliases":"Spartacus","date created":"2023-12-16","date modified":"2025-03-13","director":"[[People/Stanley Kubrick]]","tags":"movies"}}
 ---
 
 

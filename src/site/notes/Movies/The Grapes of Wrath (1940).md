@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-grapes-of-wrath-1940/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Grapes of Wrath","date created":"2024-06-18","date modified":"2025-03-13","director":"[[John Ford]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-grapes-of-wrath-1940/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Grapes of Wrath","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/John Ford]]","tags":"movies"}}
 ---
 
 

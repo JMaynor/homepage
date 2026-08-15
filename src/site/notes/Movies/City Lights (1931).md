@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/city-lights-1931/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23","dg-note-properties":{"aliases":"City Lights","date created":"2024-06-18","date modified":"2024-11-23","director":"[[Charlie Chaplin]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/city-lights-1931/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-23","dg-note-properties":{"aliases":"City Lights","date created":"2024-06-18","date modified":"2024-11-23","director":"[[People/Charlie Chaplin]]","tags":"movies"}}
 ---
 
 

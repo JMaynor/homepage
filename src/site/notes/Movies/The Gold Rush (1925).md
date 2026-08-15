@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"The Gold Rush","date created":"2024-03-21","date modified":"2025-03-13","director":"[[People/Charlie Chaplin\|Charlie Chaplin]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-gold-rush-1925/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"The Gold Rush","date created":"2024-03-21","date modified":"2025-03-13","director":"[[People/Charlie Chaplin]]","tags":"movies"}}
 ---
 
 

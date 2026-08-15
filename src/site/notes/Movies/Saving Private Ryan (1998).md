@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","tags":["movies"],"created":"2024-01-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Saving Private Ryan","date created":"2024-01-08","date modified":"2025-03-13","director":"[[Steven Spielberg]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/saving-private-ryan-1998/","tags":["movies"],"created":"2024-01-08","updated":"2025-03-13","dg-note-properties":{"aliases":"Saving Private Ryan","date created":"2024-01-08","date modified":"2025-03-13","director":"[[People/Steven Spielberg]]","tags":"movies"}}
 ---
 
 

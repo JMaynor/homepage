@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/raiders-of-the-lost-ark-1981/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":["Raiders of the Lost Ark","Indiana Jones"],"date created":"2024-01-25","date modified":"2025-03-13","director":"[[People/Steven Spielberg\|Steven Spielberg]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/raiders-of-the-lost-ark-1981/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":["Raiders of the Lost Ark","Indiana Jones"],"date created":"2024-01-25","date modified":"2025-03-13","director":"[[People/Steven Spielberg]]","tags":"movies"}}
 ---
 
 

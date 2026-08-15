@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/mr-smith-goes-to-washington-1939/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Mr. Smith Goes to Washington","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Frank Capra]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/mr-smith-goes-to-washington-1939/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Mr. Smith Goes to Washington","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Frank Capra]]","tags":"movies"}}
 ---
 
 

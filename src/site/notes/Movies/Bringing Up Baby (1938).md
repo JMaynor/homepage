@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13","dg-note-properties":{"aliases":"Bringing Up Baby","date created":"2023-12-01","date modified":"2025-03-13","director":"[[Howard Hawks]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/bringing-up-baby-1938/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13","dg-note-properties":{"aliases":"Bringing Up Baby","date created":"2023-12-01","date modified":"2025-03-13","director":"[[People/Howard Hawks]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/mulholland-drive-2001/","tags":["movies"],"created":"2025-01-13","updated":"2025-01-14","dg-note-properties":{"aliases":"Mulholland Drive","date created":"2025-01-13","date modified":"2025-01-14","director":"[[David Lynch]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/mulholland-drive-2001/","tags":["movies"],"created":"2025-01-13","updated":"2025-01-14","dg-note-properties":{"aliases":"Mulholland Drive","date created":"2025-01-13","date modified":"2025-01-14","director":"[[People/David Lynch]]","tags":"movies"}}
 ---
 
 

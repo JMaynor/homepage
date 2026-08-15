@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-general-1926/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The General","date created":"2024-06-18","date modified":"2025-03-13","director":["[[Buster Keaton]]","[[Clyde Bruckman]]"],"tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-general-1926/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The General","date created":"2024-06-18","date modified":"2025-03-13","director":["[[People/Buster Keaton]]","[[People/Clyde Bruckman]]"],"tags":"movies"}}
 ---
 
 

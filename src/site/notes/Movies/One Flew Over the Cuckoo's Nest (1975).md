@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/one-flew-over-the-cuckoo-s-nest-1975/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"One Flew Over the Cuckoo's Nest","date created":"2025-01-14","date modified":"2025-01-14","director":"[[Miloš Forman]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/one-flew-over-the-cuckoo-s-nest-1975/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"One Flew Over the Cuckoo's Nest","date created":"2025-01-14","date modified":"2025-01-14","director":"[[People/Miloš Forman]]","tags":"movies"}}
 ---
 
 

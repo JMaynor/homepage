@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13","dg-note-properties":{"aliases":"The Philadelphia Story","date created":"2024-05-31","date modified":"2025-03-13","director":"[[George Cukor]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-philadelphia-story-1940/","tags":["movies"],"created":"2024-05-31","updated":"2025-03-13","dg-note-properties":{"aliases":"The Philadelphia Story","date created":"2024-05-31","date modified":"2025-03-13","director":"[[People/George Cukor]]","tags":"movies"}}
 ---
 
 

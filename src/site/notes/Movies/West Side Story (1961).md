@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/west-side-story-1961/","tags":["movies"],"created":"2024-05-01","updated":"2025-03-13","dg-note-properties":{"aliases":"West Side Story","date created":"2024-05-01","date modified":"2025-03-13","director":["[[Robert Wise]]","[[Jerome Robbins]]"],"tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/west-side-story-1961/","tags":["movies"],"created":"2024-05-01","updated":"2025-03-13","dg-note-properties":{"aliases":"West Side Story","date created":"2024-05-01","date modified":"2025-03-13","director":["[[People/Robert Wise]]","[[People/Jerome Robbins]]"],"tags":"movies"}}
 ---
 
 

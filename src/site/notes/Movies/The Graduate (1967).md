@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-graduate-1967/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-26","dg-note-properties":{"aliases":"The Graduate","date created":"2024-06-18","date modified":"2024-10-26","director":"[[Mike Nichols]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-graduate-1967/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-26","dg-note-properties":{"aliases":"The Graduate","date created":"2024-06-18","date modified":"2024-10-26","director":"[[People/Mike Nichols]]","tags":"movies"}}
 ---
 
 

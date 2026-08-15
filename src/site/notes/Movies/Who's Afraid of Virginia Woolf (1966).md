@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/who-s-afraid-of-virginia-woolf-1966/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":"Who's Afraid of Virginia Woolf","date created":"2024-01-25","date modified":"2025-03-13","director":"[[Mike Nichols]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/who-s-afraid-of-virginia-woolf-1966/","tags":["movies"],"created":"2024-01-25","updated":"2025-03-13","dg-note-properties":{"aliases":"Who's Afraid of Virginia Woolf","date created":"2024-01-25","date modified":"2025-03-13","director":"[[People/Mike Nichols]]","tags":"movies"}}
 ---
 
 

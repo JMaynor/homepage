@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/alien-1979/","tags":["movies"],"created":"2025-04-08","updated":"2025-04-18","dg-note-properties":{"aliases":["Alien","Alien 1"],"date created":"2025-04-08","date modified":"2025-04-18","director":"[[Ridley Scott]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/alien-1979/","tags":["movies"],"created":"2025-04-08","updated":"2026-07-31","dg-note-properties":{"aliases":["Alien 1","Alien"],"date created":"2025-04-08","date finished":"2014-01-01","date modified":"2026-07-31","director":"[[People/Ridley Scott]]","tags":["movies"]}}
 ---
 
 

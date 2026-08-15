@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/everything-everywhere-all-at-once-2022/","tags":["movies"],"created":"2024-10-06","updated":"2025-03-25","dg-note-properties":{"aliases":["Everything, Everywhere, All At Once","EEAAO"],"date created":"2024-10-06","date modified":"2025-03-25","director":["[[Daniel Kwan]]","[[Daniel Scheinert]]"],"tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/everything-everywhere-all-at-once-2022/","tags":["movies"],"created":"2024-10-06","updated":"2025-03-25","dg-note-properties":{"aliases":["Everything, Everywhere, All At Once","EEAAO"],"date created":"2024-10-06","date modified":"2025-03-25","director":["[[People/Daniel Kwan]]","[[People/Daniel Scheinert]]"],"tags":"movies"}}
 ---
 
 

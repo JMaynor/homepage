@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/2001-a-space-odyssey-1968/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-08","dg-note-properties":{"aliases":["2001: A Space Odyssey","2001"],"date created":"2024-06-18","date modified":"2024-11-08","director":"[[Stanley Kubrick]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/2001-a-space-odyssey-1968/","tags":["movies"],"created":"2024-06-18","updated":"2024-11-08","dg-note-properties":{"aliases":["2001: A Space Odyssey","2001"],"date created":"2024-06-18","date modified":"2024-11-08","director":"[[People/Stanley Kubrick]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","tags":["movies"],"created":"2023-12-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Wild Bunch","date created":"2023-12-18","date modified":"2025-03-13","director":"[[Sam Peckinpah]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-wild-bunch-1969/","tags":["movies"],"created":"2023-12-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Wild Bunch","date created":"2023-12-18","date modified":"2025-03-13","director":"[[People/Sam Peckinpah]]","tags":"movies"}}
 ---
 
 

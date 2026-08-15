@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/butch-cassidy-and-the-sundance-kid-1969/","tags":["movies"],"created":"2024-01-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Butch Cassidy and the Sundance Kid","date created":"2024-01-04","date modified":"2025-03-13","director":"[[George Roy Hill]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/butch-cassidy-and-the-sundance-kid-1969/","tags":["movies"],"created":"2024-01-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Butch Cassidy and the Sundance Kid","date created":"2024-01-04","date modified":"2025-03-13","director":"[[People/George Roy Hill]]","tags":"movies"}}
 ---
 
 

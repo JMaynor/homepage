@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-three-caballeros-1945/","tags":["movies"],"created":"2025-12-15","updated":"2025-12-15","dg-note-properties":{"aliases":["The Three Caballeros"],"date created":"2025-12-15","date finished":"2026-04-12","date modified":"2025-12-15","director":"[[Norman Ferguson]]","tags":["movies"]}}
+{"dg-publish":true,"permalink":"/movies/the-three-caballeros-1945/","tags":["movies"],"created":"2025-12-15","updated":"2025-12-15","dg-note-properties":{"aliases":["The Three Caballeros"],"date created":"2025-12-15","date finished":"2026-04-12","date modified":"2025-12-15","director":"[[People/Norman Ferguson]]","tags":["movies"]}}
 ---
 
 

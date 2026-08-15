@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/no-country-for-old-men-2007/","tags":["movies"],"created":"2025-01-13","updated":"2025-01-14","dg-note-properties":{"aliases":"No Country For Old Men","date created":"2025-01-13","date modified":"2025-01-14","director":["[[Joel Cohen]]","[[Ethan Cohen]]"],"tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/no-country-for-old-men-2007/","tags":["movies"],"created":"2025-01-13","updated":"2025-01-14","dg-note-properties":{"aliases":"No Country For Old Men","date created":"2025-01-13","date modified":"2025-01-14","director":["[[People/Joel Cohen]]","[[People/Ethan Cohen]]"],"tags":"movies"}}
 ---
 
 

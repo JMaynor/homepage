@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Do the Right Thing","date created":"2023-12-04","date modified":"2025-03-13","director":"[[Spike Lee]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/do-the-right-thing-1989/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Do the Right Thing","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Spike Lee]]","tags":"movies"}}
 ---
 
 

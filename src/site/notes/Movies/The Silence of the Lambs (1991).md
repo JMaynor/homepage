@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-silence-of-the-lambs-1991/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"The Silence of the Lambs","date created":"2025-01-14","date modified":"2025-01-14","director":"[[Jonathan Demme]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-silence-of-the-lambs-1991/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"The Silence of the Lambs","date created":"2025-01-14","date modified":"2025-01-14","director":"[[People/Jonathan Demme]]","tags":"movies"}}
 ---
 
 

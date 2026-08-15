@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/singin-in-the-rain-1952/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-05","dg-note-properties":{"aliases":"Singin In the Rain","date created":"2024-06-18","date modified":"2025-01-05","director":["[[People/Gene Kelly\|Gene Kelly]]","[[Stanley Donen]]"],"tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/singin-in-the-rain-1952/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-05","dg-note-properties":{"aliases":"Singin In the Rain","date created":"2024-06-18","date modified":"2025-01-05","director":["[[People/Gene Kelly]]","[[People/Stanley Donen]]"],"tags":"movies"}}
 ---
 
 

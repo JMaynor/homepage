@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/backrooms-2026/","tags":["movies"],"created":"2026-05-29","updated":"2026-07-20","dg-note-properties":{"aliases":["Backrooms"],"date created":"2026-05-29","date finished":"2026-07-18","date modified":"2026-07-20","director":"[[Kane Parsons]]","tags":["movies"]}}
+{"dg-publish":true,"permalink":"/movies/backrooms-2026/","tags":["movies"],"created":"2026-05-29","updated":"2026-07-20","dg-note-properties":{"aliases":["Backrooms"],"date created":"2026-05-29","date finished":"2026-07-18","date modified":"2026-07-20","director":"[[People/Kane Parsons]]","tags":["movies"]}}
 ---
 
 

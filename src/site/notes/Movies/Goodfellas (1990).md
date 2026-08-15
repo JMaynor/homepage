@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Goodfellas","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Martin Scorsese\|Martin Scorsese]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/goodfellas-1990/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Goodfellas","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Martin Scorsese]]","tags":"movies"}}
 ---
 
 

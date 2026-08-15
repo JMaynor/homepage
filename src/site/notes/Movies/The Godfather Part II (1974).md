@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-godfather-part-ii-1974/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":["The Godfather 2","The Godfather Part II","The Godfather Part 2"],"date created":"2024-06-18","date modified":"2025-03-13","director":"[[Francis Ford Coppola]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-godfather-part-ii-1974/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":["The Godfather 2","The Godfather Part II","The Godfather Part 2"],"date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Francis Ford Coppola]]","tags":"movies"}}
 ---
 
 

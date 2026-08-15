@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Pulp Fiction","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Quentin Tarantino\|Quentin Tarantino]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/pulp-fiction-1994/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Pulp Fiction","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Quentin Tarantino]]","tags":"movies"}}
 ---
 
 

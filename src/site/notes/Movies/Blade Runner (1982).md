@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/blade-runner-1982/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13","dg-note-properties":{"aliases":"Blade Runner","date created":"2023-12-01","date modified":"2025-03-13","director":"[[People/Ridley Scott\|Ridley Scott]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/blade-runner-1982/","tags":["movies"],"created":"2023-12-01","updated":"2025-03-13","dg-note-properties":{"aliases":"Blade Runner","date created":"2023-12-01","date modified":"2025-03-13","director":"[[People/Ridley Scott]]","tags":"movies"}}
 ---
 
 

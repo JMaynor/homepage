@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/sophie-s-choice-1982/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Sophie's Choice","date created":"2023-12-04","date modified":"2025-03-13","director":"[[Alan J. Pakula]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/sophie-s-choice-1982/","tags":["movies"],"created":"2023-12-04","updated":"2025-03-13","dg-note-properties":{"aliases":"Sophie's Choice","date created":"2023-12-04","date modified":"2025-03-13","director":"[[People/Alan J. Pakula]]","tags":"movies"}}
 ---
 
 

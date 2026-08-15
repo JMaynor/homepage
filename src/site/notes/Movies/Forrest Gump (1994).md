@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/forrest-gump-1994/","tags":["movies"],"created":"2023-12-28","updated":"2025-04-08","dg-note-properties":{"aliases":"Forrest Gump","date created":"2023-12-28","date modified":"2025-04-08","director":"[[Robert Zemeckis]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/forrest-gump-1994/","tags":["movies"],"created":"2023-12-28","updated":"2025-04-08","dg-note-properties":{"aliases":"Forrest Gump","date created":"2023-12-28","date modified":"2025-04-08","director":"[[People/Robert Zemeckis]]","tags":"movies"}}
 ---
 
 

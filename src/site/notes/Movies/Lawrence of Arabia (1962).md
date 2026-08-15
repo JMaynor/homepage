@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/lawrence-of-arabia-1962/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-13","dg-note-properties":{"aliases":"Lawrence of Arabia","date created":"2024-06-18","date modified":"2024-12-13","director":"[[David Lean]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/lawrence-of-arabia-1962/","tags":["movies"],"created":"2024-06-18","updated":"2024-12-13","dg-note-properties":{"aliases":"Lawrence of Arabia","date created":"2024-06-18","date modified":"2024-12-13","director":"[[People/David Lean]]","tags":"movies"}}
 ---
 
 

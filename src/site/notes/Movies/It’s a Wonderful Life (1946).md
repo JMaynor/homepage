@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/it-s-a-wonderful-life-1946/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"It’s a Wonderful Life","date created":"2024-06-18","date modified":"2024-10-18","director":"[[Frank Capra]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/it-s-a-wonderful-life-1946/","tags":["movies"],"created":"2024-06-18","updated":"2024-10-18","dg-note-properties":{"aliases":"It’s a Wonderful Life","date created":"2024-06-18","date modified":"2024-10-18","director":"[[People/Frank Capra]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/citizen-kane-1941/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-10","dg-note-properties":{"aliases":"Citizen Kane","date created":"2024-06-18","date modified":"2025-01-10","director":"[[People/Orson Welles\|Orson Welles]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/citizen-kane-1941/","tags":["movies"],"created":"2024-06-18","updated":"2025-01-10","dg-note-properties":{"aliases":"Citizen Kane","date created":"2024-06-18","date modified":"2025-01-10","director":"[[People/Orson Welles]]","tags":"movies"}}
 ---
 
 

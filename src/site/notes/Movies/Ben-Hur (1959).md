@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Ben-Hur","date created":"2023-11-30","date modified":"2025-03-13","director":"[[William Wyler]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/ben-hur-1959/","tags":["movies"],"created":"2023-11-30","updated":"2025-03-13","dg-note-properties":{"aliases":"Ben-Hur","date created":"2023-11-30","date modified":"2025-03-13","director":"[[People/William Wyler]]","tags":"movies"}}
 ---
 
 

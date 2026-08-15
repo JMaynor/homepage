@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/lord-of-the-rings-2001-2003/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13","dg-note-properties":{"aliases":"Lord of the Rings","date created":"2024-05-07","date modified":"2025-03-13","director":"[[People/Peter Jackson\|Peter Jackson]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/lord-of-the-rings-2001-2003/","tags":["movies"],"created":"2024-05-07","updated":"2025-03-13","dg-note-properties":{"aliases":"Lord of the Rings","date created":"2024-05-07","date modified":"2025-03-13","director":"[[People/Peter Jackson]]","tags":"movies"}}
 ---
 
 

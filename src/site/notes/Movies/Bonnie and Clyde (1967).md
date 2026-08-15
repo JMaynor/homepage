@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","tags":["movies"],"created":"2024-06-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Bonnie and Clyde","date created":"2024-06-14","date modified":"2025-03-13","director":"[[Arthur Penn]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/bonnie-and-clyde-1967/","tags":["movies"],"created":"2024-06-14","updated":"2025-03-13","dg-note-properties":{"aliases":"Bonnie and Clyde","date created":"2024-06-14","date modified":"2025-03-13","director":"[[People/Arthur Penn]]","tags":"movies"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Double Indemnity","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Billy Wilder]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/double-indemnity-1944/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Double Indemnity","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Billy Wilder]]","tags":"movies"}}
 ---
 
 

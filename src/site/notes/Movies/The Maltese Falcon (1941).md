@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-maltese-falcon-1941/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Maltese Falcon","date created":"2024-06-18","date modified":"2025-03-13","director":"[[John Huston]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-maltese-falcon-1941/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"The Maltese Falcon","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/John Huston]]","tags":"movies"}}
 ---
 
 

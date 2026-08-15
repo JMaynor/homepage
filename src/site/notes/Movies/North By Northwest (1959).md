@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"North By Northwest","date created":"2024-03-21","date modified":"2025-03-13","director":"[[Alfred Hitchcock]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/north-by-northwest-1959/","tags":["movies"],"created":"2024-03-21","updated":"2025-03-13","dg-note-properties":{"aliases":"North By Northwest","date created":"2024-03-21","date modified":"2025-03-13","director":"[[People/Alfred Hitchcock]]","tags":"movies"}}
 ---
 
 

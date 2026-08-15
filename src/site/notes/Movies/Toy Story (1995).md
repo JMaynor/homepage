@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/toy-story-1995/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"Toy Story","date created":"2025-01-14","date modified":"2025-01-14","director":"[[John Lasseter]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/toy-story-1995/","tags":["movies"],"created":"2025-01-14","updated":"2025-01-14","dg-note-properties":{"aliases":"Toy Story","date created":"2025-01-14","date modified":"2025-01-14","director":"[[People/John Lasseter]]","tags":"movies"}}
 ---
 
 

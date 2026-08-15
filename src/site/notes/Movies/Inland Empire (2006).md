@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/inland-empire-2006/","tags":["movies"],"created":"2024-01-11","updated":"2026-03-23","dg-note-properties":{"aliases":["Inland Empire"],"date created":"2024-01-11","date modified":"2026-03-23","director":"[[David Lynch]]","tags":["movies"]}}
+{"dg-publish":true,"permalink":"/movies/inland-empire-2006/","tags":["movies"],"created":"2024-01-11","updated":"2026-03-23","dg-note-properties":{"aliases":["Inland Empire"],"date created":"2024-01-11","date modified":"2026-03-23","director":"[[People/David Lynch]]","tags":["movies"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/annie-hall-1977/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Annie Hall","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Woody Allen\|Woody Allen]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/annie-hall-1977/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"Annie Hall","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Woody Allen]]","tags":"movies"}}
 ---
 
 
