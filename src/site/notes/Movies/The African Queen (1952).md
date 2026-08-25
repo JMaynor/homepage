@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-african-queen-1952/","tags":["movies"],"created":"2024-02-16","updated":"2025-03-13","dg-note-properties":{"aliases":"The African Queen","date created":"2024-02-16","date modified":"2025-03-13","date started":null,"director":"[[John Huston]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-african-queen-1952/","tags":["movies"],"created":"2024-02-16","updated":"2025-03-13","dg-note-properties":{"aliases":"The African Queen","date created":"2024-02-16","date modified":"2025-03-13","date started":null,"director":"[[People/John Huston]]","tags":"movies"}}
 ---
 
 

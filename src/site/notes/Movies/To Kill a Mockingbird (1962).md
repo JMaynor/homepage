@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/to-kill-a-mockingbird-1962/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"To Kill a Mockingbird","date created":"2024-06-18","date modified":"2025-03-13","director":"[[Robert Mulligan]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/to-kill-a-mockingbird-1962/","tags":["movies"],"created":"2024-06-18","updated":"2025-03-13","dg-note-properties":{"aliases":"To Kill a Mockingbird","date created":"2024-06-18","date modified":"2025-03-13","director":"[[People/Robert Mulligan]]","tags":"movies"}}
 ---
 
 

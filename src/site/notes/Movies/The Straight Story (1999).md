@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-straight-story-1999/","tags":["movies"],"created":"2026-04-03","updated":"2026-04-03","dg-note-properties":{"aliases":["The Straight Story"],"date created":"2026-04-03","date finished":"2026-04-03","date modified":"2026-04-03","director":"[[David Lynch]]","tags":["movies"]}}
+{"dg-publish":true,"permalink":"/movies/the-straight-story-1999/","tags":["movies"],"created":"2026-04-03","updated":"2026-04-03","dg-note-properties":{"aliases":["The Straight Story"],"date created":"2026-04-03","date finished":"2026-04-03","date modified":"2026-04-03","director":"[[People/David Lynch]]","tags":["movies"]}}
 ---
 
 

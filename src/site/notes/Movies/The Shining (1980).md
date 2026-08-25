@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/the-shining-1980/","tags":["movies"],"created":"2024-06-21","updated":"2025-01-14","dg-note-properties":{"aliases":"The Shining","date created":"2024-06-21","date modified":"2025-01-14","director":"[[Stanley Kubrick]]","tags":"movies"}}
+{"dg-publish":true,"permalink":"/movies/the-shining-1980/","tags":["movies"],"created":"2024-06-21","updated":"2025-01-14","dg-note-properties":{"aliases":"The Shining","date created":"2024-06-21","date modified":"2025-01-14","director":"[[People/Stanley Kubrick]]","tags":"movies"}}
 ---
 
 
