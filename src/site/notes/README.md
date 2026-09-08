@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-05-25","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-05-25","tags":["gardenEntry"]}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-09-08","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-09-08","tags":["gardenEntry"]}}
 ---
 
 
@@ -12,6 +12,8 @@
 > [[Tech/Website/Blogroll\|Blogroll]] / [[Tech/Website/Colophon\|Colophon]] / [All Posts Feed](https://jtm.li/feed.xml) / [Blog Posts Feed](https://jtm.li/blogfeed.xml)
 
 # Blog Posts
+
+Random musings and whatnot that don't fit anywhere more specific.
 
 ```base
 filters:
