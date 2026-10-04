@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/nicole-kidman/","created":"2024-03-12","updated":"2024-06-17"}
+{"dg-publish":true,"permalink":"/people/nicole-kidman/","created":"2024-03-12","updated":"2024-06-17","dg-note-properties":{"aliases":null,"date created":"2024-03-12","date modified":"2024-06-17","tags":null}}
 ---
 
 
