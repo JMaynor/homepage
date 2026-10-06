@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-09-08","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-09-08","tags":["gardenEntry"]}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2023-07-05","updated":"2026-10-06","dg-note-properties":{"aliases":[],"date created":"2023-07-05","date modified":"2026-10-06","tags":["gardenEntry"]}}
 ---
 
 
@@ -59,7 +59,7 @@ views:
 
 # Streams
 
-A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered. Start and end dates generally only relate to games with a clear endpoint that were definitively finished. Rather than evergreen games that we come back to. Or if I have some idea of when I first played something.
+A list of games that I've streamed at one point or another on Twitch with TAC. There's a number of other games I've been involved with on the channel, but these are the ones that I myself streamed or at least was strongly involved with in some way. No super-specific criteria, just games I have an opinion on that we've covered.
 
 ```base
 filters:
