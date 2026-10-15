@@ -14,7 +14,7 @@
       ],
       "settings": {
         "provider": "goatcounter",
-        "siteId": "jtm.goatcounter.com",
+        "siteId": "jtm",
         "scriptUrl": ""
       }
     }
