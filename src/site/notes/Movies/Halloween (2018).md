@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movies/halloween-2018/","tags":["movies"],"created":"2026-10-19","updated":"2026-10-19","dg-note-properties":{"aliases":[],"date created":"2026-10-19","date finished":"2026-10-16","date modified":"2026-10-19","director":"[[People/David Gordon Green]]","tags":["movies"]}}
+{"dg-publish":true,"permalink":"/movies/halloween-2018/","tags":["movies"],"created":"2026-10-19","updated":"2026-10-19","dg-note-properties":{"aliases":["Halloween 2018"],"date created":"2026-10-19","date finished":"2026-10-16","date modified":"2026-10-19","director":"[[People/David Gordon Green]]","tags":["movies"]}}
 ---
 
 

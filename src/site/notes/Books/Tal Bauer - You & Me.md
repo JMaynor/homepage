@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/books/tal-bauer-you-and-me/","tags":["books"],"created":"2026-10-18","updated":"2026-10-20","dg-note-properties":{"aliases":["You & Me"],"author":"[[People/Tal Bauer]]","date created":"2026-10-18","date finished":"2026-10-19","date modified":"2026-10-20","date started":"2026-10-18","index":null,"series":null,"tags":["books"]}}
+---
+
+
+# Review
+
+Alright, I gotta get to the bottom of this shit. I want to appear to various esteemed authors like a Samuel L Jackson, recruiting them for a new initiative. I gather them all together in a room, because we need to discuss something. *Why* do romance books get so boring the moment the characters get together?
+
+This has been a repeated theme in like nearly every romance book I have read. Starting to feel endemic to the genre. Even the books that I'm enjoying and think are quite good, the *moment* the couple gets together it gets noticeably worse. One or both of the characters seem to get flatter and lose all personality. All of the flirting and bantering goes away and it's just endless streams of I Love You. Makes me wanna vomit! I'm not looking for a sad ending or anything. I'm wanting these people to get together. But what is this weird memetic effect where once we've done the deed and once we've said the dread L word, everyone decides to become the same dreadful character? I *love* banter, okay. I love it and I will always love it and I just do not understand. Why are these people not becoming *more* comfortable and familiar with each other? They like near-universally stop cracking jokes after the L moment. It just becomes your most stock-standard lovey-dovey whatever mush. Bewildering.
+
+Anyway, after that rant, I did honestly enjoy the writing of this author. Saw him recommended in a stupid subreddit. It was indeed in the higher echelon of romantica that I have read. I thought the framing was interesting. Have read several sports romances over time. Near always, of course, the characters are themselves doing the sporting. Was interesting having the characters be dads that are just around it supporting.
+
+I also support just following one person's point=of-view. Super often romance books will go back and forth between the two characters. This can make things more dynamic, but I think authors are often writing checks they can't cash. I find it rare for the two characters to actually come across as being notably different perspectives. I enjoyed this situation where we just follow one person's perspective. Seemed smart to me. I would've enjoyed delving a little more into what Landon was thinking. For a good portion of the book he thinks this other person is straight, but there's quite a lot of friendly touching. How's that make him feel? We briefly discuss it and move on. But just seems worth getting into. I nearly always would like these books to be longer and cover more. Rare for me. In most other cases, I round down and want to get the scissors out. Dunno. Maybe someday I will find the slow-burn strong-on-banter historical romantic drama that goes in-depth on some characters. Something that is both intriguing intellectually while also being spicy and getting into the good stuff. It's just my heart's desire is all.
+
+Will probably read more from this author.
