@@ -54,6 +54,8 @@ views:
     name: Table
     order:
       - file.name
+      - date started
+      - date finished
 
 ```
 
@@ -67,13 +69,15 @@ filters:
     - file.folder == "Games"
     - note["dg-publish"] == true
     - file.tags.contains("streamed")
-properties:  
-  file.name:  
+properties:
+  file.name:
     displayName: Game
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - date started
+      - date finished
 
 ```
