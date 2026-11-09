@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":[],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
+{"dg-publish":true,"permalink":"/games/we-were-here-2017/","tags":["games","streamed"],"created":"2024-07-23","updated":"2026-11-08","dg-note-properties":{"aliases":["We Were Here"],"date created":"2024-07-23","date finished":"2021-12-06","date modified":"2026-11-08","date started":"2021-11-15","tags":["games","streamed"]}}
 ---
 
 
@@ -12,3 +12,5 @@ One of my favorite coop games I've played. Sam absolutely loved it so much, it's
 Of course, had to move right along to the sequel that I immediately purchased for my Samothy, [[Games/We Were Here Too (2018)\|We Were Here Too (2018)]].
 
 # Links
+
+https://www.youtube.com/watch?v=WRFAfrn6iL4&list=PL0UgLs1BOgQMNxQ4PiS6YDtsUlbMTpZX6

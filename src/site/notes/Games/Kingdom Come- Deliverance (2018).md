@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/kingdom-come-deliverance-2018/","tags":["games","LP"],"created":"2026-01-14","updated":"2026-10-04","dg-note-properties":{"aliases":["Kingdom Come: Deliverance"],"date created":"2026-01-14","date finished":null,"date modified":"2026-10-04","date started":null,"tags":["games","LP"]}}
+{"dg-publish":true,"permalink":"/games/kingdom-come-deliverance-2018/","tags":["games","LP"],"created":"2026-01-14","updated":"2026-11-08","dg-note-properties":{"aliases":["Kingdom Come: Deliverance"],"date created":"2026-01-14","date finished":null,"date modified":"2026-11-08","date started":"2026-10-04","tags":["games","LP"]}}
 ---
 
 

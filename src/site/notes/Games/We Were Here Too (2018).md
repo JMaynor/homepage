@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-too-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":["We Were Here Too"],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
+{"dg-publish":true,"permalink":"/games/we-were-here-too-2018/","tags":["games","streamed"],"created":"2024-07-23","updated":"2026-11-08","dg-note-properties":{"aliases":["We Were Here Too"],"date created":"2024-07-23","date finished":"2021-12-14","date modified":"2026-11-08","date started":"2021-12-06","tags":["games","streamed"]}}
 ---
 
 
@@ -14,3 +14,5 @@ Also aside from the actual core gameplay loop, I love the setting of this series
 Obviously, after such a great time being had by all (Sam loved this one even more than the last), we moved on to [[Games/We Were Here Together (2019)\|We Were Here Together (2019)]].
 
 # Links
+
+https://www.youtube.com/watch?v=WRFAfrn6iL4&list=PL0UgLs1BOgQMNxQ4PiS6YDtsUlbMTpZX6

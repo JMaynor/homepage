@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/suzerain-2020/","tags":["games","streamed"],"created":"2025-07-17","updated":"2026-04-20","dg-note-properties":{"aliases":["Suzerain"],"date created":"2025-07-17","date finished":"2026-04-18","date modified":"2026-04-20","date started":null,"tags":["games","streamed"]}}
+{"dg-publish":true,"permalink":"/games/suzerain-2020/","tags":["games","streamed"],"created":"2025-07-17","updated":"2026-11-08","dg-note-properties":{"aliases":["Suzerain"],"date created":"2025-07-17","date finished":"2026-04-18","date modified":"2026-11-08","date started":"2026-02-28","tags":["games","streamed"]}}
 ---
 
 

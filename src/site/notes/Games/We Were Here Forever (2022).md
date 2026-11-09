@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-forever-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":[],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
+{"dg-publish":true,"permalink":"/games/we-were-here-forever-2022/","tags":["games","streamed"],"created":"2024-07-23","updated":"2026-11-08","dg-note-properties":{"aliases":["We Were Here Forever"],"date created":"2024-07-23","date finished":"2022-10-04","date modified":"2026-11-08","date started":"2022-08-08","tags":["games","streamed"]}}
 ---
 
 
@@ -10,3 +10,5 @@
 The big "finale". (I mean with that ending, surely we're gonna get more right?) I think back to [[Games/We Were Here (2017)\|We Were Here (2017)]] and the stark difference in graphics and overall quality is truly laudable. These folks have done such a great job shaping this franchise into something that can't really be found anywhere else. I have no doubt that others have sprung up in its heels, but this series really tapped into something new with its asymmetric puzzle design. The idea of having a total straight putt with no complications, but splitting that information between two people that have to relay the info to each other makes for great fun and hilarity. Particularly for someone else that is watching both people's perspectives. Sam loves this series.
 
 # Links
+
+https://www.youtube.com/watch?v=WRFAfrn6iL4&list=PL0UgLs1BOgQMNxQ4PiS6YDtsUlbMTpZX6

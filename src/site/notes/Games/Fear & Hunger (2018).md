@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/fear-and-hunger-2018/","tags":["games","LP"],"created":"2026-01-14","updated":"2026-10-04","dg-note-properties":{"aliases":["Fear & Hunger","Fear and Hunger"],"date created":"2026-01-14","date finished":null,"date modified":"2026-10-04","date started":null,"tags":["games","LP"]}}
+{"dg-publish":true,"permalink":"/games/fear-and-hunger-2018/","tags":["games","LP"],"created":"2026-01-14","updated":"2026-11-08","dg-note-properties":{"aliases":["Fear & Hunger","Fear and Hunger"],"date created":"2026-01-14","date finished":null,"date modified":"2026-11-08","date started":"2026-10-05","tags":["games","LP"]}}
 ---
 
 

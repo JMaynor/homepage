@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/we-were-here-together-2019/","tags":["games","streamed"],"created":"2024-07-23","updated":"2025-09-04","dg-note-properties":{"aliases":["We Were Here Together"],"date created":"2024-07-23","date finished":null,"date modified":"2025-09-04","date started":null,"tags":["games","streamed"]}}
+{"dg-publish":true,"permalink":"/games/we-were-here-together-2019/","tags":["games","streamed"],"created":"2024-07-23","updated":"2026-11-08","dg-note-properties":{"aliases":["We Were Here Together"],"date created":"2024-07-23","date finished":"2022-05-01","date modified":"2026-11-08","date started":"2022-03-21","tags":["games","streamed"]}}
 ---
 
 
@@ -14,3 +14,5 @@ Also, I'm really impressed at how much these games have improved with every iter
 Last, but not least we have [[Games/We Were Here Forever (2022)\|We Were Here Forever (2022)]].
 
 # Links
+
+https://www.youtube.com/watch?v=WRFAfrn6iL4&list=PL0UgLs1BOgQMNxQ4PiS6YDtsUlbMTpZX6
