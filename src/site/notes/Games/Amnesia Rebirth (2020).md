@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/amnesia-rebirth-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2025-06-03","dg-note-properties":{"aliases":"Rebirth","date created":"2023-12-08","date finished":"2021-12-13","date modified":"2025-06-03","date started":"2021-09-13","played":true,"tags":["games","LP"]}}
+{"dg-publish":true,"permalink":"/games/amnesia-rebirth-2020/","tags":["games","LP"],"created":"2023-12-08","updated":"2026-11-19","dg-note-properties":{"aliases":["Rebirth"],"date created":"2023-12-08","date finished":"2021-12-13","date modified":"2026-11-19","date started":"2021-09-13","played":true,"tags":["games","LP"]}}
 ---
 
 
@@ -13,7 +13,7 @@ I played and loved the first two Amnesia games and am excited to play Rebirth. I
 
 # Review
 
-Interesting followup to Dark Descent. I played this one before getting around to Machine for Pigs later. I don't think that it was nearly as scary as Dark Descent, but it did have the standout maze sequence with the one guy who's half-transformed and coming after you. Very memorable and good. At the time, I found it quite interesting how much it advanced the plot of the overall series. In hindsight, however, I wonder if it advanced it too much. The series had largely been progressing linearly in time, until Rebirth. Then afterward Bunker went backwards. And I can see why given how this game ends. Wonder if perhaps they somewhat put themselves in a bit of a pickle.
+Interesting followup to [[Games/Amnesia the Dark Descent (2010)\|Dark Descent]]. I played this one before getting around to [[Games/Amnesia A Machine for Pigs (2013)\|Machine for Pigs]] later. I don't think that it was nearly as scary as Dark Descent, but it did have the standout maze sequence with the one guy who's half-transformed and coming after you. Very memorable and good. At the time, I found it quite interesting how much it advanced the plot of the overall series. In hindsight, however, I wonder if it advanced it too much. The series had largely been progressing linearly in time, until Rebirth. Then afterward Bunker went backwards. And I can see why given how this game ends. Wonder if perhaps they somewhat put themselves in a bit of a pickle.
 
 # Links
 

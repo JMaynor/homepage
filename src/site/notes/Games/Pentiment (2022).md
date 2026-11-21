@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["games","LP"],"created":"2023-12-08","updated":"2026-08-24","dg-note-properties":{"aliases":[],"date created":"2023-12-08","date finished":"2023-10-22","date modified":"2026-08-24","date started":"2023-09-20","played":true,"tags":["games","LP"]}}
+{"dg-publish":true,"permalink":"/games/pentiment-2022/","tags":["games","LP"],"created":"2023-12-08","updated":"2026-11-19","dg-note-properties":{"aliases":[],"date created":"2023-12-08","date finished":"2023-10-22","date modified":"2026-11-19","date started":"2023-09-20","played":true,"tags":["games","LP"]}}
 ---
 
 
@@ -10,6 +10,8 @@
 Pentiment is a highly stylized narrative driven adventure RPG developed by Obsidian and released in 2022. It follows Andreas Maler, an artist and illuminator working for an abbey in 16th century Bavaria. You become embroiled in a series of murders and must navigate the changing world around you.
 
 Gorgeous game and as a fan of Obsidian's style of storytelling, I think this has quite the potential to it. The Steam description read off like a list of things that I'm interested in which is always an excellent sign.
+
+Takes place from 1518-1543.
 
 # Review
 

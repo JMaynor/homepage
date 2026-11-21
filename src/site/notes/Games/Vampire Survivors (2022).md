@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/vampire-survivors-2022/","tags":["games"],"created":"2026-06-22","updated":"2026-07-15","dg-note-properties":{"aliases":["Vampire Survivors"],"date created":"2026-06-22","date finished":null,"date modified":"2026-07-15","date started":"2026-06/22","tags":["games"]}}
+{"dg-publish":true,"permalink":"/games/vampire-survivors-2022/","tags":["games"],"created":"2026-06-22","updated":"2026-11-17","dg-note-properties":{"aliases":["Vampire Survivors"],"date created":"2026-06-22","date finished":"2026-07-25","date modified":"2026-11-17","date started":"2026-06-22","tags":["games"]}}
 ---
 
 

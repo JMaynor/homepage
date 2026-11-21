@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tv/squid-game/","created":"2025-07-20","updated":"2025-07-21","dg-note-properties":{"aliases":[],"date created":"2025-07-20","date modified":"2025-07-21","tags":[]}}
+{"dg-publish":true,"permalink":"/tv/squid-game/","created":"2025-07-20","updated":"2026-11-19","dg-note-properties":{"aliases":[],"date created":"2025-07-20","date modified":"2026-11-19","tags":[]}}
 ---
 
+
+# Review
 
 I occasionally like to branch out and watch some stuff from other cultures. I like to see what's out there. I think it's good to see other people's takes on movies and TV that you're not as familiar with. I wouldn't say I always love what I end up watching, but I think it's still a nice thing to occasionally do. The various Netflix shows from other countries tends to be a well I've returned to a couple times when I'm feeling that itch. [[TV/Dark\|Dark]] continues to be the gold standard for that sort of thing. But I did like the first season of Squid Game when I watched it a couple years ago.
 
